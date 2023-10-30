@@ -1,0 +1,13 @@
+uid,title,session,registered_emails,abstract,pdf,video,video2,company,channel_name,channel_url,external_web_link,type
+moises,Moises,Platinum,igor@moises.ai,,,https://www.youtube.com/embed/Elv6p9_MRWg?si=V5-5KLxgu7E_yJVw,https://www.youtube.com/embed/JYTK4o5H9FE?si=1PBYvAQiZSaefM9X,Moises,sponsor-moises,https://slack.com/app_redirect?channel=C062V4KAPCM,https://developer.moises.ai,Booth + communication channel
+yamaha,Yamaha,Gold,yuta.kusaka@music.yamaha.com,,yamaha.pdf,https://drive.google.com/file/d/1c-epNT0Yo3oIsMYYVKSXLkJ23ooNAo0J/preview,,Yamaha,sponsor-yamaha,https://slack.com/app_redirect?channel=C062XUWKHD1,https://www.yamaha.com/en/,Booth + communication channel
+algoriddim,Algoriddim,Gold,federico@algoriddim.com,[Digital Vinyl Control](https://www.algoriddim.com/dvs),,https://www.youtube.com/embed/xw1OA6C_O6k?si=UGZrfoqA3fuBVhXj,,Algoriddm,sponsor-algoriddim,https://slack.com/app_redirect?channel=C062RCSSV8W,https://www.algoriddim.com,Booth + communication channel
+musixmatch,Musixmatch,Gold,francesca.galli@musixmatch.com, [Musixmatch Blog](https://medium.com/musixmatch-blog/tagged/ai),,https://www.youtube.com/embed/CToVgoH2YhU?si=diu0UwWq4cLVe0ez,,Musixmatch,sponsor-musixmatch,https://slack.com/app_redirect?channel=C062HFZ017Z,https://www.musixmatch.com/it,Booth + communication channel
+deezer,Deezer,Gold,sponsor_email,,deezer.pdf,,,Deezer,sponsor-deezer,https://slack.com/app_redirect?channel=C0630FGU0Q4,https://research.deezer.com,Booth + communication channel
+adobe,Adobe,Gold,sponsor_email,,,https://www.youtube.com/embed/c1lzncIhoaU?si=aW7dCckZPwclLzfF,,Adobe,sponsor-adobe,https://slack.com/app_redirect?channel=C0630FH45UL,https://research.adobe.com/,Booth + communication channel
+umusic,UMUSIC,Gold,sponsor_email,,,,,UMUSIC,sponsor-umusic,https://slack.com/app_redirect?channel=C062V4LDFFX,website,Booth + communication channel
+google,Google,Gold,chrisdonahue@google.com,<ul><b>Careers</b> <li><a href="#">https://research.google/careers/</a></li><li><a href="#">https://www.deepmind.com/careers</a></li></ul>,,,,Google,sponsor-google,https://slack.com/app_redirect?channel=C062RCTQFV4,https://research.google,Booth + communication channel
+acrcloudgmbh,ACR Cloud GMBH,Silver,,,,,,ACR Cloud GMBH,sponsor-acrcloudgmbh,https://slack.com/app_redirect?channel=C063FLJMXUZ,https://www.acrcloud.com,Booth
+steinberg, Steinberg,Silver,,,,,,Steinberg,sponsor-steinberg,https://slack.com/app_redirect?channel=C063H90MU1J,https://www.steinberg.net,Booth
+siriusxm,SiriusXM,Silver,,,,,,SiriusXM,,,https://www.siriusxm.com,Booth
+nativeinstruments, Native Instruments,Silver,,,,,,Native Instruments,,,https://www.native-instruments.com/en/,Booth
