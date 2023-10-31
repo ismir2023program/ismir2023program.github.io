@@ -15,10 +15,11 @@
       "channel_url": "",
       "day": "2",
       "keywords": [
-        ""
+        "Knowledge-driven approaches to MIR -> computational ethnomusicology",
+        "MIR fundamentals and methodology -> multimodality"
       ],
-      "long_presentation": "",
-      "paper_presentation": "",
+      "long_presentation": "True",
+      "paper_presentation": "In Person",
       "pdf_path": "https://archives.ismir.net/ismir2023/paper/000001.pdf",
       "poster_pdf": "https://drive.google.com/file/d/1SJX_IvazSTMMezLbKk_2kT-4g3_pSFev/view",
       "session": [
@@ -51,10 +52,15 @@
       "channel_url": "",
       "day": "2",
       "keywords": [
-        ""
+        "MIR tasks -> music transcription and annotation",
+        " Musical features and properties -> representations of music",
+        " Knowledge-driven approaches to MIR -> representations of music",
+        "Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music",
+        " MIR tasks -> pattern matching and detection",
+        " MIR fundamentals and methodology -> music signal processing"
       ],
-      "long_presentation": "",
-      "paper_presentation": "",
+      "long_presentation": "False",
+      "paper_presentation": "In Person",
       "pdf_path": "https://archives.ismir.net/ismir2023/paper/000002.pdf",
       "poster_pdf": "https://drive.google.com/file/d/14jgsYz5Nb8m3OGaiW4RxQe26yi35tyhL/view",
       "session": [
@@ -86,10 +92,12 @@
       "channel_url": "",
       "day": "2",
       "keywords": [
-        ""
+        "Philosophical and ethical discussions -> ethical issues related to designing and implementing MIR tools and technologies",
+        "MIR tasks -> music generation",
+        " Philosophical and ethical discussions -> legal and societal aspects of MIR"
       ],
-      "long_presentation": "",
-      "paper_presentation": "",
+      "long_presentation": "False",
+      "paper_presentation": "In Person",
       "pdf_path": "https://archives.ismir.net/ismir2023/paper/000003.pdf",
       "poster_pdf": "https://drive.google.com/file/d/1UqLBTjYlhPcuEpl676ybWk9Nq0kGb9H8/view",
       "session": [
@@ -120,10 +128,13 @@
       "channel_url": "",
       "day": "2",
       "keywords": [
-        ""
+        "Philosophical and ethical discussions",
+        "Evaluation, datasets, and reproducibility",
+        " Evaluation, datasets, and reproducibility -> evaluation methodology",
+        " Philosophical and ethical discussions -> philosophical and methodological foundations"
       ],
-      "long_presentation": "",
-      "paper_presentation": "",
+      "long_presentation": "False",
+      "paper_presentation": "In Person",
       "pdf_path": "https://archives.ismir.net/ismir2023/paper/000004.pdf",
       "poster_pdf": "https://drive.google.com/file/d/1J9FH9FKTPCGRiRyCMbB_23NdfKI-7JW8/view",
       "session": [
@@ -156,10 +167,11 @@
       "channel_url": "",
       "day": "2",
       "keywords": [
-        ""
+        "Applications -> music retrieval systems",
+        "Musical features and properties -> structure, segmentation, and form"
       ],
-      "long_presentation": "",
-      "paper_presentation": "",
+      "long_presentation": "False",
+      "paper_presentation": "In Person",
       "pdf_path": "https://archives.ismir.net/ismir2023/paper/000005.pdf",
       "poster_pdf": "https://drive.google.com/file/d/1_GZqiSYYzUFfLsvr2L8qPjzZYFQF9Iei/view",
       "session": [
@@ -191,10 +203,15 @@
       "channel_url": "",
       "day": "2",
       "keywords": [
-        ""
+        " Knowledge-driven approaches to MIR -> representations of music",
+        "Musical features and properties -> timbre, instrumentation, and singing voice",
+        " Philosophical and ethical discussions -> philosophical and methodological foundations",
+        " MIR fundamentals and methodology -> music signal processing",
+        " MIR tasks -> automatic classification",
+        "Applications -> music retrieval systems"
       ],
-      "long_presentation": "",
-      "paper_presentation": "",
+      "long_presentation": "False",
+      "paper_presentation": "In Person",
       "pdf_path": "https://archives.ismir.net/ismir2023/paper/000006.pdf",
       "poster_pdf": "",
       "session": [
@@ -226,10 +243,11 @@
       "channel_url": "",
       "day": "2",
       "keywords": [
-        ""
+        "Musical features and properties -> timbre, instrumentation, and singing voice",
+        "Evaluation, datasets, and reproducibility -> novel datasets and use cases"
       ],
-      "long_presentation": "",
-      "paper_presentation": "",
+      "long_presentation": "False",
+      "paper_presentation": "In Person",
       "pdf_path": "https://archives.ismir.net/ismir2023/paper/000007.pdf",
       "poster_pdf": "https://drive.google.com/file/d/1OGexuCofkntBg7wsXCBzB1KLrT30cDXs/view",
       "session": [
@@ -261,10 +279,13 @@
       "channel_url": "",
       "day": "2",
       "keywords": [
-        ""
+        " Philosophical and ethical discussions -> ethical issues related to designing and implementing MIR tools and technologies",
+        " MIR tasks -> music generation",
+        "Applications -> music composition, performance, and production",
+        "Human-centered MIR -> human-computer interaction"
       ],
-      "long_presentation": "",
-      "paper_presentation": "",
+      "long_presentation": "False",
+      "paper_presentation": "In Person",
       "pdf_path": "https://archives.ismir.net/ismir2023/paper/000008.pdf",
       "poster_pdf": "https://drive.google.com/file/d/1lTcgeRKggJmoOSX44-Sg1GrrZ2lurfl6/view",
       "session": [
@@ -297,10 +318,15 @@
       "channel_url": "",
       "day": "2",
       "keywords": [
-        ""
+        " Musical features and properties -> representations of music",
+        "MIR fundamentals and methodology -> symbolic music processing",
+        " Applications -> music retrieval systems",
+        " MIR tasks -> music generation",
+        " MIR tasks -> automatic classification",
+        "Applications -> music composition, performance, and production"
       ],
-      "long_presentation": "",
-      "paper_presentation": "",
+      "long_presentation": "False",
+      "paper_presentation": "In Person",
       "pdf_path": "https://archives.ismir.net/ismir2023/paper/000009.pdf",
       "poster_pdf": "https://drive.google.com/file/d/1t-Odohpt7ZGzGBqbGGJVmXYJtgHfDpY8/view",
       "session": [
@@ -331,10 +357,14 @@
       "channel_url": "",
       "day": "2",
       "keywords": [
-        ""
+        "Applications -> music composition, performance, and production",
+        " Human-centered MIR -> human-computer interaction",
+        "Computational musicology -> mathematical music theory",
+        " Musical features and properties -> rhythm, beat, tempo",
+        " MIR fundamentals and methodology -> symbolic music processing"
       ],
-      "long_presentation": "",
-      "paper_presentation": "",
+      "long_presentation": "False",
+      "paper_presentation": "In Person",
       "pdf_path": "https://archives.ismir.net/ismir2023/paper/000010.pdf",
       "poster_pdf": "https://drive.google.com/file/d/1Ce-lVzeVmR8ZewQV4t9vv0KOzCr-VUDA/view",
       "session": [
@@ -366,10 +396,11 @@
       "channel_url": "",
       "day": "2",
       "keywords": [
-        ""
+        "Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music",
+        "MIR tasks -> optical music recognition"
       ],
-      "long_presentation": "",
-      "paper_presentation": "",
+      "long_presentation": "False",
+      "paper_presentation": "In Person",
       "pdf_path": "https://archives.ismir.net/ismir2023/paper/000011.pdf",
       "poster_pdf": "https://drive.google.com/file/d/1_bVna_LTgc60q8uVuiVBzoM65a1qtWdg/view",
       "session": [
@@ -402,10 +433,12 @@
       "channel_url": "",
       "day": "2",
       "keywords": [
-        ""
+        "Evaluation, datasets, and reproducibility -> novel datasets and use cases",
+        "Musical features and properties -> representations of music",
+        " Musical features and properties -> rhythm, beat, tempo"
       ],
-      "long_presentation": "",
-      "paper_presentation": "",
+      "long_presentation": "False",
+      "paper_presentation": "In Person",
       "pdf_path": "https://archives.ismir.net/ismir2023/paper/000012.pdf",
       "poster_pdf": "https://drive.google.com/file/d/1riEMHjWzUeSl6UDSchFFDwMUa5vLn55O/view",
       "session": [
@@ -437,10 +470,14 @@
       "channel_url": "",
       "day": "2",
       "keywords": [
-        ""
+        " Human-centered MIR -> music interfaces and services",
+        " MIR fundamentals and methodology -> music signal processing",
+        " MIR tasks -> automatic classification",
+        "Human-centered MIR -> human-computer interaction",
+        "Applications -> music composition, performance, and production"
       ],
-      "long_presentation": "",
-      "paper_presentation": "",
+      "long_presentation": "False",
+      "paper_presentation": "In Person",
       "pdf_path": "https://archives.ismir.net/ismir2023/paper/000013.pdf",
       "poster_pdf": "https://drive.google.com/file/d/1Ergs4Ua6t4qmQvxxNk3auyatJkzI4HEn/view?usp=sharing ",
       "session": [
@@ -471,10 +508,13 @@
       "channel_url": "",
       "day": "2",
       "keywords": [
-        ""
+        " Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music",
+        " Human-centered MIR -> music interfaces and services",
+        "Applications -> music composition, performance, and production",
+        "Human-centered MIR -> human-computer interaction"
       ],
-      "long_presentation": "",
-      "paper_presentation": "",
+      "long_presentation": "False",
+      "paper_presentation": "In Person",
       "pdf_path": "https://archives.ismir.net/ismir2023/paper/000014.pdf",
       "poster_pdf": "https://drive.google.com/file/d/14DnHS_JotLJtFvUB75FB358BSX02a6kf/view",
       "session": [
@@ -507,10 +547,13 @@
       "channel_url": "",
       "day": "2",
       "keywords": [
-        ""
+        "MIR and machine learning for musical acoustics",
+        " MIR tasks -> pattern matching and detection",
+        " MIR tasks -> similarity metrics",
+        "MIR and machine learning for musical acoustics -> applications of musical acoustics to signal synthesis"
       ],
-      "long_presentation": "",
-      "paper_presentation": "",
+      "long_presentation": "False",
+      "paper_presentation": "In Person",
       "pdf_path": "https://archives.ismir.net/ismir2023/paper/000015.pdf",
       "poster_pdf": "https://drive.google.com/file/d/1ky9p0XdOSPFVcj4bJBtp-KfoHcYF7g01/view?usp=share_link",
       "session": [
@@ -540,10 +583,15 @@
       "channel_url": "",
       "day": "2",
       "keywords": [
-        ""
+        "Musical features and properties -> rhythm, beat, tempo",
+        " MIR fundamentals and methodology -> music signal processing",
+        " MIR fundamentals and methodology -> symbolic music processing",
+        " MIR tasks -> music generation",
+        " Computational musicology -> mathematical music theory",
+        "Computational musicology"
       ],
-      "long_presentation": "",
-      "paper_presentation": "",
+      "long_presentation": "False",
+      "paper_presentation": "In Person",
       "pdf_path": "https://archives.ismir.net/ismir2023/paper/000016.pdf",
       "poster_pdf": "",
       "session": [
@@ -576,10 +624,15 @@
       "channel_url": "",
       "day": "2",
       "keywords": [
-        ""
+        "Evaluation, datasets, and reproducibility -> novel datasets and use cases",
+        " MIR tasks -> indexing and querying",
+        " MIR tasks -> automatic classification",
+        "Applications -> music retrieval systems",
+        " MIR fundamentals and methodology -> symbolic music processing",
+        " MIR fundamentals and methodology -> multimodality"
       ],
-      "long_presentation": "",
-      "paper_presentation": "",
+      "long_presentation": "True",
+      "paper_presentation": "In Person",
       "pdf_path": "https://archives.ismir.net/ismir2023/paper/000017.pdf",
       "poster_pdf": "https://drive.google.com/file/d/1splCZQofFRIUpAVjijY7oNyIwKrzk8Ao/view?usp=sharing",
       "session": [
@@ -611,10 +664,14 @@
       "channel_url": "",
       "day": "2",
       "keywords": [
-        ""
+        " Musical features and properties -> musical affect, emotion and mood",
+        "Applications -> business and marketing",
+        " Evaluation, datasets, and reproducibility -> novel datasets and use cases",
+        "Knowledge-driven approaches to MIR -> computational music theory and musicology",
+        " MIR tasks -> automatic classification"
       ],
-      "long_presentation": "",
-      "paper_presentation": "",
+      "long_presentation": "False",
+      "paper_presentation": "In Person",
       "pdf_path": "https://archives.ismir.net/ismir2023/paper/000018.pdf",
       "poster_pdf": "https://drive.google.com/file/d/14oC82QCZKHcnJYoG7X0PicHaE_iNhrSv/view",
       "session": [
@@ -648,10 +705,11 @@
       "channel_url": "",
       "day": "2",
       "keywords": [
-        ""
+        "MIR and machine learning for musical acoustics -> applications of machine learning to musical acoustics",
+        "Evaluation, datasets, and reproducibility -> novel datasets and use cases"
       ],
-      "long_presentation": "",
-      "paper_presentation": "",
+      "long_presentation": "False",
+      "paper_presentation": "Virtually",
       "pdf_path": "https://archives.ismir.net/ismir2023/paper/000019.pdf",
       "poster_pdf": "https://drive.google.com/file/d/1_57q-qGsRO9druNfRi3YHndX4LqLll4r/view",
       "session": [
@@ -684,10 +742,11 @@
       "channel_url": "",
       "day": "2",
       "keywords": [
-        ""
+        "",
+        "MIR tasks -> optical music recognition"
       ],
-      "long_presentation": "",
-      "paper_presentation": "",
+      "long_presentation": "False",
+      "paper_presentation": "In Person",
       "pdf_path": "https://archives.ismir.net/ismir2023/paper/000020.pdf",
       "poster_pdf": "https://drive.google.com/file/d/1iqZnqyOnUMX_j5Dr0peH4QVEYHhnODbd/view",
       "session": [
@@ -720,10 +779,14 @@
       "channel_url": "",
       "day": "2",
       "keywords": [
-        ""
+        "MIR and machine learning for musical acoustics",
+        " MIR and machine learning for musical acoustics -> applications of musical acoustics to signal synthesis",
+        " MIR and machine learning for musical acoustics -> applications of machine learning to musical acoustics",
+        " MIR fundamentals and methodology -> music signal processing",
+        "Applications -> music composition, performance, and production"
       ],
-      "long_presentation": "",
-      "paper_presentation": "",
+      "long_presentation": "False",
+      "paper_presentation": "In Person",
       "pdf_path": "https://archives.ismir.net/ismir2023/paper/000021.pdf",
       "poster_pdf": "https://drive.google.com/file/d/1fao-b0_BcWYeBoCyAM5SPrdromGaVKlV/view",
       "session": [
@@ -757,10 +820,13 @@
       "channel_url": "",
       "day": "2",
       "keywords": [
-        ""
+        " Human-centered MIR -> user behavior analysis and mining, user modeling",
+        "Human-centered MIR -> user-centered evaluation",
+        " Knowledge-driven approaches to MIR -> cognitive MIR",
+        "Human-centered MIR -> human-computer interaction"
       ],
-      "long_presentation": "",
-      "paper_presentation": "",
+      "long_presentation": "False",
+      "paper_presentation": "In Person",
       "pdf_path": "https://archives.ismir.net/ismir2023/paper/000022.pdf",
       "poster_pdf": "https://drive.google.com/file/d/1UndCVJ8d5hWou47TfEBwovykn9yq7sQc/view",
       "session": [
@@ -793,10 +859,12 @@
       "channel_url": "",
       "day": "2",
       "keywords": [
-        ""
+        " Musical features and properties -> musical affect, emotion and mood",
+        "MIR fundamentals and methodology -> music signal processing",
+        "MIR tasks -> automatic classification"
       ],
-      "long_presentation": "",
-      "paper_presentation": "",
+      "long_presentation": "False",
+      "paper_presentation": "In Person",
       "pdf_path": "https://archives.ismir.net/ismir2023/paper/000023.pdf",
       "poster_pdf": "https://drive.google.com/file/d/1HgMEA6LvG9R0TJFZAuBAFK7uCemTWkJf/view",
       "session": [
@@ -831,10 +899,11 @@
       "channel_url": "",
       "day": "2",
       "keywords": [
+        "MIR tasks -> music transcription and annotation",
         ""
       ],
-      "long_presentation": "",
-      "paper_presentation": "",
+      "long_presentation": "False",
+      "paper_presentation": "In Person",
       "pdf_path": "https://archives.ismir.net/ismir2023/paper/000024.pdf",
       "poster_pdf": "https://drive.google.com/file/d/1VGhS9fshR57vmR2125mYzNEGbYGFmr49/view",
       "session": [
@@ -867,10 +936,15 @@
       "channel_url": "",
       "day": "2",
       "keywords": [
-        ""
+        "MIR tasks -> music transcription and annotation",
+        " Musical features and properties -> representations of music",
+        " Musical features and properties -> expression and performative aspects of music",
+        " MIR tasks -> alignment, synchronization, and score following",
+        "Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music",
+        " MIR fundamentals and methodology -> music signal processing"
       ],
-      "long_presentation": "",
-      "paper_presentation": "",
+      "long_presentation": "False",
+      "paper_presentation": "In Person",
       "pdf_path": "https://archives.ismir.net/ismir2023/paper/000025.pdf",
       "poster_pdf": "https://drive.google.com/file/d/1KRLWGk5HcUFNG9bYsywrSugL_a8PVh3J/view",
       "session": [
@@ -903,10 +977,13 @@
       "channel_url": "",
       "day": "2",
       "keywords": [
-        ""
+        "Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music",
+        "MIR tasks -> music generation",
+        " Knowledge-driven approaches to MIR -> representations of music",
+        " MIR fundamentals and methodology -> symbolic music processing"
       ],
-      "long_presentation": "",
-      "paper_presentation": "",
+      "long_presentation": "False",
+      "paper_presentation": "In Person",
       "pdf_path": "https://archives.ismir.net/ismir2023/paper/000026.pdf",
       "poster_pdf": "https://drive.google.com/file/d/1LtBs1P-Uf63J208pU7ziT8o5PpmkHfz_/view",
       "session": [
@@ -937,10 +1014,15 @@
       "channel_url": "",
       "day": "2",
       "keywords": [
-        ""
+        "Evaluation, datasets, and reproducibility -> novel datasets and use cases",
+        " Knowledge-driven approaches to MIR -> cognitive MIR",
+        " Musical features and properties -> melody and motives",
+        " Computational musicology -> systematic musicology",
+        " Musical features and properties -> harmony, chords and tonality",
+        "Computational musicology -> digital musicology"
       ],
-      "long_presentation": "",
-      "paper_presentation": "",
+      "long_presentation": "False",
+      "paper_presentation": "In Person",
       "pdf_path": "https://archives.ismir.net/ismir2023/paper/000027.pdf",
       "poster_pdf": "https://drive.google.com/file/d/1Z0vMqYVaW7Hx_nSVl9ZtmYNbiUfJmKd2/view",
       "session": [
@@ -973,10 +1055,11 @@
       "channel_url": "",
       "day": "2",
       "keywords": [
-        ""
+        "Applications",
+        "Applications -> music and health, well-being and therapy"
       ],
-      "long_presentation": "",
-      "paper_presentation": "",
+      "long_presentation": "False",
+      "paper_presentation": "In Person",
       "pdf_path": "https://archives.ismir.net/ismir2023/paper/000028.pdf",
       "poster_pdf": "https://drive.google.com/file/d/1PglOD8-VretOEUQOKD9uBkEvbW_NDwOg/view",
       "session": [
@@ -1008,10 +1091,11 @@
       "channel_url": "",
       "day": "2",
       "keywords": [
-        ""
+        "Musical features and properties -> timbre, instrumentation, and singing voice",
+        "MIR tasks -> music synthesis and transformation"
       ],
-      "long_presentation": "",
-      "paper_presentation": "",
+      "long_presentation": "False",
+      "paper_presentation": "In Person",
       "pdf_path": "https://archives.ismir.net/ismir2023/paper/000029.pdf",
       "poster_pdf": "https://drive.google.com/file/d/1h2BzyHiG6_5k1XCckQO4CnkWleWcmaCI/view",
       "session": [
@@ -1042,10 +1126,13 @@
       "channel_url": "",
       "day": "2",
       "keywords": [
-        ""
+        "Knowledge-driven approaches to MIR -> cognitive MIR",
+        " Musical features and properties -> structure, segmentation, and form",
+        "Human-centered MIR",
+        " MIR fundamentals and methodology -> multimodality"
       ],
-      "long_presentation": "",
-      "paper_presentation": "",
+      "long_presentation": "False",
+      "paper_presentation": "In Person",
       "pdf_path": "https://archives.ismir.net/ismir2023/paper/000030.pdf",
       "poster_pdf": "https://drive.google.com/file/d/1UjDa6qx3fJHgfKkmK5PSzSUfz0Q_90B9/view",
       "session": [
@@ -1075,10 +1162,15 @@
       "channel_url": "",
       "day": "2",
       "keywords": [
-        ""
+        " Computational musicology -> systematic musicology",
+        "Knowledge-driven approaches to MIR -> computational music theory and musicology",
+        " Musical features and properties -> harmony, chords and tonality",
+        " Musical features and properties -> rhythm, beat, tempo",
+        "Computational musicology -> digital musicology",
+        " Computational musicology -> mathematical music theory"
       ],
-      "long_presentation": "",
-      "paper_presentation": "",
+      "long_presentation": "False",
+      "paper_presentation": "In Person",
       "pdf_path": "https://archives.ismir.net/ismir2023/paper/000031.pdf",
       "poster_pdf": "https://drive.google.com/file/d/16cyvIY6D-V582ZckDmzh1A1ZJZY1UioP/view",
       "session": [
@@ -1111,10 +1203,11 @@
       "channel_url": "",
       "day": "3",
       "keywords": [
-        ""
+        "MIR tasks -> pattern matching and detection",
+        "MIR fundamentals and methodology -> symbolic music processing"
       ],
-      "long_presentation": "",
-      "paper_presentation": "",
+      "long_presentation": "True",
+      "paper_presentation": "In Person",
       "pdf_path": "https://archives.ismir.net/ismir2023/paper/000032.pdf",
       "poster_pdf": "https://drive.google.com/file/d/1CIPZH9MrmtumY-M9GTEaTc9lNeyX2IGq/view",
       "session": [
@@ -1146,10 +1239,13 @@
       "channel_url": "",
       "day": "3",
       "keywords": [
-        ""
+        "MIR tasks -> music transcription and annotation",
+        "Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music",
+        " Knowledge-driven approaches to MIR -> representations of music",
+        " MIR tasks -> alignment, synchronization, and score following"
       ],
-      "long_presentation": "",
-      "paper_presentation": "",
+      "long_presentation": "False",
+      "paper_presentation": "In Person",
       "pdf_path": "https://archives.ismir.net/ismir2023/paper/000033.pdf",
       "poster_pdf": "https://drive.google.com/file/d/1lGmk9yrSduurAmTnRTTu-POFNk1QwZC2/view",
       "session": [
@@ -1180,10 +1276,14 @@
       "channel_url": "",
       "day": "3",
       "keywords": [
-        ""
+        " Evaluation, datasets, and reproducibility -> reproducibility",
+        "Evaluation, datasets, and reproducibility",
+        " Musical features and properties -> expression and performative aspects of music",
+        "Evaluation, datasets, and reproducibility -> annotation protocols",
+        " MIR fundamentals and methodology -> symbolic music processing"
       ],
-      "long_presentation": "",
-      "paper_presentation": "",
+      "long_presentation": "False",
+      "paper_presentation": "In Person",
       "pdf_path": "https://archives.ismir.net/ismir2023/paper/000034.pdf",
       "poster_pdf": "https://drive.google.com/file/d/13CtnTbgJlUT0Wz_DtR5x0o4EHEo3DJmk/view",
       "session": [
@@ -1219,10 +1319,13 @@
       "channel_url": "",
       "day": "3",
       "keywords": [
-        ""
+        "MIR and machine learning for musical acoustics -> applications of machine learning to musical acoustics",
+        " MIR fundamentals and methodology -> music signal processing",
+        " MIR tasks -> music generation",
+        "MIR tasks -> music synthesis and transformation"
       ],
-      "long_presentation": "",
-      "paper_presentation": "",
+      "long_presentation": "False",
+      "paper_presentation": "In Person",
       "pdf_path": "https://archives.ismir.net/ismir2023/paper/000035.pdf",
       "poster_pdf": "https://drive.google.com/file/d/1jV46u1KFaKVfBtpPoG-FTR1gAckO7j-c/view",
       "session": [
@@ -1254,10 +1357,13 @@
       "channel_url": "",
       "day": "3",
       "keywords": [
-        ""
+        "Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music",
+        " MIR tasks -> automatic classification",
+        "Knowledge-driven approaches to MIR -> computational ethnomusicology",
+        " MIR fundamentals and methodology -> music signal processing"
       ],
-      "long_presentation": "",
-      "paper_presentation": "",
+      "long_presentation": "False",
+      "paper_presentation": "In Person",
       "pdf_path": "https://archives.ismir.net/ismir2023/paper/000036.pdf",
       "poster_pdf": "https://drive.google.com/file/d/1ALR54HMKN2zggi7c8UaT7U0rxIb26i-E/view",
       "session": [
@@ -1290,10 +1396,14 @@
       "channel_url": "",
       "day": "3",
       "keywords": [
-        ""
+        " Evaluation, datasets, and reproducibility -> evaluation methodology",
+        "MIR tasks -> optical music recognition",
+        " Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music",
+        " Evaluation, datasets, and reproducibility -> annotation protocols",
+        "Applications -> music retrieval systems"
       ],
-      "long_presentation": "",
-      "paper_presentation": "",
+      "long_presentation": "False",
+      "paper_presentation": "In Person",
       "pdf_path": "https://archives.ismir.net/ismir2023/paper/000037.pdf",
       "poster_pdf": "https://drive.google.com/file/d/1eZPZUrFE9AUGQd_bba8ao7-KkZheW6HE/view",
       "session": [
@@ -1323,10 +1433,13 @@
       "channel_url": "",
       "day": "3",
       "keywords": [
-        ""
+        "Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music",
+        " MIR tasks -> music generation",
+        " MIR fundamentals and methodology -> symbolic music processing",
+        "Human-centered MIR -> human-computer interaction"
       ],
-      "long_presentation": "",
-      "paper_presentation": "",
+      "long_presentation": "False",
+      "paper_presentation": "In Person",
       "pdf_path": "https://archives.ismir.net/ismir2023/paper/000038.pdf",
       "poster_pdf": "https://drive.google.com/file/d/1R7ShCQyyIiT004viq1WSHOZGENpn3MdV/view",
       "session": [
@@ -1357,10 +1470,14 @@
       "channel_url": "",
       "day": "3",
       "keywords": [
-        ""
+        " Musical features and properties -> musical affect, emotion and mood",
+        " Knowledge-driven approaches to MIR -> representations of music",
+        " Human-centered MIR -> user-centered evaluation",
+        "Knowledge-driven approaches to MIR -> cognitive MIR",
+        "Human-centered MIR -> personalization"
       ],
-      "long_presentation": "",
-      "paper_presentation": "",
+      "long_presentation": "False",
+      "paper_presentation": "In Person",
       "pdf_path": "https://archives.ismir.net/ismir2023/paper/000039.pdf",
       "poster_pdf": "https://drive.google.com/file/d/1bdzme3wv93SkvLyotfnMp72f8tt2jE-s/view",
       "session": [
@@ -1397,10 +1514,12 @@
       "channel_url": "",
       "day": "3",
       "keywords": [
-        ""
+        "MIR fundamentals and methodology -> lyrics and other textual data",
+        " Evaluation, datasets, and reproducibility -> novel datasets and use cases",
+        "Evaluation, datasets, and reproducibility -> annotation protocols"
       ],
-      "long_presentation": "",
-      "paper_presentation": "",
+      "long_presentation": "False",
+      "paper_presentation": "In Person",
       "pdf_path": "https://archives.ismir.net/ismir2023/paper/000040.pdf",
       "poster_pdf": "https://drive.google.com/file/d/1rx9VXZ4WlFb24S7awWdrD9cStrRUqLZs/view",
       "session": [
@@ -1434,10 +1553,15 @@
       "channel_url": "",
       "day": "3",
       "keywords": [
-        ""
+        " Musical features and properties -> expression and performative aspects of music",
+        " Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music",
+        " Evaluation, datasets, and reproducibility -> novel datasets and use cases",
+        "Applications -> music training and education",
+        " MIR tasks -> automatic classification",
+        "Evaluation, datasets, and reproducibility -> annotation protocols"
       ],
-      "long_presentation": "",
-      "paper_presentation": "",
+      "long_presentation": "False",
+      "paper_presentation": "In Person",
       "pdf_path": "https://archives.ismir.net/ismir2023/paper/000041.pdf",
       "poster_pdf": "https://drive.google.com/file/d/12xO3N28EH6WFOW9NHgPT0BUnuKJUVRdK/view",
       "session": [
@@ -1470,10 +1594,13 @@
       "channel_url": "",
       "day": "3",
       "keywords": [
-        ""
+        " MIR tasks -> music synthesis and transformation",
+        "MIR tasks -> music generation",
+        "Applications -> music composition, performance, and production",
+        " Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music"
       ],
-      "long_presentation": "",
-      "paper_presentation": "",
+      "long_presentation": "False",
+      "paper_presentation": "In Person",
       "pdf_path": "https://archives.ismir.net/ismir2023/paper/000042.pdf",
       "poster_pdf": "https://drive.google.com/file/d/1Bt4nhwqEbz0rlNkKwwv_77wA7ThABDDM/view",
       "session": [
@@ -1503,10 +1630,15 @@
       "channel_url": "",
       "day": "3",
       "keywords": [
-        ""
+        "Human-centered MIR -> music interfaces and services",
+        " Musical features and properties -> expression and performative aspects of music",
+        " MIR tasks -> alignment, synchronization, and score following",
+        " MIR fundamentals and methodology -> music signal processing",
+        "Applications -> music training and education",
+        " MIR fundamentals and methodology -> lyrics and other textual data"
       ],
-      "long_presentation": "",
-      "paper_presentation": "",
+      "long_presentation": "False",
+      "paper_presentation": "In Person",
       "pdf_path": "https://archives.ismir.net/ismir2023/paper/000043.pdf",
       "poster_pdf": "https://drive.google.com/file/d/117YbHrFSD6J4L5i0bxrzfF02jqLJNkMv/view",
       "session": [
@@ -1540,10 +1672,14 @@
       "channel_url": "",
       "day": "3",
       "keywords": [
-        ""
+        " Musical features and properties -> representations of music",
+        "Applications -> music recommendation and playlist generation",
+        " MIR tasks -> similarity metrics",
+        "Applications -> music retrieval systems",
+        " MIR fundamentals and methodology -> multimodality"
       ],
-      "long_presentation": "",
-      "paper_presentation": "",
+      "long_presentation": "False",
+      "paper_presentation": "In Person",
       "pdf_path": "https://archives.ismir.net/ismir2023/paper/000044.pdf",
       "poster_pdf": "https://drive.google.com/file/d/1uiop7gVPLVJrYbGF-v71nbYQBKSMEta2/view",
       "session": [
@@ -1577,10 +1713,14 @@
       "channel_url": "",
       "day": "3",
       "keywords": [
-        ""
+        "Computational musicology -> mathematical music theory",
+        "Computational musicology",
+        " Musical features and properties -> structure, segmentation, and form",
+        " Knowledge-driven approaches to MIR -> computational music theory and musicology",
+        " MIR fundamentals and methodology -> symbolic music processing"
       ],
-      "long_presentation": "",
-      "paper_presentation": "",
+      "long_presentation": "False",
+      "paper_presentation": "In Person",
       "pdf_path": "https://archives.ismir.net/ismir2023/paper/000045.pdf",
       "poster_pdf": "https://drive.google.com/file/d/1g6z6blYSx82jkFjDSXELbDiatLGdIWnC/view",
       "session": [
@@ -1612,10 +1752,15 @@
       "channel_url": "",
       "day": "3",
       "keywords": [
-        ""
+        " Musical features and properties -> harmony, chords and tonality",
+        " MIR tasks -> music generation",
+        "Musical features and properties -> melody and motives",
+        "Computational musicology -> digital musicology",
+        " Knowledge-driven approaches to MIR -> computational music theory and musicology",
+        " Knowledge-driven approaches to MIR -> computational ethnomusicology"
       ],
-      "long_presentation": "",
-      "paper_presentation": "",
+      "long_presentation": "False",
+      "paper_presentation": "In Person",
       "pdf_path": "https://archives.ismir.net/ismir2023/paper/000046.pdf",
       "poster_pdf": "https://drive.google.com/file/d/1fti4fr4-IrECum8xM05AGxKQbzfPEd5H/view",
       "session": [
@@ -1646,10 +1791,12 @@
       "channel_url": "",
       "day": "3",
       "keywords": [
-        ""
+        "MIR fundamentals and methodology -> lyrics and other textual data",
+        " MIR fundamentals and methodology -> web mining, and natural language processing",
+        "MIR fundamentals and methodology -> multimodality"
       ],
-      "long_presentation": "",
-      "paper_presentation": "",
+      "long_presentation": "False",
+      "paper_presentation": "In Person",
       "pdf_path": "https://archives.ismir.net/ismir2023/paper/000047.pdf",
       "poster_pdf": "https://drive.google.com/file/d/1Jg01Ghr0AaE6RPHudgG1cW6zqYC9J_hj/view",
       "session": [
@@ -1682,10 +1829,12 @@
       "channel_url": "",
       "day": "3",
       "keywords": [
-        ""
+        "MIR fundamentals and methodology -> multimodality",
+        " MIR tasks -> automatic classification",
+        "MIR fundamentals and methodology -> metadata, tags, linked data, and semantic web"
       ],
-      "long_presentation": "",
-      "paper_presentation": "",
+      "long_presentation": "True",
+      "paper_presentation": "In Person",
       "pdf_path": "https://archives.ismir.net/ismir2023/paper/000048.pdf",
       "poster_pdf": "",
       "session": [
@@ -1718,10 +1867,14 @@
       "channel_url": "",
       "day": "3",
       "keywords": [
-        ""
+        " Musical features and properties -> representations of music",
+        " Knowledge-driven approaches to MIR -> representations of music",
+        "Musical features and properties -> structure, segmentation, and form",
+        "Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music",
+        " MIR tasks -> pattern matching and detection"
       ],
-      "long_presentation": "",
-      "paper_presentation": "",
+      "long_presentation": "False",
+      "paper_presentation": "In Person",
       "pdf_path": "https://archives.ismir.net/ismir2023/paper/000049.pdf",
       "poster_pdf": "https://drive.google.com/file/d/1u-UNDElMDqS_kKycvYlk-SzGI-pOCQHW/view",
       "session": [
@@ -1753,10 +1906,14 @@
       "channel_url": "",
       "day": "3",
       "keywords": [
-        ""
+        " Musical features and properties -> melody and motives",
+        " Musical features and properties -> structure, segmentation, and form",
+        "MIR fundamentals and methodology -> symbolic music processing",
+        " Musical features and properties -> harmony, chords and tonality",
+        "Computational musicology -> digital musicology"
       ],
-      "long_presentation": "",
-      "paper_presentation": "",
+      "long_presentation": "False",
+      "paper_presentation": "In Person",
       "pdf_path": "https://archives.ismir.net/ismir2023/paper/000050.pdf",
       "poster_pdf": "https://drive.google.com/file/d/1nMXueZAbPiQ7mt4ULaRE4rKCIOc2nqb3/view",
       "session": [
@@ -1789,10 +1946,12 @@
       "channel_url": "",
       "day": "3",
       "keywords": [
-        ""
+        "Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music",
+        " MIR tasks -> music transcription and annotation",
+        "MIR tasks -> alignment, synchronization, and score following"
       ],
-      "long_presentation": "",
-      "paper_presentation": "",
+      "long_presentation": "False",
+      "paper_presentation": "In Person",
       "pdf_path": "https://archives.ismir.net/ismir2023/paper/000051.pdf",
       "poster_pdf": "https://drive.google.com/file/d/1CJoFlJz2D5RNrZGTpc38z21k2hmv8GNw/view",
       "session": [
@@ -1824,10 +1983,13 @@
       "channel_url": "",
       "day": "3",
       "keywords": [
-        ""
+        "Applications -> digital libraries and archives",
+        " Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music",
+        " Musical features and properties -> melody and motives",
+        "Knowledge-driven approaches to MIR -> computational ethnomusicology"
       ],
-      "long_presentation": "",
-      "paper_presentation": "",
+      "long_presentation": "False",
+      "paper_presentation": "In Person",
       "pdf_path": "https://archives.ismir.net/ismir2023/paper/000052.pdf",
       "poster_pdf": "https://drive.google.com/file/d/17T2UdKBXGrBPEkuGEqXvNkIK7ZzyRdtC/view",
       "session": [
@@ -1859,10 +2021,15 @@
       "channel_url": "",
       "day": "3",
       "keywords": [
-        ""
+        "Knowledge-driven approaches to MIR -> representations of music",
+        " MIR tasks -> similarity metrics",
+        "Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music",
+        " MIR tasks -> indexing and querying",
+        " Musical features and properties -> timbre, instrumentation, and singing voice",
+        " MIR tasks -> music synthesis and transformation"
       ],
-      "long_presentation": "",
-      "paper_presentation": "",
+      "long_presentation": "False",
+      "paper_presentation": "In Person",
       "pdf_path": "https://archives.ismir.net/ismir2023/paper/000053.pdf",
       "poster_pdf": "https://drive.google.com/file/d/1B3Wp9yCZoTjOkhRhx831DlTksG2ErIM4/view",
       "session": [
@@ -1898,10 +2065,12 @@
       "channel_url": "",
       "day": "3",
       "keywords": [
-        ""
+        " Musical features and properties -> representations of music",
+        "Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music",
+        "Knowledge-driven approaches to MIR -> representations of music"
       ],
-      "long_presentation": "",
-      "paper_presentation": "",
+      "long_presentation": "False",
+      "paper_presentation": "In Person",
       "pdf_path": "https://archives.ismir.net/ismir2023/paper/000054.pdf",
       "poster_pdf": "https://drive.google.com/file/d/1_LgOUP9QGXuJMS61lIa-LVW3U_SRovOP/view",
       "session": [
@@ -1932,10 +2101,11 @@
       "channel_url": "",
       "day": "3",
       "keywords": [
-        ""
+        "",
+        "Musical features and properties -> rhythm, beat, tempo"
       ],
-      "long_presentation": "",
-      "paper_presentation": "",
+      "long_presentation": "False",
+      "paper_presentation": "In Person",
       "pdf_path": "https://archives.ismir.net/ismir2023/paper/000055.pdf",
       "poster_pdf": "https://drive.google.com/file/d/1hPkF6xVjUmG1Y_yaqI3bZHbbSRSbS6C2/view",
       "session": [
@@ -1968,10 +2138,15 @@
       "channel_url": "",
       "day": "3",
       "keywords": [
-        ""
+        " Musical features and properties -> melody and motives",
+        " Evaluation, datasets, and reproducibility -> novel datasets and use cases",
+        "Computational musicology",
+        " MIR tasks -> pattern matching and detection",
+        "Knowledge-driven approaches to MIR -> computational ethnomusicology",
+        " MIR fundamentals and methodology -> symbolic music processing"
       ],
-      "long_presentation": "",
-      "paper_presentation": "",
+      "long_presentation": "False",
+      "paper_presentation": "In Person",
       "pdf_path": "https://archives.ismir.net/ismir2023/paper/000056.pdf",
       "poster_pdf": "https://drive.google.com/file/d/1KnhvnhEOK0CZFBallZ1QasV1vJyWU3-p/view",
       "session": [
@@ -2002,10 +2177,13 @@
       "channel_url": "",
       "day": "3",
       "keywords": [
-        ""
+        "Human-centered MIR",
+        " Human-centered MIR -> music interfaces and services",
+        " Philosophical and ethical discussions -> ethical issues related to designing and implementing MIR tools and technologies",
+        "Human-centered MIR -> human-computer interaction"
       ],
-      "long_presentation": "",
-      "paper_presentation": "",
+      "long_presentation": "False",
+      "paper_presentation": "In Person",
       "pdf_path": "https://archives.ismir.net/ismir2023/paper/000057.pdf",
       "poster_pdf": "https://drive.google.com/file/d/1eL3Z3KjS4tNX58UGKSDJBmNCJVt3aRrr/view",
       "session": [
@@ -2039,10 +2217,14 @@
       "channel_url": "",
       "day": "3",
       "keywords": [
-        ""
+        " Human-centered MIR -> user behavior analysis and mining, user modeling",
+        "Human-centered MIR -> music interfaces and services",
+        "Applications -> music videos, multimodal music systems",
+        " Human-centered MIR -> human-computer interaction",
+        " MIR fundamentals and methodology -> multimodality"
       ],
-      "long_presentation": "",
-      "paper_presentation": "",
+      "long_presentation": "False",
+      "paper_presentation": "In Person",
       "pdf_path": "https://archives.ismir.net/ismir2023/paper/000058.pdf",
       "poster_pdf": "https://drive.google.com/file/d/1oHJYmdzFIa4qVWUCPl3RqvFNDsIZ2UCC/view",
       "session": [
@@ -2073,10 +2255,12 @@
       "channel_url": "",
       "day": "3",
       "keywords": [
-        ""
+        "Computational musicology -> digital musicology",
+        "Evaluation, datasets, and reproducibility -> novel datasets and use cases",
+        " MIR tasks -> music transcription and annotation"
       ],
-      "long_presentation": "",
-      "paper_presentation": "",
+      "long_presentation": "False",
+      "paper_presentation": "In Person",
       "pdf_path": "https://archives.ismir.net/ismir2023/paper/000059.pdf",
       "poster_pdf": "https://drive.google.com/file/d/1waVg_oTy_OJxKRZ-2X_9ifOnLd2Kk4m9/view",
       "session": [
@@ -2108,10 +2292,13 @@
       "channel_url": "",
       "day": "3",
       "keywords": [
-        ""
+        " MIR fundamentals and methodology -> symbolic music processing",
+        " Musical features and properties",
+        "Knowledge-driven approaches to MIR -> computational music theory and musicology",
+        "MIR tasks -> similarity metrics"
       ],
-      "long_presentation": "",
-      "paper_presentation": "",
+      "long_presentation": "False",
+      "paper_presentation": "In Person",
       "pdf_path": "https://archives.ismir.net/ismir2023/paper/000060.pdf",
       "poster_pdf": "https://drive.google.com/file/d/1Ve5XrBWIIW976IRWGxgCD04HwEDX1MXM/view",
       "session": [
@@ -2144,10 +2331,15 @@
       "channel_url": "",
       "day": "3",
       "keywords": [
-        ""
+        " Evaluation, datasets, and reproducibility -> reproducibility",
+        " Knowledge-driven approaches to MIR -> representations of music",
+        "Applications -> digital libraries and archives",
+        " MIR tasks -> alignment, synchronization, and score following",
+        "Computational musicology -> digital musicology",
+        " Knowledge-driven approaches to MIR -> computational music theory and musicology"
       ],
-      "long_presentation": "",
-      "paper_presentation": "",
+      "long_presentation": "False",
+      "paper_presentation": "In Person",
       "pdf_path": "https://archives.ismir.net/ismir2023/paper/000061.pdf",
       "poster_pdf": "https://drive.google.com/file/d/18IuVXr59wiqy3Qou-zlpV0bHhNQdSLzo/view",
       "session": [
@@ -2179,10 +2371,13 @@
       "channel_url": "",
       "day": "3",
       "keywords": [
-        ""
+        "MIR tasks -> music transcription and annotation",
+        "Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music",
+        " MIR fundamentals and methodology -> symbolic music processing",
+        " MIR fundamentals and methodology -> music signal processing"
       ],
-      "long_presentation": "",
-      "paper_presentation": "",
+      "long_presentation": "False",
+      "paper_presentation": "In Person",
       "pdf_path": "https://archives.ismir.net/ismir2023/paper/000062.pdf",
       "poster_pdf": "https://drive.google.com/file/d/1nfV8jdToJLq9AjSHgV9299rCC7OtF3YC/view",
       "session": [
@@ -2215,10 +2410,12 @@
       "channel_url": "",
       "day": "4",
       "keywords": [
-        ""
+        "Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music",
+        "MIR fundamentals and methodology -> music signal processing",
+        " MIR tasks -> music transcription and annotation"
       ],
-      "long_presentation": "",
-      "paper_presentation": "",
+      "long_presentation": "True",
+      "paper_presentation": "In Person",
       "pdf_path": "https://archives.ismir.net/ismir2023/paper/000063.pdf",
       "poster_pdf": "https://drive.google.com/file/d/1E38ECBFAzVt-Z1hvSyPoZb4TIShie6Yy/view",
       "session": [
@@ -2250,10 +2447,13 @@
       "channel_url": "",
       "day": "4",
       "keywords": [
-        ""
+        " Human-centered MIR -> human-computer interaction",
+        " Human-centered MIR -> user-centered evaluation",
+        "Philosophical and ethical discussions",
+        "Computational musicology"
       ],
-      "long_presentation": "",
-      "paper_presentation": "",
+      "long_presentation": "False",
+      "paper_presentation": "In Person",
       "pdf_path": "https://archives.ismir.net/ismir2023/paper/000064.pdf",
       "poster_pdf": "https://drive.google.com/file/d/1LeZsFax_jlsd1IS8-wmjaOhkaYhr9KlC/view",
       "session": [
@@ -2286,10 +2486,13 @@
       "channel_url": "",
       "day": "4",
       "keywords": [
-        ""
+        " Musical features and properties -> timbre, instrumentation, and singing voice",
+        " Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music",
+        "Knowledge-driven approaches to MIR -> computational ethnomusicology",
+        "MIR tasks -> sound source separation"
       ],
-      "long_presentation": "",
-      "paper_presentation": "",
+      "long_presentation": "False",
+      "paper_presentation": "In Person",
       "pdf_path": "https://archives.ismir.net/ismir2023/paper/000065.pdf",
       "poster_pdf": "https://drive.google.com/file/d/1_ANxPnfRtsoefXwSSdezWmwiY54AQx0P/view",
       "session": [
@@ -2321,10 +2524,11 @@
       "channel_url": "",
       "day": "4",
       "keywords": [
-        ""
+        "",
+        "Human-centered MIR"
       ],
-      "long_presentation": "",
-      "paper_presentation": "",
+      "long_presentation": "False",
+      "paper_presentation": "In Person",
       "pdf_path": "https://archives.ismir.net/ismir2023/paper/000066.pdf",
       "poster_pdf": "https://drive.google.com/file/d/1B9kmqixemKtVnFleUFKGTboodh8t2FFr/view",
       "session": [
@@ -2357,10 +2561,13 @@
       "channel_url": "",
       "day": "4",
       "keywords": [
-        ""
+        "Computational musicology -> digital musicology",
+        " Knowledge-driven approaches to MIR -> computational music theory and musicology",
+        "Applications -> digital libraries and archives",
+        " Knowledge-driven approaches to MIR -> computational ethnomusicology"
       ],
-      "long_presentation": "",
-      "paper_presentation": "",
+      "long_presentation": "False",
+      "paper_presentation": "In Person",
       "pdf_path": "https://archives.ismir.net/ismir2023/paper/000067.pdf",
       "poster_pdf": "https://drive.google.com/file/d/1njr07WsSeq2iWcgYfvi2NwhY5aE-RDkt/view",
       "session": [
@@ -2391,10 +2598,14 @@
       "channel_url": "",
       "day": "4",
       "keywords": [
-        ""
+        " Musical features and properties -> representations of music",
+        " Knowledge-driven approaches to MIR -> representations of music",
+        "Knowledge-driven approaches to MIR",
+        "Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music",
+        " MIR tasks -> automatic classification"
       ],
-      "long_presentation": "",
-      "paper_presentation": "",
+      "long_presentation": "False",
+      "paper_presentation": "In Person",
       "pdf_path": "https://archives.ismir.net/ismir2023/paper/000068.pdf",
       "poster_pdf": "https://drive.google.com/file/d/1jDmXNpEtDnYx13zWdgBWZxFv07--79Xw/view",
       "session": [
@@ -2425,10 +2636,14 @@
       "channel_url": "",
       "day": "4",
       "keywords": [
-        ""
+        " Musical features and properties -> representations of music",
+        " MIR tasks -> alignment, synchronization, and score following",
+        "Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music",
+        "Musical features and properties -> expression and performative aspects of music",
+        " MIR fundamentals and methodology -> symbolic music processing"
       ],
-      "long_presentation": "",
-      "paper_presentation": "",
+      "long_presentation": "False",
+      "paper_presentation": "In Person",
       "pdf_path": "https://archives.ismir.net/ismir2023/paper/000069.pdf",
       "poster_pdf": "https://drive.google.com/file/d/13j1Zkl2_WFOTKRA-WgzOy_2G3UII5ipa/view",
       "session": [
@@ -2459,10 +2674,12 @@
       "channel_url": "",
       "day": "4",
       "keywords": [
-        ""
+        "Musical features and properties -> harmony, chords and tonality",
+        "Knowledge-driven approaches to MIR -> computational music theory and musicology",
+        " MIR fundamentals and methodology -> symbolic music processing"
       ],
-      "long_presentation": "",
-      "paper_presentation": "",
+      "long_presentation": "False",
+      "paper_presentation": "In Person",
       "pdf_path": "https://archives.ismir.net/ismir2023/paper/000070.pdf",
       "poster_pdf": "https://drive.google.com/file/d/16X_gLqPUC64Oi48kfzaSCe0MErT9aY5h/view",
       "session": [
@@ -2494,10 +2711,14 @@
       "channel_url": "",
       "day": "4",
       "keywords": [
-        ""
+        "Applications -> digital libraries and archives",
+        " MIR fundamentals and methodology -> metadata, tags, linked data, and semantic web",
+        " Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music",
+        "Human-centered MIR -> user-centered evaluation",
+        " MIR fundamentals and methodology -> multimodality"
       ],
-      "long_presentation": "",
-      "paper_presentation": "",
+      "long_presentation": "False",
+      "paper_presentation": "In Person",
       "pdf_path": "https://archives.ismir.net/ismir2023/paper/000071.pdf",
       "poster_pdf": "https://drive.google.com/file/d/11bJaG1XGVRnokhKwaR47howB-BdQakK_/view",
       "session": [
@@ -2529,10 +2750,15 @@
       "channel_url": "",
       "day": "4",
       "keywords": [
-        ""
+        " MIR tasks -> sound source separation",
+        " Human-centered MIR -> music interfaces and services",
+        " MIR tasks -> music transcription and annotation",
+        " Musical features and properties -> timbre, instrumentation, and singing voice",
+        "Human-centered MIR -> human-computer interaction",
+        "Human-centered MIR"
       ],
-      "long_presentation": "",
-      "paper_presentation": "",
+      "long_presentation": "False",
+      "paper_presentation": "In Person",
       "pdf_path": "https://archives.ismir.net/ismir2023/paper/000072.pdf",
       "poster_pdf": "https://drive.google.com/file/d/1FzPdsSh7yjCQQ6JPZHd0ZSlK_ue6tfjb/view",
       "session": [
@@ -2565,10 +2791,12 @@
       "channel_url": "",
       "day": "4",
       "keywords": [
-        ""
+        " MIR tasks -> sound source separation",
+        "Evaluation, datasets, and reproducibility",
+        "Evaluation, datasets, and reproducibility -> novel datasets and use cases"
       ],
-      "long_presentation": "",
-      "paper_presentation": "",
+      "long_presentation": "False",
+      "paper_presentation": "In Person",
       "pdf_path": "https://archives.ismir.net/ismir2023/paper/000073.pdf",
       "poster_pdf": "https://drive.google.com/file/d/1x1nTGSfK6jUcphVYGlgKgXXVZAmsKItX/view",
       "session": [
@@ -2600,10 +2828,14 @@
       "channel_url": "",
       "day": "4",
       "keywords": [
-        ""
+        "Knowledge-driven approaches to MIR -> representations of music",
+        " Musical features and properties -> structure, segmentation, and form",
+        " Musical features and properties -> harmony, chords and tonality",
+        " Knowledge-driven approaches to MIR -> computational music theory and musicology",
+        "Computational musicology"
       ],
-      "long_presentation": "",
-      "paper_presentation": "",
+      "long_presentation": "False",
+      "paper_presentation": "In Person",
       "pdf_path": "https://archives.ismir.net/ismir2023/paper/000074.pdf",
       "poster_pdf": "https://drive.google.com/file/d/1MnOQegGQp3oL4vayaPQrNvkGMMfmjf7e/view",
       "session": [
@@ -2633,10 +2865,11 @@
       "channel_url": "",
       "day": "4",
       "keywords": [
-        ""
+        "MIR fundamentals and methodology -> symbolic music processing",
+        "MIR tasks -> alignment, synchronization, and score following"
       ],
-      "long_presentation": "",
-      "paper_presentation": "",
+      "long_presentation": "False",
+      "paper_presentation": "In Person",
       "pdf_path": "https://archives.ismir.net/ismir2023/paper/000075.pdf",
       "poster_pdf": "https://drive.google.com/file/d/1g3T20qaG1EU4Py-guad-sUdCr4Tkd14s/view",
       "session": [
@@ -2671,10 +2904,11 @@
       "channel_url": "",
       "day": "4",
       "keywords": [
-        ""
+        "MIR tasks -> music generation",
+        "MIR tasks -> music synthesis and transformation"
       ],
-      "long_presentation": "",
-      "paper_presentation": "",
+      "long_presentation": "False",
+      "paper_presentation": "In Person",
       "pdf_path": "https://archives.ismir.net/ismir2023/paper/000076.pdf",
       "poster_pdf": "",
       "session": [
@@ -2709,10 +2943,13 @@
       "channel_url": "",
       "day": "4",
       "keywords": [
-        ""
+        " MIR tasks -> indexing and querying",
+        "Evaluation, datasets, and reproducibility -> novel datasets and use cases",
+        "Applications -> music retrieval systems",
+        " MIR tasks -> fingerprinting"
       ],
-      "long_presentation": "",
-      "paper_presentation": "",
+      "long_presentation": "False",
+      "paper_presentation": "In Person",
       "pdf_path": "https://archives.ismir.net/ismir2023/paper/000077.pdf",
       "poster_pdf": "https://drive.google.com/file/d/10HbIvg_hiwfZmJB1HVd-v8MI-yOLmF-2/view",
       "session": [
@@ -2745,10 +2982,12 @@
       "channel_url": "",
       "day": "4",
       "keywords": [
-        ""
+        " MIR tasks -> automatic classification",
+        "MIR fundamentals and methodology -> music signal processing",
+        "Musical features and properties -> melody and motives"
       ],
-      "long_presentation": "",
-      "paper_presentation": "",
+      "long_presentation": "False",
+      "paper_presentation": "In Person",
       "pdf_path": "https://archives.ismir.net/ismir2023/paper/000078.pdf",
       "poster_pdf": "https://drive.google.com/file/d/15HMp76uOrrL_9hjVj0PTJpPPbNL6r8QI/view",
       "session": [
@@ -2779,10 +3018,13 @@
       "channel_url": "",
       "day": "4",
       "keywords": [
-        ""
+        "Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music",
+        " MIR fundamentals and methodology -> music signal processing",
+        " Musical features and properties -> timbre, instrumentation, and singing voice",
+        "MIR tasks -> music synthesis and transformation"
       ],
-      "long_presentation": "",
-      "paper_presentation": "",
+      "long_presentation": "True",
+      "paper_presentation": "In Person",
       "pdf_path": "https://archives.ismir.net/ismir2023/paper/000079.pdf",
       "poster_pdf": "https://drive.google.com/file/d/1gZIPuuU2QzKivJaIGpM2Uh2mgBND_ia6/view",
       "session": [
@@ -2814,10 +3056,12 @@
       "channel_url": "",
       "day": "4",
       "keywords": [
-        ""
+        "Musical features and properties",
+        "Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music",
+        " Musical features and properties -> harmony, chords and tonality"
       ],
-      "long_presentation": "",
-      "paper_presentation": "",
+      "long_presentation": "False",
+      "paper_presentation": "In Person",
       "pdf_path": "https://archives.ismir.net/ismir2023/paper/000080.pdf",
       "poster_pdf": "https://drive.google.com/file/d/1liWu_WqHV8vPR3aXWKvKpWeXsHIpWcG7/view",
       "session": [
@@ -2850,10 +3094,15 @@
       "channel_url": "",
       "day": "4",
       "keywords": [
-        ""
+        "Evaluation, datasets, and reproducibility -> novel datasets and use cases",
+        "Musical features and properties -> timbre, instrumentation, and singing voice",
+        " Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music",
+        " MIR and machine learning for musical acoustics -> applications of machine learning to musical acoustics",
+        " MIR fundamentals and methodology -> music signal processing",
+        " MIR tasks -> automatic classification"
       ],
-      "long_presentation": "",
-      "paper_presentation": "",
+      "long_presentation": "False",
+      "paper_presentation": "In Person",
       "pdf_path": "https://archives.ismir.net/ismir2023/paper/000081.pdf",
       "poster_pdf": "https://drive.google.com/file/d/1yO2gg3CZlQDiddv2qQVZQLPXz2S9bDSm/view",
       "session": [
@@ -2885,10 +3134,12 @@
       "channel_url": "",
       "day": "4",
       "keywords": [
-        ""
+        "MIR tasks -> pattern matching and detection",
+        "Musical features and properties -> structure, segmentation, and form",
+        " MIR tasks -> similarity metrics"
       ],
-      "long_presentation": "",
-      "paper_presentation": "",
+      "long_presentation": "False",
+      "paper_presentation": "In Person",
       "pdf_path": "https://archives.ismir.net/ismir2023/paper/000082.pdf",
       "poster_pdf": "https://drive.google.com/file/d/1w8dCKsqJcsnqocFs_85czyjyKre-gtkJ/view",
       "session": [
@@ -2919,10 +3170,14 @@
       "channel_url": "",
       "day": "4",
       "keywords": [
-        ""
+        " Musical features and properties -> representations of music",
+        "Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music",
+        " MIR tasks -> indexing and querying",
+        "Applications -> music retrieval systems",
+        " MIR fundamentals and methodology -> multimodality"
       ],
-      "long_presentation": "",
-      "paper_presentation": "",
+      "long_presentation": "False",
+      "paper_presentation": "In Person",
       "pdf_path": "https://archives.ismir.net/ismir2023/paper/000083.pdf",
       "poster_pdf": "https://drive.google.com/file/d/1QIE1bFNqCEFL-192lQhDfRS17Zd4wzym/view",
       "session": [
@@ -2955,10 +3210,12 @@
       "channel_url": "",
       "day": "4",
       "keywords": [
-        ""
+        " Applications -> music training and education",
+        "Applications",
+        "Applications -> digital libraries and archives"
       ],
-      "long_presentation": "",
-      "paper_presentation": "",
+      "long_presentation": "False",
+      "paper_presentation": "In Person",
       "pdf_path": "https://archives.ismir.net/ismir2023/paper/000084.pdf",
       "poster_pdf": "https://drive.google.com/file/d/1H8IC8Nh5hP1n4RMFKRI_J9sE9-oe50QB/view",
       "session": [
@@ -2991,10 +3248,12 @@
       "channel_url": "",
       "day": "4",
       "keywords": [
-        ""
+        " MIR tasks -> sound source separation",
+        "MIR tasks -> automatic classification",
+        "Evaluation, datasets, and reproducibility -> annotation protocols"
       ],
-      "long_presentation": "",
-      "paper_presentation": "",
+      "long_presentation": "False",
+      "paper_presentation": "In Person",
       "pdf_path": "https://archives.ismir.net/ismir2023/paper/000085.pdf",
       "poster_pdf": "https://drive.google.com/file/d/139i9K8i6jx5hs0D6oPwD9gUUuN4XEzpz/view",
       "session": [
@@ -3028,10 +3287,15 @@
       "channel_url": "",
       "day": "4",
       "keywords": [
-        ""
+        "Evaluation, datasets, and reproducibility -> novel datasets and use cases",
+        " Human-centered MIR -> user-centered evaluation",
+        " Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music",
+        " Evaluation, datasets, and reproducibility -> annotation protocols",
+        " Musical features and properties -> harmony, chords and tonality",
+        "Applications -> music training and education"
       ],
-      "long_presentation": "",
-      "paper_presentation": "",
+      "long_presentation": "False",
+      "paper_presentation": "In Person",
       "pdf_path": "https://archives.ismir.net/ismir2023/paper/000086.pdf",
       "poster_pdf": "https://drive.google.com/file/d/1j6TJUBrSyiQT7LYqGqFbvxxcEKLHF9Ua/view",
       "session": [
@@ -3063,10 +3327,11 @@
       "channel_url": "",
       "day": "4",
       "keywords": [
-        ""
+        "MIR fundamentals and methodology -> music signal processing",
+        "MIR tasks -> alignment, synchronization, and score following"
       ],
-      "long_presentation": "",
-      "paper_presentation": "",
+      "long_presentation": "False",
+      "paper_presentation": "In Person",
       "pdf_path": "https://archives.ismir.net/ismir2023/paper/000087.pdf",
       "poster_pdf": "https://drive.google.com/file/d/1qNpxCnv167R5lwPIetpbOveI_VK3QKsh/view",
       "session": [
@@ -3098,10 +3363,13 @@
       "channel_url": "",
       "day": "4",
       "keywords": [
-        ""
+        " MIR fundamentals and methodology -> symbolic music processing",
+        "Knowledge-driven approaches to MIR",
+        "Applications -> music composition, performance, and production",
+        " Musical features and properties -> expression and performative aspects of music"
       ],
-      "long_presentation": "",
-      "paper_presentation": "",
+      "long_presentation": "False",
+      "paper_presentation": "In Person",
       "pdf_path": "https://archives.ismir.net/ismir2023/paper/000088.pdf",
       "poster_pdf": "https://drive.google.com/file/d/1K3KRVVWiVIuj59AeMspoHofr2mAQUCFa/view",
       "session": [
@@ -3131,10 +3399,11 @@
       "channel_url": "",
       "day": "4",
       "keywords": [
-        ""
+        "Musical features and properties -> structure, segmentation, and form",
+        "MIR fundamentals and methodology -> music signal processing"
       ],
-      "long_presentation": "",
-      "paper_presentation": "",
+      "long_presentation": "False",
+      "paper_presentation": "In Person",
       "pdf_path": "https://archives.ismir.net/ismir2023/paper/000089.pdf",
       "poster_pdf": "https://drive.google.com/file/d/121wH3eycz4zZ9mNNgiw8YeOnAsGmPnAe/view",
       "session": [
@@ -3167,10 +3436,13 @@
       "channel_url": "",
       "day": "4",
       "keywords": [
-        ""
+        "MIR fundamentals and methodology -> symbolic music processing",
+        "Musical features and properties -> representations of music",
+        " Musical features and properties -> harmony, chords and tonality",
+        " MIR tasks -> similarity metrics"
       ],
-      "long_presentation": "",
-      "paper_presentation": "",
+      "long_presentation": "False",
+      "paper_presentation": "In Person",
       "pdf_path": "https://archives.ismir.net/ismir2023/paper/000090.pdf",
       "poster_pdf": "https://drive.google.com/file/d/1ciE5bkv_nwm_kw_WaV6GLaqgN3gPT1JG/view",
       "session": [
@@ -3204,10 +3476,11 @@
       "channel_url": "",
       "day": "4",
       "keywords": [
-        ""
+        "Evaluation, datasets, and reproducibility",
+        "Evaluation, datasets, and reproducibility -> novel datasets and use cases"
       ],
-      "long_presentation": "",
-      "paper_presentation": "",
+      "long_presentation": "False",
+      "paper_presentation": "In Person",
       "pdf_path": "https://archives.ismir.net/ismir2023/paper/000091.pdf",
       "poster_pdf": "",
       "session": [
@@ -3240,10 +3513,15 @@
       "channel_url": "",
       "day": "4",
       "keywords": [
-        ""
+        "MIR fundamentals and methodology -> lyrics and other textual data",
+        " Evaluation, datasets, and reproducibility -> evaluation methodology",
+        " Evaluation, datasets, and reproducibility",
+        " MIR fundamentals and methodology -> web mining, and natural language processing",
+        "Computational musicology",
+        " Evaluation, datasets, and reproducibility -> evaluation metrics"
       ],
-      "long_presentation": "",
-      "paper_presentation": "",
+      "long_presentation": "False",
+      "paper_presentation": "In Person",
       "pdf_path": "https://archives.ismir.net/ismir2023/paper/000092.pdf",
       "poster_pdf": "https://drive.google.com/file/d/13EbuMQL3bXnAMgI9Rjm37m0_u4Npg8VC/view",
       "session": [
@@ -3275,10 +3553,11 @@
       "channel_url": "",
       "day": "4",
       "keywords": [
-        ""
+        "Human-centered MIR -> music interfaces and services",
+        "Human-centered MIR -> human-computer interaction"
       ],
-      "long_presentation": "",
-      "paper_presentation": "",
+      "long_presentation": "False",
+      "paper_presentation": "In Person",
       "pdf_path": "https://archives.ismir.net/ismir2023/paper/000093.pdf",
       "poster_pdf": "https://drive.google.com/file/d/1D_S3hsdk6Gd_ypaU1QNEIZUYZ5J1F-nn/view",
       "session": [
@@ -3314,10 +3593,14 @@
       "channel_url": "",
       "day": "5",
       "keywords": [
-        ""
+        " Human-centered MIR -> music interfaces and services",
+        "Applications -> digital libraries and archives",
+        " MIR fundamentals and methodology -> metadata, tags, linked data, and semantic web",
+        " Evaluation, datasets, and reproducibility -> annotation protocols",
+        "Computational musicology -> digital musicology"
       ],
-      "long_presentation": "",
-      "paper_presentation": "",
+      "long_presentation": "False",
+      "paper_presentation": "In Person",
       "pdf_path": "https://archives.ismir.net/ismir2023/paper/000094.pdf",
       "poster_pdf": "https://drive.google.com/file/d/1SfhuAl2LxICb6Tqh9VHB4MhrkLYy7LXZ/view",
       "session": [
@@ -3351,10 +3634,15 @@
       "channel_url": "",
       "day": "5",
       "keywords": [
-        ""
+        " Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music",
+        "Computational musicology -> systematic musicology",
+        "Computational musicology",
+        " Musical features and properties",
+        " Knowledge-driven approaches to MIR -> computational music theory and musicology",
+        " MIR fundamentals and methodology -> symbolic music processing"
       ],
-      "long_presentation": "",
-      "paper_presentation": "",
+      "long_presentation": "False",
+      "paper_presentation": "In Person",
       "pdf_path": "https://archives.ismir.net/ismir2023/paper/000095.pdf",
       "poster_pdf": "https://drive.google.com/file/d/1pMp8Jvp4vA8rIN2SrAmF8-9sXIpOnGiO/view",
       "session": [
@@ -3386,10 +3674,15 @@
       "channel_url": "",
       "day": "5",
       "keywords": [
-        ""
+        " Musical features and properties -> melody and motives",
+        "Applications -> music composition, performance, and production",
+        " Musical features and properties -> structure, segmentation, and form",
+        " MIR tasks -> music synthesis and transformation",
+        "MIR tasks -> music generation",
+        " MIR fundamentals and methodology -> symbolic music processing"
       ],
-      "long_presentation": "",
-      "paper_presentation": "",
+      "long_presentation": "False",
+      "paper_presentation": "In Person",
       "pdf_path": "https://archives.ismir.net/ismir2023/paper/000096.pdf",
       "poster_pdf": "https://drive.google.com/file/d/1_ZolJIkB1I7G0S5K_-DsqR7_-9MnWtfa/view",
       "session": [
@@ -3421,10 +3714,15 @@
       "channel_url": "",
       "day": "5",
       "keywords": [
-        ""
+        " Human-centered MIR -> user behavior analysis and mining, user modeling",
+        "Evaluation, datasets, and reproducibility -> novel datasets and use cases",
+        " Musical features and properties -> expression and performative aspects of music",
+        " MIR fundamentals and methodology -> metadata, tags, linked data, and semantic web",
+        "Evaluation, datasets, and reproducibility -> evaluation metrics",
+        " Knowledge-driven approaches to MIR -> computational ethnomusicology"
       ],
-      "long_presentation": "",
-      "paper_presentation": "",
+      "long_presentation": "False",
+      "paper_presentation": "In Person",
       "pdf_path": "https://archives.ismir.net/ismir2023/paper/000097.pdf",
       "poster_pdf": "",
       "session": [
@@ -3456,10 +3754,15 @@
       "channel_url": "",
       "day": "5",
       "keywords": [
-        ""
+        " Musical features and properties -> musical affect, emotion and mood",
+        " Musical features and properties -> musical style and genre",
+        "Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music",
+        " MIR tasks -> automatic classification",
+        " Musical features and properties -> timbre, instrumentation, and singing voice",
+        "Musical features and properties -> representations of music"
       ],
-      "long_presentation": "",
-      "paper_presentation": "",
+      "long_presentation": "False",
+      "paper_presentation": "In Person",
       "pdf_path": "https://archives.ismir.net/ismir2023/paper/000098.pdf",
       "poster_pdf": "https://drive.google.com/file/d/1RSGNN1xzfXuzyjHy1ZIkWmUWF8qOS-Ml/view",
       "session": [
@@ -3491,10 +3794,13 @@
       "channel_url": "",
       "day": "5",
       "keywords": [
-        ""
+        " Musical features and properties -> representations of music",
+        "Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music",
+        " Musical features and properties -> timbre, instrumentation, and singing voice",
+        "MIR tasks -> similarity metrics"
       ],
-      "long_presentation": "",
-      "paper_presentation": "",
+      "long_presentation": "False",
+      "paper_presentation": "In Person",
       "pdf_path": "https://archives.ismir.net/ismir2023/paper/000099.pdf",
       "poster_pdf": "https://drive.google.com/file/d/116v-81IMZNYlMz551ahs-D7xmnKdCvkn/view",
       "session": [
@@ -3525,10 +3831,11 @@
       "channel_url": "",
       "day": "5",
       "keywords": [
-        ""
+        "MIR fundamentals and methodology -> music signal processing",
+        "MIR tasks -> sound source separation"
       ],
-      "long_presentation": "",
-      "paper_presentation": "",
+      "long_presentation": "False",
+      "paper_presentation": "In Person",
       "pdf_path": "https://archives.ismir.net/ismir2023/paper/000100.pdf",
       "poster_pdf": "https://drive.google.com/file/d/1pVSndiIoUYLscD295HxipgYLpldiJ56i/view",
       "session": [
@@ -3562,10 +3869,15 @@
       "channel_url": "",
       "day": "5",
       "keywords": [
-        ""
+        " Musical features and properties -> representations of music",
+        " Knowledge-driven approaches to MIR -> representations of music",
+        " Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music",
+        "MIR fundamentals and methodology -> symbolic music processing",
+        "Evaluation, datasets, and reproducibility -> evaluation methodology",
+        " MIR tasks -> automatic classification"
       ],
-      "long_presentation": "",
-      "paper_presentation": "",
+      "long_presentation": "False",
+      "paper_presentation": "In Person",
       "pdf_path": "https://archives.ismir.net/ismir2023/paper/000101.pdf",
       "poster_pdf": "",
       "session": [
@@ -3599,10 +3911,12 @@
       "channel_url": "",
       "day": "5",
       "keywords": [
-        ""
+        " Knowledge-driven approaches to MIR -> representations of music",
+        "Applications -> digital libraries and archives",
+        "MIR fundamentals and methodology -> metadata, tags, linked data, and semantic web"
       ],
-      "long_presentation": "",
-      "paper_presentation": "",
+      "long_presentation": "False",
+      "paper_presentation": "In Person",
       "pdf_path": "https://archives.ismir.net/ismir2023/paper/000102.pdf",
       "poster_pdf": "https://drive.google.com/file/d/1lJSkNd_OzlU73QswUv1Ca93O_UY4BA-c/view",
       "session": [
@@ -3634,10 +3948,15 @@
       "channel_url": "",
       "day": "5",
       "keywords": [
-        ""
+        " Knowledge-driven approaches to MIR -> representations of music",
+        "Computational musicology -> mathematical music theory",
+        "Knowledge-driven approaches to MIR -> computational music theory and musicology",
+        " Musical features and properties -> harmony, chords and tonality",
+        " MIR tasks -> similarity metrics",
+        " MIR fundamentals and methodology -> symbolic music processing"
       ],
-      "long_presentation": "",
-      "paper_presentation": "",
+      "long_presentation": "False",
+      "paper_presentation": "In Person",
       "pdf_path": "https://archives.ismir.net/ismir2023/paper/000103.pdf",
       "poster_pdf": "https://drive.google.com/file/d/1BdVT7RIJJIrCPVhUBL5JoFYJHoUjzZWd/view",
       "session": [
