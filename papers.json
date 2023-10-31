@@ -1,6 +1,42 @@
 [
   {
     "content": {
+      "TLDR": "Musicology research suggests a correspondence between manual gesture and melodic contour in raga performance. Computational tools such as pose estimation from video and time series pattern matching potentially facilitate larger-scale studies of gesture an",
+      "abstract": "Musicology research suggests a correspondence between manual gesture and melodic contour in raga performance. Computational tools such as pose estimation from video and time series pattern matching potentially facilitate larger-scale studies of gesture an<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1DvOBLNNh3C8wfID8ClLVXxXqj2suDBzO)</b>",
+      "authors": [
+        ""
+      ],
+      "authors_and_affil": [
+        "Shreyas M Nadkarni (Indian Institute of Technology Bombay)",
+        " Sujoy Roychowdhury (Indian Institute of Technology Bombay)",
+        " Preeti Rao (Indian Institute of Technology  Bombay)*",
+        " Martin Clayton (Durham University)"
+      ],
+      "channel_url": "",
+      "day": "2",
+      "keywords": [
+        ""
+      ],
+      "long_presentation": "",
+      "paper_presentation": "",
+      "pdf_path": "https://archives.ismir.net/ismir2023/paper/000001.pdf",
+      "poster_pdf": "https://drive.google.com/file/d/1SJX_IvazSTMMezLbKk_2kT-4g3_pSFev/view",
+      "session": [
+        "1"
+      ],
+      "slack_channel": "",
+      "title": "Exploring the correspondence of melodic contour with gesture in raga alap singing ",
+      "video": "https://drive.google.com/uc?export=view&id=1DvOBLNNh3C8wfID8ClLVXxXqj2suDBzO"
+    },
+    "forum": "64",
+    "id": "64",
+    "pic_id": "",
+    "position": "01",
+    "poster_pdf": "GLTR_poster.pdf",
+    "session": "1"
+  },
+  {
+    "content": {
       "TLDR": "Thanks to advancements in deep learning (DL), automatic music transcription (AMT) systems recently outperformed previous ones fully based on manual feature design. Many of these highly capable DL models, however, are computationally expensive. Researchers",
       "abstract": "Thanks to advancements in deep learning (DL), automatic music transcription (AMT) systems recently outperformed previous ones fully based on manual feature design. Many of these highly capable DL models, however, are computationally expensive. Researchers<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1yFCCW_X06c_V-Q_xlfOnCbM8JoNzIVtu)</b>",
       "authors": [
@@ -34,5 +70,3588 @@
     "position": "02",
     "poster_pdf": "GLTR_poster.pdf",
     "session": "1"
+  },
+  {
+    "content": {
+      "TLDR": "The practices of data collection in training sets for Automatic Music Generation (AMG) tasks are opaque and overlooked. In this paper, we aimed to identify these practices and surface the values they embed. We systematically identified all datasets used t",
+      "abstract": "The practices of data collection in training sets for Automatic Music Generation (AMG) tasks are opaque and overlooked. In this paper, we aimed to identify these practices and surface the values they embed. We systematically identified all datasets used t<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1-QENG5zYQSGwLoG9VowxWCQ2p9GqEKf5)</b>",
+      "authors": [
+        ""
+      ],
+      "authors_and_affil": [
+        "Fabio Morreale (University of Auckland)*",
+        " Megha Sharma (University of Tokyo)",
+        " I-Chieh Wei (University of Auckland)"
+      ],
+      "channel_url": "",
+      "day": "2",
+      "keywords": [
+        ""
+      ],
+      "long_presentation": "",
+      "paper_presentation": "",
+      "pdf_path": "https://archives.ismir.net/ismir2023/paper/000003.pdf",
+      "poster_pdf": "https://drive.google.com/file/d/1UqLBTjYlhPcuEpl676ybWk9Nq0kGb9H8/view",
+      "session": [
+        "1"
+      ],
+      "slack_channel": "",
+      "title": "Data Collection in Music Generation Training Sets: A Critical Analysis",
+      "video": "https://drive.google.com/uc?export=view&id=1-QENG5zYQSGwLoG9VowxWCQ2p9GqEKf5"
+    },
+    "forum": "15",
+    "id": "15",
+    "pic_id": "https://drive.google.com/file/d/1LO7bnd58OVp9yfX6fId8yV5tJF-rIk68/view",
+    "position": "03",
+    "poster_pdf": "GLTR_poster.pdf",
+    "session": "1"
+  },
+  {
+    "content": {
+      "TLDR": "Validity is the truth of an inference made from evidence and is a central concern in scientific work. Given the maturity of the domain of music information research (MIR), validity in our opinion should be discussed and considered much more than it has be",
+      "abstract": "Validity is the truth of an inference made from evidence and is a central concern in scientific work. Given the maturity of the domain of music information research (MIR), validity in our opinion should be discussed and considered much more than it has be<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1gr803BCvb98rdFiAzIpGivrGkgEtNkt-)</b>",
+      "authors": [
+        ""
+      ],
+      "authors_and_affil": [
+        "Bob L. T.  Sturm (KTH Royal Institute of Technology)",
+        " Arthur Flexer (Johannes Kepler University Linz)*"
+      ],
+      "channel_url": "",
+      "day": "2",
+      "keywords": [
+        ""
+      ],
+      "long_presentation": "",
+      "paper_presentation": "",
+      "pdf_path": "https://archives.ismir.net/ismir2023/paper/000004.pdf",
+      "poster_pdf": "https://drive.google.com/file/d/1J9FH9FKTPCGRiRyCMbB_23NdfKI-7JW8/view",
+      "session": [
+        "1"
+      ],
+      "slack_channel": "",
+      "title": "A Review of Validity and its Relationship to Music Information Research",
+      "video": "https://drive.google.com/uc?export=view&id=1gr803BCvb98rdFiAzIpGivrGkgEtNkt-"
+    },
+    "forum": "18",
+    "id": "18",
+    "pic_id": "https://drive.google.com/file/d/1LV47ziqlkzs6AtO4SW_7iPcVeUW8BRO6/view",
+    "position": "04",
+    "poster_pdf": "GLTR_poster.pdf",
+    "session": "1"
+  },
+  {
+    "content": {
+      "TLDR": "In Carnatic music concerts, taniavartanam is a solo percussion segment that showcases intricate and elaborate extempore rhythmic evolution through a series of homogeneous sections with shared rhythmic characteristics. While taniavartanam segments have bee",
+      "abstract": "In Carnatic music concerts, taniavartanam is a solo percussion segment that showcases intricate and elaborate extempore rhythmic evolution through a series of homogeneous sections with shared rhythmic characteristics. While taniavartanam segments have bee<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1u1UzWleSWCC83KIgrl-JyiHyVkfqVDd6)</b>",
+      "authors": [
+        ""
+      ],
+      "authors_and_affil": [
+        "Gowriprasad R (IIT Madras)*",
+        " Srikrishnan Sridharan (Carnatic Percussionist)",
+        " R Aravind (Indian Institute of Technology Madras)",
+        " Hema A Murthy (IIT Madras)"
+      ],
+      "channel_url": "",
+      "day": "2",
+      "keywords": [
+        ""
+      ],
+      "long_presentation": "",
+      "paper_presentation": "",
+      "pdf_path": "https://archives.ismir.net/ismir2023/paper/000005.pdf",
+      "poster_pdf": "https://drive.google.com/file/d/1_GZqiSYYzUFfLsvr2L8qPjzZYFQF9Iei/view",
+      "session": [
+        "1"
+      ],
+      "slack_channel": "",
+      "title": "Segmentation and Analysis of Taniavartanam in Carnatic Music Concerts",
+      "video": "https://drive.google.com/uc?export=view&id=1u1UzWleSWCC83KIgrl-JyiHyVkfqVDd6"
+    },
+    "forum": "19",
+    "id": "19",
+    "pic_id": "https://drive.google.com/file/d/1HvjtFZBzPh8_T1ICDvb7yBk3BK6mfBv6/view",
+    "position": "05",
+    "poster_pdf": "GLTR_poster.pdf",
+    "session": "1"
+  },
+  {
+    "content": {
+      "TLDR": "Deep neural network models have become the dominant approach to a large variety of tasks within music information retrieval (MIR). These models generally require large amounts of (annotated) training data to achieve high accuracy. Because not all applicat",
+      "abstract": "Deep neural network models have become the dominant approach to a large variety of tasks within music information retrieval (MIR). These models generally require large amounts of (annotated) training data to achieve high accuracy. Because not all applicat<br><br> <b><p align=\"center\">[Direct link to video]()</b>",
+      "authors": [
+        ""
+      ],
+      "authors_and_affil": [
+        "Changhong Wang (Telecom Paris, Institut polytechnique de Paris)*",
+        " Ga\u00ebl Richard (Telecom Paris, Institut polytechnique de Paris)",
+        " Brian McFee (New York University)"
+      ],
+      "channel_url": "",
+      "day": "2",
+      "keywords": [
+        ""
+      ],
+      "long_presentation": "",
+      "paper_presentation": "",
+      "pdf_path": "https://archives.ismir.net/ismir2023/paper/000006.pdf",
+      "poster_pdf": "",
+      "session": [
+        "1"
+      ],
+      "slack_channel": "",
+      "title": "Transfer Learning and Bias Correction with Pre-trained Audio Embeddings",
+      "video": ""
+    },
+    "forum": "280",
+    "id": "280",
+    "pic_id": "",
+    "position": "06",
+    "poster_pdf": "GLTR_poster.pdf",
+    "session": "1"
+  },
+  {
+    "content": {
+      "TLDR": "The Collaborative Song Dataset (CoSoD) is a corpus of 331 multi-artist collaborations from the 2010\u20132019 Billboard \u201cHot 100\u201d year-end charts. The corpus is annotated with formal sections, aspects of vocal production (including reverberation, layering, pan",
+      "abstract": "The Collaborative Song Dataset (CoSoD) is a corpus of 331 multi-artist collaborations from the 2010\u20132019 Billboard \u201cHot 100\u201d year-end charts. The corpus is annotated with formal sections, aspects of vocal production (including reverberation, layering, pan<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1GFvSckyxGyvPrMzXF7m5K-aq-4ov5sAn)</b>",
+      "authors": [
+        ""
+      ],
+      "authors_and_affil": [
+        "Mich\u00e8le Duguay (Harvard University)*",
+        " Kate Mancey (Harvard University)",
+        " Johanna Devaney (Brooklyn College)"
+      ],
+      "channel_url": "",
+      "day": "2",
+      "keywords": [
+        ""
+      ],
+      "long_presentation": "",
+      "paper_presentation": "",
+      "pdf_path": "https://archives.ismir.net/ismir2023/paper/000007.pdf",
+      "poster_pdf": "https://drive.google.com/file/d/1OGexuCofkntBg7wsXCBzB1KLrT30cDXs/view",
+      "session": [
+        "1"
+      ],
+      "slack_channel": "",
+      "title": "Collaborative Song Dataset (CoSoD): An annotated dataset of multi-artist collaborations in popular music",
+      "video": "https://drive.google.com/uc?export=view&id=1GFvSckyxGyvPrMzXF7m5K-aq-4ov5sAn"
+    },
+    "forum": "37",
+    "id": "37",
+    "pic_id": "https://drive.google.com/file/d/15hqeiDppOtjRo2idW-bo4NYiSJMlMXLK/view",
+    "position": "07",
+    "poster_pdf": "GLTR_poster.pdf",
+    "session": "1"
+  },
+  {
+    "content": {
+      "TLDR": "Recently, there has been a surge in Artificial Intelligence (AI) tools that allow creators to develop melodies, harmonies, lyrics, and mixes with the touch of a button. The reception of and discussion on the use of these tools - and more broadly, any AI-b",
+      "abstract": "Recently, there has been a surge in Artificial Intelligence (AI) tools that allow creators to develop melodies, harmonies, lyrics, and mixes with the touch of a button. The reception of and discussion on the use of these tools - and more broadly, any AI-b<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=12ZEKkCsiIM7gYj_Qkrc5ol0FGDtKb9EX)</b>",
+      "authors": [
+        ""
+      ],
+      "authors_and_affil": [
+        "Michele Newman (University of Washington)*",
+        " Lidia J Morris (University of Washington)",
+        " Jin Ha Lee (University of Washington)"
+      ],
+      "channel_url": "",
+      "day": "2",
+      "keywords": [
+        ""
+      ],
+      "long_presentation": "",
+      "paper_presentation": "",
+      "pdf_path": "https://archives.ismir.net/ismir2023/paper/000008.pdf",
+      "poster_pdf": "https://drive.google.com/file/d/1lTcgeRKggJmoOSX44-Sg1GrrZ2lurfl6/view",
+      "session": [
+        "1"
+      ],
+      "slack_channel": "",
+      "title": "Human-AI  Music Creation: Understanding the Perceptions and Experiences of Music Creators for Ethical and Productive Collaboration",
+      "video": "https://drive.google.com/uc?export=view&id=12ZEKkCsiIM7gYj_Qkrc5ol0FGDtKb9EX"
+    },
+    "forum": "58",
+    "id": "58",
+    "pic_id": "https://drive.google.com/file/d/1sOy7sZgpwlBoD_QHqYP9APDTRvUqi9cw/view",
+    "position": "08",
+    "poster_pdf": "GLTR_poster.pdf",
+    "session": "1"
+  },
+  {
+    "content": {
+      "TLDR": "Symbolic music is widely used in various deep learning tasks, including generation, transcription, synthesis, and Music Information Retrieval (MIR). It is mostly employed with discrete models like Transformers, which require music to be tokenized, i.e., f",
+      "abstract": "Symbolic music is widely used in various deep learning tasks, including generation, transcription, synthesis, and Music Information Retrieval (MIR). It is mostly employed with discrete models like Transformers, which require music to be tokenized, i.e., f<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=19mvoQ2eSKYbbUn2HbRVjW-8Vimnb6nBh)</b>",
+      "authors": [
+        ""
+      ],
+      "authors_and_affil": [
+        "Nathan Fradet (LIP6 - Sorbonne University)*",
+        " Nicolas Gutowski (University of Angers)",
+        " Fabien Chhel (Groupe ESEO)",
+        " Jean-Pierre Briot (CNRS)"
+      ],
+      "channel_url": "",
+      "day": "2",
+      "keywords": [
+        ""
+      ],
+      "long_presentation": "",
+      "paper_presentation": "",
+      "pdf_path": "https://archives.ismir.net/ismir2023/paper/000009.pdf",
+      "poster_pdf": "https://drive.google.com/file/d/1t-Odohpt7ZGzGBqbGGJVmXYJtgHfDpY8/view",
+      "session": [
+        "1"
+      ],
+      "slack_channel": "",
+      "title": "Impact of time and note duration tokenizations on deep learning symbolic music modeling",
+      "video": "https://drive.google.com/uc?export=view&id=19mvoQ2eSKYbbUn2HbRVjW-8Vimnb6nBh"
+    },
+    "forum": "45",
+    "id": "45",
+    "pic_id": "https://drive.google.com/file/d/1AaS2ikOX0wJ7eMYB15eQnRr8whwSmgA2/view",
+    "position": "09",
+    "poster_pdf": "GLTR_poster.pdf",
+    "session": "1"
+  },
+  {
+    "content": {
+      "TLDR": "Micro-timing is an essential part of human music-making, yet it is absent from most computer music systems. Partly to address this gap, we present a novel system for generating music with style-specific micro-timing within the Sonic Pi live coding languag",
+      "abstract": "Micro-timing is an essential part of human music-making, yet it is absent from most computer music systems. Partly to address this gap, we present a novel system for generating music with style-specific micro-timing within the Sonic Pi live coding languag<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=13IupDzqB5wZ13ihRCwvW2X4eY_0VKSww)</b>",
+      "authors": [
+        ""
+      ],
+      "authors_and_affil": [
+        "Max Johnson (University of Cambridge)",
+        " Mark R H Gotham (Durham)*"
+      ],
+      "channel_url": "",
+      "day": "2",
+      "keywords": [
+        ""
+      ],
+      "long_presentation": "",
+      "paper_presentation": "",
+      "pdf_path": "https://archives.ismir.net/ismir2023/paper/000010.pdf",
+      "poster_pdf": "https://drive.google.com/file/d/1Ce-lVzeVmR8ZewQV4t9vv0KOzCr-VUDA/view",
+      "session": [
+        "1"
+      ],
+      "slack_channel": "",
+      "title": "Musical Micro-Timing for Live Coding",
+      "video": "https://drive.google.com/uc?export=view&id=13IupDzqB5wZ13ihRCwvW2X4eY_0VKSww"
+    },
+    "forum": "93",
+    "id": "93",
+    "pic_id": "https://drive.google.com/file/d/1_wE0HU7LTpsi57jFw47FQTcQQjYCxXJb/view",
+    "position": "10",
+    "poster_pdf": "GLTR_poster.pdf",
+    "session": "1"
+  },
+  {
+    "content": {
+      "TLDR": "Optical Music Recognition (OMR) is a well-established research field focused on the task of reading musical notation from images of music scores. In the standard OMR workflow, layout analysis is a critical component for identifying relevant parts of the i",
+      "abstract": "Optical Music Recognition (OMR) is a well-established research field focused on the task of reading musical notation from images of music scores. In the standard OMR workflow, layout analysis is a critical component for identifying relevant parts of the i<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1Yk4OZSK1v7reHk99gfC_SD_i-MkAk9DZ)</b>",
+      "authors": [
+        ""
+      ],
+      "authors_and_affil": [
+        "Francisco J. Castellanos (University of Alicante)*",
+        " Antonio Javier Gallego (Universidad de Alicante)",
+        " Ichiro Fujinaga (McGill University)"
+      ],
+      "channel_url": "",
+      "day": "2",
+      "keywords": [
+        ""
+      ],
+      "long_presentation": "",
+      "paper_presentation": "",
+      "pdf_path": "https://archives.ismir.net/ismir2023/paper/000011.pdf",
+      "poster_pdf": "https://drive.google.com/file/d/1_bVna_LTgc60q8uVuiVBzoM65a1qtWdg/view",
+      "session": [
+        "1"
+      ],
+      "slack_channel": "",
+      "title": "A Few-shot Neural Approach for Layout Analysis of Music Score Images",
+      "video": "https://drive.google.com/uc?export=view&id=1Yk4OZSK1v7reHk99gfC_SD_i-MkAk9DZ"
+    },
+    "forum": "47",
+    "id": "47",
+    "pic_id": "https://drive.google.com/file/d/1n06Hd9Os7bmpYO9lGfmABVz7nz7LEFnK/view",
+    "position": "11",
+    "poster_pdf": "GLTR_poster.pdf",
+    "session": "1"
+  },
+  {
+    "content": {
+      "TLDR": "Drummers spend extensive time practicing rudiments to develop technique, speed, coordination, and phrasing. These rudiments are often practiced on \"silent\" practice pads using only the hands. Additionally, many percussive instruments across cultures are p",
+      "abstract": "Drummers spend extensive time practicing rudiments to develop technique, speed, coordination, and phrasing. These rudiments are often practiced on \"silent\" practice pads using only the hands. Additionally, many percussive instruments across cultures are p<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1XuSgxSZWStQ-ojpQ88Zs_ZJ1ZqQbtAf7)</b>",
+      "authors": [
+        ""
+      ],
+      "authors_and_affil": [
+        "Behzad Haki (Universitat Pompeu Fabra)*",
+        " B_a_ej Kotowski (MTG)",
+        " Cheuk Lun Isaac Lee (Universitat Pompeu Fabra )",
+        " Sergi Jord\u00e0 (Universitat Pompeu Fabra)"
+      ],
+      "channel_url": "",
+      "day": "2",
+      "keywords": [
+        ""
+      ],
+      "long_presentation": "",
+      "paper_presentation": "",
+      "pdf_path": "https://archives.ismir.net/ismir2023/paper/000012.pdf",
+      "poster_pdf": "https://drive.google.com/file/d/1riEMHjWzUeSl6UDSchFFDwMUa5vLn55O/view",
+      "session": [
+        "1"
+      ],
+      "slack_channel": "",
+      "title": "TapTamDrum: A Dataset for Dualized Drum Patterns",
+      "video": "https://drive.google.com/uc?export=view&id=1XuSgxSZWStQ-ojpQ88Zs_ZJ1ZqQbtAf7"
+    },
+    "forum": "33",
+    "id": "33",
+    "pic_id": "https://drive.google.com/file/d/1HrcaIZ5sVn1gMcPy2ZLP1QRF0wD1a9A2/view",
+    "position": "12",
+    "poster_pdf": "GLTR_poster.pdf",
+    "session": "1"
+  },
+  {
+    "content": {
+      "TLDR": "Real-time music information retrieval (RT-MIR) has much potential to augment the capabilities of traditional acoustic instruments. We develop RT-MIR techniques aimed at augmenting percussive fingerstyle, which blends acoustic guitar playing with guitar bo",
+      "abstract": "Real-time music information retrieval (RT-MIR) has much potential to augment the capabilities of traditional acoustic instruments. We develop RT-MIR techniques aimed at augmenting percussive fingerstyle, which blends acoustic guitar playing with guitar bo<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1nr-HTFvdiIC2X5TbKLGL3ri8vZr_npdO)</b>",
+      "authors": [
+        ""
+      ],
+      "authors_and_affil": [
+        "Andrea Martelloni (Queen Mary University of London)*",
+        " Andrew McPherson (QMUL)",
+        " Mathieu Barthet (Queen Mary University of London)"
+      ],
+      "channel_url": "",
+      "day": "2",
+      "keywords": [
+        ""
+      ],
+      "long_presentation": "",
+      "paper_presentation": "",
+      "pdf_path": "https://archives.ismir.net/ismir2023/paper/000013.pdf",
+      "poster_pdf": "https://drive.google.com/file/d/1Ergs4Ua6t4qmQvxxNk3auyatJkzI4HEn/view?usp=sharing ",
+      "session": [
+        "1"
+      ],
+      "slack_channel": "",
+      "title": "Real-time Percussive Technique Recognition and Embedding Learning for the Acoustic Guitar",
+      "video": "https://drive.google.com/uc?export=view&id=1nr-HTFvdiIC2X5TbKLGL3ri8vZr_npdO"
+    },
+    "forum": "48",
+    "id": "48",
+    "pic_id": "https://drive.google.com/file/d/1tvccEB0fozHYq3Mk_sf9jfX99sNeAH3o/view?usp=sharing ",
+    "position": "13",
+    "poster_pdf": "GLTR_poster.pdf",
+    "session": "1"
+  },
+  {
+    "content": {
+      "TLDR": "Recent text-to-audio generation techniques have the potential to allow novice users to freely generate music audio. Even if they do not have musical knowledge, such as about chord progressions and instruments, users can try various text prompts to generat",
+      "abstract": "Recent text-to-audio generation techniques have the potential to allow novice users to freely generate music audio. Even if they do not have musical knowledge, such as about chord progressions and instruments, users can try various text prompts to generat<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1cHkxzOuNBuD0Oc2L2lCZ_wy-gvfdp9hH)</b>",
+      "authors": [
+        ""
+      ],
+      "authors_and_affil": [
+        "Hiromu Yakura (University of Tsukuba)*",
+        " Masataka Goto (National Institute of Advanced Industrial Science and Technology (AIST))"
+      ],
+      "channel_url": "",
+      "day": "2",
+      "keywords": [
+        ""
+      ],
+      "long_presentation": "",
+      "paper_presentation": "",
+      "pdf_path": "https://archives.ismir.net/ismir2023/paper/000014.pdf",
+      "poster_pdf": "https://drive.google.com/file/d/14DnHS_JotLJtFvUB75FB358BSX02a6kf/view",
+      "session": [
+        "1"
+      ],
+      "slack_channel": "",
+      "title": "IteraTTA: An interface for exploring both text prompts and audio priors in generating music with text-to-audio models",
+      "video": "https://drive.google.com/uc?export=view&id=1cHkxzOuNBuD0Oc2L2lCZ_wy-gvfdp9hH"
+    },
+    "forum": "80",
+    "id": "80",
+    "pic_id": "https://drive.google.com/file/d/1Gxv25ON-lumZ4g95_AA97sD4RESUovos/view",
+    "position": "14",
+    "poster_pdf": "GLTR_poster.pdf",
+    "session": "1"
+  },
+  {
+    "content": {
+      "TLDR": "The directivity of a musical instrument is a function that describes the spatial characteristics of its sound radiation. The majority of the available literature focuses on measuring directivity patterns, with analysis mainly limited to visual inspections",
+      "abstract": "The directivity of a musical instrument is a function that describes the spatial characteristics of its sound radiation. The majority of the available literature focuses on measuring directivity patterns, with analysis mainly limited to visual inspections<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=11Gq85od00AMErIm4eW_HPp1KZoSLENhR)</b>",
+      "authors": [
+        ""
+      ],
+      "authors_and_affil": [
+        "Mirco Pezzoli (Politecnicno di Milano)*",
+        " Raffaele Malvermi (Politecnico di Milano)",
+        " Fabio Antonacci (Politecnico di Milano)",
+        " Augusto Sarti (Politecnico di Milano)"
+      ],
+      "channel_url": "",
+      "day": "2",
+      "keywords": [
+        ""
+      ],
+      "long_presentation": "",
+      "paper_presentation": "",
+      "pdf_path": "https://archives.ismir.net/ismir2023/paper/000015.pdf",
+      "poster_pdf": "https://drive.google.com/file/d/1ky9p0XdOSPFVcj4bJBtp-KfoHcYF7g01/view?usp=share_link",
+      "session": [
+        "1"
+      ],
+      "slack_channel": "",
+      "title": "Similarity evaluation of violin directivity patterns for musical instrument retrieval",
+      "video": "https://drive.google.com/uc?export=view&id=11Gq85od00AMErIm4eW_HPp1KZoSLENhR"
+    },
+    "forum": "174",
+    "id": "174",
+    "pic_id": "https://drive.google.com/file/d/1H_OImxj9fVzhHXVarGyY8QDqvp-HbeU_/view",
+    "position": "15",
+    "poster_pdf": "GLTR_poster.pdf",
+    "session": "1"
+  },
+  {
+    "content": {
+      "TLDR": "Computational models and analyses of musical rhythms are predominantly based on the subdivision of durations down to a common isochronous pulse, which plays a fundamental structural role in the organization of their durational patterns. Meter, the most wi",
+      "abstract": "Computational models and analyses of musical rhythms are predominantly based on the subdivision of durations down to a common isochronous pulse, which plays a fundamental structural role in the organization of their durational patterns. Meter, the most wi<br><br> <b><p align=\"center\">[Direct link to video]()</b>",
+      "authors": [
+        ""
+      ],
+      "authors_and_affil": [
+        "George Sioros (University of Plymouth)*"
+      ],
+      "channel_url": "",
+      "day": "2",
+      "keywords": [
+        ""
+      ],
+      "long_presentation": "",
+      "paper_presentation": "",
+      "pdf_path": "https://archives.ismir.net/ismir2023/paper/000016.pdf",
+      "poster_pdf": "",
+      "session": [
+        "1"
+      ],
+      "slack_channel": "",
+      "title": "Polyrhythmic modelling of non-isochronous and microtiming patterns",
+      "video": ""
+    },
+    "forum": "82",
+    "id": "82",
+    "pic_id": "",
+    "position": "16",
+    "poster_pdf": "GLTR_poster.pdf",
+    "session": "1"
+  },
+  {
+    "content": {
+      "TLDR": "We introduce CLaMP: Contrastive Language-Music Pre-training, which learns cross-modal representations between natural language and symbolic music using a music encoder and a text encoder trained jointly with a contrastive loss. To pre-train CLaMP, we coll",
+      "abstract": "We introduce CLaMP: Contrastive Language-Music Pre-training, which learns cross-modal representations between natural language and symbolic music using a music encoder and a text encoder trained jointly with a contrastive loss. To pre-train CLaMP, we coll<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1wxx0BrnXEJSS5fFApirGRz1ZjZ4jFfNG)</b>",
+      "authors": [
+        ""
+      ],
+      "authors_and_affil": [
+        "Shangda Wu (Central Conservatory of Music)",
+        " Dingyao Yu (Peking University)",
+        " Xu Tan (Microsoft Research Asia)",
+        " Maosong Sun (Tsinghua University)*"
+      ],
+      "channel_url": "",
+      "day": "2",
+      "keywords": [
+        ""
+      ],
+      "long_presentation": "",
+      "paper_presentation": "",
+      "pdf_path": "https://archives.ismir.net/ismir2023/paper/000017.pdf",
+      "poster_pdf": "https://drive.google.com/file/d/1splCZQofFRIUpAVjijY7oNyIwKrzk8Ao/view?usp=sharing",
+      "session": [
+        "2"
+      ],
+      "slack_channel": "",
+      "title": "CLaMP: Contrastive Language-Music Pre-training for Cross-Modal Symbolic Music Information Retrieval",
+      "video": "https://drive.google.com/uc?export=view&id=1wxx0BrnXEJSS5fFApirGRz1ZjZ4jFfNG"
+    },
+    "forum": "91",
+    "id": "91",
+    "pic_id": "https://drive.google.com/file/d/1EK8OjR8ufm8Kte0qn8N2mgZShn-3ln7X/view?usp=sharing",
+    "position": "01",
+    "poster_pdf": "GLTR_poster.pdf",
+    "session": "2"
+  },
+  {
+    "content": {
+      "TLDR": "Music can convey ideological stances, and gender is just one of them. Evidence from musicology and psychology research shows that gender-loaded messages can be reliably encoded and decoded via musical sounds. However, much of this evidence comes from exam",
+      "abstract": "Music can convey ideological stances, and gender is just one of them. Evidence from musicology and psychology research shows that gender-loaded messages can be reliably encoded and decoded via musical sounds. However, much of this evidence comes from exam<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=14XBWlSHxm8Z6cDKguzHtyqobvyS5xmTc)</b>",
+      "authors": [
+        ""
+      ],
+      "authors_and_affil": [
+        "Luca Marinelli (Queen Mary University of London)*",
+        " George Fazekas (QMUL)",
+        " Charalampos Saitis (Queen Mary University of London)"
+      ],
+      "channel_url": "",
+      "day": "2",
+      "keywords": [
+        ""
+      ],
+      "long_presentation": "",
+      "paper_presentation": "",
+      "pdf_path": "https://archives.ismir.net/ismir2023/paper/000018.pdf",
+      "poster_pdf": "https://drive.google.com/file/d/14oC82QCZKHcnJYoG7X0PicHaE_iNhrSv/view",
+      "session": [
+        "2"
+      ],
+      "slack_channel": "",
+      "title": "GENDER-CODED SOUND: ANALYSING THE GENDERING OF MUSIC IN TOY COMMERCIALS VIA MULTI-TASK LEARNING",
+      "video": "https://drive.google.com/uc?export=view&id=14XBWlSHxm8Z6cDKguzHtyqobvyS5xmTc"
+    },
+    "forum": "238",
+    "id": "238",
+    "pic_id": "https://drive.google.com/file/d/1t0t9U2ApBUsYYGC_vorbh7E5bpWql_jk/view",
+    "position": "02",
+    "poster_pdf": "GLTR_poster.pdf",
+    "session": "2"
+  },
+  {
+    "content": {
+      "TLDR": "Nowadays, humans are constantly exposed to music, whether through voluntary streaming services or incidental encounters during commercial breaks. Despite the abundance of music, certain pieces remain more memorable and often gain greater popularity. Inspi",
+      "abstract": "Nowadays, humans are constantly exposed to music, whether through voluntary streaming services or incidental encounters during commercial breaks. Despite the abundance of music, certain pieces remain more memorable and often gain greater popularity. Inspi<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1uMhKpUkVAiNaaUTFoFzAhxOQZBsHnu4Z)</b>",
+      "authors": [
+        ""
+      ],
+      "authors_and_affil": [
+        "Li-Yang Tseng (National Yang Ming Chiao Tung University)",
+        " Tzu-Ling Lin (National Yang Ming Chiao Tung University)",
+        " Hong-Han Shuai (National Yang Ming Chiao Tung University)*",
+        " JEN-WEI HUANG (NYCU)",
+        " Wen-Whei Chang (National Yang Ming Chiao Tung University)"
+      ],
+      "channel_url": "",
+      "day": "2",
+      "keywords": [
+        ""
+      ],
+      "long_presentation": "",
+      "paper_presentation": "",
+      "pdf_path": "https://archives.ismir.net/ismir2023/paper/000019.pdf",
+      "poster_pdf": "https://drive.google.com/file/d/1_57q-qGsRO9druNfRi3YHndX4LqLll4r/view",
+      "session": [
+        "2"
+      ],
+      "slack_channel": "",
+      "title": "A dataset and Baselines for Measuring and Predicting the Music Piece Memorability",
+      "video": "https://drive.google.com/uc?export=view&id=1uMhKpUkVAiNaaUTFoFzAhxOQZBsHnu4Z"
+    },
+    "forum": "56",
+    "id": "56",
+    "pic_id": "https://drive.google.com/file/d/1zbxwJflt2qQSiUWTzgr1kb08DcU36rRK/view",
+    "position": "03",
+    "poster_pdf": "GLTR_poster.pdf",
+    "session": "2"
+  },
+  {
+    "content": {
+      "TLDR": "Optical Music Recognition (OMR) is the field of research that studies how to computationally read music notation from written documents. Thanks to recent advances in computer vision and deep learning, there are successful approaches that can locate the mu",
+      "abstract": "Optical Music Recognition (OMR) is the field of research that studies how to computationally read music notation from written documents. Thanks to recent advances in computer vision and deep learning, there are successful approaches that can locate the mu<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=11CfMM9NabhgZnbd6yK3IOaivpeEA_5mE)</b>",
+      "authors": [
+        ""
+      ],
+      "authors_and_affil": [
+        "Carlos Penarrubia (University of Alicante)",
+        " Carlos Garrido-Munoz (University of Alicante)",
+        " Jose J. Valero-Mas (Universitat Pompeu Fabra)",
+        " Jorge Calvo-Zaragoza (University of Alicante)*"
+      ],
+      "channel_url": "",
+      "day": "2",
+      "keywords": [
+        ""
+      ],
+      "long_presentation": "",
+      "paper_presentation": "",
+      "pdf_path": "https://archives.ismir.net/ismir2023/paper/000020.pdf",
+      "poster_pdf": "https://drive.google.com/file/d/1iqZnqyOnUMX_j5Dr0peH4QVEYHhnODbd/view",
+      "session": [
+        "2"
+      ],
+      "slack_channel": "",
+      "title": "Efficient Notation Assembly in Optical Music Recognition",
+      "video": "https://drive.google.com/uc?export=view&id=11CfMM9NabhgZnbd6yK3IOaivpeEA_5mE"
+    },
+    "forum": "38",
+    "id": "38",
+    "pic_id": "https://drive.google.com/file/d/1sxHVg-cit6-6hmsMKt8gi07jQPb01nXH/view",
+    "position": "04",
+    "poster_pdf": "GLTR_poster.pdf",
+    "session": "2"
+  },
+  {
+    "content": {
+      "TLDR": "Synthesizer parameter inference searches for a set of patch connections and parameters to generate audio that best matches a given target sound. Such optimization tasks benefit from access to accurate gradients. However, typical audio synths incorporate c",
+      "abstract": "Synthesizer parameter inference searches for a set of patch connections and parameters to generate audio that best matches a given target sound. Such optimization tasks benefit from access to accurate gradients. However, typical audio synths incorporate c<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1037kUfS31td5mzFzQ8M_gvlnrQpxUHLH)</b>",
+      "authors": [
+        ""
+      ],
+      "authors_and_affil": [
+        "Yuting Yang (Princeton University)*",
+        " Zeyu Jin (Adobe Research)",
+        " Adam Finkelstein (Princeton University)",
+        " Connelly Barnes (Adobe Research)"
+      ],
+      "channel_url": "",
+      "day": "2",
+      "keywords": [
+        ""
+      ],
+      "long_presentation": "",
+      "paper_presentation": "",
+      "pdf_path": "https://archives.ismir.net/ismir2023/paper/000021.pdf",
+      "poster_pdf": "https://drive.google.com/file/d/1fao-b0_BcWYeBoCyAM5SPrdromGaVKlV/view",
+      "session": [
+        "2"
+      ],
+      "slack_channel": "",
+      "title": "White Box Search over Audio Synthesizer Parameters",
+      "video": "https://drive.google.com/uc?export=view&id=1037kUfS31td5mzFzQ8M_gvlnrQpxUHLH"
+    },
+    "forum": "59",
+    "id": "59",
+    "pic_id": "https://drive.google.com/file/d/1ZR2fsJ7Mh2YO0Q-mu-rHHV6VexG4inz8/view",
+    "position": "05",
+    "poster_pdf": "GLTR_poster.pdf",
+    "session": "2"
+  },
+  {
+    "content": {
+      "TLDR": "Brain decoding allows the read-out of stimulus and mental content from neural activity, and has been utilised in various neural-driven classification tasks related to the music information retrieval community. However, even the relatively simple task of i",
+      "abstract": "Brain decoding allows the read-out of stimulus and mental content from neural activity, and has been utilised in various neural-driven classification tasks related to the music information retrieval community. However, even the relatively simple task of i<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1xhJ5KjTYnpdTQB3oFl5CYxaLjUd1DVl3)</b>",
+      "authors": [
+        ""
+      ],
+      "authors_and_affil": [
+        "Vincent K.M. Cheung (Sony Computer Science Laboratories, Inc.)*",
+        " Lana Okuma (RIKEN)",
+        " Kazuhisa Shibata (RIKEN)",
+        " Kosetsu Tsukuda (National Institute of Advanced Industrial Science and Technology (AIST))",
+        " Masataka Goto (National Institute of Advanced Industr"
+      ],
+      "channel_url": "",
+      "day": "2",
+      "keywords": [
+        ""
+      ],
+      "long_presentation": "",
+      "paper_presentation": "",
+      "pdf_path": "https://archives.ismir.net/ismir2023/paper/000022.pdf",
+      "poster_pdf": "https://drive.google.com/file/d/1UndCVJ8d5hWou47TfEBwovykn9yq7sQc/view",
+      "session": [
+        "2"
+      ],
+      "slack_channel": "",
+      "title": "Decoding drums, instrumentals, vocals, and mixed sources in music using human brain activity with fMRI",
+      "video": "https://drive.google.com/uc?export=view&id=1xhJ5KjTYnpdTQB3oFl5CYxaLjUd1DVl3"
+    },
+    "forum": "63",
+    "id": "63",
+    "pic_id": "https://drive.google.com/file/d/1YV45v4F9uMKuPcNsJDJ3FiK2c6eJS2et/view",
+    "position": "06",
+    "poster_pdf": "GLTR_poster.pdf",
+    "session": "2"
+  },
+  {
+    "content": {
+      "TLDR": "Music Emotion Recognition (MER) refers to automatically extracting emotional information from music and predicting its perceived emotions, and it has social and psychological applications. This paper proposes a Dual Attention-based Multi-scale Feature Fus",
+      "abstract": "Music Emotion Recognition (MER) refers to automatically extracting emotional information from music and predicting its perceived emotions, and it has social and psychological applications. This paper proposes a Dual Attention-based Multi-scale Feature Fus<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1mC18LEQOFkb3GyHxXFDdUf5puYgjv_f8)</b>",
+      "authors": [
+        ""
+      ],
+      "authors_and_affil": [
+        "Liyue Zhang ( Xi\u2019an Jiaotong University)*",
+        " Xinyu Yang (Xi'an Jiaotong University)",
+        " Yichi Zhang (Xi'an Jiaotong University)",
+        " Jing Luo (Xi'an Jiaotong University)"
+      ],
+      "channel_url": "",
+      "day": "2",
+      "keywords": [
+        ""
+      ],
+      "long_presentation": "",
+      "paper_presentation": "",
+      "pdf_path": "https://archives.ismir.net/ismir2023/paper/000023.pdf",
+      "poster_pdf": "https://drive.google.com/file/d/1HgMEA6LvG9R0TJFZAuBAFK7uCemTWkJf/view",
+      "session": [
+        "2"
+      ],
+      "slack_channel": "",
+      "title": "Dual Attention-based Multi-scale Feature Fusion Approach for Dynamic Music Emotion Recognition",
+      "video": "https://drive.google.com/uc?export=view&id=1mC18LEQOFkb3GyHxXFDdUf5puYgjv_f8"
+    },
+    "forum": "68",
+    "id": "68",
+    "pic_id": "https://drive.google.com/file/d/1xPhQIFxNHwkfqy90YJFTvgrIUIlAQ_wh/view",
+    "position": "07",
+    "poster_pdf": "GLTR_poster.pdf",
+    "session": "2"
+  },
+  {
+    "content": {
+      "TLDR": "Taking long-term spectral and temporal dependencies into account is essential for automatic piano transcription.\nThis is especially helpful when determining the precise onset and offset for each note in the polyphonic piano content.\nIn this case, we may r",
+      "abstract": "Taking long-term spectral and temporal dependencies into account is essential for automatic piano transcription.\nThis is especially helpful when determining the precise onset and offset for each note in the polyphonic piano content.\nIn this case, we may r<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1Flog5weyWDCqIryWhj9XDpDo2kmLajwq)</b>",
+      "authors": [
+        ""
+      ],
+      "authors_and_affil": [
+        "Keisuke Toyama (Sony Group Corporation)*",
+        " Taketo Akama (Sony CSL)",
+        " Yukara Ikemiya (Sony Research)",
+        " Yuhta Takida (Sony Group Corporation)",
+        " WeiHsiang Liao (Sony Group Corporation)",
+        " Yuki Mitsufuji (Sony Group Corporation)"
+      ],
+      "channel_url": "",
+      "day": "2",
+      "keywords": [
+        ""
+      ],
+      "long_presentation": "",
+      "paper_presentation": "",
+      "pdf_path": "https://archives.ismir.net/ismir2023/paper/000024.pdf",
+      "poster_pdf": "https://drive.google.com/file/d/1VGhS9fshR57vmR2125mYzNEGbYGFmr49/view",
+      "session": [
+        "2"
+      ],
+      "slack_channel": "",
+      "title": "Automatic Piano Transcription with Hierarchical Frequency-Time Transformer",
+      "video": "https://drive.google.com/uc?export=view&id=1Flog5weyWDCqIryWhj9XDpDo2kmLajwq"
+    },
+    "forum": "72",
+    "id": "72",
+    "pic_id": "https://drive.google.com/file/d/1eJKauSWyuJxlw920Kba_NSnEPg6hb_wE/view",
+    "position": "08",
+    "poster_pdf": "GLTR_poster.pdf",
+    "session": "2"
+  },
+  {
+    "content": {
+      "TLDR": "A descriptive transcription of a violin performance requires detecting not only the notes but also the fine-grained pitch variations, such as vibrato. Most existing deep learning methods for music transcription do not capture these variations and often ne",
+      "abstract": "A descriptive transcription of a violin performance requires detecting not only the notes but also the fine-grained pitch variations, such as vibrato. Most existing deep learning methods for music transcription do not capture these variations and often ne<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=19PEwJtC-35XcbPaJy5ukN0uBoIzi3d1f)</b>",
+      "authors": [
+        ""
+      ],
+      "authors_and_affil": [
+        "Nazif Can Tamer (Universitat Pompeu Fabra)*",
+        " Yigitcan \u00d6zer (International Audio Laboratories Erlangen)",
+        " Meinard M\u00fcller (International Audio Laboratories Erlangen)",
+        " Xavier Serra (Universitat Pompeu Fabra )"
+      ],
+      "channel_url": "",
+      "day": "2",
+      "keywords": [
+        ""
+      ],
+      "long_presentation": "",
+      "paper_presentation": "",
+      "pdf_path": "https://archives.ismir.net/ismir2023/paper/000025.pdf",
+      "poster_pdf": "https://drive.google.com/file/d/1KRLWGk5HcUFNG9bYsywrSugL_a8PVh3J/view",
+      "session": [
+        "2"
+      ],
+      "slack_channel": "",
+      "title": "High-Resolution Violin Transcription using Weak Labels",
+      "video": "https://drive.google.com/uc?export=view&id=19PEwJtC-35XcbPaJy5ukN0uBoIzi3d1f"
+    },
+    "forum": "223",
+    "id": "223",
+    "pic_id": "https://drive.google.com/file/d/1iBNLcgwzHEbulDBoDNAkAicD-WAITY4N/view",
+    "position": "09",
+    "poster_pdf": "GLTR_poster.pdf",
+    "session": "2"
+  },
+  {
+    "content": {
+      "TLDR": "We propose Polyffusion, a diffusion model that generates polyphonic music scores by regarding music as image-like piano roll representations. The model is capable of controllable music generation with two paradigms: internal control and external control. ",
+      "abstract": "We propose Polyffusion, a diffusion model that generates polyphonic music scores by regarding music as image-like piano roll representations. The model is capable of controllable music generation with two paradigms: internal control and external control. <br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1dGIexp74B_hpMGlqHfo5sfAk-9kHC3vP)</b>",
+      "authors": [
+        ""
+      ],
+      "authors_and_affil": [
+        "Lejun Min (Shanghai Jiao Tong University)*",
+        " Junyan Jiang (New York University Shanghai)",
+        " Gus Xia (New York University Shanghai)",
+        " Jingwei Zhao (National University of Singapore)"
+      ],
+      "channel_url": "",
+      "day": "2",
+      "keywords": [
+        ""
+      ],
+      "long_presentation": "",
+      "paper_presentation": "",
+      "pdf_path": "https://archives.ismir.net/ismir2023/paper/000026.pdf",
+      "poster_pdf": "https://drive.google.com/file/d/1LtBs1P-Uf63J208pU7ziT8o5PpmkHfz_/view",
+      "session": [
+        "2"
+      ],
+      "slack_channel": "",
+      "title": "Polyffusion: A Diffusion Model for Polyphonic Score Generation with Internal and External Controls",
+      "video": "https://drive.google.com/uc?export=view&id=1dGIexp74B_hpMGlqHfo5sfAk-9kHC3vP"
+    },
+    "forum": "51",
+    "id": "51",
+    "pic_id": "https://drive.google.com/file/d/1LpF3DpX_weJWjoczb27TLVUtPHTzrgbL/view",
+    "position": "10",
+    "poster_pdf": "GLTR_poster.pdf",
+    "session": "2"
+  },
+  {
+    "content": {
+      "TLDR": "This paper introduces a new corpus, CoCoPops: The Coordinated Corpus of Popular Musics. The corpus can be considered a \u201cmeta corpus\u201d in that it both extends and combines two existing corpora\u2014the widely-used McGill Bill-\nboard corpus the and RS200 corpus. ",
+      "abstract": "This paper introduces a new corpus, CoCoPops: The Coordinated Corpus of Popular Musics. The corpus can be considered a \u201cmeta corpus\u201d in that it both extends and combines two existing corpora\u2014the widely-used McGill Bill-\nboard corpus the and RS200 corpus. <br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=12W7e61WVW3bqyfuKWISRz9M2D1UQ_xNb)</b>",
+      "authors": [
+        ""
+      ],
+      "authors_and_affil": [
+        "Claire Arthur (Georgia Institute of Technology)*",
+        " Nathaniel Condit-Schultz (Georgia Institute of Technology)"
+      ],
+      "channel_url": "",
+      "day": "2",
+      "keywords": [
+        ""
+      ],
+      "long_presentation": "",
+      "paper_presentation": "",
+      "pdf_path": "https://archives.ismir.net/ismir2023/paper/000027.pdf",
+      "poster_pdf": "https://drive.google.com/file/d/1Z0vMqYVaW7Hx_nSVl9ZtmYNbiUfJmKd2/view",
+      "session": [
+        "2"
+      ],
+      "slack_channel": "",
+      "title": "The Coordinated Corpus of Popular Musics (CoCoPops): A Meta-Dataset of Melodic and Harmonic Transcriptions",
+      "video": "https://drive.google.com/uc?export=view&id=12W7e61WVW3bqyfuKWISRz9M2D1UQ_xNb"
+    },
+    "forum": "104",
+    "id": "104",
+    "pic_id": "https://drive.google.com/file/d/1BpgecJ0c7FvybDh1WR11NSPBqYqgOoHT/view",
+    "position": "11",
+    "poster_pdf": "GLTR_poster.pdf",
+    "session": "2"
+  },
+  {
+    "content": {
+      "TLDR": "The research field of music therapy has witnessed a rising interest in recent years to develop and employ computational methods to support therapists in their daily practice. While Music Information Retrieval (MIR) research has identified the area of heal",
+      "abstract": "The research field of music therapy has witnessed a rising interest in recent years to develop and employ computational methods to support therapists in their daily practice. While Music Information Retrieval (MIR) research has identified the area of heal<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1Y2c00qrsceqIemNOanPAnBklWPEowTds)</b>",
+      "authors": [
+        ""
+      ],
+      "authors_and_affil": [
+        "Anja Volk (Utrecht University)*",
+        " Tinka Veldhuis (Utrecht University)",
+        " Katrien Foubert (LUCA School of Arts)",
+        " Jos De Backer (LUCA School of Arts)"
+      ],
+      "channel_url": "",
+      "day": "2",
+      "keywords": [
+        ""
+      ],
+      "long_presentation": "",
+      "paper_presentation": "",
+      "pdf_path": "https://archives.ismir.net/ismir2023/paper/000028.pdf",
+      "poster_pdf": "https://drive.google.com/file/d/1PglOD8-VretOEUQOKD9uBkEvbW_NDwOg/view",
+      "session": [
+        "2"
+      ],
+      "slack_channel": "",
+      "title": "Towards computational music analysis for music therapy",
+      "video": "https://drive.google.com/uc?export=view&id=1Y2c00qrsceqIemNOanPAnBklWPEowTds"
+    },
+    "forum": "153",
+    "id": "153",
+    "pic_id": "",
+    "position": "12",
+    "poster_pdf": "GLTR_poster.pdf",
+    "session": "2"
+  },
+  {
+    "content": {
+      "TLDR": "Timbre transfer techniques aim at converting the sound of a musical piece generated by one instrument into the same one as if it was played by another instrument, while maintaining as much as possible the content in terms of musical characteristics such a",
+      "abstract": "Timbre transfer techniques aim at converting the sound of a musical piece generated by one instrument into the same one as if it was played by another instrument, while maintaining as much as possible the content in terms of musical characteristics such a<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1qU345rZrSCXeeK_k3aylFUWrvOTuQFSW)</b>",
+      "authors": [
+        ""
+      ],
+      "authors_and_affil": [
+        "Luca Comanducci (Politecnico di Milano)*",
+        " Fabio Antonacci (Politecnico di Milano)",
+        " Augusto Sarti (Politecnico di Milano)"
+      ],
+      "channel_url": "",
+      "day": "2",
+      "keywords": [
+        ""
+      ],
+      "long_presentation": "",
+      "paper_presentation": "",
+      "pdf_path": "https://archives.ismir.net/ismir2023/paper/000029.pdf",
+      "poster_pdf": "https://drive.google.com/file/d/1h2BzyHiG6_5k1XCckQO4CnkWleWcmaCI/view",
+      "session": [
+        "2"
+      ],
+      "slack_channel": "",
+      "title": "Timbre Transfer using Image-to-Image Denoising Diffusion Implicit Models",
+      "video": "https://drive.google.com/uc?export=view&id=1qU345rZrSCXeeK_k3aylFUWrvOTuQFSW"
+    },
+    "forum": "197",
+    "id": "197",
+    "pic_id": "https://drive.google.com/file/d/10Y2cPu2ro6LmAIkvgdXX44MRmrSpSCRP/view",
+    "position": "13",
+    "poster_pdf": "GLTR_poster.pdf",
+    "session": "2"
+  },
+  {
+    "content": {
+      "TLDR": "Music structure analysis is a core topic in Music Information Retrieval and could be advanced through the inclusion of new data modalities. In this study we consider neural correlates of music structure processing using popular music - specifically chorus",
+      "abstract": "Music structure analysis is a core topic in Music Information Retrieval and could be advanced through the inclusion of new data modalities. In this study we consider neural correlates of music structure processing using popular music - specifically chorus<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1IEs2vHDAZxE76QV10AHpIX9h39tol-M_)</b>",
+      "authors": [
+        ""
+      ],
+      "authors_and_affil": [
+        "Neha Rajagopalan (Stanford University)*",
+        " Blair Kaneshiro (Stanford University)"
+      ],
+      "channel_url": "",
+      "day": "2",
+      "keywords": [
+        ""
+      ],
+      "long_presentation": "",
+      "paper_presentation": "",
+      "pdf_path": "https://archives.ismir.net/ismir2023/paper/000030.pdf",
+      "poster_pdf": "https://drive.google.com/file/d/1UjDa6qx3fJHgfKkmK5PSzSUfz0Q_90B9/view",
+      "session": [
+        "2"
+      ],
+      "slack_channel": "",
+      "title": "Correlation of EEG responses reflects structural similarity of choruses in popular music",
+      "video": "https://drive.google.com/uc?export=view&id=1IEs2vHDAZxE76QV10AHpIX9h39tol-M_"
+    },
+    "forum": "259",
+    "id": "259",
+    "pic_id": "https://drive.google.com/file/d/1xn8-GkvSdeBcQZve5kgEwb5eyUfkmO5t/view",
+    "position": "14",
+    "poster_pdf": "GLTR_poster.pdf",
+    "session": "2"
+  },
+  {
+    "content": {
+      "TLDR": "\u201cChromatic harmony\u201d is seen as a fundamental part of (extended) tonal music in the Western classical tradition (c.1700\u20131900). It routinely features in core curricula. Yet even in this globalised and data-driven age, 1) there are significant gaps between h",
+      "abstract": "\u201cChromatic harmony\u201d is seen as a fundamental part of (extended) tonal music in the Western classical tradition (c.1700\u20131900). It routinely features in core curricula. Yet even in this globalised and data-driven age, 1) there are significant gaps between h<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1vrmYxGG7OMYAndo77lzDq7XWkQ3IMGZm)</b>",
+      "authors": [
+        ""
+      ],
+      "authors_and_affil": [
+        "Mark R H Gotham (Durham)*"
+      ],
+      "channel_url": "",
+      "day": "2",
+      "keywords": [
+        ""
+      ],
+      "long_presentation": "",
+      "paper_presentation": "",
+      "pdf_path": "https://archives.ismir.net/ismir2023/paper/000031.pdf",
+      "poster_pdf": "https://drive.google.com/file/d/16cyvIY6D-V582ZckDmzh1A1ZJZY1UioP/view",
+      "session": [
+        "2"
+      ],
+      "slack_channel": "",
+      "title": "Chromatic Chords in Theory and Practice",
+      "video": "https://drive.google.com/uc?export=view&id=1vrmYxGG7OMYAndo77lzDq7XWkQ3IMGZm"
+    },
+    "forum": "46",
+    "id": "46",
+    "pic_id": "https://drive.google.com/file/d/1zsZG_DIAhhbZa4qyebWH91uv98M7Qmpf/view",
+    "position": "15",
+    "poster_pdf": "GLTR_poster.pdf",
+    "session": "2"
+  },
+  {
+    "content": {
+      "TLDR": "Intra-opus repeated pattern discovery in polyphonic symbolic music data has  challenges in both algorithm design and data annotation. To solve these challenges, we propose BPS-motif, a new symbolic music dataset containing the note-level annotation of mot",
+      "abstract": "Intra-opus repeated pattern discovery in polyphonic symbolic music data has  challenges in both algorithm design and data annotation. To solve these challenges, we propose BPS-motif, a new symbolic music dataset containing the note-level annotation of mot<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=11gAYNaUoTB21G_Lndid5W6n9CP2Gg6_p)</b>",
+      "authors": [
+        ""
+      ],
+      "authors_and_affil": [
+        "YO-WEI HSIAO (Academia Sinica)",
+        " TZU-YUN Hung (National Taiwan Normal University)",
+        " Tsung-Ping Chen (Academia Sinica)",
+        " Li Su (Academia Sinica)*"
+      ],
+      "channel_url": "",
+      "day": "3",
+      "keywords": [
+        ""
+      ],
+      "long_presentation": "",
+      "paper_presentation": "",
+      "pdf_path": "https://archives.ismir.net/ismir2023/paper/000032.pdf",
+      "poster_pdf": "https://drive.google.com/file/d/1CIPZH9MrmtumY-M9GTEaTc9lNeyX2IGq/view",
+      "session": [
+        "3"
+      ],
+      "slack_channel": "",
+      "title": "BPS-Motif: A Dataset for Repeated Pattern Discovery of Polyphonic Symbolic Music",
+      "video": "https://drive.google.com/uc?export=view&id=11gAYNaUoTB21G_Lndid5W6n9CP2Gg6_p"
+    },
+    "forum": "145",
+    "id": "145",
+    "pic_id": "",
+    "position": "01",
+    "poster_pdf": "GLTR_poster.pdf",
+    "session": "3"
+  },
+  {
+    "content": {
+      "TLDR": "Multi-pitch estimation (MPE), the task of detecting active pitches within a polyphonic music recording, has garnered significant research interest in recent years. Most state-of-the-art approaches for MPE are based on deep networks trained using pitch ann",
+      "abstract": "Multi-pitch estimation (MPE), the task of detecting active pitches within a polyphonic music recording, has garnered significant research interest in recent years. Most state-of-the-art approaches for MPE are based on deep networks trained using pitch ann<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1ta1EFfmQaRw6K2M6CwRyOo-YkNPZ-LU0)</b>",
+      "authors": [
+        ""
+      ],
+      "authors_and_affil": [
+        "Michael Krause (International Audio Laboratories Erlangen)*",
+        " Sebastian Strahl (Friedrich-Alexander-Universit\u00e4t Erlangen-N\u00fcrnberg)",
+        " Meinard M\u00fcller (International Audio Laboratories Erlangen)"
+      ],
+      "channel_url": "",
+      "day": "3",
+      "keywords": [
+        ""
+      ],
+      "long_presentation": "",
+      "paper_presentation": "",
+      "pdf_path": "https://archives.ismir.net/ismir2023/paper/000033.pdf",
+      "poster_pdf": "https://drive.google.com/file/d/1lGmk9yrSduurAmTnRTTu-POFNk1QwZC2/view",
+      "session": [
+        "3"
+      ],
+      "slack_channel": "",
+      "title": "Weakly Supervised Multi-Pitch Estimation Using Cross-Version Alignment",
+      "video": "https://drive.google.com/uc?export=view&id=1ta1EFfmQaRw6K2M6CwRyOo-YkNPZ-LU0"
+    },
+    "forum": "81",
+    "id": "81",
+    "pic_id": "https://drive.google.com/file/d/16Dox9AzY9TJDz8mORKIF7bJ5t57DFtyn/view",
+    "position": "02",
+    "poster_pdf": "GLTR_poster.pdf",
+    "session": "3"
+  },
+  {
+    "content": {
+      "TLDR": "We present the Batik plays Mozart Corpus, a piano performance dataset\ncombining professional Mozart piano sonata performances with expert-labelled scores at a note-precise level. The performances originate from a recording by Viennese pianist Roland Batik",
+      "abstract": "We present the Batik plays Mozart Corpus, a piano performance dataset\ncombining professional Mozart piano sonata performances with expert-labelled scores at a note-precise level. The performances originate from a recording by Viennese pianist Roland Batik<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1f4QHPE7FMDQO3v3qF2beiqsaujGwSPVw)</b>",
+      "authors": [
+        ""
+      ],
+      "authors_and_affil": [
+        "Patricia Hu (Johannes Kepler University)*",
+        " Gerhard Widmer (Johannes Kepler University)"
+      ],
+      "channel_url": "",
+      "day": "3",
+      "keywords": [
+        ""
+      ],
+      "long_presentation": "",
+      "paper_presentation": "",
+      "pdf_path": "https://archives.ismir.net/ismir2023/paper/000034.pdf",
+      "poster_pdf": "https://drive.google.com/file/d/13CtnTbgJlUT0Wz_DtR5x0o4EHEo3DJmk/view",
+      "session": [
+        "3"
+      ],
+      "slack_channel": "",
+      "title": "The Batik-plays-Mozart Corpus:  Linking Performance to Score to Musicological Annotations",
+      "video": "https://drive.google.com/uc?export=view&id=1f4QHPE7FMDQO3v3qF2beiqsaujGwSPVw"
+    },
+    "forum": "92",
+    "id": "92",
+    "pic_id": "https://drive.google.com/file/d/1ExVUQUbUIa0FRn_fsD_BJrw0C0l6lu8q/view",
+    "position": "03",
+    "poster_pdf": "GLTR_poster.pdf",
+    "session": "3"
+  },
+  {
+    "content": {
+      "TLDR": "Generating a stereophonic presentation from a monophonic audio signal is a challenging open task, especially if the goal is to obtain a realistic spatial imaging with a specific panning of sound elements. In this work, we propose to convert mono to stereo",
+      "abstract": "Generating a stereophonic presentation from a monophonic audio signal is a challenging open task, especially if the goal is to obtain a realistic spatial imaging with a specific panning of sound elements. In this work, we propose to convert mono to stereo<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1qQz-iD-vnFqK9jd-WOnGhFUbsiWQ_oi5)</b>",
+      "authors": [
+        ""
+      ],
+      "authors_and_affil": [
+        "Joan Serra (Dolby Laboratories)*",
+        " Davide Scaini (Dolby Laboratories)",
+        " Santiago Pascual (Dolby Laboratories)",
+        " Daniel Arteaga (Dolby Laboratories)",
+        " Jordi Pons (Dolby Laboratories)",
+        " Jeroen Breebaart (Dolby Laboratories)",
+        " Giulio Cengarle (Dolby Laboratories)"
+      ],
+      "channel_url": "",
+      "day": "3",
+      "keywords": [
+        ""
+      ],
+      "long_presentation": "",
+      "paper_presentation": "",
+      "pdf_path": "https://archives.ismir.net/ismir2023/paper/000035.pdf",
+      "poster_pdf": "https://drive.google.com/file/d/1jV46u1KFaKVfBtpPoG-FTR1gAckO7j-c/view",
+      "session": [
+        "3"
+      ],
+      "slack_channel": "",
+      "title": "Mono-to-stereo through parametric stereo generation",
+      "video": "https://drive.google.com/uc?export=view&id=1qQz-iD-vnFqK9jd-WOnGhFUbsiWQ_oi5"
+    },
+    "forum": "100",
+    "id": "100",
+    "pic_id": "https://drive.google.com/file/d/10yWhpi-LUE35EOagxWXY4NNKLbGsqB4K/view",
+    "position": "04",
+    "poster_pdf": "GLTR_poster.pdf",
+    "session": "3"
+  },
+  {
+    "content": {
+      "TLDR": "Recent developments in MIR have led to several benchmark deep learning models whose embeddings can be used for a variety of downstream tasks. At the same time, the vast majority of these models have been trained on Western pop/rock music and related style",
+      "abstract": "Recent developments in MIR have led to several benchmark deep learning models whose embeddings can be used for a variety of downstream tasks. At the same time, the vast majority of these models have been trained on Western pop/rock music and related style<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1Q5im0b7JCRsIYxzLriy1pW-zu_vqpUOt)</b>",
+      "authors": [
+        ""
+      ],
+      "authors_and_affil": [
+        "Charilaos Papaioannou (School of ECE, National Technical University of Athens)*",
+        " Emmanouil Benetos (Queen Mary University of London)",
+        " Alexandros Potamianos (National Technical University of Athens)"
+      ],
+      "channel_url": "",
+      "day": "3",
+      "keywords": [
+        ""
+      ],
+      "long_presentation": "",
+      "paper_presentation": "",
+      "pdf_path": "https://archives.ismir.net/ismir2023/paper/000036.pdf",
+      "poster_pdf": "https://drive.google.com/file/d/1ALR54HMKN2zggi7c8UaT7U0rxIb26i-E/view",
+      "session": [
+        "3"
+      ],
+      "slack_channel": "",
+      "title": "From West to East: Who can understand the music of the others better?",
+      "video": "https://drive.google.com/uc?export=view&id=1Q5im0b7JCRsIYxzLriy1pW-zu_vqpUOt"
+    },
+    "forum": "101",
+    "id": "101",
+    "pic_id": "https://drive.google.com/file/d/1vs-muvttYYR82INpXW2rz08gmXI4w1eu/view",
+    "position": "05",
+    "poster_pdf": "GLTR_poster.pdf",
+    "session": "3"
+  },
+  {
+    "content": {
+      "TLDR": "Optical Music Recognition (OMR) has become a popular technology to retrieve information present in musical scores in conjunction with the increasing improvement of Deep Learning techniques, which represent the state-of-the-art in the field. However, its e",
+      "abstract": "Optical Music Recognition (OMR) has become a popular technology to retrieve information present in musical scores in conjunction with the increasing improvement of Deep Learning techniques, which represent the state-of-the-art in the field. However, its e<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1w9jaxLD0ZFatSOtQIh_czdrrtShP9pfH)</b>",
+      "authors": [
+        ""
+      ],
+      "authors_and_affil": [
+        "Juan Carlos Martinez-Sevilla (University of Alicante)*",
+        " Adri\u00e1n Rosell\u00f3 (Universidad de Alicante)",
+        " David Rizo (Universidad de Alicante)",
+        " Jorge Calvo-Zaragoza (University of Alicante)"
+      ],
+      "channel_url": "",
+      "day": "3",
+      "keywords": [
+        ""
+      ],
+      "long_presentation": "",
+      "paper_presentation": "",
+      "pdf_path": "https://archives.ismir.net/ismir2023/paper/000037.pdf",
+      "poster_pdf": "https://drive.google.com/file/d/1eZPZUrFE9AUGQd_bba8ao7-KkZheW6HE/view",
+      "session": [
+        "3"
+      ],
+      "slack_channel": "",
+      "title": "On the Performance of Optical Music Recognition in the Absence of Specific Training Data",
+      "video": "https://drive.google.com/uc?export=view&id=1w9jaxLD0ZFatSOtQIh_czdrrtShP9pfH"
+    },
+    "forum": "85",
+    "id": "85",
+    "pic_id": "https://drive.google.com/file/d/1oXTE-pEwab37bpwkZLtolcKUZCfhrmcc/view",
+    "position": "06",
+    "poster_pdf": "GLTR_poster.pdf",
+    "session": "3"
+  },
+  {
+    "content": {
+      "TLDR": "We introduce Composer\u2019s Assistant, a system for interactive human-computer composition in the REAPER digital audio workstation. We consider the task of multi-track MIDI infilling when arbitrary track-measures have been deleted from a contiguous slice of m",
+      "abstract": "We introduce Composer\u2019s Assistant, a system for interactive human-computer composition in the REAPER digital audio workstation. We consider the task of multi-track MIDI infilling when arbitrary track-measures have been deleted from a contiguous slice of m<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1_MuEV4JpOSaYscTf3Vm3f10g07XRwyU7)</b>",
+      "authors": [
+        ""
+      ],
+      "authors_and_affil": [
+        "Martin E Malandro (Sam Houston State University)*"
+      ],
+      "channel_url": "",
+      "day": "3",
+      "keywords": [
+        ""
+      ],
+      "long_presentation": "",
+      "paper_presentation": "",
+      "pdf_path": "https://archives.ismir.net/ismir2023/paper/000038.pdf",
+      "poster_pdf": "https://drive.google.com/file/d/1R7ShCQyyIiT004viq1WSHOZGENpn3MdV/view",
+      "session": [
+        "3"
+      ],
+      "slack_channel": "",
+      "title": "Composer's Assistant: An Interactive Transformer for Multi-Track MIDI Infilling",
+      "video": "https://drive.google.com/uc?export=view&id=1_MuEV4JpOSaYscTf3Vm3f10g07XRwyU7"
+    },
+    "forum": "113",
+    "id": "113",
+    "pic_id": "https://drive.google.com/file/d/1PFs40Nj02piatufF5cFyj_rGrnxr51UQ/view",
+    "position": "07",
+    "poster_pdf": "GLTR_poster.pdf",
+    "session": "3"
+  },
+  {
+    "content": {
+      "TLDR": "We introduce a novel audio corpus, the FAV Corpus, of over 400 favorite musical excerpts and pieces, formal analyses, and free-response comments. In a survey, 140 American university students (mostly music majors) were asked to provide three of their favo",
+      "abstract": "We introduce a novel audio corpus, the FAV Corpus, of over 400 favorite musical excerpts and pieces, formal analyses, and free-response comments. In a survey, 140 American university students (mostly music majors) were asked to provide three of their favo<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1nbsc_C380nLwUlgZQJRDJ7Pme8oIapqI)</b>",
+      "authors": [
+        ""
+      ],
+      "authors_and_affil": [
+        "Ethan Lustig (Ethan Lustig)*",
+        " David Temperley (Eastman School of Music)"
+      ],
+      "channel_url": "",
+      "day": "3",
+      "keywords": [
+        ""
+      ],
+      "long_presentation": "",
+      "paper_presentation": "",
+      "pdf_path": "https://archives.ismir.net/ismir2023/paper/000039.pdf",
+      "poster_pdf": "https://drive.google.com/file/d/1bdzme3wv93SkvLyotfnMp72f8tt2jE-s/view",
+      "session": [
+        "3"
+      ],
+      "slack_channel": "",
+      "title": "The FAV Corpus: An audio dataset of favorite pieces and excerpts, with formal analyses and music theory descriptors",
+      "video": "https://drive.google.com/uc?export=view&id=1nbsc_C380nLwUlgZQJRDJ7Pme8oIapqI"
+    },
+    "forum": "114",
+    "id": "114",
+    "pic_id": "https://drive.google.com/file/d/1r5OfnK5jaNHBKre4Wk9uEkbgGr5ZmASG/view",
+    "position": "08",
+    "poster_pdf": "GLTR_poster.pdf",
+    "session": "3"
+  },
+  {
+    "content": {
+      "TLDR": "We introduce LyricWhiz, a robust, multilingual, and zero-shot automatic lyrics transcription method achieving state-of-the-art performance on various lyrics transcription datasets, even in challenging genres such as rock and metal. Our novel, training-fre",
+      "abstract": "We introduce LyricWhiz, a robust, multilingual, and zero-shot automatic lyrics transcription method achieving state-of-the-art performance on various lyrics transcription datasets, even in challenging genres such as rock and metal. Our novel, training-fre<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1h5vskyrQIKUo9cmat3NHqZ1g_a6Uo0-9)</b>",
+      "authors": [
+        ""
+      ],
+      "authors_and_affil": [
+        "Le Zhuo (Beihang University)",
+        " Ruibin Yuan (CMU)*",
+        " Jiahao Pan (HKBU)",
+        " Yinghao MA (Queen Mary University of London)",
+        " Yizhi Li (The University  of Sheffield)",
+        " Ge Zhang (University of Michigan)",
+        " Si Liu (Beihang University)",
+        " Roger B. Dannenberg (School of Comp"
+      ],
+      "channel_url": "",
+      "day": "3",
+      "keywords": [
+        ""
+      ],
+      "long_presentation": "",
+      "paper_presentation": "",
+      "pdf_path": "https://archives.ismir.net/ismir2023/paper/000040.pdf",
+      "poster_pdf": "https://drive.google.com/file/d/1rx9VXZ4WlFb24S7awWdrD9cStrRUqLZs/view",
+      "session": [
+        "3"
+      ],
+      "slack_channel": "",
+      "title": "LyricWhiz: Robust Multilingual Lyrics Transcription by Whispering to ChatGPT",
+      "video": "https://drive.google.com/uc?export=view&id=1h5vskyrQIKUo9cmat3NHqZ1g_a6Uo0-9"
+    },
+    "forum": "117",
+    "id": "117",
+    "pic_id": "https://drive.google.com/file/d/1jKPwGZ-emmV1pjh9bqaN0rIq3OrVZeUy/view",
+    "position": "09",
+    "poster_pdf": "GLTR_poster.pdf",
+    "session": "3"
+  },
+  {
+    "content": {
+      "TLDR": "In piano performance, some mistakes stand out to listeners, whereas others may go unnoticed. Former research concluded that the salience of mistakes depended on factors including their contextual appropriateness and a listener\u2019s degree of familiarity to w",
+      "abstract": "In piano performance, some mistakes stand out to listeners, whereas others may go unnoticed. Former research concluded that the salience of mistakes depended on factors including their contextual appropriateness and a listener\u2019s degree of familiarity to w<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1Cx0nL2HWni7ocLN0GUXBM3g-IZ0_oOAi)</b>",
+      "authors": [
+        ""
+      ],
+      "authors_and_affil": [
+        "Alia Morsi (Universitat Pompeu Fabra)*",
+        " Kana Tatsumi (Nagoya Institute of Technology)",
+        " Akira Maezawa (Yamaha Corporation)",
+        " Takuya Fujishima (Yamaha Corporation)",
+        " Xavier Serra (Universitat Pompeu Fabra )"
+      ],
+      "channel_url": "",
+      "day": "3",
+      "keywords": [
+        ""
+      ],
+      "long_presentation": "",
+      "paper_presentation": "",
+      "pdf_path": "https://archives.ismir.net/ismir2023/paper/000041.pdf",
+      "poster_pdf": "https://drive.google.com/file/d/12xO3N28EH6WFOW9NHgPT0BUnuKJUVRdK/view",
+      "session": [
+        "3"
+      ],
+      "slack_channel": "",
+      "title": "SOUNDS OUT OF PL\u00c4CE? SCORE INDEPENDENT DETECTION OF CONSPICUOUS MISTAKE REGIONS IN MIDI PIANO PERFORMANCES",
+      "video": "https://drive.google.com/uc?export=view&id=1Cx0nL2HWni7ocLN0GUXBM3g-IZ0_oOAi"
+    },
+    "forum": "118",
+    "id": "118",
+    "pic_id": "https://drive.google.com/file/d/15KebKdcDpidnwnwH_OwEdVeHXDBNZOnq/view",
+    "position": "10",
+    "poster_pdf": "GLTR_poster.pdf",
+    "session": "3"
+  },
+  {
+    "content": {
+      "TLDR": "We introduce VampNet, a masked acoustic token modeling approach to music synthesis, compression, inpainting, and variation. \nWe use a variable masking schedule during training which allows us to sample coherent music from the model by applying a variety o",
+      "abstract": "We introduce VampNet, a masked acoustic token modeling approach to music synthesis, compression, inpainting, and variation. \nWe use a variable masking schedule during training which allows us to sample coherent music from the model by applying a variety o<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1x7EP-4GCeM9fHEmrMHPozzRj9cldvYty)</b>",
+      "authors": [
+        ""
+      ],
+      "authors_and_affil": [
+        "Hugo F  Flores Garcia (Northwestern University)*",
+        " Prem Seetharaman (Northwestern University)",
+        " Rithesh Kumar (Descript)",
+        " Bryan Pardo (Northwestern University)"
+      ],
+      "channel_url": "",
+      "day": "3",
+      "keywords": [
+        ""
+      ],
+      "long_presentation": "",
+      "paper_presentation": "",
+      "pdf_path": "https://archives.ismir.net/ismir2023/paper/000042.pdf",
+      "poster_pdf": "https://drive.google.com/file/d/1Bt4nhwqEbz0rlNkKwwv_77wA7ThABDDM/view",
+      "session": [
+        "3"
+      ],
+      "slack_channel": "",
+      "title": "VampNet: Music Generation via Masked Acoustic Token Modeling",
+      "video": "https://drive.google.com/uc?export=view&id=1x7EP-4GCeM9fHEmrMHPozzRj9cldvYty"
+    },
+    "forum": "125",
+    "id": "125",
+    "pic_id": "https://drive.google.com/file/d/1AYBS6z3-ZfjmS0YXALUbZfOAEj1m9cZ1/view",
+    "position": "11",
+    "poster_pdf": "GLTR_poster.pdf",
+    "session": "3"
+  },
+  {
+    "content": {
+      "TLDR": "Learning an instrument can be rewarding, but is unavoidably a huge undertaking. Receiving constructive feedback on one\u2019s playing is crucial for improvement. However, personal feedback from an expert instructor is seldom available on demand. The goal motiv",
+      "abstract": "Learning an instrument can be rewarding, but is unavoidably a huge undertaking. Receiving constructive feedback on one\u2019s playing is crucial for improvement. However, personal feedback from an expert instructor is seldom available on demand. The goal motiv<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1uHn0_0BtDAzHyx2lewrp2xuAMO6BWhWM)</b>",
+      "authors": [
+        ""
+      ],
+      "authors_and_affil": [
+        "Yucong Jiang (University of Richmond)*"
+      ],
+      "channel_url": "",
+      "day": "3",
+      "keywords": [
+        ""
+      ],
+      "long_presentation": "",
+      "paper_presentation": "",
+      "pdf_path": "https://archives.ismir.net/ismir2023/paper/000043.pdf",
+      "poster_pdf": "https://drive.google.com/file/d/117YbHrFSD6J4L5i0bxrzfF02jqLJNkMv/view",
+      "session": [
+        "3"
+      ],
+      "slack_channel": "",
+      "title": "Expert and Novice Evaluations of Piano Performances: Criteria for Computer-Aided Feedback",
+      "video": "https://drive.google.com/uc?export=view&id=1uHn0_0BtDAzHyx2lewrp2xuAMO6BWhWM"
+    },
+    "forum": "129",
+    "id": "129",
+    "pic_id": "https://drive.google.com/file/d/1oPnn8Zl3n7s544Q3m1yvVAsfAfOQGx12/view",
+    "position": "12",
+    "poster_pdf": "GLTR_poster.pdf",
+    "session": "3"
+  },
+  {
+    "content": {
+      "TLDR": "Music retrieval and recommendation applications often rely on content features encoded as embeddings, which provide vector representations of items in a music dataset. Numerous complementary embeddings can be derived from processing items originally repre",
+      "abstract": "Music retrieval and recommendation applications often rely on content features encoded as embeddings, which provide vector representations of items in a music dataset. Numerous complementary embeddings can be derived from processing items originally repre<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1glaZPkG4r3hjat4frky06CPI2dJQu7Gv)</b>",
+      "authors": [
+        ""
+      ],
+      "authors_and_affil": [
+        "Andres Ferraro (Pandora/SiriusXM)*",
+        " Jaehun Kim (Pandora / SiriusXM)",
+        " Andreas Ehmann (Pandora)",
+        " Sergio Oramas (Pandora/SiriusXM)",
+        " Fabien Gouyon (Pandora/SiriusXM)"
+      ],
+      "channel_url": "",
+      "day": "3",
+      "keywords": [
+        ""
+      ],
+      "long_presentation": "",
+      "paper_presentation": "",
+      "pdf_path": "https://archives.ismir.net/ismir2023/paper/000044.pdf",
+      "poster_pdf": "https://drive.google.com/file/d/1uiop7gVPLVJrYbGF-v71nbYQBKSMEta2/view",
+      "session": [
+        "3"
+      ],
+      "slack_channel": "",
+      "title": "Contrastive Learning for Cross-modal Artist Retrieval",
+      "video": "https://drive.google.com/uc?export=view&id=1glaZPkG4r3hjat4frky06CPI2dJQu7Gv"
+    },
+    "forum": "147",
+    "id": "147",
+    "pic_id": "https://drive.google.com/file/d/13JN57EZ3ekgQYB9qN-lq9JQSsOIIoRJP/view",
+    "position": "13",
+    "poster_pdf": "GLTR_poster.pdf",
+    "session": "3"
+  },
+  {
+    "content": {
+      "TLDR": "The concept of form in music encompasses a wide range of musical aspects, such as phrases and (hierarchical) segmentation, formal functions, cadences and voice-leading schemata, form templates, and repetition structure. In an effort towards a unified mode",
+      "abstract": "The concept of form in music encompasses a wide range of musical aspects, such as phrases and (hierarchical) segmentation, formal functions, cadences and voice-leading schemata, form templates, and repetition structure. In an effort towards a unified mode<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1_NLe1v6sPdZHtLwyG9EPrTKMr4NYPRxr)</b>",
+      "authors": [
+        ""
+      ],
+      "authors_and_affil": [
+        "Christoph Finkensiep (EPFL)*",
+        " Matthieu Haeberle (EPFL)",
+        " Friedrich Eisenbrand (EPFL)",
+        " Markus Neuwirth (Anton Bruckner Privatuniversit\u00e4t Linz)",
+        " Martin A Rohrmeier (Ecole Polytechnique F\u00e9d\u00e9rale de Lausanne)"
+      ],
+      "channel_url": "",
+      "day": "3",
+      "keywords": [
+        ""
+      ],
+      "long_presentation": "",
+      "paper_presentation": "",
+      "pdf_path": "https://archives.ismir.net/ismir2023/paper/000045.pdf",
+      "poster_pdf": "https://drive.google.com/file/d/1g6z6blYSx82jkFjDSXELbDiatLGdIWnC/view",
+      "session": [
+        "3"
+      ],
+      "slack_channel": "",
+      "title": "Repetition-Structure Inference with Formal Prototypes",
+      "video": "https://drive.google.com/uc?export=view&id=1_NLe1v6sPdZHtLwyG9EPrTKMr4NYPRxr"
+    },
+    "forum": "139",
+    "id": "139",
+    "pic_id": "https://drive.google.com/file/d/1Ss8ym3rjM_ntIrTuqqOmIz0uGkcHnFBA/view",
+    "position": "14",
+    "poster_pdf": "GLTR_poster.pdf",
+    "session": "3"
+  },
+  {
+    "content": {
+      "TLDR": "Most melodies from the Western common practice period have a harmonic background, i.e., a succession of chords that fit the melody. In this paper we provide a novel approach to infer this harmonic background from the score notation of a melody. We first c",
+      "abstract": "Most melodies from the Western common practice period have a harmonic background, i.e., a succession of chords that fit the melody. In this paper we provide a novel approach to infer this harmonic background from the score notation of a melody. We first c<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1z4Ty51ZGrqT_IOXD08dqGK99PE3pHy-a)</b>",
+      "authors": [
+        ""
+      ],
+      "authors_and_affil": [
+        "Peter Van Kranenburg (Utrecht University",
+        " Meertens Institute)*",
+        " Eoin J Kearns (Meertens Instituut)"
+      ],
+      "channel_url": "",
+      "day": "3",
+      "keywords": [
+        ""
+      ],
+      "long_presentation": "",
+      "paper_presentation": "",
+      "pdf_path": "https://archives.ismir.net/ismir2023/paper/000046.pdf",
+      "poster_pdf": "https://drive.google.com/file/d/1fti4fr4-IrECum8xM05AGxKQbzfPEd5H/view",
+      "session": [
+        "3"
+      ],
+      "slack_channel": "",
+      "title": "Algorithmic Harmonization of Tonal Melodies using Weighted Pitch Context Vectors",
+      "video": "https://drive.google.com/uc?export=view&id=1z4Ty51ZGrqT_IOXD08dqGK99PE3pHy-a"
+    },
+    "forum": "140",
+    "id": "140",
+    "pic_id": "https://drive.google.com/file/d/1JZegifNNWqpB8I8YSPIMA7B3XB6gssy8/view",
+    "position": "15",
+    "poster_pdf": "GLTR_poster.pdf",
+    "session": "3"
+  },
+  {
+    "content": {
+      "TLDR": "This paper proposes a text-to-lyrics generation method, aiming to provide lyric writing support by suggesting the generated lyrics to users who struggle to find the right words to convey their message. Previous studies on lyrics generation have focused on",
+      "abstract": "This paper proposes a text-to-lyrics generation method, aiming to provide lyric writing support by suggesting the generated lyrics to users who struggle to find the right words to convey their message. Previous studies on lyrics generation have focused on<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1DWTDGJ_tm3_Bcyy15p7Nd30HtcOWXSd7)</b>",
+      "authors": [
+        ""
+      ],
+      "authors_and_affil": [
+        "Kento Watanabe (National Institute of Advanced Industrial Science and Technology (AIST))*",
+        " Masataka Goto (National Institute of Advanced Industrial Science and Technology (AIST))"
+      ],
+      "channel_url": "",
+      "day": "3",
+      "keywords": [
+        ""
+      ],
+      "long_presentation": "",
+      "paper_presentation": "",
+      "pdf_path": "https://archives.ismir.net/ismir2023/paper/000047.pdf",
+      "poster_pdf": "https://drive.google.com/file/d/1Jg01Ghr0AaE6RPHudgG1cW6zqYC9J_hj/view",
+      "session": [
+        "3"
+      ],
+      "slack_channel": "",
+      "title": "Text-to-lyrics generation with image-based semantics and reduced risk of plagiarism",
+      "video": "https://drive.google.com/uc?export=view&id=1DWTDGJ_tm3_Bcyy15p7Nd30HtcOWXSd7"
+    },
+    "forum": "142",
+    "id": "142",
+    "pic_id": "https://drive.google.com/file/d/1le4B70DjdhgRRPBBy7prQnoos-dVUOXB/view",
+    "position": "16",
+    "poster_pdf": "GLTR_poster.pdf",
+    "session": "3"
+  },
+  {
+    "content": {
+      "TLDR": "Automatic music captioning, which generates natural language descriptions for given music tracks, holds significant potential for enhancing the understanding and organization of large volumes of musical data. Despite its importance, researchers face chall",
+      "abstract": "Automatic music captioning, which generates natural language descriptions for given music tracks, holds significant potential for enhancing the understanding and organization of large volumes of musical data. Despite its importance, researchers face chall<br><br> <b><p align=\"center\">[Direct link to video]()</b>",
+      "authors": [
+        ""
+      ],
+      "authors_and_affil": [
+        "Seungheon Doh (KAIST)*",
+        " Keunwoo Choi (Gaudio Lab, Inc.)",
+        " Jongpil Lee (Neutune)",
+        " Juhan Nam (KAIST)"
+      ],
+      "channel_url": "",
+      "day": "3",
+      "keywords": [
+        ""
+      ],
+      "long_presentation": "",
+      "paper_presentation": "",
+      "pdf_path": "https://archives.ismir.net/ismir2023/paper/000048.pdf",
+      "poster_pdf": "",
+      "session": [
+        "4"
+      ],
+      "slack_channel": "",
+      "title": "LP-MusicCaps: LLM-Based Pseudo Music Captioning",
+      "video": ""
+    },
+    "forum": "219",
+    "id": "219",
+    "pic_id": "",
+    "position": "01",
+    "poster_pdf": "GLTR_poster.pdf",
+    "session": "4"
+  },
+  {
+    "content": {
+      "TLDR": "Contrastive learning has recently appeared as a well-suited method to find representations of music audio signals that are suitable for structural segmentation. However, most existing unsupervised training strategies omit the notion of repetition and ther",
+      "abstract": "Contrastive learning has recently appeared as a well-suited method to find representations of music audio signals that are suitable for structural segmentation. However, most existing unsupervised training strategies omit the notion of repetition and ther<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1R7OXYDdiBnHw0MOzYYS22E5I0BzAsudD)</b>",
+      "authors": [
+        ""
+      ],
+      "authors_and_affil": [
+        "Morgan Buisson (Telecom-Paris)*",
+        " Brian McFee (New York University)",
+        " Slim Essid (Telecom Paris - Institut Polytechnique de Paris)",
+        " Helene-Camille Crayencour (CNRS)"
+      ],
+      "channel_url": "",
+      "day": "3",
+      "keywords": [
+        ""
+      ],
+      "long_presentation": "",
+      "paper_presentation": "",
+      "pdf_path": "https://archives.ismir.net/ismir2023/paper/000049.pdf",
+      "poster_pdf": "https://drive.google.com/file/d/1u-UNDElMDqS_kKycvYlk-SzGI-pOCQHW/view",
+      "session": [
+        "4"
+      ],
+      "slack_channel": "",
+      "title": "A Repetition-based Triplet Mining Approach for Music Segmentation",
+      "video": "https://drive.google.com/uc?export=view&id=1R7OXYDdiBnHw0MOzYYS22E5I0BzAsudD"
+    },
+    "forum": "146",
+    "id": "146",
+    "pic_id": "https://drive.google.com/file/d/17MzD1-iUXo7XGH97XV0-A-ntlQ2eQ6_j/view",
+    "position": "02",
+    "poster_pdf": "GLTR_poster.pdf",
+    "session": "4"
+  },
+  {
+    "content": {
+      "TLDR": "This paper describes a data-driven framework to parse musical sequences into dependency trees, which are hierarchical structures used in music cognition research and music analysis.\u00a0The parsing involves two steps. First, the input sequence is passed throu",
+      "abstract": "This paper describes a data-driven framework to parse musical sequences into dependency trees, which are hierarchical structures used in music cognition research and music analysis.\u00a0The parsing involves two steps. First, the input sequence is passed throu<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1RDdU2rt3vymAbrxAePGUMcqIdsb9alVR)</b>",
+      "authors": [
+        ""
+      ],
+      "authors_and_affil": [
+        "Francesco Foscarin (Johannes Kepler University Linz)*",
+        " Daniel Harasim (\u00c9cole Polytechnique F\u00e9d\u00e9rale de Lausanne)",
+        " Gerhard Widmer (Johannes Kepler University)"
+      ],
+      "channel_url": "",
+      "day": "3",
+      "keywords": [
+        ""
+      ],
+      "long_presentation": "",
+      "paper_presentation": "",
+      "pdf_path": "https://archives.ismir.net/ismir2023/paper/000050.pdf",
+      "poster_pdf": "https://drive.google.com/file/d/1nMXueZAbPiQ7mt4ULaRE4rKCIOc2nqb3/view",
+      "session": [
+        "4"
+      ],
+      "slack_channel": "",
+      "title": "Predicting Music Hierarchies with a Graph-Based Neural Decoder",
+      "video": "https://drive.google.com/uc?export=view&id=1RDdU2rt3vymAbrxAePGUMcqIdsb9alVR"
+    },
+    "forum": "87",
+    "id": "87",
+    "pic_id": "https://drive.google.com/file/d/1L5mXxa9Uqnaw5ccYK7Yc-lhKO5DKiRa6/view",
+    "position": "03",
+    "poster_pdf": "GLTR_poster.pdf",
+    "session": "4"
+  },
+  {
+    "content": {
+      "TLDR": "Soft dynamic time warping (SDTW) is a differentiable loss function that allows for training neural networks from weakly aligned data. Typically, SDTW is used to iteratively compute and refine soft alignments that compensate for temporal deviations between",
+      "abstract": "Soft dynamic time warping (SDTW) is a differentiable loss function that allows for training neural networks from weakly aligned data. Typically, SDTW is used to iteratively compute and refine soft alignments that compensate for temporal deviations between<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1-78moijWNgGdVggNJ7Y9-m0Zf-urbrCc)</b>",
+      "authors": [
+        ""
+      ],
+      "authors_and_affil": [
+        "Johannes Zeitler (International Audio Laboratories Erlangen)*",
+        " Simon Deniffel (International Audio Laboratories Erlangen)",
+        " Michael Krause (International Audio Laboratories Erlangen)",
+        " Meinard M\u00fcller (International Audio Laboratories Erlangen)"
+      ],
+      "channel_url": "",
+      "day": "3",
+      "keywords": [
+        ""
+      ],
+      "long_presentation": "",
+      "paper_presentation": "",
+      "pdf_path": "https://archives.ismir.net/ismir2023/paper/000051.pdf",
+      "poster_pdf": "https://drive.google.com/file/d/1CJoFlJz2D5RNrZGTpc38z21k2hmv8GNw/view",
+      "session": [
+        "4"
+      ],
+      "slack_channel": "",
+      "title": "Stabilizing Training with Soft Dynamic Time Warping: A Case Study for Pitch Class Estimation with Weakly Aligned Targets",
+      "video": "https://drive.google.com/uc?export=view&id=1-78moijWNgGdVggNJ7Y9-m0Zf-urbrCc"
+    },
+    "forum": "133",
+    "id": "133",
+    "pic_id": "https://drive.google.com/file/d/1MLqN1GfLKbUXUNEh7GwFKx8cZ8N1hV3E/view",
+    "position": "04",
+    "poster_pdf": "GLTR_poster.pdf",
+    "session": "4"
+  },
+  {
+    "content": {
+      "TLDR": "In this paper, we introduce a computational analysis of the field recording dataset of approximately 700 hours of Korean folk songs, which were recorded around 1980-90s. Because most of the songs were sung by non-expert musicians without accompaniment, th",
+      "abstract": "In this paper, we introduce a computational analysis of the field recording dataset of approximately 700 hours of Korean folk songs, which were recorded around 1980-90s. Because most of the songs were sung by non-expert musicians without accompaniment, th<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=15pD_MIwtse6iGJYq87yB3clpOQF1yXUb)</b>",
+      "authors": [
+        ""
+      ],
+      "authors_and_affil": [
+        "Danbinaerin Han (Sogang Univ.)",
+        " Rafael Caro Repetto (Kunstuniversit\u00e4t Graz)",
+        " Dasaem Jeong (Sogang University)*"
+      ],
+      "channel_url": "",
+      "day": "3",
+      "keywords": [
+        ""
+      ],
+      "long_presentation": "",
+      "paper_presentation": "",
+      "pdf_path": "https://archives.ismir.net/ismir2023/paper/000052.pdf",
+      "poster_pdf": "https://drive.google.com/file/d/17T2UdKBXGrBPEkuGEqXvNkIK7ZzyRdtC/view",
+      "session": [
+        "4"
+      ],
+      "slack_channel": "",
+      "title": "Finding Tori: Self-supervised Learning for Analyzing Korean Folk Song",
+      "video": "https://drive.google.com/uc?export=view&id=15pD_MIwtse6iGJYq87yB3clpOQF1yXUb"
+    },
+    "forum": "149",
+    "id": "149",
+    "pic_id": "https://drive.google.com/file/d/1quJ5o6fdJ_S2CUXY8j9UJUsQOMdc2wGb/view",
+    "position": "05",
+    "poster_pdf": "GLTR_poster.pdf",
+    "session": "4"
+  },
+  {
+    "content": {
+      "TLDR": "\nSignificant strides have been made in creating voice identity representations using speech data. However, the same level of progress has not been achieved for singing voices. To bridge this gap, we suggest a framework for training singer identity encoder",
+      "abstract": "\nSignificant strides have been made in creating voice identity representations using speech data. However, the same level of progress has not been achieved for singing voices. To bridge this gap, we suggest a framework for training singer identity encoder<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1r37TEwXvewpSGLyZrd4H5H5x3qy3zoQG)</b>",
+      "authors": [
+        ""
+      ],
+      "authors_and_affil": [
+        "Bernardo Torres (Telecom Paris, Institut polytechnique de Paris)*",
+        " Stefan Lattner (Sony CSL)",
+        " Ga\u00ebl Richard (Telecom Paris, Institut polytechnique de Paris)"
+      ],
+      "channel_url": "",
+      "day": "3",
+      "keywords": [
+        ""
+      ],
+      "long_presentation": "",
+      "paper_presentation": "",
+      "pdf_path": "https://archives.ismir.net/ismir2023/paper/000053.pdf",
+      "poster_pdf": "https://drive.google.com/file/d/1B3Wp9yCZoTjOkhRhx831DlTksG2ErIM4/view",
+      "session": [
+        "4"
+      ],
+      "slack_channel": "",
+      "title": "Singer Identity Representation Learning using Self-Supervised Techniques",
+      "video": "https://drive.google.com/uc?export=view&id=1r37TEwXvewpSGLyZrd4H5H5x3qy3zoQG"
+    },
+    "forum": "204",
+    "id": "204",
+    "pic_id": "https://drive.google.com/file/d/1o44VOuMP9sJ60tGerTcJSSM-JyvkUmk2/view",
+    "position": "06",
+    "poster_pdf": "GLTR_poster.pdf",
+    "session": "4"
+  },
+  {
+    "content": {
+      "TLDR": "Self-supervised learning (SSL) has shown promising results in various speech and natural language processing applications. However, its efficacy in music information retrieval (MIR) still remains largely unexplored. While previous SSL models pre-trained o",
+      "abstract": "Self-supervised learning (SSL) has shown promising results in various speech and natural language processing applications. However, its efficacy in music information retrieval (MIR) still remains largely unexplored. While previous SSL models pre-trained o<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=10mpCdKtSk5Yoru88f_Xb9G9ws8hWff3Z)</b>",
+      "authors": [
+        ""
+      ],
+      "authors_and_affil": [
+        "Yinghao MA (Queen Mary University of London)*",
+        " Ruibin Yuan (CMU)",
+        " Yizhi Li (The University  of Sheffield)",
+        " Ge Zhang (University of Michigan)",
+        " Chenghua Lin (University of Sheffield)",
+        " Xingran Chen (University of Michigan)",
+        " Anton Ragni (University of Sheffie"
+      ],
+      "channel_url": "",
+      "day": "3",
+      "keywords": [
+        ""
+      ],
+      "long_presentation": "",
+      "paper_presentation": "",
+      "pdf_path": "https://archives.ismir.net/ismir2023/paper/000054.pdf",
+      "poster_pdf": "https://drive.google.com/file/d/1_LgOUP9QGXuJMS61lIa-LVW3U_SRovOP/view",
+      "session": [
+        "4"
+      ],
+      "slack_channel": "",
+      "title": "ON THE EFFECTIVENESS OF SPEECH SELF-SUPERVISED LEARNING FOR MUSIC",
+      "video": "https://drive.google.com/uc?export=view&id=10mpCdKtSk5Yoru88f_Xb9G9ws8hWff3Z"
+    },
+    "forum": "154",
+    "id": "154",
+    "pic_id": "https://drive.google.com/file/d/1RqHXshWTsX5c4giQIs3sdUJXeG1Rn17I/view",
+    "position": "07",
+    "poster_pdf": "GLTR_poster.pdf",
+    "session": "4"
+  },
+  {
+    "content": {
+      "TLDR": "In this paper, we address the beat tracking task which is to predict beat times corresponding to the input audio. Due to the long sequential inputs, it is still challenging to model the global structure efficiently and to deal with the data imbalance betw",
+      "abstract": "In this paper, we address the beat tracking task which is to predict beat times corresponding to the input audio. Due to the long sequential inputs, it is still challenging to model the global structure efficiently and to deal with the data imbalance betw<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1Ui91-lbVqm_xEI-oEa0ZmS5DOznR5hdi)</b>",
+      "authors": [
+        ""
+      ],
+      "authors_and_affil": [
+        "Tian Cheng (National Institute of Advanced Industrial Science and Technology (AIST))*",
+        " Masataka Goto (National Institute of Advanced Industrial Science and Technology (AIST))"
+      ],
+      "channel_url": "",
+      "day": "3",
+      "keywords": [
+        ""
+      ],
+      "long_presentation": "",
+      "paper_presentation": "",
+      "pdf_path": "https://archives.ismir.net/ismir2023/paper/000055.pdf",
+      "poster_pdf": "https://drive.google.com/file/d/1hPkF6xVjUmG1Y_yaqI3bZHbbSRSbS6C2/view",
+      "session": [
+        "4"
+      ],
+      "slack_channel": "",
+      "title": "Transformer-based beat tracking with low-resolution encoder and high-resolution decoder",
+      "video": "https://drive.google.com/uc?export=view&id=1Ui91-lbVqm_xEI-oEa0ZmS5DOznR5hdi"
+    },
+    "forum": "150",
+    "id": "150",
+    "pic_id": "https://drive.google.com/file/d/159NbL0joMwLVn2icPdD_E8jgBtBWstvk/view",
+    "position": "08",
+    "poster_pdf": "GLTR_poster.pdf",
+    "session": "4"
+  },
+  {
+    "content": {
+      "TLDR": "The objective of pattern-matching topics is to gain insights into repetitive patterns within or across various music genres and cultures. This approach aims to shed light on the recurring instances present in diverse musical traditions. The paper presents",
+      "abstract": "The objective of pattern-matching topics is to gain insights into repetitive patterns within or across various music genres and cultures. This approach aims to shed light on the recurring instances present in diverse musical traditions. The paper presents<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=126Ahz0VboSi0Q92hJ9CKcnW9xLZW0AKQ)</b>",
+      "authors": [
+        ""
+      ],
+      "authors_and_affil": [
+        "Vanessa Nina Borsan (Universit\u00e9 de Lille)*",
+        " Mathieu Giraud (CNRS, Universit\u00e9 de Lille)",
+        " Richard Groult (Universit\u00e9 de Rouen Normandie)",
+        " Thierry Lecroq (Universit\u00e9 de Rouen Normandie )"
+      ],
+      "channel_url": "",
+      "day": "3",
+      "keywords": [
+        ""
+      ],
+      "long_presentation": "",
+      "paper_presentation": "",
+      "pdf_path": "https://archives.ismir.net/ismir2023/paper/000056.pdf",
+      "poster_pdf": "https://drive.google.com/file/d/1KnhvnhEOK0CZFBallZ1QasV1vJyWU3-p/view",
+      "session": [
+        "4"
+      ],
+      "slack_channel": "",
+      "title": "Adding Descriptors to Melodies Improves Pattern Matching: A Study on Slovenian Folk Songs",
+      "video": "https://drive.google.com/uc?export=view&id=126Ahz0VboSi0Q92hJ9CKcnW9xLZW0AKQ"
+    },
+    "forum": "156",
+    "id": "156",
+    "pic_id": "https://drive.google.com/file/d/1ICMtuG-1wFvmkPbjCbwh0HQLGOoXM-BR/view",
+    "position": "09",
+    "poster_pdf": "GLTR_poster.pdf",
+    "session": "4"
+  },
+  {
+    "content": {
+      "TLDR": "As streaming services have become a main channel for music consumption, they significantly impact various stakeholders: users, artists who provide music, and other professionals working in the music industry. Therefore, it is essential to consider all sta",
+      "abstract": "As streaming services have become a main channel for music consumption, they significantly impact various stakeholders: users, artists who provide music, and other professionals working in the music industry. Therefore, it is essential to consider all sta<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1TFaGAyaFQK70F5rd7eXXeu-AlrKcsrzc)</b>",
+      "authors": [
+        ""
+      ],
+      "authors_and_affil": [
+        "Karlijn Dinnissen (Utrecht University)*",
+        " Christine Bauer (Paris Lodron University Salzburg)"
+      ],
+      "channel_url": "",
+      "day": "3",
+      "keywords": [
+        ""
+      ],
+      "long_presentation": "",
+      "paper_presentation": "",
+      "pdf_path": "https://archives.ismir.net/ismir2023/paper/000057.pdf",
+      "poster_pdf": "https://drive.google.com/file/d/1eL3Z3KjS4tNX58UGKSDJBmNCJVt3aRrr/view",
+      "session": [
+        "4"
+      ],
+      "slack_channel": "",
+      "title": "How Control and Transparency for Users Could Improve Artist Fairness in Music Recommender Systems",
+      "video": "https://drive.google.com/uc?export=view&id=1TFaGAyaFQK70F5rd7eXXeu-AlrKcsrzc"
+    },
+    "forum": "159",
+    "id": "159",
+    "pic_id": "https://drive.google.com/file/d/1DU_DRny34LO8VqB7JAsZVh-2XCzbr4h5/view",
+    "position": "10",
+    "poster_pdf": "GLTR_poster.pdf",
+    "session": "4"
+  },
+  {
+    "content": {
+      "TLDR": "In light of the enduring success of music streaming services, it is noteworthy that an increasing number of users are positively gravitating toward YouTube as their preferred platform for listening to music. YouTube differs from traditional music streamin",
+      "abstract": "In light of the enduring success of music streaming services, it is noteworthy that an increasing number of users are positively gravitating toward YouTube as their preferred platform for listening to music. YouTube differs from traditional music streamin<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1iJq_hG7isweMKvYvZluLrr9eTSThcwf2)</b>",
+      "authors": [
+        ""
+      ],
+      "authors_and_affil": [
+        "Ahyeon Choi (Seoul National University)*",
+        " Eunsik Shin (Seoul National University)",
+        " Haesun Joung (Seoul National University)",
+        " Joongseek Lee (Seoul National University)",
+        " Kyogu Lee (Seoul National University)"
+      ],
+      "channel_url": "",
+      "day": "3",
+      "keywords": [
+        ""
+      ],
+      "long_presentation": "",
+      "paper_presentation": "",
+      "pdf_path": "https://archives.ismir.net/ismir2023/paper/000058.pdf",
+      "poster_pdf": "https://drive.google.com/file/d/1oHJYmdzFIa4qVWUCPl3RqvFNDsIZ2UCC/view",
+      "session": [
+        "4"
+      ],
+      "slack_channel": "",
+      "title": "Towards a New Interface for Music Listening: A User Experience Study on YouTube",
+      "video": "https://drive.google.com/uc?export=view&id=1iJq_hG7isweMKvYvZluLrr9eTSThcwf2"
+    },
+    "forum": "165",
+    "id": "165",
+    "pic_id": "https://drive.google.com/file/d/1OhjCgBZQFMCRUtI_knEe9dDjBhJwldma/view",
+    "position": "11",
+    "poster_pdf": "GLTR_poster.pdf",
+    "session": "4"
+  },
+  {
+    "content": {
+      "TLDR": "We present FiloBass: a novel corpus of music scores and annotations which focuses on the important but often overlooked role of the double bass in jazz accompaniment. Inspired by recent works that shed light on the role of the soloist, we offer a collecti",
+      "abstract": "We present FiloBass: a novel corpus of music scores and annotations which focuses on the important but often overlooked role of the double bass in jazz accompaniment. Inspired by recent works that shed light on the role of the soloist, we offer a collecti<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1YpN38YW55mYs9E4A7jGfwGCr0vyC-Xug)</b>",
+      "authors": [
+        ""
+      ],
+      "authors_and_affil": [
+        "Xavier Riley (C4DM)*",
+        " Simon Dixon (Queen Mary University of London)"
+      ],
+      "channel_url": "",
+      "day": "3",
+      "keywords": [
+        ""
+      ],
+      "long_presentation": "",
+      "paper_presentation": "",
+      "pdf_path": "https://archives.ismir.net/ismir2023/paper/000059.pdf",
+      "poster_pdf": "https://drive.google.com/file/d/1waVg_oTy_OJxKRZ-2X_9ifOnLd2Kk4m9/view",
+      "session": [
+        "4"
+      ],
+      "slack_channel": "",
+      "title": "FiloBass: A Dataset and Corpus Based Study of Jazz Basslines",
+      "video": "https://drive.google.com/uc?export=view&id=1YpN38YW55mYs9E4A7jGfwGCr0vyC-Xug"
+    },
+    "forum": "236",
+    "id": "236",
+    "pic_id": "https://drive.google.com/file/d/1WCEw7f4sB5C7c6Sd0xIecmNcGYVW2-an/view",
+    "position": "12",
+    "poster_pdf": "GLTR_poster.pdf",
+    "session": "4"
+  },
+  {
+    "content": {
+      "TLDR": "In this paper, we propose four different approaches to quantify similarities of compositional texture in symbolically encoded piano music. A melodic contour or harmonic progression can be shaped into a wide variety of different rhythms, densities, or comb",
+      "abstract": "In this paper, we propose four different approaches to quantify similarities of compositional texture in symbolically encoded piano music. A melodic contour or harmonic progression can be shaped into a wide variety of different rhythms, densities, or comb<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1hk8eiCacdB8iR0ZwJu-c5UjEEZ96MJ-w)</b>",
+      "authors": [
+        ""
+      ],
+      "authors_and_affil": [
+        "Louis Couturier (MIS, Universit\u00e9 de Picardie Jules Verne)*",
+        " Louis Bigo (Universit\u00e9 de Lille)",
+        " Florence Leve (Universit\u00e9 de Picardie Jules Verne - Lab. MIS - Algomus)"
+      ],
+      "channel_url": "",
+      "day": "3",
+      "keywords": [
+        ""
+      ],
+      "long_presentation": "",
+      "paper_presentation": "",
+      "pdf_path": "https://archives.ismir.net/ismir2023/paper/000060.pdf",
+      "poster_pdf": "https://drive.google.com/file/d/1Ve5XrBWIIW976IRWGxgCD04HwEDX1MXM/view",
+      "session": [
+        "4"
+      ],
+      "slack_channel": "",
+      "title": "Comparing Texture in Piano Scores",
+      "video": "https://drive.google.com/uc?export=view&id=1hk8eiCacdB8iR0ZwJu-c5UjEEZ96MJ-w"
+    },
+    "forum": "170",
+    "id": "170",
+    "pic_id": "https://drive.google.com/file/d/1osooaWw-wYuQdjnUAxqY_R1JsaEi3Av3/view",
+    "position": "13",
+    "poster_pdf": "GLTR_poster.pdf",
+    "session": "4"
+  },
+  {
+    "content": {
+      "TLDR": "As corpora of digital musical scores continue to grow, the need for research tools capable of manipulating such data efficiently, with an intuitive interface, and support for a diversity of file formats, becomes increasingly pressing. In response, this pa",
+      "abstract": "As corpora of digital musical scores continue to grow, the need for research tools capable of manipulating such data efficiently, with an intuitive interface, and support for a diversity of file formats, becomes increasingly pressing. In response, this pa<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1h9TxRIy3JM9Xq-zU8aDLzL-SykIampwO)</b>",
+      "authors": [
+        ""
+      ],
+      "authors_and_affil": [
+        "Johannes Hentschel (\u00c9cole Polytechnique F\u00e9d\u00e9rale de Lausanne)*",
+        " Andrew McLeod (Fraunhofer IDMT)",
+        " Yannis Rammos (EPFL)",
+        " Martin A Rohrmeier (Ecole Polytechnique F\u00e9d\u00e9rale de Lausanne)"
+      ],
+      "channel_url": "",
+      "day": "3",
+      "keywords": [
+        ""
+      ],
+      "long_presentation": "",
+      "paper_presentation": "",
+      "pdf_path": "https://archives.ismir.net/ismir2023/paper/000061.pdf",
+      "poster_pdf": "https://drive.google.com/file/d/18IuVXr59wiqy3Qou-zlpV0bHhNQdSLzo/view",
+      "session": [
+        "4"
+      ],
+      "slack_channel": "",
+      "title": "Introducing Anonymous to leverage the dataframe for processing and analyzing notated music on a very large scale",
+      "video": "https://drive.google.com/uc?export=view&id=1h9TxRIy3JM9Xq-zU8aDLzL-SykIampwO"
+    },
+    "forum": "52",
+    "id": "52",
+    "pic_id": "https://drive.google.com/file/d/1byrcTFqiyyGpMDUoB_vyZYYNYTZNd2-1/view",
+    "position": "14",
+    "poster_pdf": "GLTR_poster.pdf",
+    "session": "4"
+  },
+  {
+    "content": {
+      "TLDR": "We propose multiple methods for effectively training a sequence-to-sequence automatic guitar transcription model which uses tokenized music representation as an output. Our proposed method mainly consists of 1) a hybrid CTC-Attention model for sequence-to",
+      "abstract": "We propose multiple methods for effectively training a sequence-to-sequence automatic guitar transcription model which uses tokenized music representation as an output. Our proposed method mainly consists of 1) a hybrid CTC-Attention model for sequence-to<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1H-rOfrOD9_sWFJxM5q8-tM5ybEotVi6_)</b>",
+      "authors": [
+        ""
+      ],
+      "authors_and_affil": [
+        "Sehun Kim (Nagoya University)*",
+        " Kazuya Takeda (Nagoya University)",
+        " Tomoki Toda (Nagoya University)"
+      ],
+      "channel_url": "",
+      "day": "3",
+      "keywords": [
+        ""
+      ],
+      "long_presentation": "",
+      "paper_presentation": "",
+      "pdf_path": "https://archives.ismir.net/ismir2023/paper/000062.pdf",
+      "poster_pdf": "https://drive.google.com/file/d/1nfV8jdToJLq9AjSHgV9299rCC7OtF3YC/view",
+      "session": [
+        "4"
+      ],
+      "slack_channel": "",
+      "title": "Sequence-to-Sequence Network Training Methods for Automatic Guitar Transcription with Tokenized Outputs",
+      "video": "https://drive.google.com/uc?export=view&id=1H-rOfrOD9_sWFJxM5q8-tM5ybEotVi6_"
+    },
+    "forum": "161",
+    "id": "161",
+    "pic_id": "",
+    "position": "15",
+    "poster_pdf": "GLTR_poster.pdf",
+    "session": "4"
+  },
+  {
+    "content": {
+      "TLDR": "In this paper, we address the problem of pitch estimation using self-supervised learning (SSL). The SSL paradigm we use is equivariance to pitch transposition, which enables our model to accurately perform pitch estimation on monophonic audio after being ",
+      "abstract": "In this paper, we address the problem of pitch estimation using self-supervised learning (SSL). The SSL paradigm we use is equivariance to pitch transposition, which enables our model to accurately perform pitch estimation on monophonic audio after being <br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1IyGmxASQUh9-Vvokvlyh28TPkuWkhHTL)</b>",
+      "authors": [
+        ""
+      ],
+      "authors_and_affil": [
+        "Alain Riou (T\u00e9l\u00e9com Paris, IP Paris, Sony CSL)*",
+        " Stefan Lattner (Sony CSL)",
+        " Ga\u00ebtan Hadjeres (Sony CSL)",
+        " Geoffroy Peeters (LTCI - T\u00e9l\u00e9com Paris, IP Paris)"
+      ],
+      "channel_url": "",
+      "day": "4",
+      "keywords": [
+        ""
+      ],
+      "long_presentation": "",
+      "paper_presentation": "",
+      "pdf_path": "https://archives.ismir.net/ismir2023/paper/000063.pdf",
+      "poster_pdf": "https://drive.google.com/file/d/1E38ECBFAzVt-Z1hvSyPoZb4TIShie6Yy/view",
+      "session": [
+        "5"
+      ],
+      "slack_channel": "",
+      "title": "PESTO: Pitch Estimation with Self-supervised Transposition-equivariant Objective",
+      "video": "https://drive.google.com/uc?export=view&id=1IyGmxASQUh9-Vvokvlyh28TPkuWkhHTL"
+    },
+    "forum": "205",
+    "id": "205",
+    "pic_id": "https://drive.google.com/file/d/1-cJpDm-wpwO4_qHAzU5GJlZCDrkxYltb/view",
+    "position": "01",
+    "poster_pdf": "GLTR_poster.pdf",
+    "session": "5"
+  },
+  {
+    "content": {
+      "TLDR": "Throughout history, a consistent temporal and spatial gap has persisted between the inception of novel knowledge and technology and their subsequent adoption for extensive practical utilization. The article explores the dynamic interaction and exchange of",
+      "abstract": "Throughout history, a consistent temporal and spatial gap has persisted between the inception of novel knowledge and technology and their subsequent adoption for extensive practical utilization. The article explores the dynamic interaction and exchange of<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1qalUTMUdUqsIFLg8CNj01uDXllrInwEu)</b>",
+      "authors": [
+        ""
+      ],
+      "authors_and_affil": [
+        "Vanessa Nina Borsan (Universit\u00e9 de Lille)*",
+        " Mathieu Giraud (CNRS, Universit\u00e9 de Lille)",
+        " Richard Groult (Universit\u00e9 de Rouen Normandie)"
+      ],
+      "channel_url": "",
+      "day": "4",
+      "keywords": [
+        ""
+      ],
+      "long_presentation": "",
+      "paper_presentation": "",
+      "pdf_path": "https://archives.ismir.net/ismir2023/paper/000064.pdf",
+      "poster_pdf": "https://drive.google.com/file/d/1LeZsFax_jlsd1IS8-wmjaOhkaYhr9KlC/view",
+      "session": [
+        "5"
+      ],
+      "slack_channel": "",
+      "title": "The Games We Play: Exploring The Impact of ISMIR on Musicology",
+      "video": "https://drive.google.com/uc?export=view&id=1qalUTMUdUqsIFLg8CNj01uDXllrInwEu"
+    },
+    "forum": "158",
+    "id": "158",
+    "pic_id": "https://drive.google.com/file/d/1QBK2dKq6-Sz-UYq1lNEkOfkXlTQuwCQ4/view",
+    "position": "02",
+    "poster_pdf": "GLTR_poster.pdf",
+    "session": "5"
+  },
+  {
+    "content": {
+      "TLDR": "Supervised music source separation systems using deep learning are trained by minimizing a loss function between pairs of predicted separations and ground-truth isolated sources. However, open datasets comprising isolated sources are few, small, and restr",
+      "abstract": "Supervised music source separation systems using deep learning are trained by minimizing a loss function between pairs of predicted separations and ground-truth isolated sources. However, open datasets comprising isolated sources are few, small, and restr<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1Yqe3wjveVzIkww9Oo4ljGlszdTPvRqkD)</b>",
+      "authors": [
+        ""
+      ],
+      "authors_and_affil": [
+        "Gen\u00eds Plaja-Roglans (Music Technology Group)*",
+        " Marius Miron (Universitat Pompeu Fabra)",
+        " Adithi Shankar (Universitat Pompeu Fabra)",
+        " Xavier Serra (Universitat Pompeu Fabra )"
+      ],
+      "channel_url": "",
+      "day": "4",
+      "keywords": [
+        ""
+      ],
+      "long_presentation": "",
+      "paper_presentation": "",
+      "pdf_path": "https://archives.ismir.net/ismir2023/paper/000065.pdf",
+      "poster_pdf": "https://drive.google.com/file/d/1_ANxPnfRtsoefXwSSdezWmwiY54AQx0P/view",
+      "session": [
+        "5"
+      ],
+      "slack_channel": "",
+      "title": "Carnatic Singing Voice Separation Using Cold Diffusion on Training Data with Bleeding",
+      "video": "https://drive.google.com/uc?export=view&id=1Yqe3wjveVzIkww9Oo4ljGlszdTPvRqkD"
+    },
+    "forum": "176",
+    "id": "176",
+    "pic_id": "https://drive.google.com/file/d/1g2JQFuTdYhuXCy3WOs9CG90ko3Yt4cj-/view",
+    "position": "03",
+    "poster_pdf": "GLTR_poster.pdf",
+    "session": "5"
+  },
+  {
+    "content": {
+      "TLDR": "When a user listens to a song for the first time, what musical factors (e.g., melody, tempo, and lyrics) influence the user's decision to like or dislike the song? An answer to this question would enable researchers to more deeply understand how people in",
+      "abstract": "When a user listens to a song for the first time, what musical factors (e.g., melody, tempo, and lyrics) influence the user's decision to like or dislike the song? An answer to this question would enable researchers to more deeply understand how people in<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1k3TdguuXpFUM-8BYGn6q_stKRRaIbvua)</b>",
+      "authors": [
+        ""
+      ],
+      "authors_and_affil": [
+        "Kosetsu Tsukuda (National Institute of Advanced Industrial Science and Technology (AIST))*",
+        " Tomoyasu Nakano (National Institute of Advanced Industrial Science and Technology (AIST))",
+        " Masahiro Hamasaki (National Institute of Advanced Industrial Science and"
+      ],
+      "channel_url": "",
+      "day": "4",
+      "keywords": [
+        ""
+      ],
+      "long_presentation": "",
+      "paper_presentation": "",
+      "pdf_path": "https://archives.ismir.net/ismir2023/paper/000066.pdf",
+      "poster_pdf": "https://drive.google.com/file/d/1B9kmqixemKtVnFleUFKGTboodh8t2FFr/view",
+      "session": [
+        "5"
+      ],
+      "slack_channel": "",
+      "title": "Unveiling the Impact of Musical Factors in Judging a Song on First Listen: Insights from a User Survey",
+      "video": "https://drive.google.com/uc?export=view&id=1k3TdguuXpFUM-8BYGn6q_stKRRaIbvua"
+    },
+    "forum": "179",
+    "id": "179",
+    "pic_id": "https://drive.google.com/file/d/1NvvZYM7IVTorRFkOerJ_SMLAmO7tfeEC/view",
+    "position": "04",
+    "poster_pdf": "GLTR_poster.pdf",
+    "session": "5"
+  },
+  {
+    "content": {
+      "TLDR": "The historical development of medieval plainchant melodies is an intriguing musicological topic that invites computational approaches to study it at scale. Plainchant melodies can be represented as strings from a limited alphabet, hence making it technica",
+      "abstract": "The historical development of medieval plainchant melodies is an intriguing musicological topic that invites computational approaches to study it at scale. Plainchant melodies can be represented as strings from a limited alphabet, hence making it technica<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1A3OyouqQ6G7G0bXYC5zUaX0-67Kc6WNn)</b>",
+      "authors": [
+        ""
+      ],
+      "authors_and_affil": [
+        "Jan Haji_, jr. (Charles University)*",
+        " Gustavo Ballen (dos Reis research group, School of Biological and Behavioural Sciences, Queen Mary University of London)",
+        " Kl\u00e1ra M\u00fchlov\u00e1 (Institute of Musicology, Faculty of Arts, Masaryk University)",
+        " Hana Vlhov\u00e1-W\u00f6rne"
+      ],
+      "channel_url": "",
+      "day": "4",
+      "keywords": [
+        ""
+      ],
+      "long_presentation": "",
+      "paper_presentation": "",
+      "pdf_path": "https://archives.ismir.net/ismir2023/paper/000067.pdf",
+      "poster_pdf": "https://drive.google.com/file/d/1njr07WsSeq2iWcgYfvi2NwhY5aE-RDkt/view",
+      "session": [
+        "5"
+      ],
+      "slack_channel": "",
+      "title": "Towards Building a Phylogeny of Gregorian Chant Melodies",
+      "video": "https://drive.google.com/uc?export=view&id=1A3OyouqQ6G7G0bXYC5zUaX0-67Kc6WNn"
+    },
+    "forum": "180",
+    "id": "180",
+    "pic_id": "https://drive.google.com/file/d/1xmnYaY-xg1BuYEeW22XyKuO_h7mx1IwF/view",
+    "position": "05",
+    "poster_pdf": "GLTR_poster.pdf",
+    "session": "5"
+  },
+  {
+    "content": {
+      "TLDR": "Music classification has been one of the most popular tasks in the field of music information retrieval. With the development of deep learning models, the last decade has seen impressive improvements in a wide range of classification tasks. However, the i",
+      "abstract": "Music classification has been one of the most popular tasks in the field of music information retrieval. With the development of deep learning models, the last decade has seen impressive improvements in a wide range of classification tasks. However, the i<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1hh6L-FIc_3Ptt_MrZHeFD8-uQw88a4tm)</b>",
+      "authors": [
+        ""
+      ],
+      "authors_and_affil": [
+        "Yiwei Ding (Georgia Institute of Technology)*",
+        " Alexander Lerch (Georgia Institute of Technology)"
+      ],
+      "channel_url": "",
+      "day": "4",
+      "keywords": [
+        ""
+      ],
+      "long_presentation": "",
+      "paper_presentation": "",
+      "pdf_path": "https://archives.ismir.net/ismir2023/paper/000068.pdf",
+      "poster_pdf": "https://drive.google.com/file/d/1jDmXNpEtDnYx13zWdgBWZxFv07--79Xw/view",
+      "session": [
+        "5"
+      ],
+      "slack_channel": "",
+      "title": "Audio Embeddings as Teachers for Music Classification",
+      "video": "https://drive.google.com/uc?export=view&id=1hh6L-FIc_3Ptt_MrZHeFD8-uQw88a4tm"
+    },
+    "forum": "182",
+    "id": "182",
+    "pic_id": "https://drive.google.com/file/d/1yHE7wVW21ORQmtobdGp71QvM9lfIrxS6/view",
+    "position": "06",
+    "poster_pdf": "GLTR_poster.pdf",
+    "session": "5"
+  },
+  {
+    "content": {
+      "TLDR": "We present ScorePerformer, an encoder-decoder transformer with hierarchical style encoding heads for controllable rendering of expressive piano music performances. We design a tokenized representation of symbolic score and performance music, the Score Per",
+      "abstract": "We present ScorePerformer, an encoder-decoder transformer with hierarchical style encoding heads for controllable rendering of expressive piano music performances. We design a tokenized representation of symbolic score and performance music, the Score Per<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1vbIybJB4N66A0xQ7yAWzKkquZYAmJtTm)</b>",
+      "authors": [
+        ""
+      ],
+      "authors_and_affil": [
+        "Ilya Borovik (Skolkovo Institute of Science and Technology)*",
+        " Vladimir Viro (Peachnote)"
+      ],
+      "channel_url": "",
+      "day": "4",
+      "keywords": [
+        ""
+      ],
+      "long_presentation": "",
+      "paper_presentation": "",
+      "pdf_path": "https://archives.ismir.net/ismir2023/paper/000069.pdf",
+      "poster_pdf": "https://drive.google.com/file/d/13j1Zkl2_WFOTKRA-WgzOy_2G3UII5ipa/view",
+      "session": [
+        "5"
+      ],
+      "slack_channel": "",
+      "title": "ScorePerformer: Expressive Piano Performance Rendering with Fine-Grained Control",
+      "video": "https://drive.google.com/uc?export=view&id=1vbIybJB4N66A0xQ7yAWzKkquZYAmJtTm"
+    },
+    "forum": "183",
+    "id": "183",
+    "pic_id": "https://drive.google.com/file/d/1nk1g0AAilKaTQaBbUu3WUkZFyruTUNRl/view",
+    "position": "07",
+    "poster_pdf": "GLTR_poster.pdf",
+    "session": "5"
+  },
+  {
+    "content": {
+      "TLDR": "Roman Numeral analysis is the important task of identifying chords and their functional context in pieces of tonal music. \nThis paper presents a new approach to automatic Roman Numeral analysis in symbolic music. While existing techniques rely on an inter",
+      "abstract": "Roman Numeral analysis is the important task of identifying chords and their functional context in pieces of tonal music. \nThis paper presents a new approach to automatic Roman Numeral analysis in symbolic music. While existing techniques rely on an inter<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=11FgFY287Aemntt0pXL5tCnLJ-WtRRXVA)</b>",
+      "authors": [
+        ""
+      ],
+      "authors_and_affil": [
+        "Emmanouil Karystinaios (Johannes Kepler University)*",
+        " Gerhard Widmer (Johannes Kepler University)"
+      ],
+      "channel_url": "",
+      "day": "4",
+      "keywords": [
+        ""
+      ],
+      "long_presentation": "",
+      "paper_presentation": "",
+      "pdf_path": "https://archives.ismir.net/ismir2023/paper/000070.pdf",
+      "poster_pdf": "https://drive.google.com/file/d/16X_gLqPUC64Oi48kfzaSCe0MErT9aY5h/view",
+      "session": [
+        "5"
+      ],
+      "slack_channel": "",
+      "title": "Roman Numeral Analysis with Graph Neural Networks: Onset-wise Predictions from Note-wise Features",
+      "video": "https://drive.google.com/uc?export=view&id=11FgFY287Aemntt0pXL5tCnLJ-WtRRXVA"
+    },
+    "forum": "89",
+    "id": "89",
+    "pic_id": "https://drive.google.com/file/d/13jGWJNT1KC01cosmgMgCJ9haPcGJOVUz/view",
+    "position": "08",
+    "poster_pdf": "GLTR_poster.pdf",
+    "session": "5"
+  },
+  {
+    "content": {
+      "TLDR": "We present a system to assist Subject Matter Experts (SMEs) to curate large online music catalogs. The system detects releases that are incorrectly attributed to an artist discography (misattribution), when the discography of a single artist is incorrectl",
+      "abstract": "We present a system to assist Subject Matter Experts (SMEs) to curate large online music catalogs. The system detects releases that are incorrectly attributed to an artist discography (misattribution), when the discography of a single artist is incorrectl<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=16_7tMqQrmgDBP_AGtaBTo9DEsTD1XgV0)</b>",
+      "authors": [
+        ""
+      ],
+      "authors_and_affil": [
+        "Brian Regan (Spotify)*",
+        " Desislava Hristova (Spotify)",
+        " Mariano Beguerisse-D\u00edaz (Spotify)"
+      ],
+      "channel_url": "",
+      "day": "4",
+      "keywords": [
+        ""
+      ],
+      "long_presentation": "",
+      "paper_presentation": "",
+      "pdf_path": "https://archives.ismir.net/ismir2023/paper/000071.pdf",
+      "poster_pdf": "https://drive.google.com/file/d/11bJaG1XGVRnokhKwaR47howB-BdQakK_/view",
+      "session": [
+        "5"
+      ],
+      "slack_channel": "",
+      "title": "Semi-Automated Music Catalog Curation Using Audio and Metadata",
+      "video": "https://drive.google.com/uc?export=view&id=16_7tMqQrmgDBP_AGtaBTo9DEsTD1XgV0"
+    },
+    "forum": "199",
+    "id": "199",
+    "pic_id": "https://drive.google.com/file/d/1yTPpHfuqjLvRoKFjVoXHZlfHWnzqp_SN/view",
+    "position": "09",
+    "poster_pdf": "GLTR_poster.pdf",
+    "session": "5"
+  },
+  {
+    "content": {
+      "TLDR": "Musical instrument recognition enables applications such as instrument-based music search and audio manipulation, which are highly sought-after processes in everyday music consumption and production. Despite continuous progresses, advances in automatic mu",
+      "abstract": "Musical instrument recognition enables applications such as instrument-based music search and audio manipulation, which are highly sought-after processes in everyday music consumption and production. Despite continuous progresses, advances in automatic mu<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=19KmwqtzdT_U7Hmx7Is-_WjRsm7qDP7Qv)</b>",
+      "authors": [
+        ""
+      ],
+      "authors_and_affil": [
+        "Ioannis Petros Samiotis (Delft University of Technology)*",
+        " Alessandro  Bozzon (Delft University of Technology)",
+        " Christoph Lofi (TU Delft)"
+      ],
+      "channel_url": "",
+      "day": "4",
+      "keywords": [
+        ""
+      ],
+      "long_presentation": "",
+      "paper_presentation": "",
+      "pdf_path": "https://archives.ismir.net/ismir2023/paper/000072.pdf",
+      "poster_pdf": "https://drive.google.com/file/d/1FzPdsSh7yjCQQ6JPZHd0ZSlK_ue6tfjb/view",
+      "session": [
+        "5"
+      ],
+      "slack_channel": "",
+      "title": "Crowd's Performance on Temporal  Activity Detection of Musical Instruments in Polyphonic Music",
+      "video": "https://drive.google.com/uc?export=view&id=19KmwqtzdT_U7Hmx7Is-_WjRsm7qDP7Qv"
+    },
+    "forum": "202",
+    "id": "202",
+    "pic_id": "https://drive.google.com/file/d/1LwNRWoWsIIYeECYsJx7cE_v1yoswxU8h/view",
+    "position": "10",
+    "poster_pdf": "GLTR_poster.pdf",
+    "session": "5"
+  },
+  {
+    "content": {
+      "TLDR": "In this paper, we introduce the MoisesDB dataset for musical source separation. It consists of 240 tracks from 45 artists, covering twelve musical genres. \nFor each song, we provide its individual audio sources, organized in a two-level hierarchical taxon",
+      "abstract": "In this paper, we introduce the MoisesDB dataset for musical source separation. It consists of 240 tracks from 45 artists, covering twelve musical genres. \nFor each song, we provide its individual audio sources, organized in a two-level hierarchical taxon<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1tpXSRd_xGFPNBldII75K1wZsAsoQ068d)</b>",
+      "authors": [
+        ""
+      ],
+      "authors_and_affil": [
+        "Igor G. Pereira (Moises.AI)*",
+        " Felipe Araujo (Moises.AI)",
+        " Filip Korzeniowski (Moises.AI)",
+        " Richard Vogl (moises.ai)"
+      ],
+      "channel_url": "",
+      "day": "4",
+      "keywords": [
+        ""
+      ],
+      "long_presentation": "",
+      "paper_presentation": "",
+      "pdf_path": "https://archives.ismir.net/ismir2023/paper/000073.pdf",
+      "poster_pdf": "https://drive.google.com/file/d/1x1nTGSfK6jUcphVYGlgKgXXVZAmsKItX/view",
+      "session": [
+        "5"
+      ],
+      "slack_channel": "",
+      "title": "MoisesDB: A Dataset For Source Separation Beyond 4 Stems",
+      "video": "https://drive.google.com/uc?export=view&id=1tpXSRd_xGFPNBldII75K1wZsAsoQ068d"
+    },
+    "forum": "160",
+    "id": "160",
+    "pic_id": "https://drive.google.com/file/d/1V1bBCq2K2HBY0ULXBjuFENZg4q30Y7oy/view",
+    "position": "11",
+    "poster_pdf": "GLTR_poster.pdf",
+    "session": "5"
+  },
+  {
+    "content": {
+      "TLDR": "Modeling the temporal unfolding of musical events and its interpretation in terms of hierarchical relations is a common theme in music theory, cognition, and composition. To faithfully encode such relations, we need an elegant way to represent both the se",
+      "abstract": "Modeling the temporal unfolding of musical events and its interpretation in terms of hierarchical relations is a common theme in music theory, cognition, and composition. To faithfully encode such relations, we need an elegant way to represent both the se<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=19qDR-nUFtQUAxJE0km1U2Kzvm-HQvO7o)</b>",
+      "authors": [
+        ""
+      ],
+      "authors_and_affil": [
+        "Zeng Ren (EPFL)*",
+        " Wulfram Gerstner (EPFL)",
+        " Martin A Rohrmeier (Ecole Polytechnique F\u00e9d\u00e9rale de Lausanne)"
+      ],
+      "channel_url": "",
+      "day": "4",
+      "keywords": [
+        ""
+      ],
+      "long_presentation": "",
+      "paper_presentation": "",
+      "pdf_path": "https://archives.ismir.net/ismir2023/paper/000074.pdf",
+      "poster_pdf": "https://drive.google.com/file/d/1MnOQegGQp3oL4vayaPQrNvkGMMfmjf7e/view",
+      "session": [
+        "5"
+      ],
+      "slack_channel": "",
+      "title": "Music as flow: a formal representation of hierarchical processes in music",
+      "video": "https://drive.google.com/uc?export=view&id=19qDR-nUFtQUAxJE0km1U2Kzvm-HQvO7o"
+    },
+    "forum": "206",
+    "id": "206",
+    "pic_id": "https://drive.google.com/file/d/1eO7LLD33O0ycx-w_RRKBtASn3kshtHz0/view",
+    "position": "12",
+    "poster_pdf": "GLTR_poster.pdf",
+    "session": "5"
+  },
+  {
+    "content": {
+      "TLDR": "Symbolic Music Alignment is the process of matching\nperformed MIDI notes to corresponding score notes. In\nthis paper, we introduce a reinforcement learning (RL)-\nbased online symbolic music alignment technique. The\nRL agent \u2014 an attention-based neural net",
+      "abstract": "Symbolic Music Alignment is the process of matching\nperformed MIDI notes to corresponding score notes. In\nthis paper, we introduce a reinforcement learning (RL)-\nbased online symbolic music alignment technique. The\nRL agent \u2014 an attention-based neural net<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1ZV51EZdGgtBusGXIBV4fGjiTy9lexm-I)</b>",
+      "authors": [
+        ""
+      ],
+      "authors_and_affil": [
+        "Silvan Peter (JKU)*"
+      ],
+      "channel_url": "",
+      "day": "4",
+      "keywords": [
+        ""
+      ],
+      "long_presentation": "",
+      "paper_presentation": "",
+      "pdf_path": "https://archives.ismir.net/ismir2023/paper/000075.pdf",
+      "poster_pdf": "https://drive.google.com/file/d/1g3T20qaG1EU4Py-guad-sUdCr4Tkd14s/view",
+      "session": [
+        "5"
+      ],
+      "slack_channel": "",
+      "title": "Online Symbolic Music Alignment with Offline Reinforcement Learning",
+      "video": "https://drive.google.com/uc?export=view&id=1ZV51EZdGgtBusGXIBV4fGjiTy9lexm-I"
+    },
+    "forum": "208",
+    "id": "208",
+    "pic_id": "https://drive.google.com/file/d/1_obDs8CHpqCJJyW1j0WiJ7wNNciCcT_5/view",
+    "position": "13",
+    "poster_pdf": "GLTR_poster.pdf",
+    "session": "5"
+  },
+  {
+    "content": {
+      "TLDR": "Synthesizers are widely used electronic musical instruments. Given an input sound, inferring the underlying synthesizer's parameters to reproduce it is a difficult task known as sound-matching. In this work, we tackle the problem of automatic sound matchi",
+      "abstract": "Synthesizers are widely used electronic musical instruments. Given an input sound, inferring the underlying synthesizer's parameters to reproduce it is a difficult task known as sound-matching. In this work, we tackle the problem of automatic sound matchi<br><br> <b><p align=\"center\">[Direct link to video]()</b>",
+      "authors": [
+        ""
+      ],
+      "authors_and_affil": [
+        "Oren Barkan (Microsoft)",
+        " Shlomi Shvartzamn (Tel Aviv University )",
+        " Noy Uzrad  (Tel Aviv University )",
+        " Moshe Laufer  (Tel Aviv University)",
+        " Almog Elharar (Tel Aviv University)",
+        " Noam Koenigstein (Tel Aviv University)*"
+      ],
+      "channel_url": "",
+      "day": "4",
+      "keywords": [
+        ""
+      ],
+      "long_presentation": "",
+      "paper_presentation": "",
+      "pdf_path": "https://archives.ismir.net/ismir2023/paper/000076.pdf",
+      "poster_pdf": "",
+      "session": [
+        "5"
+      ],
+      "slack_channel": "",
+      "title": "INVERSYNTH II: SOUND MATCHING VIA SELF-SUPERVISED SYNTHESIZER-PROXY AND INFERENCE-TIME FINETUNING",
+      "video": ""
+    },
+    "forum": "209",
+    "id": "209",
+    "pic_id": "",
+    "position": "14",
+    "poster_pdf": "GLTR_poster.pdf",
+    "session": "5"
+  },
+  {
+    "content": {
+      "TLDR": "Query-by-Humming (QbH) is a task that involves finding the most relevant song based on a hummed or sung fragment. Despite recent successful commercial solutions, implementing QbH systems remains challenging due to the lack of high-quality datasets for tra",
+      "abstract": "Query-by-Humming (QbH) is a task that involves finding the most relevant song based on a hummed or sung fragment. Despite recent successful commercial solutions, implementing QbH systems remains challenging due to the lack of high-quality datasets for tra<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=10IuEp3DDBqV0F0WM4u3nodR54J9fjajt)</b>",
+      "authors": [
+        ""
+      ],
+      "authors_and_affil": [
+        "Amantur Amatov (Higher School of Economics)*",
+        " Dmitry Lamanov (Huawei Noah's Ark Lab)",
+        " Maksim Titov (Huawei Noah's Ark Lab)",
+        " Ivan Vovk (Huawei Noah's Ark Lab)",
+        " Ilya Makarov (AI Center, NUST MISiS)",
+        " Mikhail Kudinov (Huawei Noah's Ark Lab)"
+      ],
+      "channel_url": "",
+      "day": "4",
+      "keywords": [
+        ""
+      ],
+      "long_presentation": "",
+      "paper_presentation": "",
+      "pdf_path": "https://archives.ismir.net/ismir2023/paper/000077.pdf",
+      "poster_pdf": "https://drive.google.com/file/d/10HbIvg_hiwfZmJB1HVd-v8MI-yOLmF-2/view",
+      "session": [
+        "5"
+      ],
+      "slack_channel": "",
+      "title": "A Semi-Supervised Deep Learning Approach to Dataset Collection for Query-by-Humming Task",
+      "video": "https://drive.google.com/uc?export=view&id=10IuEp3DDBqV0F0WM4u3nodR54J9fjajt"
+    },
+    "forum": "210",
+    "id": "210",
+    "pic_id": "https://drive.google.com/file/d/1PEvsaujw2Rjs6gVj3n09ox3I_Puiszh2/view",
+    "position": "15",
+    "poster_pdf": "GLTR_poster.pdf",
+    "session": "5"
+  },
+  {
+    "content": {
+      "TLDR": "In deep learning research, many melody extraction models rely on redesigning neural network architectures to improve performance. In this paper, we propose an input feature modification and a training objective modification based on two assumptions. First",
+      "abstract": "In deep learning research, many melody extraction models rely on redesigning neural network architectures to improve performance. In this paper, we propose an input feature modification and a training objective modification based on two assumptions. First<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1rPO9dd5FjAqQ76wSk7iYdjBQC7srhTMm)</b>",
+      "authors": [
+        ""
+      ],
+      "authors_and_affil": [
+        "Keren Shao (UCSD)*",
+        " Ke Chen (University of California San Diego)",
+        " Taylor Berg-Kirkpatrick (UCSD)",
+        " Shlomo Dubnov (UC San Diego)"
+      ],
+      "channel_url": "",
+      "day": "4",
+      "keywords": [
+        ""
+      ],
+      "long_presentation": "",
+      "paper_presentation": "",
+      "pdf_path": "https://archives.ismir.net/ismir2023/paper/000078.pdf",
+      "poster_pdf": "https://drive.google.com/file/d/15HMp76uOrrL_9hjVj0PTJpPPbNL6r8QI/view",
+      "session": [
+        "5"
+      ],
+      "slack_channel": "",
+      "title": "Towards Improving Harmonic Sensitivity and Prediction Stability for Singing Melody Extraction",
+      "video": "https://drive.google.com/uc?export=view&id=1rPO9dd5FjAqQ76wSk7iYdjBQC7srhTMm"
+    },
+    "forum": "212",
+    "id": "212",
+    "pic_id": "https://drive.google.com/file/d/1V9iJvFXFF38FppM-7nhlYT1e_CSYX8mF/view",
+    "position": "16",
+    "poster_pdf": "GLTR_poster.pdf",
+    "session": "5"
+  },
+  {
+    "content": {
+      "TLDR": "This paper introduces GlOttal-flow LPC Filter (GOLF), a novel method for singing voice synthesis (SVS) that exploits the physical characteristics of the human voice using differentiable digital signal processing. GOLF employs a glottal model as the harmon",
+      "abstract": "This paper introduces GlOttal-flow LPC Filter (GOLF), a novel method for singing voice synthesis (SVS) that exploits the physical characteristics of the human voice using differentiable digital signal processing. GOLF employs a glottal model as the harmon<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1i46u1z9bGukUxzCAxTxrIgyix-uKQ0X4)</b>",
+      "authors": [
+        ""
+      ],
+      "authors_and_affil": [
+        "Chin-Yun Yu (Queen Mary University of London)*",
+        " George Fazekas (QMUL)"
+      ],
+      "channel_url": "",
+      "day": "4",
+      "keywords": [
+        ""
+      ],
+      "long_presentation": "",
+      "paper_presentation": "",
+      "pdf_path": "https://archives.ismir.net/ismir2023/paper/000079.pdf",
+      "poster_pdf": "https://drive.google.com/file/d/1gZIPuuU2QzKivJaIGpM2Uh2mgBND_ia6/view",
+      "session": [
+        "6"
+      ],
+      "slack_channel": "",
+      "title": "SINGING VOICE SYNTHESIS USING DIFFERENTIABLE LPC AND GLOTTAL-FLOW-INSPIRED WAVETABLES",
+      "video": "https://drive.google.com/uc?export=view&id=1i46u1z9bGukUxzCAxTxrIgyix-uKQ0X4"
+    },
+    "forum": "220",
+    "id": "220",
+    "pic_id": "https://drive.google.com/file/d/1esbWBjCD4bL-1b1R334yin24FFIZZVwo/view",
+    "position": "01",
+    "poster_pdf": "GLTR_poster.pdf",
+    "session": "6"
+  },
+  {
+    "content": {
+      "TLDR": "Automatic harmonic analysis of symbolic music is an important\nand useful task for both composers and listeners.\nThe task consists of two components: recognizing harmony\nlabels and finding their time boundaries. Most of the\nprevious attempts focused on the",
+      "abstract": "Automatic harmonic analysis of symbolic music is an important\nand useful task for both composers and listeners.\nThe task consists of two components: recognizing harmony\nlabels and finding their time boundaries. Most of the\nprevious attempts focused on the<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1nmlSKLZSPGNvc7LmNLfNGa5RkDpdZI1G)</b>",
+      "authors": [
+        ""
+      ],
+      "authors_and_affil": [
+        "Qiaoyu Yang (University of Rochester)*",
+        " Frank Cwitkowitz (University of Rochester)",
+        " Zhiyao Duan (Unversity of Rochester)"
+      ],
+      "channel_url": "",
+      "day": "4",
+      "keywords": [
+        ""
+      ],
+      "long_presentation": "",
+      "paper_presentation": "",
+      "pdf_path": "https://archives.ismir.net/ismir2023/paper/000080.pdf",
+      "poster_pdf": "https://drive.google.com/file/d/1liWu_WqHV8vPR3aXWKvKpWeXsHIpWcG7/view",
+      "session": [
+        "6"
+      ],
+      "slack_channel": "",
+      "title": "Harmonic Analysis with Neural Semi-CRF",
+      "video": "https://drive.google.com/uc?export=view&id=1nmlSKLZSPGNvc7LmNLfNGa5RkDpdZI1G"
+    },
+    "forum": "264",
+    "id": "264",
+    "pic_id": "https://drive.google.com/file/d/1w-loLMW-_BmPFrdJcciLHoltDTHCKPVS/view",
+    "position": "02",
+    "poster_pdf": "GLTR_poster.pdf",
+    "session": "6"
+  },
+  {
+    "content": {
+      "TLDR": "Music Performance Analysis is based on the evaluation of performance parameters such as pitch, dynamics, timbre, tempo and timing. While timbre is the least specific parameter among these and is often only implicitly understood, prominent brass pedagogues",
+      "abstract": "Music Performance Analysis is based on the evaluation of performance parameters such as pitch, dynamics, timbre, tempo and timing. While timbre is the least specific parameter among these and is often only implicitly understood, prominent brass pedagogues<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1wd_U2mEHtz_d_6P8HsDPcxC-voNPH4TJ)</b>",
+      "authors": [
+        ""
+      ],
+      "authors_and_affil": [
+        "Ninad Puranik (McGill University )",
+        " Alberto Acquilino (McGill University)*",
+        " Ichiro Fujinaga (McGill University)",
+        " Gary Scavone (McGill University)"
+      ],
+      "channel_url": "",
+      "day": "4",
+      "keywords": [
+        ""
+      ],
+      "long_presentation": "",
+      "paper_presentation": "",
+      "pdf_path": "https://archives.ismir.net/ismir2023/paper/000081.pdf",
+      "poster_pdf": "https://drive.google.com/file/d/1yO2gg3CZlQDiddv2qQVZQLPXz2S9bDSm/view",
+      "session": [
+        "6"
+      ],
+      "slack_channel": "",
+      "title": "A Dataset and Baseline for Automated Assessment of Timbre Quality in Trumpet Sound",
+      "video": "https://drive.google.com/uc?export=view&id=1wd_U2mEHtz_d_6P8HsDPcxC-voNPH4TJ"
+    },
+    "forum": "213",
+    "id": "213",
+    "pic_id": "https://drive.google.com/file/d/178jwgniWfuX8pqTIDgNAKf1zs3NnbG48/view",
+    "position": "03",
+    "poster_pdf": "GLTR_poster.pdf",
+    "session": "6"
+  },
+  {
+    "content": {
+      "TLDR": "We propose different methods for alternative representation and visual augmentation of sheet music that help users gain an overview of general structure, repeating patterns, and the similarity of segments. To this end, we explored mapping the overall simi",
+      "abstract": "We propose different methods for alternative representation and visual augmentation of sheet music that help users gain an overview of general structure, repeating patterns, and the similarity of segments. To this end, we explored mapping the overall simi<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1QqrLFOACnxQebUM1qdQT2AmCTegxTCmz)</b>",
+      "authors": [
+        ""
+      ],
+      "authors_and_affil": [
+        "Frank Heyen (VISUS, University of Stuttgart)*",
+        " Quynh Quang Ngo (VISUS, University of Stuttgart)",
+        " Michael Sedlmair (Uni Stuttgart)"
+      ],
+      "channel_url": "",
+      "day": "4",
+      "keywords": [
+        ""
+      ],
+      "long_presentation": "",
+      "paper_presentation": "",
+      "pdf_path": "https://archives.ismir.net/ismir2023/paper/000082.pdf",
+      "poster_pdf": "https://drive.google.com/file/d/1w8dCKsqJcsnqocFs_85czyjyKre-gtkJ/view",
+      "session": [
+        "6"
+      ],
+      "slack_channel": "",
+      "title": "Visual Overviews for Sheet Music Structure",
+      "video": "https://drive.google.com/uc?export=view&id=1QqrLFOACnxQebUM1qdQT2AmCTegxTCmz"
+    },
+    "forum": "216",
+    "id": "216",
+    "pic_id": "https://drive.google.com/file/d/1eP7DTcz1w1CQzdCdZkDkFWNSRLn8Ppil/view",
+    "position": "04",
+    "poster_pdf": "GLTR_poster.pdf",
+    "session": "6"
+  },
+  {
+    "content": {
+      "TLDR": "Many applications of cross-modal music retrieval are related to connecting sheet music images to audio recordings. A typical and recent approach to this is to learn, via deep neural networks, a joint embedding space that correlates short fixed-size snippe",
+      "abstract": "Many applications of cross-modal music retrieval are related to connecting sheet music images to audio recordings. A typical and recent approach to this is to learn, via deep neural networks, a joint embedding space that correlates short fixed-size snippe<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=15qRSYgL-w431GrhVbmHAjeBfhJE2FK2k)</b>",
+      "authors": [
+        ""
+      ],
+      "authors_and_affil": [
+        "Luis Carvalho (Johannes Kepler University)*",
+        " Gerhard Widmer (Johannes Kepler University)"
+      ],
+      "channel_url": "",
+      "day": "4",
+      "keywords": [
+        ""
+      ],
+      "long_presentation": "",
+      "paper_presentation": "",
+      "pdf_path": "https://archives.ismir.net/ismir2023/paper/000083.pdf",
+      "poster_pdf": "https://drive.google.com/file/d/1QIE1bFNqCEFL-192lQhDfRS17Zd4wzym/view",
+      "session": [
+        "6"
+      ],
+      "slack_channel": "",
+      "title": "Passage Summarization with recurrent models for Audio \u2013 Sheet Music Retrieval",
+      "video": "https://drive.google.com/uc?export=view&id=15qRSYgL-w431GrhVbmHAjeBfhJE2FK2k"
+    },
+    "forum": "217",
+    "id": "217",
+    "pic_id": "https://drive.google.com/file/d/1RAPcV6AWFbK_fcH4Nhtxo_cCjFeFRmuE/view",
+    "position": "05",
+    "poster_pdf": "GLTR_poster.pdf",
+    "session": "6"
+  },
+  {
+    "content": {
+      "TLDR": "Estimating the performance difficulty of a musical score is crucial in music education for adequately designing the learning curriculum of the students. Although the music information retrieval community has recently shown interest in this task, existing ",
+      "abstract": "Estimating the performance difficulty of a musical score is crucial in music education for adequately designing the learning curriculum of the students. Although the music information retrieval community has recently shown interest in this task, existing <br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1QBmb6yaCFABAGc5IwYkOjqB7PKkCWBLY)</b>",
+      "authors": [
+        ""
+      ],
+      "authors_and_affil": [
+        "Pedro Ramoneda (Universitat Pompeu Fabra)*",
+        " Dasaem Jeong (Sogang University)",
+        " Jose J. Valero-Mas (Universitat Pompeu Fabra)",
+        " Xavier Serra (Universitat Pompeu Fabra )"
+      ],
+      "channel_url": "",
+      "day": "4",
+      "keywords": [
+        ""
+      ],
+      "long_presentation": "",
+      "paper_presentation": "",
+      "pdf_path": "https://archives.ismir.net/ismir2023/paper/000084.pdf",
+      "poster_pdf": "https://drive.google.com/file/d/1H8IC8Nh5hP1n4RMFKRI_J9sE9-oe50QB/view",
+      "session": [
+        "6"
+      ],
+      "slack_channel": "",
+      "title": "Predicting performance difficulty from piano sheet music images",
+      "video": "https://drive.google.com/uc?export=view&id=1QBmb6yaCFABAGc5IwYkOjqB7PKkCWBLY"
+    },
+    "forum": "218",
+    "id": "218",
+    "pic_id": "https://drive.google.com/file/d/1pyIv2gmhW7ESVie5XjZhA9e4lypN4Idc/view",
+    "position": "06",
+    "poster_pdf": "GLTR_poster.pdf",
+    "session": "6"
+  },
+  {
+    "content": {
+      "TLDR": "Music source separation (MSS) faces challenges due to limited availability and potential noise in correctly labeled individual instrument tracks. In this paper, we propose an automated approach for refining mislabeled instrument tracks in a partially nois",
+      "abstract": "Music source separation (MSS) faces challenges due to limited availability and potential noise in correctly labeled individual instrument tracks. In this paper, we propose an automated approach for refining mislabeled instrument tracks in a partially nois<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1y4ZGkF2Jlhi-sn4Ci2OnoFTHEm_lshRA)</b>",
+      "authors": [
+        ""
+      ],
+      "authors_and_affil": [
+        "Junghyun Koo (Seoul National University)",
+        " Yunkee Chae (Seoul National University)*",
+        " Chang-Bin Jeon (Seoul National University)",
+        " Kyogu Lee (Seoul National University)"
+      ],
+      "channel_url": "",
+      "day": "4",
+      "keywords": [
+        ""
+      ],
+      "long_presentation": "",
+      "paper_presentation": "",
+      "pdf_path": "https://archives.ismir.net/ismir2023/paper/000085.pdf",
+      "poster_pdf": "https://drive.google.com/file/d/139i9K8i6jx5hs0D6oPwD9gUUuN4XEzpz/view",
+      "session": [
+        "6"
+      ],
+      "slack_channel": "",
+      "title": "Self-Refining of Pseudo Labels for Music Source Separation with Noisy Labeled Data",
+      "video": "https://drive.google.com/uc?export=view&id=1y4ZGkF2Jlhi-sn4Ci2OnoFTHEm_lshRA"
+    },
+    "forum": "288",
+    "id": "288",
+    "pic_id": "https://drive.google.com/file/d/1wz5TKBDBZF5HXfuJiHr_ouDVLW2xQ9RU/view",
+    "position": "07",
+    "poster_pdf": "GLTR_poster.pdf",
+    "session": "6"
+  },
+  {
+    "content": {
+      "TLDR": "Quantifying the difficulty of playing songs has recently gained traction in the MIR community. While previous work has mostly focused on piano, this paper concentrates on rhythm guitar, which is especially popular with amateur musicians and has a broad sk",
+      "abstract": "Quantifying the difficulty of playing songs has recently gained traction in the MIR community. While previous work has mostly focused on piano, this paper concentrates on rhythm guitar, which is especially popular with amateur musicians and has a broad sk<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=18wnkJGsvsQoydKJCUe1OFNoaK_fS0W35)</b>",
+      "authors": [
+        ""
+      ],
+      "authors_and_affil": [
+        "Marcel A V\u00e9lez V\u00e1squez (University of Amsterdam)*",
+        " Mari\u00eblle  Baelemans (University of Amsterdam)",
+        " Jonathan Driedger (Chordify)",
+        " Willem Zuidema (ILLC, UvA)",
+        " John Ashley Burgoyne (University of Amsterdam)"
+      ],
+      "channel_url": "",
+      "day": "4",
+      "keywords": [
+        ""
+      ],
+      "long_presentation": "",
+      "paper_presentation": "",
+      "pdf_path": "https://archives.ismir.net/ismir2023/paper/000086.pdf",
+      "poster_pdf": "https://drive.google.com/file/d/1j6TJUBrSyiQT7LYqGqFbvxxcEKLHF9Ua/view",
+      "session": [
+        "6"
+      ],
+      "slack_channel": "",
+      "title": "Quantifying the Ease of Playing Song Chords on the Guitar",
+      "video": "https://drive.google.com/uc?export=view&id=18wnkJGsvsQoydKJCUe1OFNoaK_fS0W35"
+    },
+    "forum": "225",
+    "id": "225",
+    "pic_id": "https://drive.google.com/file/d/1cDyf7XFifNl7ojPkqYTlZhr63H5LuovV/view",
+    "position": "08",
+    "poster_pdf": "GLTR_poster.pdf",
+    "session": "6"
+  },
+  {
+    "content": {
+      "TLDR": "Alignment algorithms like DTW and subsequence DTW assume specific boundary conditions on where an alignment path can begin and end in the cost matrix.  In practice, the boundary conditions may not be known a priori or may not satisfy such strict assumptio",
+      "abstract": "Alignment algorithms like DTW and subsequence DTW assume specific boundary conditions on where an alignment path can begin and end in the cost matrix.  In practice, the boundary conditions may not be known a priori or may not satisfy such strict assumptio<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1X4iAg6IrkXmFmOODNbJSbq71M-aMlR7H)</b>",
+      "authors": [
+        ""
+      ],
+      "authors_and_affil": [
+        "Irmak Bukey (Pomona College)",
+        " Jason Zhang (University of Michigan)",
+        " Timothy Tsai (Harvey Mudd College)*"
+      ],
+      "channel_url": "",
+      "day": "4",
+      "keywords": [
+        ""
+      ],
+      "long_presentation": "",
+      "paper_presentation": "",
+      "pdf_path": "https://archives.ismir.net/ismir2023/paper/000087.pdf",
+      "poster_pdf": "https://drive.google.com/file/d/1qNpxCnv167R5lwPIetpbOveI_VK3QKsh/view",
+      "session": [
+        "6"
+      ],
+      "slack_channel": "",
+      "title": "FlexDTW: Dynamic Time Warping With Flexible Boundary Conditions",
+      "video": "https://drive.google.com/uc?export=view&id=1X4iAg6IrkXmFmOODNbJSbq71M-aMlR7H"
+    },
+    "forum": "235",
+    "id": "235",
+    "pic_id": "https://drive.google.com/file/d/1BN51rFgI2RdzQOar5_fjQ-Ll3Rvqnwwt/view",
+    "position": "09",
+    "poster_pdf": "GLTR_poster.pdf",
+    "session": "6"
+  },
+  {
+    "content": {
+      "TLDR": "Tablature notation is widely used in popular music to transcribe and share guitar musical content. As a complement to standard score notation, tablatures transcribe performance gesture information including finger positions and a variety of guitar-specifi",
+      "abstract": "Tablature notation is widely used in popular music to transcribe and share guitar musical content. As a complement to standard score notation, tablatures transcribe performance gesture information including finger positions and a variety of guitar-specifi<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1XXZNSayceHF8YHyjGkUCzeF3CHWeNJIs)</b>",
+      "authors": [
+        ""
+      ],
+      "authors_and_affil": [
+        "Alexandre D'Hooge (Universit\u00e9 de Lille)*",
+        " Louis Bigo (Universit\u00e9 de Lille)",
+        " Ken D\u00e9guernel (CNRS)"
+      ],
+      "channel_url": "",
+      "day": "4",
+      "keywords": [
+        ""
+      ],
+      "long_presentation": "",
+      "paper_presentation": "",
+      "pdf_path": "https://archives.ismir.net/ismir2023/paper/000088.pdf",
+      "poster_pdf": "https://drive.google.com/file/d/1K3KRVVWiVIuj59AeMspoHofr2mAQUCFa/view",
+      "session": [
+        "6"
+      ],
+      "slack_channel": "",
+      "title": "Modeling Bends in Popular Music Guitar Tablatures",
+      "video": "https://drive.google.com/uc?export=view&id=1XXZNSayceHF8YHyjGkUCzeF3CHWeNJIs"
+    },
+    "forum": "166",
+    "id": "166",
+    "pic_id": "https://drive.google.com/file/d/1CRKc3eJrIAxxfuM8dnUPP8uWTQC9XibN/view",
+    "position": "10",
+    "poster_pdf": "GLTR_poster.pdf",
+    "session": "6"
+  },
+  {
+    "content": {
+      "TLDR": "Music Structure Analysis (MSA) is the task aiming at identifying musical segments that compose a music track and possibly label them based on their similarity. \nIn this paper we propose a supervised approach for the task of music boundary detection. In ou",
+      "abstract": "Music Structure Analysis (MSA) is the task aiming at identifying musical segments that compose a music track and possibly label them based on their similarity. \nIn this paper we propose a supervised approach for the task of music boundary detection. In ou<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1xqLMnWUj3hT_sjnqvwheaofzbZXjVOzJ)</b>",
+      "authors": [
+        ""
+      ],
+      "authors_and_affil": [
+        "Geoffroy Peeters (LTCI - T\u00e9l\u00e9com Paris, IP Paris)*"
+      ],
+      "channel_url": "",
+      "day": "4",
+      "keywords": [
+        ""
+      ],
+      "long_presentation": "",
+      "paper_presentation": "",
+      "pdf_path": "https://archives.ismir.net/ismir2023/paper/000089.pdf",
+      "poster_pdf": "https://drive.google.com/file/d/121wH3eycz4zZ9mNNgiw8YeOnAsGmPnAe/view",
+      "session": [
+        "6"
+      ],
+      "slack_channel": "",
+      "title": "Self-Similarity-Based and Novelty-based loss for music structure analysis",
+      "video": "https://drive.google.com/uc?export=view&id=1xqLMnWUj3hT_sjnqvwheaofzbZXjVOzJ"
+    },
+    "forum": "279",
+    "id": "279",
+    "pic_id": "https://drive.google.com/file/d/1PzC9ayjSkxw8Bjpfo5WumSCw27LCT4Qe/view",
+    "position": "11",
+    "poster_pdf": "GLTR_poster.pdf",
+    "session": "6"
+  },
+  {
+    "content": {
+      "TLDR": "In jazz, measuring harmonic similarity is complicated by the common practice of reharmonization -- the altering or substitution of chords without fundamentally changing the piece's harmonic identity. This is analogous to natural language processing tasks ",
+      "abstract": "In jazz, measuring harmonic similarity is complicated by the common practice of reharmonization -- the altering or substitution of chords without fundamentally changing the piece's harmonic identity. This is analogous to natural language processing tasks <br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1lNhHbatsqrN-i2u-FddjD2ziHofHHhCg)</b>",
+      "authors": [
+        ""
+      ],
+      "authors_and_affil": [
+        "Carey Bunks (City, University London)*",
+        " Simon Dixon (Queen Mary University of London)",
+        " Tillman Weyde (City, University of London)",
+        " Bruno Di Giorgi (Apple)"
+      ],
+      "channel_url": "",
+      "day": "4",
+      "keywords": [
+        ""
+      ],
+      "long_presentation": "",
+      "paper_presentation": "",
+      "pdf_path": "https://archives.ismir.net/ismir2023/paper/000090.pdf",
+      "poster_pdf": "https://drive.google.com/file/d/1ciE5bkv_nwm_kw_WaV6GLaqgN3gPT1JG/view",
+      "session": [
+        "6"
+      ],
+      "slack_channel": "",
+      "title": "Modeling Harmonic Similarity for Jazz Using Co-occurrence Vectors and the Membrane Area",
+      "video": "https://drive.google.com/uc?export=view&id=1lNhHbatsqrN-i2u-FddjD2ziHofHHhCg"
+    },
+    "forum": "239",
+    "id": "239",
+    "pic_id": "https://drive.google.com/file/d/1DrWsujLUQNd6LlP-WwBq1SMYX-lvV7qd/view",
+    "position": "12",
+    "poster_pdf": "GLTR_poster.pdf",
+    "session": "6"
+  },
+  {
+    "content": {
+      "TLDR": "There has been a persistent lack of publicly accessible data in singing voice research, particularly concerning the diversity of languages and performance styles. In this paper, we introduce SingStyle111, a large studio-quality singing dataset with multip",
+      "abstract": "There has been a persistent lack of publicly accessible data in singing voice research, particularly concerning the diversity of languages and performance styles. In this paper, we introduce SingStyle111, a large studio-quality singing dataset with multip<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1zUOje_v-rxU2buZJAE78g0UeOoZu8aex)</b>",
+      "authors": [
+        ""
+      ],
+      "authors_and_affil": [
+        "Shuqi Dai (Carnegie Mellon University)*",
+        " Siqi Chen (University of South California)",
+        " Yuxuan Wu (Carnegie Mellon University)",
+        " Roy Huang (Carnegie Mellon University)",
+        " Roger B. Dannenberg (School of Computer Science, Carnegie Mellon University)"
+      ],
+      "channel_url": "",
+      "day": "4",
+      "keywords": [
+        ""
+      ],
+      "long_presentation": "",
+      "paper_presentation": "",
+      "pdf_path": "https://archives.ismir.net/ismir2023/paper/000091.pdf",
+      "poster_pdf": "",
+      "session": [
+        "6"
+      ],
+      "slack_channel": "",
+      "title": "SingStyle111: A Multilingual Singing Dataset With Style Transfer",
+      "video": "https://drive.google.com/uc?export=view&id=1zUOje_v-rxU2buZJAE78g0UeOoZu8aex"
+    },
+    "forum": "25",
+    "id": "25",
+    "pic_id": "https://drive.google.com/file/d/162X-YscQ5gJDBkLRCsHHhfmXBoxs9c_y/view",
+    "position": "13",
+    "poster_pdf": "GLTR_poster.pdf",
+    "session": "6"
+  },
+  {
+    "content": {
+      "TLDR": "Lyric translation plays a pivotal role in amplifying the global resonance of music, bridging cultural divides, and fostering universal connections. Translating lyrics, unlike conventional translation tasks, requires a delicate balance between singability ",
+      "abstract": "Lyric translation plays a pivotal role in amplifying the global resonance of music, bridging cultural divides, and fostering universal connections. Translating lyrics, unlike conventional translation tasks, requires a delicate balance between singability <br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1u2Zp6skZxD3j5rwmlFHi_D1JkQKcDifA)</b>",
+      "authors": [
+        ""
+      ],
+      "authors_and_affil": [
+        "Haven Kim (KAIST)*",
+        " Kento Watanabe (National Institute of Advanced Industrial Science and Technology (AIST))",
+        " Masataka Goto (National Institute of Advanced Industrial Science and Technology (AIST))",
+        " Juhan Nam (KAIST)"
+      ],
+      "channel_url": "",
+      "day": "4",
+      "keywords": [
+        ""
+      ],
+      "long_presentation": "",
+      "paper_presentation": "",
+      "pdf_path": "https://archives.ismir.net/ismir2023/paper/000092.pdf",
+      "poster_pdf": "https://drive.google.com/file/d/13EbuMQL3bXnAMgI9Rjm37m0_u4Npg8VC/view",
+      "session": [
+        "6"
+      ],
+      "slack_channel": "",
+      "title": "A Computational Evaluation Framework for Singable Lyric Translation",
+      "video": "https://drive.google.com/uc?export=view&id=1u2Zp6skZxD3j5rwmlFHi_D1JkQKcDifA"
+    },
+    "forum": "255",
+    "id": "255",
+    "pic_id": "https://drive.google.com/file/d/1bsNIzDKIKvA3XDvcrXjhLr8UiYlhuATe/view",
+    "position": "14",
+    "poster_pdf": "GLTR_poster.pdf",
+    "session": "6"
+  },
+  {
+    "content": {
+      "TLDR": "When people listen to playlists on a music streaming service, they typically listen to each song from start to end in order. However, what if it were possible to use a function to listen to only the choruses of each song in a playlist one after another? I",
+      "abstract": "When people listen to playlists on a music streaming service, they typically listen to each song from start to end in order. However, what if it were possible to use a function to listen to only the choruses of each song in a playlist one after another? I<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1Yg9P6EWBZlriwOMFyjsR268Y7X5waAGn)</b>",
+      "authors": [
+        ""
+      ],
+      "authors_and_affil": [
+        "Kosetsu Tsukuda (National Institute of Advanced Industrial Science and Technology (AIST))*",
+        " Masahiro Hamasaki (National Institute of Advanced Industrial Science and Technology (AIST))",
+        " Masataka Goto (National Institute of Advanced Industrial Science and T"
+      ],
+      "channel_url": "",
+      "day": "4",
+      "keywords": [
+        ""
+      ],
+      "long_presentation": "",
+      "paper_presentation": "",
+      "pdf_path": "https://archives.ismir.net/ismir2023/paper/000093.pdf",
+      "poster_pdf": "https://drive.google.com/file/d/1D_S3hsdk6Gd_ypaU1QNEIZUYZ5J1F-nn/view",
+      "session": [
+        "6"
+      ],
+      "slack_channel": "",
+      "title": "Chorus-Playlist: Exploring the Impact of Listening to Only Choruses in a Playlist",
+      "video": "https://drive.google.com/uc?export=view&id=1Yg9P6EWBZlriwOMFyjsR268Y7X5waAGn"
+    },
+    "forum": "257",
+    "id": "257",
+    "pic_id": "https://drive.google.com/file/d/1a7HsyxwthWwKit7Ukc0ZFxF2onE1pY_9/view",
+    "position": "15",
+    "poster_pdf": "GLTR_poster.pdf",
+    "session": "6"
+  },
+  {
+    "content": {
+      "TLDR": "Digital musicology research often proceeds by extending and enriching its evidence base as it progresses, rather than starting with a complete corpus of data and metadata, as a consequence of an emergent research need.\n\nIn this paper, we consider a resear",
+      "abstract": "Digital musicology research often proceeds by extending and enriching its evidence base as it progresses, rather than starting with a complete corpus of data and metadata, as a consequence of an emergent research need.\n\nIn this paper, we consider a resear<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1hhHR2gBnuA_U-ur1la-5g_Gdjigaj-IA)</b>",
+      "authors": [
+        ""
+      ],
+      "authors_and_affil": [
+        "David Lewis (University of Oxford eResearch Centre)*",
+        " Elisabete Shibata (Beethoven-Haus Bonn)",
+        " Andrew Hankinson (RISM Digital)",
+        " Johannes Kepper (Paderborn University)",
+        " Kevin R Page (University of Oxford)",
+        " Lisa Rosendahl (Paderborn University)",
+        " Mark Saccom"
+      ],
+      "channel_url": "",
+      "day": "5",
+      "keywords": [
+        ""
+      ],
+      "long_presentation": "",
+      "paper_presentation": "",
+      "pdf_path": "https://archives.ismir.net/ismir2023/paper/000094.pdf",
+      "poster_pdf": "https://drive.google.com/file/d/1SfhuAl2LxICb6Tqh9VHB4MhrkLYy7LXZ/view",
+      "session": [
+        "7"
+      ],
+      "slack_channel": "",
+      "title": "Supporting musicological investigations with information retrieval tools: an iterative approach to data collection",
+      "video": "https://drive.google.com/uc?export=view&id=1hhHR2gBnuA_U-ur1la-5g_Gdjigaj-IA"
+    },
+    "forum": "172",
+    "id": "172",
+    "pic_id": "https://drive.google.com/file/d/1TJAiDOT_z9XkW0iAvJiyOyO6otFfN__i/view",
+    "position": "01",
+    "poster_pdf": "GLTR_poster.pdf",
+    "session": "7"
+  },
+  {
+    "content": {
+      "TLDR": "This paper presents a comprehensive investigation of existing feature extraction tools for symbolic music and contrasts their performance to determine the set of features that best characterizes the musical style of a given music score. In this regard, we",
+      "abstract": "This paper presents a comprehensive investigation of existing feature extraction tools for symbolic music and contrasts their performance to determine the set of features that best characterizes the musical style of a given music score. In this regard, we<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1O6IL5DwvLC1w389b5agKpwZG-c8kTz8N)</b>",
+      "authors": [
+        ""
+      ],
+      "authors_and_affil": [
+        "Federico Simonetta (Instituto Complutense de Ciencias Musicales)*",
+        " Ana Llorens (Universidad Complutense de Madrid)",
+        " Mart\u00edn Serrano (Instituto Complutense de Ciencias Musicales)",
+        " Eduardo Garc\u00eda-Portugu\u00e9s (Universidad Carlos III de Madrid)",
+        " \u00c1lvaro Torrente "
+      ],
+      "channel_url": "",
+      "day": "5",
+      "keywords": [
+        ""
+      ],
+      "long_presentation": "",
+      "paper_presentation": "",
+      "pdf_path": "https://archives.ismir.net/ismir2023/paper/000095.pdf",
+      "poster_pdf": "https://drive.google.com/file/d/1pMp8Jvp4vA8rIN2SrAmF8-9sXIpOnGiO/view",
+      "session": [
+        "7"
+      ],
+      "slack_channel": "",
+      "title": "Optimizing Feature Extraction for Symbolic Music",
+      "video": "https://drive.google.com/uc?export=view&id=1O6IL5DwvLC1w389b5agKpwZG-c8kTz8N"
+    },
+    "forum": "96",
+    "id": "96",
+    "pic_id": "https://drive.google.com/file/d/1opJZYW_qoczWG31bwyX_A-xMhutI0V8g/view",
+    "position": "02",
+    "poster_pdf": "GLTR_poster.pdf",
+    "session": "7"
+  },
+  {
+    "content": {
+      "TLDR": "Research in natural language processing has demonstrated that the quality of generations from trained autoregressive language models is significantly influenced by the used sampling strategy. In this study, we investigate the impact of different sampling ",
+      "abstract": "Research in natural language processing has demonstrated that the quality of generations from trained autoregressive language models is significantly influenced by the used sampling strategy. In this study, we investigate the impact of different sampling <br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1F_A6d1BGTWa4n-v1osN5z9gROll7r5Lj)</b>",
+      "authors": [
+        ""
+      ],
+      "authors_and_affil": [
+        "Mathias Rose Bjare (Johannes Kepler University Linz)*",
+        " Stefan Lattner (Sony CSL)",
+        " Gerhard Widmer (Johannes Kepler University)"
+      ],
+      "channel_url": "",
+      "day": "5",
+      "keywords": [
+        ""
+      ],
+      "long_presentation": "",
+      "paper_presentation": "",
+      "pdf_path": "https://archives.ismir.net/ismir2023/paper/000096.pdf",
+      "poster_pdf": "https://drive.google.com/file/d/1_ZolJIkB1I7G0S5K_-DsqR7_-9MnWtfa/view",
+      "session": [
+        "7"
+      ],
+      "slack_channel": "",
+      "title": "Exploring Sampling Techniques for Generating Melodies with a Transformer Language Model",
+      "video": "https://drive.google.com/uc?export=view&id=1F_A6d1BGTWa4n-v1osN5z9gROll7r5Lj"
+    },
+    "forum": "274",
+    "id": "274",
+    "pic_id": "https://drive.google.com/file/d/1rbDRvHNLeKUN7NvnFjCaU6HU6b3HRFZz/view",
+    "position": "03",
+    "poster_pdf": "GLTR_poster.pdf",
+    "session": "7"
+  },
+  {
+    "content": {
+      "TLDR": "Every year, several dozen, primarily European, countries, send performers to compete on live television at the Eurovision Song Contest, with the goal of entertaining an international audience of more than 150 million viewers. Each participating country is",
+      "abstract": "Every year, several dozen, primarily European, countries, send performers to compete on live television at the Eurovision Song Contest, with the goal of entertaining an international audience of more than 150 million viewers. Each participating country is<br><br> <b><p align=\"center\">[Direct link to video]()</b>",
+      "authors": [
+        ""
+      ],
+      "authors_and_affil": [
+        "John Ashley Burgoyne (University of Amsterdam)*",
+        " Janne Spijkervet (University of Amsterdam)",
+        " David J Baker (University of Amsterdam)"
+      ],
+      "channel_url": "",
+      "day": "5",
+      "keywords": [
+        ""
+      ],
+      "long_presentation": "",
+      "paper_presentation": "",
+      "pdf_path": "https://archives.ismir.net/ismir2023/paper/000097.pdf",
+      "poster_pdf": "",
+      "session": [
+        "7"
+      ],
+      "slack_channel": "",
+      "title": "Measuring the Eurovision Song Contest: A Living Dataset for Real-World MIR",
+      "video": ""
+    },
+    "forum": "276",
+    "id": "276",
+    "pic_id": "",
+    "position": "04",
+    "poster_pdf": "GLTR_poster.pdf",
+    "session": "7"
+  },
+  {
+    "content": {
+      "TLDR": "In this work, we address music representation learning using convolution-free transformers. We build on top of existing spectrogram-based audio transformers such as AST and train our models on a supervised task using patchout training similar to PaSST. In",
+      "abstract": "In this work, we address music representation learning using convolution-free transformers. We build on top of existing spectrogram-based audio transformers such as AST and train our models on a supervised task using patchout training similar to PaSST. In<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1pYJ_xgEA1kqqYQ9WvqzVPHnRewmz-hzJ)</b>",
+      "authors": [
+        ""
+      ],
+      "authors_and_affil": [
+        "Pablo Alonso-Jim\u00e9nez (Universitat Pompeu Fabra)*",
+        " Xavier Serra (Universitat Pompeu Fabra )",
+        " Dmitry Bogdanov (Universitat Pompeu Fabra)"
+      ],
+      "channel_url": "",
+      "day": "5",
+      "keywords": [
+        ""
+      ],
+      "long_presentation": "",
+      "paper_presentation": "",
+      "pdf_path": "https://archives.ismir.net/ismir2023/paper/000098.pdf",
+      "poster_pdf": "https://drive.google.com/file/d/1RSGNN1xzfXuzyjHy1ZIkWmUWF8qOS-Ml/view",
+      "session": [
+        "7"
+      ],
+      "slack_channel": "",
+      "title": "Efficient Supervised Training of Audio Transformers for Music Representation Learning",
+      "video": "https://drive.google.com/uc?export=view&id=1pYJ_xgEA1kqqYQ9WvqzVPHnRewmz-hzJ"
+    },
+    "forum": "248",
+    "id": "248",
+    "pic_id": "https://drive.google.com/file/d/1OfoD4hN9VyyTdAfWv0mFF8gIZfUteVNU/view",
+    "position": "05",
+    "poster_pdf": "GLTR_poster.pdf",
+    "session": "7"
+  },
+  {
+    "content": {
+      "TLDR": "Deep learning systems have become popular for tackling a variety of music information retrieval tasks. However, these systems often require large amounts of labeled data for supervised training, which can be very costly to obtain. To alleviate this proble",
+      "abstract": "Deep learning systems have become popular for tackling a variety of music information retrieval tasks. However, these systems often require large amounts of labeled data for supervised training, which can be very costly to obtain. To alleviate this proble<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1m4gubvlJ3XO25aLLlSbhY3_O7c960PXe)</b>",
+      "authors": [
+        ""
+      ],
+      "authors_and_affil": [
+        "Michael Krause (International Audio Laboratories Erlangen)*",
+        " Christof Wei\u00df (University of W\u00fcrzburg)",
+        " Meinard M\u00fcller (International Audio Laboratories Erlangen)"
+      ],
+      "channel_url": "",
+      "day": "5",
+      "keywords": [
+        ""
+      ],
+      "long_presentation": "",
+      "paper_presentation": "",
+      "pdf_path": "https://archives.ismir.net/ismir2023/paper/000099.pdf",
+      "poster_pdf": "https://drive.google.com/file/d/116v-81IMZNYlMz551ahs-D7xmnKdCvkn/view",
+      "session": [
+        "7"
+      ],
+      "slack_channel": "",
+      "title": "A Cross-Version Approach to Audio Representation Learning for Orchestral Music",
+      "video": "https://drive.google.com/uc?export=view&id=1m4gubvlJ3XO25aLLlSbhY3_O7c960PXe"
+    },
+    "forum": "79",
+    "id": "79",
+    "pic_id": "https://drive.google.com/file/d/17lmKrbUhR_PxD6RwdUpKmqRLcSvWShDt/view",
+    "position": "06",
+    "poster_pdf": "GLTR_poster.pdf",
+    "session": "7"
+  },
+  {
+    "content": {
+      "TLDR": "This paper proposes a new music source separation (MSS) model based on an architecture with MLP-Mixer that leverages multilayer perceptrons (MLPs). Most of the recent MSS techniques are based on architectures with CNNs, RNNs, and attention-based transform",
+      "abstract": "This paper proposes a new music source separation (MSS) model based on an architecture with MLP-Mixer that leverages multilayer perceptrons (MLPs). Most of the recent MSS techniques are based on architectures with CNNs, RNNs, and attention-based transform<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1OdDDCEu0TnAWs0wi2vAtTGRm5pAodRN4)</b>",
+      "authors": [
+        ""
+      ],
+      "authors_and_affil": [
+        "Tomoyasu Nakano (National Institute of Advanced Industrial Science and Technology (AIST))*",
+        " Masataka Goto (National Institute of Advanced Industrial Science and Technology (AIST))"
+      ],
+      "channel_url": "",
+      "day": "5",
+      "keywords": [
+        ""
+      ],
+      "long_presentation": "",
+      "paper_presentation": "",
+      "pdf_path": "https://archives.ismir.net/ismir2023/paper/000100.pdf",
+      "poster_pdf": "https://drive.google.com/file/d/1pVSndiIoUYLscD295HxipgYLpldiJ56i/view",
+      "session": [
+        "7"
+      ],
+      "slack_channel": "",
+      "title": "Music source separation with MLP mixing of time, frequency, and channel",
+      "video": "https://drive.google.com/uc?export=view&id=1OdDDCEu0TnAWs0wi2vAtTGRm5pAodRN4"
+    },
+    "forum": "278",
+    "id": "278",
+    "pic_id": "https://drive.google.com/file/d/1x1nOic95F0W6ASQHRd0avta3_U209gEY/view",
+    "position": "07",
+    "poster_pdf": "GLTR_poster.pdf",
+    "session": "7"
+  },
+  {
+    "content": {
+      "TLDR": "Music Information Retrieval (MIR) has seen a recent surge in deep learning-based approaches, which often involve encoding symbolic music (i.e., music represented in terms of discrete note events) in an image-like or language-like fashion. However, symboli",
+      "abstract": "Music Information Retrieval (MIR) has seen a recent surge in deep learning-based approaches, which often involve encoding symbolic music (i.e., music represented in terms of discrete note events) in an image-like or language-like fashion. However, symboli<br><br> <b><p align=\"center\">[Direct link to video]()</b>",
+      "authors": [
+        ""
+      ],
+      "authors_and_affil": [
+        "Huan Zhang (Queen Mary University of London)*",
+        " Emmanouil Karystinaios (Johannes Kepler University)",
+        " Simon Dixon (Queen Mary University of London)",
+        " Gerhard Widmer (Johannes Kepler University)",
+        " Carlos Eduardo Cancino-Chac\u00f3n (Johannes Kepler University Linz)"
+      ],
+      "channel_url": "",
+      "day": "5",
+      "keywords": [
+        ""
+      ],
+      "long_presentation": "",
+      "paper_presentation": "",
+      "pdf_path": "https://archives.ismir.net/ismir2023/paper/000101.pdf",
+      "poster_pdf": "",
+      "session": [
+        "7"
+      ],
+      "slack_channel": "",
+      "title": "Symbolic Music Representations for Classification Tasks: A Systematic Evaluation",
+      "video": ""
+    },
+    "forum": "54",
+    "id": "54",
+    "pic_id": "https://drive.google.com/file/d/1Drbq0ENSx89p_s9JtB9LDo7ITkDV8hkT/view",
+    "position": "08",
+    "poster_pdf": "GLTR_poster.pdf",
+    "session": "7"
+  },
+  {
+    "content": {
+      "TLDR": "The semantic description of music metadata is a key requirement for the creation of music datasets that can be aligned, integrated, and accessed for information retrieval and knowledge discovery. It is nonetheless an open challenge due to the complexity o",
+      "abstract": "The semantic description of music metadata is a key requirement for the creation of music datasets that can be aligned, integrated, and accessed for information retrieval and knowledge discovery. It is nonetheless an open challenge due to the complexity o<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1sWmDSmjUDTcma5qxam4u_qSe1tQZXY6K)</b>",
+      "authors": [
+        ""
+      ],
+      "authors_and_affil": [
+        "Valentina Carriero (University of Bologna)",
+        " Jacopo de Berardinis (King's College London)",
+        " Albert Mero\u00f1o-Pe\u00f1uela (King's College London)",
+        " Andrea Poltronieri (University of Bologna)*",
+        " Valentina Presutti (University of Bologna)"
+      ],
+      "channel_url": "",
+      "day": "5",
+      "keywords": [
+        ""
+      ],
+      "long_presentation": "",
+      "paper_presentation": "",
+      "pdf_path": "https://archives.ismir.net/ismir2023/paper/000102.pdf",
+      "poster_pdf": "https://drive.google.com/file/d/1lJSkNd_OzlU73QswUv1Ca93O_UY4BA-c/view",
+      "session": [
+        "7"
+      ],
+      "slack_channel": "",
+      "title": "The Music Meta Ontology: a flexible semantic model for the interoperability of music metadata",
+      "video": "https://drive.google.com/uc?export=view&id=1sWmDSmjUDTcma5qxam4u_qSe1tQZXY6K"
+    },
+    "forum": "283",
+    "id": "283",
+    "pic_id": "https://drive.google.com/file/d/1BjDSWYba5EKYc3zxqWTFJdMroDD7OWVm/view",
+    "position": "09",
+    "poster_pdf": "GLTR_poster.pdf",
+    "session": "7"
+  },
+  {
+    "content": {
+      "TLDR": "Large-scale studies of musical harmony are often hampered by lack of suitably labelled data. It would be highly advantageous if an algorithm were able to autonomously describe chords, scales, etc. in a consistent and musically informative way. In this pap",
+      "abstract": "Large-scale studies of musical harmony are often hampered by lack of suitably labelled data. It would be highly advantageous if an algorithm were able to autonomously describe chords, scales, etc. in a consistent and musically informative way. In this pap<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1wRsgtl_jBL20Cm317Yp1879UHKs7-d5b)</b>",
+      "authors": [
+        ""
+      ],
+      "authors_and_affil": [
+        "Jeffrey K Miller (Queen Mary University of London)*",
+        " Johan Pauwels (Queen Mary University of London)",
+        " Mark B Sandler (Queen Mary University of London)"
+      ],
+      "channel_url": "",
+      "day": "5",
+      "keywords": [
+        ""
+      ],
+      "long_presentation": "",
+      "paper_presentation": "",
+      "pdf_path": "https://archives.ismir.net/ismir2023/paper/000103.pdf",
+      "poster_pdf": "https://drive.google.com/file/d/1BdVT7RIJJIrCPVhUBL5JoFYJHoUjzZWd/view",
+      "session": [
+        "7"
+      ],
+      "slack_channel": "",
+      "title": "Polar Manhattan Displacement: measuring tonal distances between chords based on intervallic content",
+      "video": "https://drive.google.com/uc?export=view&id=1wRsgtl_jBL20Cm317Yp1879UHKs7-d5b"
+    },
+    "forum": "294",
+    "id": "294",
+    "pic_id": "https://drive.google.com/file/d/1zJyH-rDZuVL4AdIP8p25WRbLLtizMkEf/view",
+    "position": "10",
+    "poster_pdf": "GLTR_poster.pdf",
+    "session": "7"
   }
 ]
