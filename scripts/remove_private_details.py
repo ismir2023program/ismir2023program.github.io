@@ -9,11 +9,11 @@ def remove_author_contacts(in_dir='../miniconf-data/sitedata/', out_dir='sitedat
     f.drop('organiser_emails', axis=1, inplace=True)
     f.to_csv(os.path.join(out_dir, 'events.csv'), index=False)
 
-    print('Removing author details from papers.csv ')
-    f = pd.read_csv(os.path.join(in_dir, 'papers.csv'))
+    print('Removing author details from papers_template.csv ')
+    f = pd.read_csv(os.path.join(in_dir, 'papers_template.csv'))
     f.drop('author_emails', axis=1, inplace=True)
     f.drop('primary_email', axis=1, inplace=True)
-    f.to_csv(os.path.join(out_dir, 'papers.csv'), index=False)
+    f.to_csv(os.path.join(out_dir, 'papers_template.csv'), index=False)
 
     print('Removing author details from lbds.csv ')
     f = pd.read_csv(os.path.join(in_dir, 'lbds.csv'))

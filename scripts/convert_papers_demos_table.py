@@ -186,5 +186,5 @@ new_csv_lbds = pd.DataFrame(
 # print(orig_csv)
 # for i, row in new_csv.iterrows():
 #     print(row[["session", "slot"]])
-new_csv.to_csv('../sitedata/papers.csv', index=False)
+new_csv.to_csv('../sitedata/papers_template.csv', index=False)
 # new_csv_lbds.to_csv('../sitedata/lbds.csv', index=False)

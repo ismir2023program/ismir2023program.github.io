@@ -25,7 +25,7 @@ from industry import Industry
 ##########################
 
 # Uncommnet below for papers slack setup
-# paperObj = Papers("/Users/sg/ismir22-prod/miniconf-data/sitedata/papers.csv")
+# paperObj = Papers("/Users/sg/ismir22-prod/miniconf-data/sitedata/papers_template.csv")
 # paperObj.setupSlackChannels(slackUtils)
 
 # Uncommnet below for lbds slack setup

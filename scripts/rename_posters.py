@@ -1,5 +1,5 @@
 # import csv
-# in_csv = '../ISMIR-2022-Miniconf-Data/sitedata/papers.csv'
+# in_csv = '../ISMIR-2022-Miniconf-Data/sitedata/papers_template.csv'
 #
 # csv_reader = csv.reader(open(in_csv), delimiter=',')
 # words = next(csv_reader)
@@ -27,7 +27,7 @@ for filename in os.listdir(in_dir):
 
 # import csv
 # import gdown
-# in_csv = '../ISMIR-2022-Miniconf-Data/sitedata/papers.csv'
+# in_csv = '../ISMIR-2022-Miniconf-Data/sitedata/papers_template.csv'
 #
 # csv_reader = csv.reader(open(in_csv), delimiter=',')
 # words = next(csv_reader)

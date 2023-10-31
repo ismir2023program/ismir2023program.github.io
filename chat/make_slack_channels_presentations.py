@@ -34,7 +34,7 @@ client = WebClient(token=slack_token)
 
 def parse_arguments():
     parser = argparse.ArgumentParser(description="MiniConf Portal Command Line")
-    # parser.add_argument("--list", default="../sitedata/papers.csv", help="Papers or LBDs CSV")
+    # parser.add_argument("--list", default="../sitedata/papers_template.csv", help="Papers or LBDs CSV")
     parser.add_argument("--list", default="../sitedata/lbds.csv", help="Papers or LBDS CSV")
     parser.add_argument("--test", action="store_true")
     return parser.parse_args()
