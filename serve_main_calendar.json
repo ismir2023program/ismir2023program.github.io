@@ -22,21 +22,21 @@
   {
     "calendarId": "all",
     "category": "time",
-    "end": "2023-11-06T10:00:00+01:00",
+    "end": "2023-11-06T10:30:00+01:00",
     "link": "day_2.html#all",
     "location": "day_2.html#all",
     "scrollKey": null,
     "start": "2023-11-06T09:30:00+01:00",
-    "title": "Keynote-1: Christine Abuer on \"Help! - Bridging the Gap Between Music Technology and Diverse Stakeholder Needs\""
+    "title": "Keynote: Christine Abuer on \"Help! - Bridging the Gap Between Music Technology and Diverse Stakeholder Needs\""
   },
   {
     "calendarId": "pos",
     "category": "time",
-    "end": "2023-11-06T13:00:00+01:00",
+    "end": "2023-11-06T13:15:00+01:00",
     "link": "papers.html?session=1",
     "location": "papers.html?session=1",
     "scrollKey": null,
-    "start": "2023-11-06T10:00:00+01:00",
+    "start": "2023-11-06T10:30:00+01:00",
     "title": "Paper Session - 1"
   },
   {
@@ -46,7 +46,7 @@
     "link": null,
     "location": null,
     "scrollKey": null,
-    "start": "2023-11-06T13:00:00+01:00",
+    "start": "2023-11-06T13:15:00+01:00",
     "title": "Lunch"
   },
   {
@@ -67,7 +67,7 @@
     "location": "day_2.html#meet",
     "scrollKey": null,
     "start": "2023-11-06T17:30:00+01:00",
-    "title": "Special Session 1: Inclusion Session and Meetup"
+    "title": "Inclusion Session and Meetup"
   },
   {
     "calendarId": "registration",
@@ -87,7 +87,7 @@
     "location": "day_3.html#all",
     "scrollKey": null,
     "start": "2023-11-07T09:00:00+01:00",
-    "title": "Keynote-2: Rachel Bittner on \"Building & Launching MIR systems at industry scale\""
+    "title": "Keynote: Joey Stuckey on \"Seeing the light through music, a blind man\u2019s journey of discovery through audio and how to navigate making music that speaks to the world in the age of the Screen Driven universe.\""
   },
   {
     "calendarId": "pos",
@@ -152,7 +152,7 @@
   {
     "calendarId": "tut",
     "category": "time",
-    "end": "2023-11-05T19:00:00+01:00",
+    "end": "2023-11-05T18:30:00+01:00",
     "link": "tutorials.html#T4",
     "location": "tutorials.html#T4",
     "scrollKey": null,
@@ -162,7 +162,7 @@
   {
     "calendarId": "tut",
     "category": "time",
-    "end": "2023-11-05T19:00:00+01:00",
+    "end": "2023-11-05T18:30:00+01:00",
     "link": "tutorials.html#T5",
     "location": "tutorials.html#T5",
     "scrollKey": null,
@@ -172,7 +172,7 @@
   {
     "calendarId": "tut",
     "category": "time",
-    "end": "2023-11-05T19:00:00+01:00",
+    "end": "2023-11-05T18:30:00+01:00",
     "link": "tutorials.html#T6",
     "location": "tutorials.html#T6",
     "scrollKey": null,
@@ -188,16 +188,6 @@
     "scrollKey": null,
     "start": "2023-11-05T20:00:00+01:00",
     "title": "Welcome Reception and Concert"
-  },
-  {
-    "calendarId": "meet",
-    "category": "time",
-    "end": "2023-11-08T19:30:00+01:00",
-    "link": "day_4.html#meet",
-    "location": "day_4.html#meet",
-    "scrollKey": null,
-    "start": "2023-11-08T18:30:00+01:00",
-    "title": "Special Session 3: Data Awareness"
   },
   {
     "calendarId": "social",
@@ -222,7 +212,7 @@
   {
     "calendarId": "pos",
     "category": "time",
-    "end": "2023-11-09T11:00:00+01:00",
+    "end": "2023-11-09T11:10:00+01:00",
     "link": "papers.html?session=7",
     "location": "papers.html?session=7",
     "scrollKey": null,
@@ -260,6 +250,16 @@
     "title": "Late-breaking/Demo"
   },
   {
+    "calendarId": "meet",
+    "category": "time",
+    "end": "2023-11-09T19:00:00+01:00",
+    "link": "day_5.html#meet",
+    "location": "day_5.html#meet",
+    "scrollKey": null,
+    "start": "2023-11-09T17:30:00+01:00",
+    "title": "Unconference Event"
+  },
+  {
     "calendarId": "social",
     "category": "time",
     "end": "2023-11-10T17:30:00+01:00",
@@ -290,24 +290,24 @@
     "title": "Paper Session - 4"
   },
   {
-    "calendarId": "mus",
-    "category": "time",
-    "end": "2023-11-07T19:00:00+01:00",
-    "link": "music.html",
-    "location": "music.html",
-    "scrollKey": null,
-    "start": "2023-11-07T17:30:00+01:00",
-    "title": "Music Program"
-  },
-  {
     "calendarId": "industry",
     "category": "time",
-    "end": "2023-11-07T20:00:00+01:00",
+    "end": "2023-11-07T18:30:00+01:00",
     "link": "industry.html?session=Platinum",
     "location": "industry.html?session=Platinum",
     "scrollKey": null,
-    "start": "2023-11-07T19:00:00+01:00",
-    "title": "Industry Meetup"
+    "start": "2023-11-07T17:30:00+01:00",
+    "title": "Industry Panel"
+  },
+  {
+    "calendarId": "mus",
+    "category": "time",
+    "end": "2023-11-07T19:30:00+01:00",
+    "link": "music.html",
+    "location": "music.html",
+    "scrollKey": null,
+    "start": "2023-11-07T18:30:00+01:00",
+    "title": "Music Program"
   },
   {
     "calendarId": "registration",
@@ -327,7 +327,7 @@
     "location": "day_4.html#all",
     "scrollKey": null,
     "start": "2023-11-08T09:00:00+01:00",
-    "title": "Keynote - 3: Joey Stuckey on \"Seeing the light through music, a blind man\u2019s journey of discovery through audio and how to navigate making music that speaks to the world in the age of the Screen Driven universe.\""
+    "title": "Keynote: Rachel Bittner on \"Building & Launching MIR systems at industry scale\""
   },
   {
     "calendarId": "pos",
@@ -367,6 +367,6 @@
     "location": "day_4.html#meet",
     "scrollKey": null,
     "start": "2023-11-08T17:30:00+01:00",
-    "title": "Special Session 2: Panel Session"
+    "title": "Panel Session"
   }
 ]

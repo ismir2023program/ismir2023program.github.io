@@ -48,7 +48,7 @@ BEGIN:VEVENT
 SUMMARY:#tut T4(A): Computer-Assisted Music-Making Systems: Taxonomy\, Rev
  iew\, and Coding
 DTSTART;TZID=Europe/Rome:20231105T143000
-DTEND;TZID=Europe/Rome:20231105T190000
+DTEND;TZID=Europe/Rome:20231105T183000
 DTSTAMP:20231103T231000Z
 UID:16
 LOCATION:tutorials.html#T4
@@ -57,7 +57,7 @@ BEGIN:VEVENT
 SUMMARY:#tut T5(A): Learning with Music Signals: Technology Meets Educatio
  n
 DTSTART;TZID=Europe/Rome:20231105T143000
-DTEND;TZID=Europe/Rome:20231105T190000
+DTEND;TZID=Europe/Rome:20231105T183000
 DTSTAMP:20231103T231000Z
 UID:17
 LOCATION:tutorials.html#T5
@@ -66,7 +66,7 @@ BEGIN:VEVENT
 SUMMARY:#tut T6(A): Kymatio: Deep Learning meets Wavelet Theory for Music 
  Signal Processing
 DTSTART;TZID=Europe/Rome:20231105T143000
-DTEND;TZID=Europe/Rome:20231105T190000
+DTEND;TZID=Europe/Rome:20231105T183000
 DTSTAMP:20231103T231000Z
 UID:18
 LOCATION:tutorials.html#T6
@@ -95,25 +95,25 @@ UID:21
 LOCATION:day_2.html#open
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:#all Keynote-1: Christine Abuer on "Help! - Bridging the Gap Betwe
- en Music Technology and Diverse Stakeholder Needs"
+SUMMARY:#all Keynote: Christine Abuer on "Help! - Bridging the Gap Between
+  Music Technology and Diverse Stakeholder Needs"
 DTSTART;TZID=Europe/Rome:20231106T093000
-DTEND;TZID=Europe/Rome:20231106T100000
+DTEND;TZID=Europe/Rome:20231106T103000
 DTSTAMP:20231103T231000Z
 UID:22
 LOCATION:day_2.html#all
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:#pos Paper Session - 1
-DTSTART;TZID=Europe/Rome:20231106T100000
-DTEND;TZID=Europe/Rome:20231106T130000
+DTSTART;TZID=Europe/Rome:20231106T103000
+DTEND;TZID=Europe/Rome:20231106T131500
 DTSTAMP:20231103T231000Z
 UID:23
 LOCATION:papers.html?session=1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:#lunch Lunch
-DTSTART;TZID=Europe/Rome:20231106T130000
+DTSTART;TZID=Europe/Rome:20231106T131500
 DTEND;TZID=Europe/Rome:20231106T143000
 DTSTAMP:20231103T231000Z
 UID:24
@@ -127,7 +127,7 @@ UID:25
 LOCATION:papers.html?session=2
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:#meet Special Session 1: Inclusion Session and Meetup
+SUMMARY:#meet Inclusion Session and Meetup
 DTSTART;TZID=Europe/Rome:20231106T173000
 DTEND;TZID=Europe/Rome:20231106T193000
 DTSTAMP:20231103T231000Z
@@ -142,8 +142,10 @@ DTSTAMP:20231103T231000Z
 UID:27
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:#all Keynote-2: Rachel Bittner on "Building & Launching MIR system
- s at industry scale"
+SUMMARY:#all Keynote: Joey Stuckey on "Seeing the light through music\, a 
+ blind man’s journey of discovery through audio and how to navigate makin
+ g music that speaks to the world in the age of the Screen Driven universe.
+ "
 DTSTART;TZID=Europe/Rome:20231107T090000
 DTEND;TZID=Europe/Rome:20231107T100000
 DTSTAMP:20231103T231000Z
@@ -174,20 +176,20 @@ UID:31
 LOCATION:papers.html?session=4
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:#mus Music Program
+SUMMARY:#industry Industry Panel
 DTSTART;TZID=Europe/Rome:20231107T173000
-DTEND;TZID=Europe/Rome:20231107T190000
+DTEND;TZID=Europe/Rome:20231107T183000
 DTSTAMP:20231103T231000Z
 UID:32
-LOCATION:music.html
+LOCATION:industry.html?session=Platinum
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:#industry Industry Meetup
-DTSTART;TZID=Europe/Rome:20231107T190000
-DTEND;TZID=Europe/Rome:20231107T200000
+SUMMARY:#mus Music Program
+DTSTART;TZID=Europe/Rome:20231107T183000
+DTEND;TZID=Europe/Rome:20231107T193000
 DTSTAMP:20231103T231000Z
 UID:33
-LOCATION:industry.html?session=Platinum
+LOCATION:music.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:#registration Registration
@@ -197,10 +199,8 @@ DTSTAMP:20231103T231000Z
 UID:34
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:#all Keynote - 3: Joey Stuckey on "Seeing the light through music\
- , a blind man’s journey of discovery through audio and how to navigate m
- aking music that speaks to the world in the age of the Screen Driven unive
- rse."
+SUMMARY:#all Keynote: Rachel Bittner on "Building & Launching MIR systems 
+ at industry scale"
 DTSTART;TZID=Europe/Rome:20231108T090000
 DTEND;TZID=Europe/Rome:20231108T100000
 DTSTAMP:20231103T231000Z
@@ -231,7 +231,7 @@ UID:38
 LOCATION:papers.html?session=6
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:#meet Special Session 2: Panel Session
+SUMMARY:#meet Panel Session
 DTSTART;TZID=Europe/Rome:20231108T173000
 DTEND;TZID=Europe/Rome:20231108T183000
 DTSTAMP:20231103T231000Z
@@ -239,19 +239,11 @@ UID:39
 LOCATION:day_4.html#meet
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:#meet Special Session 3: Data Awareness
-DTSTART;TZID=Europe/Rome:20231108T183000
-DTEND;TZID=Europe/Rome:20231108T193000
-DTSTAMP:20231103T231000Z
-UID:40
-LOCATION:day_4.html#meet
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:#social Banquet\, Jazz Concert and Jam Session
 DTSTART;TZID=Europe/Rome:20231108T203000
 DTEND;TZID=Europe/Rome:20231108T223000
 DTSTAMP:20231103T231000Z
-UID:41
+UID:40
 LOCATION:day_4.html#social
 END:VEVENT
 BEGIN:VEVENT
@@ -259,14 +251,14 @@ SUMMARY:#registration Registration
 DTSTART;TZID=Europe/Rome:20231109T080000
 DTEND;TZID=Europe/Rome:20231109T090000
 DTSTAMP:20231103T231000Z
-UID:42
+UID:41
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:#pos Paper Session - 7
 DTSTART;TZID=Europe/Rome:20231109T090000
-DTEND;TZID=Europe/Rome:20231109T110000
+DTEND;TZID=Europe/Rome:20231109T111000
 DTSTAMP:20231103T231000Z
-UID:43
+UID:42
 LOCATION:papers.html?session=7
 END:VEVENT
 BEGIN:VEVENT
@@ -274,7 +266,7 @@ SUMMARY:#awards Society meeting\, awards and closing
 DTSTART;TZID=Europe/Rome:20231109T113000
 DTEND;TZID=Europe/Rome:20231109T133000
 DTSTAMP:20231103T231000Z
-UID:44
+UID:43
 LOCATION:day_5.html#awards
 END:VEVENT
 BEGIN:VEVENT
@@ -282,15 +274,23 @@ SUMMARY:#lunch Lunch
 DTSTART;TZID=Europe/Rome:20231109T133000
 DTEND;TZID=Europe/Rome:20231109T150000
 DTSTAMP:20231103T231000Z
-UID:45
+UID:44
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:#lbd Late-breaking/Demo
 DTSTART;TZID=Europe/Rome:20231109T150000
 DTEND;TZID=Europe/Rome:20231109T170000
 DTSTAMP:20231103T231000Z
-UID:46
+UID:45
 LOCATION:lbds.html?session=Late-breaking/Demo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:#meet Unconference Event
+DTSTART;TZID=Europe/Rome:20231109T173000
+DTEND;TZID=Europe/Rome:20231109T190000
+DTSTAMP:20231103T231000Z
+UID:46
+LOCATION:day_5.html#meet
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:#social Visit to the Violin Museum (Cremona)
