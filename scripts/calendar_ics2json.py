@@ -41,5 +41,5 @@ def calendar_ics2json(in_ics, out_json):
 
 if __name__ == "__main__":
     calendar_ics2json(
-        in_ics="/Users/claraborrelli/Repos/miniconf/ismir2023program.github.io/static/calendar/ISMIR_2023.ics",
-        out_json="/Users/claraborrelli/Repos/miniconf/ismir2023program.github.io/sitedata/main_calendar.json")
+        in_ics="/Users/claraborrelli/Repos/ismir2023program.github.io/static/calendar/ISMIR_2023.ics",
+        out_json="/Users/claraborrelli/Repos/ismir2023program.github.io/sitedata/main_calendar.json")

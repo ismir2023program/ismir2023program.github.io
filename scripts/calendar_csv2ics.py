@@ -88,5 +88,5 @@ def calendar_csv2ics(in_csv, out_ics):
 
 if __name__ == "__main__":
     calendar_csv2ics(
-        in_csv='/Users/claraborrelli/Repos/miniconf/ismir2023program.github.io/sitedata/events.csv',
-        out_ics='/Users/claraborrelli/Repos/miniconf/ismir2023program.github.io/static/calendar/ISMIR_2023.ics')
+        in_csv='/Users/claraborrelli/Repos/ismir2023program.github.io/sitedata/events.csv',
+        out_ics='/Users/claraborrelli/Repos/ismir2023program.github.io/static/calendar/ISMIR_2023.ics')
