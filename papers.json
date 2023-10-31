@@ -1,1 +1,38 @@
-[]
+[
+  {
+    "content": {
+      "TLDR": "Thanks to advancements in deep learning (DL), automatic music transcription (AMT) systems recently outperformed previous ones fully based on manual feature design. Many of these highly capable DL models, however, are computationally expensive. Researchers",
+      "abstract": "Thanks to advancements in deep learning (DL), automatic music transcription (AMT) systems recently outperformed previous ones fully based on manual feature design. Many of these highly capable DL models, however, are computationally expensive. Researchers<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1yFCCW_X06c_V-Q_xlfOnCbM8JoNzIVtu)</b>",
+      "authors": [
+        ""
+      ],
+      "authors_and_affil": [
+        "Miguel Perez Fernandez (Universitat Pompeu Fabra",
+        " Huawei)*",
+        " Holger Kirchhoff (Huawei)",
+        " Xavier Serra (Universitat Pompeu Fabra )"
+      ],
+      "channel_url": "",
+      "day": "2",
+      "keywords": [
+        ""
+      ],
+      "long_presentation": "",
+      "paper_presentation": "",
+      "pdf_path": "https://archives.ismir.net/ismir2023/paper/000002.pdf",
+      "poster_pdf": "https://drive.google.com/file/d/14jgsYz5Nb8m3OGaiW4RxQe26yi35tyhL/view",
+      "session": [
+        "1"
+      ],
+      "slack_channel": "",
+      "title": "TriAD: Capturing harmonics with 3D Convolutions",
+      "video": "https://drive.google.com/uc?export=view&id=1yFCCW_X06c_V-Q_xlfOnCbM8JoNzIVtu"
+    },
+    "forum": "11",
+    "id": "11",
+    "pic_id": "https://drive.google.com/file/d/1juo5XqKdMdu8902Kq6GWZ2BOAE1wCFw4/view",
+    "position": "02",
+    "poster_pdf": "GLTR_poster.pdf",
+    "session": "1"
+  }
+]
