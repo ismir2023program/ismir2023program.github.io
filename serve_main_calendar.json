@@ -62,12 +62,22 @@
   {
     "calendarId": "meet",
     "category": "time",
-    "end": "2023-11-06T19:30:00+01:00",
+    "end": "2023-11-06T18:30:00+01:00",
     "link": "day_2.html#meet",
     "location": "day_2.html#meet",
     "scrollKey": null,
     "start": "2023-11-06T17:30:00+01:00",
-    "title": "Inclusion Session and Meetup"
+    "title": "Inclusion Panel "
+  },
+  {
+    "calendarId": "meet",
+    "category": "time",
+    "end": "2023-11-06T19:30:00+01:00",
+    "link": "day_2.html#meet",
+    "location": "day_2.html#meet",
+    "scrollKey": null,
+    "start": "2023-11-06T18:30:00+01:00",
+    "title": "Inclusion Meetup"
   },
   {
     "calendarId": "registration",
@@ -88,16 +98,6 @@
     "scrollKey": null,
     "start": "2023-11-07T09:00:00+01:00",
     "title": "Keynote: Joey Stuckey on \"Seeing the light through music, a blind man\u2019s journey of discovery through audio and how to navigate making music that speaks to the world in the age of the Screen Driven universe.\""
-  },
-  {
-    "calendarId": "pos",
-    "category": "time",
-    "end": "2023-11-07T13:00:00+01:00",
-    "link": "papers.html?session=3",
-    "location": "papers.html?session=3",
-    "scrollKey": null,
-    "start": "2023-11-07T10:00:00+01:00",
-    "title": "Paper Session - 3"
   },
   {
     "calendarId": "registration",
@@ -190,6 +190,16 @@
     "title": "Welcome Reception and Concert"
   },
   {
+    "calendarId": "meet",
+    "category": "time",
+    "end": "2023-11-08T18:30:00+01:00",
+    "link": "day_4.html#meet",
+    "location": "day_4.html#meet",
+    "scrollKey": null,
+    "start": "2023-11-08T17:30:00+01:00",
+    "title": "Panel Session"
+  },
+  {
     "calendarId": "social",
     "category": "time",
     "end": "2023-11-08T22:30:00+01:00",
@@ -268,6 +278,16 @@
     "scrollKey": null,
     "start": "2023-11-10T09:00:00+01:00",
     "title": "Visit to the Violin Museum (Cremona)"
+  },
+  {
+    "calendarId": "pos",
+    "category": "time",
+    "end": "2023-11-07T13:00:00+01:00",
+    "link": "papers.html?session=3",
+    "location": "papers.html?session=3",
+    "scrollKey": null,
+    "start": "2023-11-07T10:00:00+01:00",
+    "title": "Paper Session - 3"
   },
   {
     "calendarId": "lunch",
@@ -358,15 +378,5 @@
     "scrollKey": null,
     "start": "2023-11-08T14:30:00+01:00",
     "title": "Paper Session - 6"
-  },
-  {
-    "calendarId": "meet",
-    "category": "time",
-    "end": "2023-11-08T18:30:00+01:00",
-    "link": "day_4.html#meet",
-    "location": "day_4.html#meet",
-    "scrollKey": null,
-    "start": "2023-11-08T17:30:00+01:00",
-    "title": "Panel Session"
   }
 ]

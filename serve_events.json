@@ -273,8 +273,8 @@
     "category": "Meetup",
     "channel_url": "",
     "day": "2",
-    "description": " The panel focus is on Diversity and Inclusion in MIR Research from an academic point of view. In particular, the panel will start with an introduction of the panelist and how their research related to diversity and inclusion and how they addressed D&I during their research. A discussion related to how to improve diversity and inclusion in MIR research will follow. <br>The following meetup will be an informal meeting to get to know each other. It will consist of two activities aimed at introducing people to each other while having an aperitivo all together!<br><ul><li>Talk to your neighbors: music and chat. Every participant needs to talk with other four - five attendees with different characteristics such as different language, different background, different hobbies or passions, etc</li><li>Talk about particular topics: round-the-table discussions, and participants have to change the table every 10 minutes.</li>",
-    "end_time": "19:30",
+    "description": "The Inclusion Panel focus is on Diversity and Inclusion in MIR Research from an academic point of view. In particular, the panel will start with an introduction of the panelist and how their research related to diversity and inclusion and how they addressed D&I during their research. A discussion related to how to improve diversity and inclusion in MIR research will follow.",
+    "end_time": "18:30",
     "image": "",
     "organiser": "Panelists:Lorenzo Porcaro, Christine Bauer, Georgina Born, Anja Volk",
     "organiser_affiliation": "",
@@ -283,8 +283,26 @@
     "slack_channel": "",
     "start_date": "2023-11-06",
     "start_time": "17:30",
-    "title": "Inclusion Session and Meetup",
+    "title": "Inclusion Panel ",
     "uid": "16",
+    "web_link": ""
+  },
+  {
+    "category": "Meetup",
+    "channel_url": "",
+    "day": "2",
+    "description": " The Inclusion Meetup will be an informal meeting to get to know each other. It will consist of two activities aimed at introducing people to each other while having an aperitivo all together!<br><ul><li>Talk to your neighbors: music and chat. Every participant needs to talk with other four - five attendees with different characteristics such as different language, different background, different hobbies or passions, etc</li><li>Talk about particular topics: round-the-table discussions, and participants have to change the table every 10 minutes.</li>",
+    "end_time": "19:30",
+    "image": "",
+    "organiser": "Moderator: Riccardo Giampiccolo",
+    "organiser_affiliation": "",
+    "organiser_bio": "",
+    "organiser_emails": "",
+    "slack_channel": "",
+    "start_date": "2023-11-06",
+    "start_time": "18:30",
+    "title": "Inclusion Meetup",
+    "uid": "17",
     "web_link": ""
   },
   {
@@ -302,7 +320,7 @@
     "start_date": "2023-11-07",
     "start_time": "8:00",
     "title": "Registration",
-    "uid": "17",
+    "uid": "18",
     "web_link": ""
   },
   {
@@ -320,7 +338,7 @@
     "start_date": "2023-11-07",
     "start_time": "9:00",
     "title": "Keynote: Joey Stuckey on \"Seeing the light through music, a blind man\u2019s journey of discovery through audio and how to navigate making music that speaks to the world in the age of the Screen Driven universe.\"",
-    "uid": "18",
+    "uid": "19",
     "web_link": "https://joeystuckey.com"
   },
   {
@@ -338,7 +356,7 @@
     "start_date": "2023-11-07",
     "start_time": "10:00",
     "title": "Paper Session - 3",
-    "uid": "19",
+    "uid": "20",
     "web_link": ""
   },
   {
@@ -356,7 +374,7 @@
     "start_date": "2023-11-07",
     "start_time": "13:00",
     "title": "Lunch",
-    "uid": "20",
+    "uid": "21",
     "web_link": ""
   },
   {
@@ -374,7 +392,7 @@
     "start_date": "2023-11-07",
     "start_time": "14:30",
     "title": "Paper Session - 4",
-    "uid": "21",
+    "uid": "22",
     "web_link": ""
   },
   {
@@ -392,7 +410,7 @@
     "start_date": "2023-11-07",
     "start_time": "17:30",
     "title": "Industry Panel",
-    "uid": "22",
+    "uid": "23",
     "web_link": ""
   },
   {
@@ -410,7 +428,7 @@
     "start_date": "2023-11-07",
     "start_time": "18:30",
     "title": "Music Program",
-    "uid": "23",
+    "uid": "24",
     "web_link": ""
   },
   {
@@ -428,7 +446,7 @@
     "start_date": "2023-11-08",
     "start_time": "8:00",
     "title": "Registration",
-    "uid": "24",
+    "uid": "25",
     "web_link": ""
   },
   {
@@ -446,7 +464,7 @@
     "start_date": "2023-11-08",
     "start_time": "9:00",
     "title": "Keynote: Rachel Bittner on \"Building & Launching MIR systems at industry scale\"",
-    "uid": "25",
+    "uid": "26",
     "web_link": ""
   },
   {
@@ -464,7 +482,7 @@
     "start_date": "2023-11-08",
     "start_time": "10:00",
     "title": "Paper Session - 5",
-    "uid": "26",
+    "uid": "27",
     "web_link": ""
   },
   {
@@ -482,7 +500,7 @@
     "start_date": "2023-11-08",
     "start_time": "13:00",
     "title": "Lunch",
-    "uid": "27",
+    "uid": "28",
     "web_link": ""
   },
   {
@@ -500,7 +518,7 @@
     "start_date": "2023-11-08",
     "start_time": "14:30",
     "title": "Paper Session - 6",
-    "uid": "28",
+    "uid": "29",
     "web_link": ""
   },
   {
@@ -518,7 +536,7 @@
     "start_date": "2023-11-08",
     "start_time": "17:30",
     "title": "Panel Session",
-    "uid": "29",
+    "uid": "30",
     "web_link": ""
   },
   {
@@ -536,7 +554,7 @@
     "start_date": "2023-11-08",
     "start_time": "20:30",
     "title": "Banquet, Jazz Concert and Jam Session",
-    "uid": "30",
+    "uid": "31",
     "web_link": ""
   },
   {
@@ -554,7 +572,7 @@
     "start_date": "2023-11-09",
     "start_time": "8:00",
     "title": "Registration",
-    "uid": "31",
+    "uid": "32",
     "web_link": ""
   },
   {
@@ -572,7 +590,7 @@
     "start_date": "2023-11-09",
     "start_time": "9:00",
     "title": "Paper Session - 7",
-    "uid": "32",
+    "uid": "33",
     "web_link": ""
   },
   {
@@ -590,7 +608,7 @@
     "start_date": "2023-11-09",
     "start_time": "11:30",
     "title": "Society meeting, awards and closing",
-    "uid": "33",
+    "uid": "34",
     "web_link": ""
   },
   {
@@ -608,7 +626,7 @@
     "start_date": "2023-11-09",
     "start_time": "13:30",
     "title": "Lunch",
-    "uid": "34",
+    "uid": "35",
     "web_link": ""
   },
   {
@@ -626,7 +644,7 @@
     "start_date": "2023-11-09",
     "start_time": "15:00",
     "title": "Late-breaking/Demo",
-    "uid": "35",
+    "uid": "36",
     "web_link": ""
   },
   {
@@ -644,7 +662,7 @@
     "start_date": "2023-11-09",
     "start_time": "17:30",
     "title": "Unconference Event",
-    "uid": "36",
+    "uid": "37",
     "web_link": ""
   },
   {
@@ -662,7 +680,7 @@
     "start_date": "2023-11-10",
     "start_time": "09:00",
     "title": "Visit to the Violin Museum (Cremona)",
-    "uid": "37",
+    "uid": "38",
     "web_link": "https://ismir2023.ismir.net/violinMuseum/"
   }
 ]
