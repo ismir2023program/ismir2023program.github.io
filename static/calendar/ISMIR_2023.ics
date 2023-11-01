@@ -239,7 +239,7 @@ UID:39
 LOCATION:papers.html?session=6
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:#meet Panel Session
+SUMMARY:#meet Panel Session: Hybrid deep learning for MIR 
 DTSTART;TZID=Europe/Rome:20231108T173000
 DTEND;TZID=Europe/Rome:20231108T183000
 DTSTAMP:20231103T231000Z
