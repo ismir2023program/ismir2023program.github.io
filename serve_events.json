@@ -223,7 +223,7 @@
     "slack_channel": " ",
     "start_date": "2023-11-06",
     "start_time": " 9:30",
-    "title": "Keynote: Christine Abuer on \"Help! - Bridging the Gap Between Music Technology and Diverse Stakeholder Needs\"",
+    "title": "Keynote: Christine Bauer on \"Help! - Bridging the Gap Between Music Technology and Diverse Stakeholder Needs\"",
     "uid": "12",
     "web_link": " https://christinebauer.eu"
   },
@@ -558,7 +558,7 @@
     "description": "In MIR, as in many other domain, there is a significant trend towards purely data-driven approaches aimed at directly solving the machine learning problem at hand, while only crudely considering the nature and structure of the data being processed.  In the music domain, prior knowledge can relate to the production of sound (using an acoustic model), the way music is perceived (based on a perceptual model), or how music is composed (using a musicological model). These models can usually be encoded with only a few parameters, leading to controllable and interpretable systems that can be exploited in modern neural-based machine learning frameworks, resulting in so-called hybrid deep learning models. The aim of this panel is to illustrate the concept of hybrid deep learning with some specific examples in MIR, and to discuss its limits, merits and potential for future machine learning based music applications.",
     "end_time": "18:30",
     "image": "",
-    "organiser": "Moderator:Ga\u00ebl Richard Panelists: George Fazekas (Queen Mary Univ) Changhong Wang (Telecom Paris) Zhiyao Duan (University of Rochester) Gus Xia (NYU Shanghai/MBZUAI)",
+    "organiser": "Moderator:Ga\u00ebl Richard Panelists: George Fazekas (Queen Mary Univ) Changhong Wang (Telecom Paris) Zhiyao Duan (University of Rochester) Gus Xia (MBZUAI)",
     "organiser_affiliation": "",
     "organiser_bio": "",
     "organiser_emails": "",
