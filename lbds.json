@@ -18,7 +18,7 @@
       "session": [
         "Physical"
       ],
-      "thumbnail_link": "emoji_music.001.png",
+      "thumbnail_link": "001.png",
       "title": "Virtuoso Strings: A Dataset of String Ensemble Recordings and Onset Annotations for Timing Analysis",
       "youtube_id": ""
     },
@@ -43,7 +43,7 @@
       "session": [
         "Physical"
       ],
-      "thumbnail_link": "emoji_music.002.png",
+      "thumbnail_link": "002.png",
       "title": "Music Scope Pad",
       "youtube_id": ""
     },
@@ -70,7 +70,7 @@
       "session": [
         "Physical"
       ],
-      "thumbnail_link": "emoji_music.003.png",
+      "thumbnail_link": "003.png",
       "title": "The Chordinator: Chord Progression Modeling and Generation using Transformers",
       "youtube_id": ""
     },
@@ -96,7 +96,7 @@
       "session": [
         "Physical"
       ],
-      "thumbnail_link": "emoji_music.004.png",
+      "thumbnail_link": "004.png",
       "title": "Cosine Contours: A Case Study with Melodies from Irish Traditional Dance Music",
       "youtube_id": ""
     },
@@ -122,7 +122,7 @@
       "session": [
         "Physical"
       ],
-      "thumbnail_link": "emoji_music.005.png",
+      "thumbnail_link": "005.png",
       "title": "AutoOsu: Audio-Aware Action Generation for Rhythm Games",
       "youtube_id": ""
     },
@@ -149,7 +149,7 @@
       "session": [
         "Physical"
       ],
-      "thumbnail_link": "emoji_music.006.png",
+      "thumbnail_link": "006.png",
       "title": "Can MusicGen Create Training Data for MIR Tasks?",
       "youtube_id": ""
     },
@@ -176,7 +176,7 @@
       "session": [
         "Physical"
       ],
-      "thumbnail_link": "emoji_music.007.png",
+      "thumbnail_link": "007.png",
       "title": "AUTOMATIC PRODUCTION OF ACOUSTIC PIANO TRANSCRIPTION DATA",
       "youtube_id": ""
     },
@@ -201,7 +201,7 @@
       "session": [
         "Physical"
       ],
-      "thumbnail_link": "emoji_music.008.png",
+      "thumbnail_link": "008.png",
       "title": "MemoVision: a tool for feature selection and visualization of performance data",
       "youtube_id": ""
     },
@@ -228,7 +228,7 @@
       "session": [
         "Physical"
       ],
-      "thumbnail_link": "emoji_music.009.png",
+      "thumbnail_link": "009.png",
       "title": "The Hi-Audio Online Platform for distributed music crowdsourcing database collection",
       "youtube_id": ""
     },
@@ -258,7 +258,7 @@
       "session": [
         "Physical"
       ],
-      "thumbnail_link": "emoji_music.010.png",
+      "thumbnail_link": "010.png",
       "title": "On the Use of Synthesized Datasets and Transformer Adaptors for Musical Instrument Recognition",
       "youtube_id": ""
     },
@@ -284,7 +284,7 @@
       "session": [
         "Physical"
       ],
-      "thumbnail_link": "emoji_music.011.png",
+      "thumbnail_link": "011.png",
       "title": "What can go wrong when conducting beat tracking experiments",
       "youtube_id": ""
     },
@@ -315,7 +315,7 @@
       "session": [
         "Physical"
       ],
-      "thumbnail_link": "emoji_music.012.png",
+      "thumbnail_link": "012.png",
       "title": "Bridging Audio and Symbolic Piano Data through a Web-Based Annotation Interface",
       "youtube_id": ""
     },
@@ -343,7 +343,7 @@
       "session": [
         "Physical"
       ],
-      "thumbnail_link": "emoji_music.013.png",
+      "thumbnail_link": "013.png",
       "title": "Towards Differentiable Piano Synthesis Based On Physical Modeling",
       "youtube_id": ""
     },
@@ -369,7 +369,7 @@
       "session": [
         "Physical"
       ],
-      "thumbnail_link": "emoji_music.014.png",
+      "thumbnail_link": "014.png",
       "title": "DJ StructFreak: Automatic DJ system Built with Music Structure Embeddings",
       "youtube_id": ""
     },
@@ -396,7 +396,7 @@
       "session": [
         "Physical"
       ],
-      "thumbnail_link": "emoji_music.015.png",
+      "thumbnail_link": "015.png",
       "title": "Generating folk-like music in abc-notation with Masked Language Models",
       "youtube_id": ""
     },
@@ -422,7 +422,7 @@
       "session": [
         "Physical"
       ],
-      "thumbnail_link": "emoji_music.016.png",
+      "thumbnail_link": "016.png",
       "title": "AQUATK: An Audio Quality Assessment Toolkit",
       "youtube_id": ""
     },
@@ -448,7 +448,7 @@
       "session": [
         "Physical"
       ],
-      "thumbnail_link": "emoji_music.017.png",
+      "thumbnail_link": "017.png",
       "title": "Encoding performance data in MEI with the Automatic Music Performance Analysis and Comparison Toolkit (AMPACT)",
       "youtube_id": ""
     },
@@ -475,7 +475,7 @@
       "session": [
         "Physical"
       ],
-      "thumbnail_link": "emoji_music.018.png",
+      "thumbnail_link": "018.png",
       "title": "Retrieval Augmented Generation of Symbolic Music with LLMs",
       "youtube_id": ""
     },
@@ -503,7 +503,7 @@
       "session": [
         "Physical"
       ],
-      "thumbnail_link": "emoji_music.019.png",
+      "thumbnail_link": "019.png",
       "title": "The Biased Journey of MSD_AUDIO.ZIP",
       "youtube_id": ""
     },
@@ -529,7 +529,7 @@
       "session": [
         "Virtual"
       ],
-      "thumbnail_link": "emoji_music.020.png",
+      "thumbnail_link": "020.png",
       "title": "FMAK: A DATASET OF KEY AND MODE ANNOTATIONS FOR THE FREE MUSIC ARCHIVE \u2013 EXTENDED ABSTRACT",
       "youtube_id": ""
     },
@@ -555,7 +555,7 @@
       "session": [
         "Physical"
       ],
-      "thumbnail_link": "emoji_music.021.png",
+      "thumbnail_link": "021.png",
       "title": "Orchestral Texture Classification with Convolution",
       "youtube_id": ""
     },
@@ -582,7 +582,7 @@
       "session": [
         "Virtual"
       ],
-      "thumbnail_link": "emoji_music.022.png",
+      "thumbnail_link": "022.png",
       "title": "Beat-Aligned Spectrogram-to-Sequence Generation of Rhythm-Game Charts",
       "youtube_id": ""
     },
@@ -610,7 +610,7 @@
       "session": [
         "Physical"
       ],
-      "thumbnail_link": "emoji_music.023.png",
+      "thumbnail_link": "023.png",
       "title": "TOTAL VARIATION IN POPULAR RAP VOCALS FROM 2009-2023: EXTENSION OF THE ANALYSIS BY GEORGIEVA, RIPOLL\u00c9S & MCFEE",
       "youtube_id": ""
     },
@@ -638,7 +638,7 @@
       "session": [
         "Physical"
       ],
-      "thumbnail_link": "emoji_music.024.png",
+      "thumbnail_link": "024.png",
       "title": "TOWARDS AUTOMATED ESTIMATION OF VALUES FROM SONG LYRICS: A DATA COLLECTION PROTOCOL",
       "youtube_id": ""
     },
@@ -665,7 +665,7 @@
       "session": [
         "Physical"
       ],
-      "thumbnail_link": "emoji_music.025.png",
+      "thumbnail_link": "025.png",
       "title": "Track Role Prediction of Single-Instrumental Sequences",
       "youtube_id": ""
     },
@@ -691,7 +691,7 @@
       "session": [
         "Physical"
       ],
-      "thumbnail_link": "emoji_music.026.png",
+      "thumbnail_link": "026.png",
       "title": "Demo of a smart musical instrument-based real time pattern detection system",
       "youtube_id": ""
     },
@@ -721,7 +721,7 @@
       "session": [
         "Physical"
       ],
-      "thumbnail_link": "emoji_music.027.png",
+      "thumbnail_link": "027.png",
       "title": "JamALT: A formatting-aware lyrics transcription benchmark",
       "youtube_id": ""
     },
@@ -748,7 +748,7 @@
       "session": [
         "Physical"
       ],
-      "thumbnail_link": "emoji_music.028.png",
+      "thumbnail_link": "028.png",
       "title": "STraDa: A Singer Traits Dataset",
       "youtube_id": ""
     },
@@ -775,7 +775,7 @@
       "session": [
         "Physical"
       ],
-      "thumbnail_link": "emoji_music.029.png",
+      "thumbnail_link": "029.png",
       "title": "Interpretable Modular Representation Learning for Full-Band Accompaniment Arrangement",
       "youtube_id": ""
     },
@@ -802,7 +802,7 @@
       "session": [
         "Physical"
       ],
-      "thumbnail_link": "emoji_music.030.png",
+      "thumbnail_link": "030.png",
       "title": "Improving Embeddings in Harmony Transformer",
       "youtube_id": ""
     },
@@ -829,7 +829,7 @@
       "session": [
         "Physical"
       ],
-      "thumbnail_link": "emoji_music.031.png",
+      "thumbnail_link": "031.png",
       "title": "Singable and Controllable Neural Lyric Translation: a Late-Breaking Showcase",
       "youtube_id": ""
     },
@@ -856,7 +856,7 @@
       "session": [
         "Physical"
       ],
-      "thumbnail_link": "emoji_music.032.png",
+      "thumbnail_link": "032.png",
       "title": "A Noise Augmentation Pipeline for Realistic Query-By-Example Simulation",
       "youtube_id": ""
     },
@@ -887,7 +887,7 @@
       "session": [
         "Physical"
       ],
-      "thumbnail_link": "emoji_music.033.png",
+      "thumbnail_link": "033.png",
       "title": "LARS: An Open-Source VST3 Plugin for Deep Drums Demixing with Pretrained Models",
       "youtube_id": ""
     },
@@ -914,7 +914,7 @@
       "session": [
         "Physical"
       ],
-      "thumbnail_link": "emoji_music.034.png",
+      "thumbnail_link": "034.png",
       "title": "Music Visualization using Chironomie",
       "youtube_id": ""
     },
@@ -940,7 +940,7 @@
       "session": [
         "Physical"
       ],
-      "thumbnail_link": "emoji_music.035.png",
+      "thumbnail_link": "035.png",
       "title": "AUTOMATIC TRANSCRIPTION OF MULTI-INSTRUMENTAL SONGS: INTEGRATING DEMIXING, HARMONIC DILATED CONVOLUTION, AND JOINT BEAT TRACKING",
       "youtube_id": ""
     },
@@ -967,7 +967,7 @@
       "session": [
         "Physical"
       ],
-      "thumbnail_link": "emoji_music.036.png",
+      "thumbnail_link": "036.png",
       "title": "Mel-Band RoFormer for Music Source Separation",
       "youtube_id": ""
     },
@@ -1007,7 +1007,7 @@
       "session": [
         "Physical"
       ],
-      "thumbnail_link": "emoji_music.037.png",
+      "thumbnail_link": "037.png",
       "title": "THE VocalNotes DATASET",
       "youtube_id": ""
     },
@@ -1033,7 +1033,7 @@
       "session": [
         "Physical"
       ],
-      "thumbnail_link": "emoji_music.038.png",
+      "thumbnail_link": "038.png",
       "title": "FROM TAPS TO DRUMS: AUDIO PERCUSSION STYLE TRANSFER",
       "youtube_id": ""
     },
@@ -1060,7 +1060,7 @@
       "session": [
         "Physical"
       ],
-      "thumbnail_link": "emoji_music.039.png",
+      "thumbnail_link": "039.png",
       "title": "JAMMIN-GPT: TEXT-BASED IMPROVISATION USING LLMS IN ABLETON LIVE",
       "youtube_id": ""
     },
@@ -1088,7 +1088,7 @@
       "session": [
         "Physical"
       ],
-      "thumbnail_link": "emoji_music.040.png",
+      "thumbnail_link": "040.png",
       "title": "Visual Guitar Tab Comparison",
       "youtube_id": ""
     },
@@ -1115,7 +1115,7 @@
       "session": [
         "Virtual"
       ],
-      "thumbnail_link": "emoji_music.041.png",
+      "thumbnail_link": "041.png",
       "title": "Optimizing the Mridangam Stroke Transcription Pipeline: Addressing Key Challenges",
       "youtube_id": ""
     },

@@ -14,7 +14,7 @@
     "primary_author": "Maciej Tomczak",
     "primary_email": "maciej.tomczak@bcu.ac.uk",
     "session": "Physical",
-    "thumbnail_link": "emoji_music.001.png",
+    "thumbnail_link": "001.png",
     "title": "Virtuoso Strings: A Dataset of String Ensemble Recordings and Onset Annotations for Timing Analysis",
     "uid": "312",
     "youtube_id": ""
@@ -34,7 +34,7 @@
     "primary_author": "Masatoshi Hamanaka",
     "primary_email": "masatoshi.hamanaka@riken.jp",
     "session": "Physical",
-    "thumbnail_link": "emoji_music.002.png",
+    "thumbnail_link": "002.png",
     "title": "Music Scope Pad",
     "uid": "315",
     "youtube_id": ""
@@ -54,7 +54,7 @@
     "primary_author": "David Cabrera Dalmazzo",
     "primary_email": "dalmazzo@kth.se",
     "session": "Physical",
-    "thumbnail_link": "emoji_music.003.png",
+    "thumbnail_link": "003.png",
     "title": "The Chordinator: Chord Progression Modeling and Generation using Transformers",
     "uid": "316",
     "youtube_id": ""
@@ -74,7 +74,7 @@
     "primary_author": "Laura Cros Vila",
     "primary_email": "lcros@kth.se",
     "session": "Physical",
-    "thumbnail_link": "emoji_music.004.png",
+    "thumbnail_link": "004.png",
     "title": "Cosine Contours: A Case Study with Melodies from Irish Traditional Dance Music",
     "uid": "318",
     "youtube_id": ""
@@ -94,7 +94,7 @@
     "primary_author": "Sihun Lee",
     "primary_email": "tastyvb@sogang.ac.kr",
     "session": "Physical",
-    "thumbnail_link": "emoji_music.005.png",
+    "thumbnail_link": "005.png",
     "title": "AutoOsu: Audio-Aware Action Generation for Rhythm Games",
     "uid": "319",
     "youtube_id": ""
@@ -114,7 +114,7 @@
     "primary_author": "Helena Cuesta",
     "primary_email": "helena@daaci.com",
     "session": "Physical",
-    "thumbnail_link": "emoji_music.006.png",
+    "thumbnail_link": "006.png",
     "title": "Can MusicGen Create Training Data for MIR Tasks?",
     "uid": "320",
     "youtube_id": ""
@@ -134,7 +134,7 @@
     "primary_author": "Andrew C Edwards",
     "primary_email": "a.c.edwards@qmul.ac.uk",
     "session": "Physical",
-    "thumbnail_link": "emoji_music.007.png",
+    "thumbnail_link": "007.png",
     "title": "AUTOMATIC PRODUCTION OF ACOUSTIC PIANO TRANSCRIPTION DATA",
     "uid": "321",
     "youtube_id": ""
@@ -154,7 +154,7 @@
     "primary_author": "Matej Istvanek",
     "primary_email": "matej.istvanek@vut.cz",
     "session": "Physical",
-    "thumbnail_link": "emoji_music.008.png",
+    "thumbnail_link": "008.png",
     "title": "MemoVision: a tool for feature selection and visualization of performance data",
     "uid": "322",
     "youtube_id": ""
@@ -174,7 +174,7 @@
     "primary_author": "Ga\u00ebl Richard",
     "primary_email": "gael.richard@telecom-paris.fr",
     "session": "Physical",
-    "thumbnail_link": "emoji_music.009.png",
+    "thumbnail_link": "009.png",
     "title": "The Hi-Audio Online Platform for distributed music crowdsourcing database collection",
     "uid": "323",
     "youtube_id": ""
@@ -194,7 +194,7 @@
     "primary_author": "Keitaro Tanaka",
     "primary_email": "phys.keitaro1227@ruri.waseda.jp",
     "session": "Physical",
-    "thumbnail_link": "emoji_music.010.png",
+    "thumbnail_link": "010.png",
     "title": "On the Use of Synthesized Datasets and Transformer Adaptors for Musical Instrument Recognition",
     "uid": "324",
     "youtube_id": ""
@@ -214,7 +214,7 @@
     "primary_author": "Ching-Yu Chiu",
     "primary_email": "x2009971@gmail.com",
     "session": "Physical",
-    "thumbnail_link": "emoji_music.011.png",
+    "thumbnail_link": "011.png",
     "title": "What can go wrong when conducting beat tracking experiments",
     "uid": "325",
     "youtube_id": ""
@@ -234,7 +234,7 @@
     "primary_author": "Seolhee Lee",
     "primary_email": "seolhee_lee@kaist.ac.kr",
     "session": "Physical",
-    "thumbnail_link": "emoji_music.012.png",
+    "thumbnail_link": "012.png",
     "title": "Bridging Audio and Symbolic Piano Data through a Web-Based Annotation Interface",
     "uid": "326",
     "youtube_id": ""
@@ -254,7 +254,7 @@
     "primary_author": "Simon J Schw\u00e4r",
     "primary_email": "simon.schwaer@audiolabs-erlangen.de",
     "session": "Physical",
-    "thumbnail_link": "emoji_music.013.png",
+    "thumbnail_link": "013.png",
     "title": "Towards Differentiable Piano Synthesis Based On Physical Modeling",
     "uid": "327",
     "youtube_id": ""
@@ -274,7 +274,7 @@
     "primary_author": "Juhan Nam",
     "primary_email": "juhan.nam@kaist.ac.kr",
     "session": "Physical",
-    "thumbnail_link": "emoji_music.014.png",
+    "thumbnail_link": "014.png",
     "title": "DJ StructFreak: Automatic DJ system Built with Music Structure Embeddings",
     "uid": "328",
     "youtube_id": ""
@@ -294,7 +294,7 @@
     "primary_author": "Luca Casini",
     "primary_email": "casini@kth.se",
     "session": "Physical",
-    "thumbnail_link": "emoji_music.015.png",
+    "thumbnail_link": "015.png",
     "title": "Generating folk-like music in abc-notation with Masked Language Models",
     "uid": "329",
     "youtube_id": ""
@@ -314,7 +314,7 @@
     "primary_author": "Ashvala Vinay",
     "primary_email": "mail@ashvala.net",
     "session": "Physical",
-    "thumbnail_link": "emoji_music.016.png",
+    "thumbnail_link": "016.png",
     "title": "AQUATK: An Audio Quality Assessment Toolkit",
     "uid": "330",
     "youtube_id": ""
@@ -334,7 +334,7 @@
     "primary_author": "Johanna Devaney",
     "primary_email": "johanna.devaney@brooklyn.cuny.edu",
     "session": "Physical",
-    "thumbnail_link": "emoji_music.017.png",
+    "thumbnail_link": "017.png",
     "title": "Encoding performance data in MEI with the Automatic Music Performance Analysis and Comparison Toolkit (AMPACT)",
     "uid": "331",
     "youtube_id": ""
@@ -354,7 +354,7 @@
     "primary_author": "Nicolas Jonason",
     "primary_email": "nicolasjonason@gmail.com",
     "session": "Physical",
-    "thumbnail_link": "emoji_music.018.png",
+    "thumbnail_link": "018.png",
     "title": "Retrieval Augmented Generation of Symbolic Music with LLMs",
     "uid": "332",
     "youtube_id": ""
@@ -374,7 +374,7 @@
     "primary_author": "Haven Kim",
     "primary_email": "khaven@kaist.ac.kr",
     "session": "Physical",
-    "thumbnail_link": "emoji_music.019.png",
+    "thumbnail_link": "019.png",
     "title": "The Biased Journey of MSD_AUDIO.ZIP",
     "uid": "334",
     "youtube_id": ""
@@ -394,7 +394,7 @@
     "primary_author": "Stella Wong",
     "primary_email": "stellayinwong@gmail.com",
     "session": "Virtual",
-    "thumbnail_link": "emoji_music.020.png",
+    "thumbnail_link": "020.png",
     "title": "FMAK: A DATASET OF KEY AND MODE ANNOTATIONS FOR THE FREE MUSIC ARCHIVE \u2013 EXTENDED ABSTRACT",
     "uid": "335",
     "youtube_id": ""
@@ -414,7 +414,7 @@
     "primary_author": "YA-HSUAN CHU",
     "primary_email": "yahsuanchu.ee09@nycu.edu.tw",
     "session": "Physical",
-    "thumbnail_link": "emoji_music.021.png",
+    "thumbnail_link": "021.png",
     "title": "Orchestral Texture Classification with Convolution",
     "uid": "336",
     "youtube_id": ""
@@ -434,7 +434,7 @@
     "primary_author": "Jayeon J. Yi",
     "primary_email": "jayeonyi@umich.edu",
     "session": "Virtual",
-    "thumbnail_link": "emoji_music.022.png",
+    "thumbnail_link": "022.png",
     "title": "Beat-Aligned Spectrogram-to-Sequence Generation of Rhythm-Game Charts",
     "uid": "337",
     "youtube_id": ""
@@ -454,7 +454,7 @@
     "primary_author": "Kelvin L Walls",
     "primary_email": "kelwalls@gmail.com",
     "session": "Physical",
-    "thumbnail_link": "emoji_music.023.png",
+    "thumbnail_link": "023.png",
     "title": "TOTAL VARIATION IN POPULAR RAP VOCALS FROM 2009-2023: EXTENSION OF THE ANALYSIS BY GEORGIEVA, RIPOLL\u00c9S & MCFEE",
     "uid": "338",
     "youtube_id": ""
@@ -474,7 +474,7 @@
     "primary_author": "Andrew M. Demetriou",
     "primary_email": "andrew.m.demetriou@gmail.com",
     "session": "Physical",
-    "thumbnail_link": "emoji_music.024.png",
+    "thumbnail_link": "024.png",
     "title": "TOWARDS AUTOMATED ESTIMATION OF VALUES FROM SONG LYRICS: A DATA COLLECTION PROTOCOL",
     "uid": "339",
     "youtube_id": ""
@@ -494,7 +494,7 @@
     "primary_author": "ChangHeon Han",
     "primary_email": "datajedi23@hanyang.ac.kr",
     "session": "Physical",
-    "thumbnail_link": "emoji_music.025.png",
+    "thumbnail_link": "025.png",
     "title": "Track Role Prediction of Single-Instrumental Sequences",
     "uid": "341",
     "youtube_id": ""
@@ -514,7 +514,7 @@
     "primary_author": "Nishal S Silva",
     "primary_email": "nishal.silva@unitn.it",
     "session": "Physical",
-    "thumbnail_link": "emoji_music.026.png",
+    "thumbnail_link": "026.png",
     "title": "Demo of a smart musical instrument-based real time pattern detection system",
     "uid": "342",
     "youtube_id": ""
@@ -534,7 +534,7 @@
     "primary_author": "Ond\u0159ej C\u00edfka",
     "primary_email": "ondrej@audioshake.ai",
     "session": "Physical",
-    "thumbnail_link": "emoji_music.027.png",
+    "thumbnail_link": "027.png",
     "title": "JamALT: A formatting-aware lyrics transcription benchmark",
     "uid": "343",
     "youtube_id": ""
@@ -554,7 +554,7 @@
     "primary_author": "Yuexuan KONG",
     "primary_email": "ykong@deezer.com",
     "session": "Physical",
-    "thumbnail_link": "emoji_music.028.png",
+    "thumbnail_link": "028.png",
     "title": "STraDa: A Singer Traits Dataset",
     "uid": "344",
     "youtube_id": ""
@@ -574,7 +574,7 @@
     "primary_author": "Jingwei Zhao",
     "primary_email": "jzhao@u.nus.edu",
     "session": "Physical",
-    "thumbnail_link": "emoji_music.029.png",
+    "thumbnail_link": "029.png",
     "title": "Interpretable Modular Representation Learning for Full-Band Accompaniment Arrangement",
     "uid": "345",
     "youtube_id": ""
@@ -594,7 +594,7 @@
     "primary_author": "Maral Ebrahimzadeh",
     "primary_email": "maral.ebrahimzadeh@ovgu.de",
     "session": "Physical",
-    "thumbnail_link": "emoji_music.030.png",
+    "thumbnail_link": "030.png",
     "title": "Improving Embeddings in Harmony Transformer",
     "uid": "346",
     "youtube_id": ""
@@ -614,7 +614,7 @@
     "primary_author": "Longshen Ou",
     "primary_email": "oulongshen@u.nus.edu",
     "session": "Physical",
-    "thumbnail_link": "emoji_music.031.png",
+    "thumbnail_link": "031.png",
     "title": "Singable and Controllable Neural Lyric Translation: a Late-Breaking Showcase",
     "uid": "347",
     "youtube_id": ""
@@ -634,7 +634,7 @@
     "primary_author": "Kamil Akesbi",
     "primary_email": "kakesbi@deezer.com",
     "session": "Physical",
-    "thumbnail_link": "emoji_music.032.png",
+    "thumbnail_link": "032.png",
     "title": "A Noise Augmentation Pipeline for Realistic Query-By-Example Simulation",
     "uid": "348",
     "youtube_id": ""
@@ -654,7 +654,7 @@
     "primary_author": "Alessandro I Mezza",
     "primary_email": "alessandroilic.mezza@polimi.it",
     "session": "Physical",
-    "thumbnail_link": "emoji_music.033.png",
+    "thumbnail_link": "033.png",
     "title": "LARS: An Open-Source VST3 Plugin for Deep Drums Demixing with Pretrained Models",
     "uid": "349",
     "youtube_id": ""
@@ -674,7 +674,7 @@
     "primary_author": "Kana Tatsumi",
     "primary_email": "tatsumi@lee-lab.org",
     "session": "Physical",
-    "thumbnail_link": "emoji_music.034.png",
+    "thumbnail_link": "034.png",
     "title": "Music Visualization using Chironomie",
     "uid": "350",
     "youtube_id": ""
@@ -694,7 +694,7 @@
     "primary_author": "Lars L Monstad",
     "primary_email": "lars.monstad@gmail.com",
     "session": "Physical",
-    "thumbnail_link": "emoji_music.035.png",
+    "thumbnail_link": "035.png",
     "title": "AUTOMATIC TRANSCRIPTION OF MULTI-INSTRUMENTAL SONGS: INTEGRATING DEMIXING, HARMONIC DILATED CONVOLUTION, AND JOINT BEAT TRACKING",
     "uid": "351",
     "youtube_id": ""
@@ -714,7 +714,7 @@
     "primary_author": "Ju-Chiang Wang",
     "primary_email": "ju-chiang.wang@bytedance.com",
     "session": "Physical",
-    "thumbnail_link": "emoji_music.036.png",
+    "thumbnail_link": "036.png",
     "title": "Mel-Band RoFormer for Music Source Separation",
     "uid": "353",
     "youtube_id": ""
@@ -734,7 +734,7 @@
     "primary_author": "Polina Proutskova",
     "primary_email": "proutskova@googlemail.com",
     "session": "Physical",
-    "thumbnail_link": "emoji_music.037.png",
+    "thumbnail_link": "037.png",
     "title": "THE VocalNotes DATASET",
     "uid": "354",
     "youtube_id": ""
@@ -754,7 +754,7 @@
     "primary_author": "Andr\u00e9 C. Santos",
     "primary_email": "andresantos@dei.uc.pt",
     "session": "Physical",
-    "thumbnail_link": "emoji_music.038.png",
+    "thumbnail_link": "038.png",
     "title": "FROM TAPS TO DRUMS: AUDIO PERCUSSION STYLE TRANSFER",
     "uid": "355",
     "youtube_id": ""
@@ -774,7 +774,7 @@
     "primary_author": "Sven Hollowell",
     "primary_email": "sven.hollowell@bristol.ac.uk",
     "session": "Physical",
-    "thumbnail_link": "emoji_music.039.png",
+    "thumbnail_link": "039.png",
     "title": "JAMMIN-GPT: TEXT-BASED IMPROVISATION USING LLMS IN ABLETON LIVE",
     "uid": "356",
     "youtube_id": ""
@@ -794,7 +794,7 @@
     "primary_author": "Frank Heyen",
     "primary_email": "frank.heyen@visus.uni-stuttgart.de",
     "session": "Physical",
-    "thumbnail_link": "emoji_music.040.png",
+    "thumbnail_link": "040.png",
     "title": "Visual Guitar Tab Comparison",
     "uid": "357",
     "youtube_id": ""
@@ -814,7 +814,7 @@
     "primary_author": "Gopika Krishnan",
     "primary_email": "gk1656@nyu.edu",
     "session": "Virtual",
-    "thumbnail_link": "emoji_music.041.png",
+    "thumbnail_link": "041.png",
     "title": "Optimizing the Mridangam Stroke Transcription Pipeline: Addressing Key Challenges",
     "uid": "358",
     "youtube_id": ""
