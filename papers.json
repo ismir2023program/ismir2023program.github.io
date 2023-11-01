@@ -2,7 +2,7 @@
   {
     "content": {
       "TLDR": "Musicology research suggests a correspondence between manual gesture and melodic contour in raga performance. Computational tools such as pose estimation from video and time series pattern matching potentially facilitate larger-scale studies of gesture an",
-      "abstract": "Musicology research suggests a correspondence between manual gesture and melodic contour in raga performance. Computational tools such as pose estimation from video and time series pattern matching potentially facilitate larger-scale studies of gesture an<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1DvOBLNNh3C8wfID8ClLVXxXqj2suDBzO)</b>",
+      "abstract": "Musicology research suggests a correspondence between manual gesture and melodic contour in raga performance. Computational tools such as pose estimation from video and time series pattern matching potentially facilitate larger-scale studies of gesture an<br><br> <b><p align=\"center\"> If the video does not load properly please use the [direct link to video](https://drive.google.com/uc?export=view&id=1DvOBLNNh3C8wfID8ClLVXxXqj2suDBzO)</b>",
       "authors": [
         ""
       ],
@@ -15,8 +15,8 @@
       "channel_url": "",
       "day": "2",
       "keywords": [
-        "MIR fundamentals and methodology -> multimodality",
-        "Knowledge-driven approaches to MIR -> computational ethnomusicology"
+        "Knowledge-driven approaches to MIR -> computational ethnomusicology",
+        "MIR fundamentals and methodology -> multimodality"
       ],
       "long_presentation": "True",
       "paper_presentation": "In Person",
@@ -31,7 +31,7 @@
     },
     "forum": "64",
     "id": "64",
-    "pic_id": "",
+    "pic_id": "https://drive.google.com/file/d/1GlniwEHuaE5n0Zei7oXLyVn_dHGy0bmm/view?usp=sharing",
     "position": "01",
     "poster_pdf": "GLTR_poster.pdf",
     "session": "1"
@@ -39,7 +39,7 @@
   {
     "content": {
       "TLDR": "Thanks to advancements in deep learning (DL), automatic music transcription (AMT) systems recently outperformed previous ones fully based on manual feature design. Many of these highly capable DL models, however, are computationally expensive. Researchers",
-      "abstract": "Thanks to advancements in deep learning (DL), automatic music transcription (AMT) systems recently outperformed previous ones fully based on manual feature design. Many of these highly capable DL models, however, are computationally expensive. Researchers<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1yFCCW_X06c_V-Q_xlfOnCbM8JoNzIVtu)</b>",
+      "abstract": "Thanks to advancements in deep learning (DL), automatic music transcription (AMT) systems recently outperformed previous ones fully based on manual feature design. Many of these highly capable DL models, however, are computationally expensive. Researchers<br><br> <b><p align=\"center\"> If the video does not load properly please use the [direct link to video](https://drive.google.com/uc?export=view&id=1yFCCW_X06c_V-Q_xlfOnCbM8JoNzIVtu)</b>",
       "authors": [
         ""
       ],
@@ -54,10 +54,10 @@
       "keywords": [
         " Knowledge-driven approaches to MIR -> representations of music",
         "Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music",
-        "MIR tasks -> music transcription and annotation",
-        " MIR tasks -> pattern matching and detection",
         " MIR fundamentals and methodology -> music signal processing",
-        " Musical features and properties -> representations of music"
+        " Musical features and properties -> representations of music",
+        " MIR tasks -> pattern matching and detection",
+        "MIR tasks -> music transcription and annotation"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -80,7 +80,7 @@
   {
     "content": {
       "TLDR": "The practices of data collection in training sets for Automatic Music Generation (AMG) tasks are opaque and overlooked. In this paper, we aimed to identify these practices and surface the values they embed. We systematically identified all datasets used t",
-      "abstract": "The practices of data collection in training sets for Automatic Music Generation (AMG) tasks are opaque and overlooked. In this paper, we aimed to identify these practices and surface the values they embed. We systematically identified all datasets used t<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1-QENG5zYQSGwLoG9VowxWCQ2p9GqEKf5)</b>",
+      "abstract": "The practices of data collection in training sets for Automatic Music Generation (AMG) tasks are opaque and overlooked. In this paper, we aimed to identify these practices and surface the values they embed. We systematically identified all datasets used t<br><br> <b><p align=\"center\"> If the video does not load properly please use the [direct link to video](https://drive.google.com/uc?export=view&id=1-QENG5zYQSGwLoG9VowxWCQ2p9GqEKf5)</b>",
       "authors": [
         ""
       ],
@@ -92,9 +92,9 @@
       "channel_url": "",
       "day": "2",
       "keywords": [
-        "MIR tasks -> music generation",
         "Philosophical and ethical discussions -> ethical issues related to designing and implementing MIR tools and technologies",
-        " Philosophical and ethical discussions -> legal and societal aspects of MIR"
+        " Philosophical and ethical discussions -> legal and societal aspects of MIR",
+        "MIR tasks -> music generation"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -117,7 +117,7 @@
   {
     "content": {
       "TLDR": "Validity is the truth of an inference made from evidence and is a central concern in scientific work. Given the maturity of the domain of music information research (MIR), validity in our opinion should be discussed and considered much more than it has be",
-      "abstract": "Validity is the truth of an inference made from evidence and is a central concern in scientific work. Given the maturity of the domain of music information research (MIR), validity in our opinion should be discussed and considered much more than it has be<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1gr803BCvb98rdFiAzIpGivrGkgEtNkt-)</b>",
+      "abstract": "Validity is the truth of an inference made from evidence and is a central concern in scientific work. Given the maturity of the domain of music information research (MIR), validity in our opinion should be discussed and considered much more than it has be<br><br> <b><p align=\"center\"> If the video does not load properly please use the [direct link to video](https://drive.google.com/uc?export=view&id=1gr803BCvb98rdFiAzIpGivrGkgEtNkt-)</b>",
       "authors": [
         ""
       ],
@@ -128,10 +128,10 @@
       "channel_url": "",
       "day": "2",
       "keywords": [
-        "Evaluation, datasets, and reproducibility",
-        " Evaluation, datasets, and reproducibility -> evaluation methodology",
         "Philosophical and ethical discussions",
-        " Philosophical and ethical discussions -> philosophical and methodological foundations"
+        " Philosophical and ethical discussions -> philosophical and methodological foundations",
+        " Evaluation, datasets, and reproducibility -> evaluation methodology",
+        "Evaluation, datasets, and reproducibility"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -154,7 +154,7 @@
   {
     "content": {
       "TLDR": "In Carnatic music concerts, taniavartanam is a solo percussion segment that showcases intricate and elaborate extempore rhythmic evolution through a series of homogeneous sections with shared rhythmic characteristics. While taniavartanam segments have bee",
-      "abstract": "In Carnatic music concerts, taniavartanam is a solo percussion segment that showcases intricate and elaborate extempore rhythmic evolution through a series of homogeneous sections with shared rhythmic characteristics. While taniavartanam segments have bee<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1u1UzWleSWCC83KIgrl-JyiHyVkfqVDd6)</b>",
+      "abstract": "In Carnatic music concerts, taniavartanam is a solo percussion segment that showcases intricate and elaborate extempore rhythmic evolution through a series of homogeneous sections with shared rhythmic characteristics. While taniavartanam segments have bee<br><br> <b><p align=\"center\"> If the video does not load properly please use the [direct link to video](https://drive.google.com/uc?export=view&id=1u1UzWleSWCC83KIgrl-JyiHyVkfqVDd6)</b>",
       "authors": [
         ""
       ],
@@ -167,8 +167,8 @@
       "channel_url": "",
       "day": "2",
       "keywords": [
-        "Applications -> music retrieval systems",
-        "Musical features and properties -> structure, segmentation, and form"
+        "Musical features and properties -> structure, segmentation, and form",
+        "Applications -> music retrieval systems"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -191,7 +191,7 @@
   {
     "content": {
       "TLDR": "Deep neural network models have become the dominant approach to a large variety of tasks within music information retrieval (MIR). These models generally require large amounts of (annotated) training data to achieve high accuracy. Because not all applicat",
-      "abstract": "Deep neural network models have become the dominant approach to a large variety of tasks within music information retrieval (MIR). These models generally require large amounts of (annotated) training data to achieve high accuracy. Because not all applicat<br><br> <b><p align=\"center\">[Direct link to video]()</b>",
+      "abstract": "Deep neural network models have become the dominant approach to a large variety of tasks within music information retrieval (MIR). These models generally require large amounts of (annotated) training data to achieve high accuracy. Because not all applicat<br><br> <b><p align=\"center\"> If the video does not load properly please use the [direct link to video](https://drive.google.com/uc?export=view&id=1QsT16gA_H-9jCpNLm_lV2flwRr7H_NY8)</b>",
       "authors": [
         ""
       ],
@@ -203,27 +203,27 @@
       "channel_url": "",
       "day": "2",
       "keywords": [
-        "Musical features and properties -> timbre, instrumentation, and singing voice",
         " Knowledge-driven approaches to MIR -> representations of music",
-        " MIR tasks -> automatic classification",
         " Philosophical and ethical discussions -> philosophical and methodological foundations",
+        "Musical features and properties -> timbre, instrumentation, and singing voice",
+        " MIR tasks -> automatic classification",
         " MIR fundamentals and methodology -> music signal processing",
         "Applications -> music retrieval systems"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
       "pdf_path": "https://archives.ismir.net/ismir2023/paper/000006.pdf",
-      "poster_pdf": "",
+      "poster_pdf": "https://drive.google.com/file/d/1xSh8IkEE4LD6SYbg-TwJfMFSNYPX4s1G/view?usp=sharing",
       "session": [
         "1"
       ],
       "slack_channel": "",
       "title": "Transfer Learning and Bias Correction with Pre-trained Audio Embeddings",
-      "video": ""
+      "video": "https://drive.google.com/uc?export=view&id=1QsT16gA_H-9jCpNLm_lV2flwRr7H_NY8"
     },
     "forum": "280",
     "id": "280",
-    "pic_id": "",
+    "pic_id": "https://drive.google.com/file/d/1CX9JLGWqc1qrqyLtjHC5hA85qiBjqvYG/view?usp=share_link",
     "position": "06",
     "poster_pdf": "GLTR_poster.pdf",
     "session": "1"
@@ -231,7 +231,7 @@
   {
     "content": {
       "TLDR": "The Collaborative Song Dataset (CoSoD) is a corpus of 331 multi-artist collaborations from the 2010\u20132019 Billboard \u201cHot 100\u201d year-end charts. The corpus is annotated with formal sections, aspects of vocal production (including reverberation, layering, pan",
-      "abstract": "The Collaborative Song Dataset (CoSoD) is a corpus of 331 multi-artist collaborations from the 2010\u20132019 Billboard \u201cHot 100\u201d year-end charts. The corpus is annotated with formal sections, aspects of vocal production (including reverberation, layering, pan<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1GFvSckyxGyvPrMzXF7m5K-aq-4ov5sAn)</b>",
+      "abstract": "The Collaborative Song Dataset (CoSoD) is a corpus of 331 multi-artist collaborations from the 2010\u20132019 Billboard \u201cHot 100\u201d year-end charts. The corpus is annotated with formal sections, aspects of vocal production (including reverberation, layering, pan<br><br> <b><p align=\"center\"> If the video does not load properly please use the [direct link to video](https://drive.google.com/uc?export=view&id=1GFvSckyxGyvPrMzXF7m5K-aq-4ov5sAn)</b>",
       "authors": [
         ""
       ],
@@ -243,8 +243,8 @@
       "channel_url": "",
       "day": "2",
       "keywords": [
-        "Musical features and properties -> timbre, instrumentation, and singing voice",
-        "Evaluation, datasets, and reproducibility -> novel datasets and use cases"
+        "Evaluation, datasets, and reproducibility -> novel datasets and use cases",
+        "Musical features and properties -> timbre, instrumentation, and singing voice"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -267,7 +267,7 @@
   {
     "content": {
       "TLDR": "Recently, there has been a surge in Artificial Intelligence (AI) tools that allow creators to develop melodies, harmonies, lyrics, and mixes with the touch of a button. The reception of and discussion on the use of these tools - and more broadly, any AI-b",
-      "abstract": "Recently, there has been a surge in Artificial Intelligence (AI) tools that allow creators to develop melodies, harmonies, lyrics, and mixes with the touch of a button. The reception of and discussion on the use of these tools - and more broadly, any AI-b<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=12ZEKkCsiIM7gYj_Qkrc5ol0FGDtKb9EX)</b>",
+      "abstract": "Recently, there has been a surge in Artificial Intelligence (AI) tools that allow creators to develop melodies, harmonies, lyrics, and mixes with the touch of a button. The reception of and discussion on the use of these tools - and more broadly, any AI-b<br><br> <b><p align=\"center\"> If the video does not load properly please use the [direct link to video](https://drive.google.com/uc?export=view&id=12ZEKkCsiIM7gYj_Qkrc5ol0FGDtKb9EX)</b>",
       "authors": [
         ""
       ],
@@ -279,10 +279,10 @@
       "channel_url": "",
       "day": "2",
       "keywords": [
-        " MIR tasks -> music generation",
+        "Human-centered MIR -> human-computer interaction",
         " Philosophical and ethical discussions -> ethical issues related to designing and implementing MIR tools and technologies",
-        "Applications -> music composition, performance, and production",
-        "Human-centered MIR -> human-computer interaction"
+        " MIR tasks -> music generation",
+        "Applications -> music composition, performance, and production"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -305,7 +305,7 @@
   {
     "content": {
       "TLDR": "Symbolic music is widely used in various deep learning tasks, including generation, transcription, synthesis, and Music Information Retrieval (MIR). It is mostly employed with discrete models like Transformers, which require music to be tokenized, i.e., f",
-      "abstract": "Symbolic music is widely used in various deep learning tasks, including generation, transcription, synthesis, and Music Information Retrieval (MIR). It is mostly employed with discrete models like Transformers, which require music to be tokenized, i.e., f<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=19mvoQ2eSKYbbUn2HbRVjW-8Vimnb6nBh)</b>",
+      "abstract": "Symbolic music is widely used in various deep learning tasks, including generation, transcription, synthesis, and Music Information Retrieval (MIR). It is mostly employed with discrete models like Transformers, which require music to be tokenized, i.e., f<br><br> <b><p align=\"center\"> If the video does not load properly please use the [direct link to video](https://drive.google.com/uc?export=view&id=19mvoQ2eSKYbbUn2HbRVjW-8Vimnb6nBh)</b>",
       "authors": [
         ""
       ],
@@ -318,12 +318,12 @@
       "channel_url": "",
       "day": "2",
       "keywords": [
-        " MIR tasks -> music generation",
-        " Applications -> music retrieval systems",
-        " MIR tasks -> automatic classification",
+        "Applications -> music composition, performance, and production",
         "MIR fundamentals and methodology -> symbolic music processing",
+        " MIR tasks -> automatic classification",
         " Musical features and properties -> representations of music",
-        "Applications -> music composition, performance, and production"
+        " MIR tasks -> music generation",
+        " Applications -> music retrieval systems"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -346,7 +346,7 @@
   {
     "content": {
       "TLDR": "Micro-timing is an essential part of human music-making, yet it is absent from most computer music systems. Partly to address this gap, we present a novel system for generating music with style-specific micro-timing within the Sonic Pi live coding languag",
-      "abstract": "Micro-timing is an essential part of human music-making, yet it is absent from most computer music systems. Partly to address this gap, we present a novel system for generating music with style-specific micro-timing within the Sonic Pi live coding languag<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=13IupDzqB5wZ13ihRCwvW2X4eY_0VKSww)</b>",
+      "abstract": "Micro-timing is an essential part of human music-making, yet it is absent from most computer music systems. Partly to address this gap, we present a novel system for generating music with style-specific micro-timing within the Sonic Pi live coding languag<br><br> <b><p align=\"center\"> If the video does not load properly please use the [direct link to video](https://drive.google.com/uc?export=view&id=13IupDzqB5wZ13ihRCwvW2X4eY_0VKSww)</b>",
       "authors": [
         ""
       ],
@@ -357,11 +357,11 @@
       "channel_url": "",
       "day": "2",
       "keywords": [
+        "Applications -> music composition, performance, and production",
         " MIR fundamentals and methodology -> symbolic music processing",
-        " Human-centered MIR -> human-computer interaction",
         "Computational musicology -> mathematical music theory",
-        " Musical features and properties -> rhythm, beat, tempo",
-        "Applications -> music composition, performance, and production"
+        " Human-centered MIR -> human-computer interaction",
+        " Musical features and properties -> rhythm, beat, tempo"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -384,7 +384,7 @@
   {
     "content": {
       "TLDR": "Optical Music Recognition (OMR) is a well-established research field focused on the task of reading musical notation from images of music scores. In the standard OMR workflow, layout analysis is a critical component for identifying relevant parts of the i",
-      "abstract": "Optical Music Recognition (OMR) is a well-established research field focused on the task of reading musical notation from images of music scores. In the standard OMR workflow, layout analysis is a critical component for identifying relevant parts of the i<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1Yk4OZSK1v7reHk99gfC_SD_i-MkAk9DZ)</b>",
+      "abstract": "Optical Music Recognition (OMR) is a well-established research field focused on the task of reading musical notation from images of music scores. In the standard OMR workflow, layout analysis is a critical component for identifying relevant parts of the i<br><br> <b><p align=\"center\"> If the video does not load properly please use the [direct link to video](https://drive.google.com/uc?export=view&id=1Yk4OZSK1v7reHk99gfC_SD_i-MkAk9DZ)</b>",
       "authors": [
         ""
       ],
@@ -396,8 +396,8 @@
       "channel_url": "",
       "day": "2",
       "keywords": [
-        "Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music",
-        "MIR tasks -> optical music recognition"
+        "MIR tasks -> optical music recognition",
+        "Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -420,7 +420,7 @@
   {
     "content": {
       "TLDR": "Drummers spend extensive time practicing rudiments to develop technique, speed, coordination, and phrasing. These rudiments are often practiced on \"silent\" practice pads using only the hands. Additionally, many percussive instruments across cultures are p",
-      "abstract": "Drummers spend extensive time practicing rudiments to develop technique, speed, coordination, and phrasing. These rudiments are often practiced on \"silent\" practice pads using only the hands. Additionally, many percussive instruments across cultures are p<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1XuSgxSZWStQ-ojpQ88Zs_ZJ1ZqQbtAf7)</b>",
+      "abstract": "Drummers spend extensive time practicing rudiments to develop technique, speed, coordination, and phrasing. These rudiments are often practiced on \"silent\" practice pads using only the hands. Additionally, many percussive instruments across cultures are p<br><br> <b><p align=\"center\"> If the video does not load properly please use the [direct link to video](https://drive.google.com/uc?export=view&id=1XuSgxSZWStQ-ojpQ88Zs_ZJ1ZqQbtAf7)</b>",
       "authors": [
         ""
       ],
@@ -433,9 +433,9 @@
       "channel_url": "",
       "day": "2",
       "keywords": [
-        " Musical features and properties -> rhythm, beat, tempo",
         "Evaluation, datasets, and reproducibility -> novel datasets and use cases",
-        "Musical features and properties -> representations of music"
+        "Musical features and properties -> representations of music",
+        " Musical features and properties -> rhythm, beat, tempo"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -458,7 +458,7 @@
   {
     "content": {
       "TLDR": "Real-time music information retrieval (RT-MIR) has much potential to augment the capabilities of traditional acoustic instruments. We develop RT-MIR techniques aimed at augmenting percussive fingerstyle, which blends acoustic guitar playing with guitar bo",
-      "abstract": "Real-time music information retrieval (RT-MIR) has much potential to augment the capabilities of traditional acoustic instruments. We develop RT-MIR techniques aimed at augmenting percussive fingerstyle, which blends acoustic guitar playing with guitar bo<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1nr-HTFvdiIC2X5TbKLGL3ri8vZr_npdO)</b>",
+      "abstract": "Real-time music information retrieval (RT-MIR) has much potential to augment the capabilities of traditional acoustic instruments. We develop RT-MIR techniques aimed at augmenting percussive fingerstyle, which blends acoustic guitar playing with guitar bo<br><br> <b><p align=\"center\"> If the video does not load properly please use the [direct link to video](https://drive.google.com/uc?export=view&id=1nr-HTFvdiIC2X5TbKLGL3ri8vZr_npdO)</b>",
       "authors": [
         ""
       ],
@@ -470,11 +470,11 @@
       "channel_url": "",
       "day": "2",
       "keywords": [
+        "Applications -> music composition, performance, and production",
+        " MIR fundamentals and methodology -> music signal processing",
         " MIR tasks -> automatic classification",
         "Human-centered MIR -> human-computer interaction",
-        " MIR fundamentals and methodology -> music signal processing",
-        " Human-centered MIR -> music interfaces and services",
-        "Applications -> music composition, performance, and production"
+        " Human-centered MIR -> music interfaces and services"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -497,7 +497,7 @@
   {
     "content": {
       "TLDR": "Recent text-to-audio generation techniques have the potential to allow novice users to freely generate music audio. Even if they do not have musical knowledge, such as about chord progressions and instruments, users can try various text prompts to generat",
-      "abstract": "Recent text-to-audio generation techniques have the potential to allow novice users to freely generate music audio. Even if they do not have musical knowledge, such as about chord progressions and instruments, users can try various text prompts to generat<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1cHkxzOuNBuD0Oc2L2lCZ_wy-gvfdp9hH)</b>",
+      "abstract": "Recent text-to-audio generation techniques have the potential to allow novice users to freely generate music audio. Even if they do not have musical knowledge, such as about chord progressions and instruments, users can try various text prompts to generat<br><br> <b><p align=\"center\"> If the video does not load properly please use the [direct link to video](https://drive.google.com/uc?export=view&id=1cHkxzOuNBuD0Oc2L2lCZ_wy-gvfdp9hH)</b>",
       "authors": [
         ""
       ],
@@ -508,10 +508,10 @@
       "channel_url": "",
       "day": "2",
       "keywords": [
-        " Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music",
-        "Applications -> music composition, performance, and production",
         "Human-centered MIR -> human-computer interaction",
-        " Human-centered MIR -> music interfaces and services"
+        " Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music",
+        " Human-centered MIR -> music interfaces and services",
+        "Applications -> music composition, performance, and production"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -534,7 +534,7 @@
   {
     "content": {
       "TLDR": "The directivity of a musical instrument is a function that describes the spatial characteristics of its sound radiation. The majority of the available literature focuses on measuring directivity patterns, with analysis mainly limited to visual inspections",
-      "abstract": "The directivity of a musical instrument is a function that describes the spatial characteristics of its sound radiation. The majority of the available literature focuses on measuring directivity patterns, with analysis mainly limited to visual inspections<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=11Gq85od00AMErIm4eW_HPp1KZoSLENhR)</b>",
+      "abstract": "The directivity of a musical instrument is a function that describes the spatial characteristics of its sound radiation. The majority of the available literature focuses on measuring directivity patterns, with analysis mainly limited to visual inspections<br><br> <b><p align=\"center\"> If the video does not load properly please use the [direct link to video](https://drive.google.com/uc?export=view&id=1DzQBvv4ftbSQDl1R0T7jL6U53ghxGgax)</b>",
       "authors": [
         ""
       ],
@@ -548,9 +548,9 @@
       "day": "2",
       "keywords": [
         " MIR tasks -> pattern matching and detection",
-        "MIR and machine learning for musical acoustics",
+        "MIR and machine learning for musical acoustics -> applications of musical acoustics to signal synthesis",
         " MIR tasks -> similarity metrics",
-        "MIR and machine learning for musical acoustics -> applications of musical acoustics to signal synthesis"
+        "MIR and machine learning for musical acoustics"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -561,7 +561,7 @@
       ],
       "slack_channel": "",
       "title": "Similarity evaluation of violin directivity patterns for musical instrument retrieval",
-      "video": "https://drive.google.com/uc?export=view&id=11Gq85od00AMErIm4eW_HPp1KZoSLENhR"
+      "video": "https://drive.google.com/uc?export=view&id=1DzQBvv4ftbSQDl1R0T7jL6U53ghxGgax"
     },
     "forum": "174",
     "id": "174",
@@ -573,7 +573,7 @@
   {
     "content": {
       "TLDR": "Computational models and analyses of musical rhythms are predominantly based on the subdivision of durations down to a common isochronous pulse, which plays a fundamental structural role in the organization of their durational patterns. Meter, the most wi",
-      "abstract": "Computational models and analyses of musical rhythms are predominantly based on the subdivision of durations down to a common isochronous pulse, which plays a fundamental structural role in the organization of their durational patterns. Meter, the most wi<br><br> <b><p align=\"center\">[Direct link to video]()</b>",
+      "abstract": "Computational models and analyses of musical rhythms are predominantly based on the subdivision of durations down to a common isochronous pulse, which plays a fundamental structural role in the organization of their durational patterns. Meter, the most wi<br><br> <b><p align=\"center\"> If the video does not load properly please use the [direct link to video]()</b>",
       "authors": [
         ""
       ],
@@ -583,12 +583,12 @@
       "channel_url": "",
       "day": "2",
       "keywords": [
-        " MIR tasks -> music generation",
-        "Computational musicology",
+        "Musical features and properties -> rhythm, beat, tempo",
+        " MIR fundamentals and methodology -> music signal processing",
         " MIR fundamentals and methodology -> symbolic music processing",
         " Computational musicology -> mathematical music theory",
-        " MIR fundamentals and methodology -> music signal processing",
-        "Musical features and properties -> rhythm, beat, tempo"
+        "Computational musicology",
+        " MIR tasks -> music generation"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -611,7 +611,7 @@
   {
     "content": {
       "TLDR": "We introduce CLaMP: Contrastive Language-Music Pre-training, which learns cross-modal representations between natural language and symbolic music using a music encoder and a text encoder trained jointly with a contrastive loss. To pre-train CLaMP, we coll",
-      "abstract": "We introduce CLaMP: Contrastive Language-Music Pre-training, which learns cross-modal representations between natural language and symbolic music using a music encoder and a text encoder trained jointly with a contrastive loss. To pre-train CLaMP, we coll<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1wxx0BrnXEJSS5fFApirGRz1ZjZ4jFfNG)</b>",
+      "abstract": "We introduce CLaMP: Contrastive Language-Music Pre-training, which learns cross-modal representations between natural language and symbolic music using a music encoder and a text encoder trained jointly with a contrastive loss. To pre-train CLaMP, we coll<br><br> <b><p align=\"center\"> If the video does not load properly please use the [direct link to video](https://drive.google.com/uc?export=view&id=1wxx0BrnXEJSS5fFApirGRz1ZjZ4jFfNG)</b>",
       "authors": [
         ""
       ],
@@ -624,11 +624,11 @@
       "channel_url": "",
       "day": "2",
       "keywords": [
-        " MIR fundamentals and methodology -> multimodality",
-        " MIR tasks -> indexing and querying",
         " MIR tasks -> automatic classification",
-        " MIR fundamentals and methodology -> symbolic music processing",
         "Evaluation, datasets, and reproducibility -> novel datasets and use cases",
+        " MIR tasks -> indexing and querying",
+        " MIR fundamentals and methodology -> symbolic music processing",
+        " MIR fundamentals and methodology -> multimodality",
         "Applications -> music retrieval systems"
       ],
       "long_presentation": "True",
@@ -652,7 +652,7 @@
   {
     "content": {
       "TLDR": "Music can convey ideological stances, and gender is just one of them. Evidence from musicology and psychology research shows that gender-loaded messages can be reliably encoded and decoded via musical sounds. However, much of this evidence comes from exam",
-      "abstract": "Music can convey ideological stances, and gender is just one of them. Evidence from musicology and psychology research shows that gender-loaded messages can be reliably encoded and decoded via musical sounds. However, much of this evidence comes from exam<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=14XBWlSHxm8Z6cDKguzHtyqobvyS5xmTc)</b>",
+      "abstract": "Music can convey ideological stances, and gender is just one of them. Evidence from musicology and psychology research shows that gender-loaded messages can be reliably encoded and decoded via musical sounds. However, much of this evidence comes from exam<br><br> <b><p align=\"center\"> If the video does not load properly please use the [direct link to video](https://drive.google.com/uc?export=view&id=14XBWlSHxm8Z6cDKguzHtyqobvyS5xmTc)</b>",
       "authors": [
         ""
       ],
@@ -666,8 +666,8 @@
       "keywords": [
         "Knowledge-driven approaches to MIR -> computational music theory and musicology",
         " MIR tasks -> automatic classification",
-        " Musical features and properties -> musical affect, emotion and mood",
         " Evaluation, datasets, and reproducibility -> novel datasets and use cases",
+        " Musical features and properties -> musical affect, emotion and mood",
         "Applications -> business and marketing"
       ],
       "long_presentation": "False",
@@ -691,7 +691,7 @@
   {
     "content": {
       "TLDR": "Nowadays, humans are constantly exposed to music, whether through voluntary streaming services or incidental encounters during commercial breaks. Despite the abundance of music, certain pieces remain more memorable and often gain greater popularity. Inspi",
-      "abstract": "Nowadays, humans are constantly exposed to music, whether through voluntary streaming services or incidental encounters during commercial breaks. Despite the abundance of music, certain pieces remain more memorable and often gain greater popularity. Inspi<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1uMhKpUkVAiNaaUTFoFzAhxOQZBsHnu4Z)</b>",
+      "abstract": "Nowadays, humans are constantly exposed to music, whether through voluntary streaming services or incidental encounters during commercial breaks. Despite the abundance of music, certain pieces remain more memorable and often gain greater popularity. Inspi<br><br> <b><p align=\"center\"> If the video does not load properly please use the [direct link to video](https://drive.google.com/uc?export=view&id=1sx0VLxNPVR2yhVcF7oafzlE4dwxFYw11)</b>",
       "authors": [
         ""
       ],
@@ -705,8 +705,8 @@
       "channel_url": "",
       "day": "2",
       "keywords": [
-        "MIR and machine learning for musical acoustics -> applications of machine learning to musical acoustics",
-        "Evaluation, datasets, and reproducibility -> novel datasets and use cases"
+        "Evaluation, datasets, and reproducibility -> novel datasets and use cases",
+        "MIR and machine learning for musical acoustics -> applications of machine learning to musical acoustics"
       ],
       "long_presentation": "False",
       "paper_presentation": "Virtually",
@@ -717,7 +717,7 @@
       ],
       "slack_channel": "",
       "title": "A dataset and Baselines for Measuring and Predicting the Music Piece Memorability",
-      "video": "https://drive.google.com/uc?export=view&id=1uMhKpUkVAiNaaUTFoFzAhxOQZBsHnu4Z"
+      "video": "https://drive.google.com/uc?export=view&id=1sx0VLxNPVR2yhVcF7oafzlE4dwxFYw11"
     },
     "forum": "56",
     "id": "56",
@@ -729,7 +729,7 @@
   {
     "content": {
       "TLDR": "Optical Music Recognition (OMR) is the field of research that studies how to computationally read music notation from written documents. Thanks to recent advances in computer vision and deep learning, there are successful approaches that can locate the mu",
-      "abstract": "Optical Music Recognition (OMR) is the field of research that studies how to computationally read music notation from written documents. Thanks to recent advances in computer vision and deep learning, there are successful approaches that can locate the mu<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=11CfMM9NabhgZnbd6yK3IOaivpeEA_5mE)</b>",
+      "abstract": "Optical Music Recognition (OMR) is the field of research that studies how to computationally read music notation from written documents. Thanks to recent advances in computer vision and deep learning, there are successful approaches that can locate the mu<br><br> <b><p align=\"center\"> If the video does not load properly please use the [direct link to video](https://drive.google.com/uc?export=view&id=11CfMM9NabhgZnbd6yK3IOaivpeEA_5mE)</b>",
       "authors": [
         ""
       ],
@@ -766,7 +766,7 @@
   {
     "content": {
       "TLDR": "Synthesizer parameter inference searches for a set of patch connections and parameters to generate audio that best matches a given target sound. Such optimization tasks benefit from access to accurate gradients. However, typical audio synths incorporate c",
-      "abstract": "Synthesizer parameter inference searches for a set of patch connections and parameters to generate audio that best matches a given target sound. Such optimization tasks benefit from access to accurate gradients. However, typical audio synths incorporate c<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1037kUfS31td5mzFzQ8M_gvlnrQpxUHLH)</b>",
+      "abstract": "Synthesizer parameter inference searches for a set of patch connections and parameters to generate audio that best matches a given target sound. Such optimization tasks benefit from access to accurate gradients. However, typical audio synths incorporate c<br><br> <b><p align=\"center\"> If the video does not load properly please use the [direct link to video](https://drive.google.com/uc?export=view&id=1037kUfS31td5mzFzQ8M_gvlnrQpxUHLH)</b>",
       "authors": [
         ""
       ],
@@ -780,10 +780,10 @@
       "day": "2",
       "keywords": [
         " MIR and machine learning for musical acoustics -> applications of machine learning to musical acoustics",
-        "MIR and machine learning for musical acoustics",
-        " MIR fundamentals and methodology -> music signal processing",
+        "Applications -> music composition, performance, and production",
         " MIR and machine learning for musical acoustics -> applications of musical acoustics to signal synthesis",
-        "Applications -> music composition, performance, and production"
+        " MIR fundamentals and methodology -> music signal processing",
+        "MIR and machine learning for musical acoustics"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -806,7 +806,7 @@
   {
     "content": {
       "TLDR": "Brain decoding allows the read-out of stimulus and mental content from neural activity, and has been utilised in various neural-driven classification tasks related to the music information retrieval community. However, even the relatively simple task of i",
-      "abstract": "Brain decoding allows the read-out of stimulus and mental content from neural activity, and has been utilised in various neural-driven classification tasks related to the music information retrieval community. However, even the relatively simple task of i<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1xhJ5KjTYnpdTQB3oFl5CYxaLjUd1DVl3)</b>",
+      "abstract": "Brain decoding allows the read-out of stimulus and mental content from neural activity, and has been utilised in various neural-driven classification tasks related to the music information retrieval community. However, even the relatively simple task of i<br><br> <b><p align=\"center\"> If the video does not load properly please use the [direct link to video](https://drive.google.com/uc?export=view&id=1xhJ5KjTYnpdTQB3oFl5CYxaLjUd1DVl3)</b>",
       "authors": [
         ""
       ],
@@ -820,10 +820,10 @@
       "channel_url": "",
       "day": "2",
       "keywords": [
-        "Human-centered MIR -> user-centered evaluation",
         " Human-centered MIR -> user behavior analysis and mining, user modeling",
-        " Knowledge-driven approaches to MIR -> cognitive MIR",
-        "Human-centered MIR -> human-computer interaction"
+        "Human-centered MIR -> human-computer interaction",
+        "Human-centered MIR -> user-centered evaluation",
+        " Knowledge-driven approaches to MIR -> cognitive MIR"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -846,7 +846,7 @@
   {
     "content": {
       "TLDR": "Music Emotion Recognition (MER) refers to automatically extracting emotional information from music and predicting its perceived emotions, and it has social and psychological applications. This paper proposes a Dual Attention-based Multi-scale Feature Fus",
-      "abstract": "Music Emotion Recognition (MER) refers to automatically extracting emotional information from music and predicting its perceived emotions, and it has social and psychological applications. This paper proposes a Dual Attention-based Multi-scale Feature Fus<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1mC18LEQOFkb3GyHxXFDdUf5puYgjv_f8)</b>",
+      "abstract": "Music Emotion Recognition (MER) refers to automatically extracting emotional information from music and predicting its perceived emotions, and it has social and psychological applications. This paper proposes a Dual Attention-based Multi-scale Feature Fus<br><br> <b><p align=\"center\"> If the video does not load properly please use the [direct link to video](https://drive.google.com/uc?export=view&id=1mC18LEQOFkb3GyHxXFDdUf5puYgjv_f8)</b>",
       "authors": [
         ""
       ],
@@ -859,9 +859,9 @@
       "channel_url": "",
       "day": "2",
       "keywords": [
-        "MIR tasks -> automatic classification",
         " Musical features and properties -> musical affect, emotion and mood",
-        "MIR fundamentals and methodology -> music signal processing"
+        "MIR fundamentals and methodology -> music signal processing",
+        "MIR tasks -> automatic classification"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -884,7 +884,7 @@
   {
     "content": {
       "TLDR": "Taking long-term spectral and temporal dependencies into account is essential for automatic piano transcription.\nThis is especially helpful when determining the precise onset and offset for each note in the polyphonic piano content.\nIn this case, we may r",
-      "abstract": "Taking long-term spectral and temporal dependencies into account is essential for automatic piano transcription.\nThis is especially helpful when determining the precise onset and offset for each note in the polyphonic piano content.\nIn this case, we may r<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1Flog5weyWDCqIryWhj9XDpDo2kmLajwq)</b>",
+      "abstract": "Taking long-term spectral and temporal dependencies into account is essential for automatic piano transcription.\nThis is especially helpful when determining the precise onset and offset for each note in the polyphonic piano content.\nIn this case, we may r<br><br> <b><p align=\"center\"> If the video does not load properly please use the [direct link to video](https://drive.google.com/uc?export=view&id=1Flog5weyWDCqIryWhj9XDpDo2kmLajwq)</b>",
       "authors": [
         ""
       ],
@@ -923,7 +923,7 @@
   {
     "content": {
       "TLDR": "A descriptive transcription of a violin performance requires detecting not only the notes but also the fine-grained pitch variations, such as vibrato. Most existing deep learning methods for music transcription do not capture these variations and often ne",
-      "abstract": "A descriptive transcription of a violin performance requires detecting not only the notes but also the fine-grained pitch variations, such as vibrato. Most existing deep learning methods for music transcription do not capture these variations and often ne<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=19PEwJtC-35XcbPaJy5ukN0uBoIzi3d1f)</b>",
+      "abstract": "A descriptive transcription of a violin performance requires detecting not only the notes but also the fine-grained pitch variations, such as vibrato. Most existing deep learning methods for music transcription do not capture these variations and often ne<br><br> <b><p align=\"center\"> If the video does not load properly please use the [direct link to video](https://drive.google.com/uc?export=view&id=19PEwJtC-35XcbPaJy5ukN0uBoIzi3d1f)</b>",
       "authors": [
         ""
       ],
@@ -936,12 +936,12 @@
       "channel_url": "",
       "day": "2",
       "keywords": [
-        " MIR tasks -> alignment, synchronization, and score following",
         "Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music",
-        "MIR tasks -> music transcription and annotation",
         " MIR fundamentals and methodology -> music signal processing",
+        " Musical features and properties -> representations of music",
+        " MIR tasks -> alignment, synchronization, and score following",
         " Musical features and properties -> expression and performative aspects of music",
-        " Musical features and properties -> representations of music"
+        "MIR tasks -> music transcription and annotation"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -964,7 +964,7 @@
   {
     "content": {
       "TLDR": "We propose Polyffusion, a diffusion model that generates polyphonic music scores by regarding music as image-like piano roll representations. The model is capable of controllable music generation with two paradigms: internal control and external control. ",
-      "abstract": "We propose Polyffusion, a diffusion model that generates polyphonic music scores by regarding music as image-like piano roll representations. The model is capable of controllable music generation with two paradigms: internal control and external control. <br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1dGIexp74B_hpMGlqHfo5sfAk-9kHC3vP)</b>",
+      "abstract": "We propose Polyffusion, a diffusion model that generates polyphonic music scores by regarding music as image-like piano roll representations. The model is capable of controllable music generation with two paradigms: internal control and external control. <br><br> <b><p align=\"center\"> If the video does not load properly please use the [direct link to video](https://drive.google.com/uc?export=view&id=1dGIexp74B_hpMGlqHfo5sfAk-9kHC3vP)</b>",
       "authors": [
         ""
       ],
@@ -977,10 +977,10 @@
       "channel_url": "",
       "day": "2",
       "keywords": [
-        "MIR tasks -> music generation",
         " Knowledge-driven approaches to MIR -> representations of music",
         " MIR fundamentals and methodology -> symbolic music processing",
-        "Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music"
+        "Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music",
+        "MIR tasks -> music generation"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -1003,7 +1003,7 @@
   {
     "content": {
       "TLDR": "This paper introduces a new corpus, CoCoPops: The Coordinated Corpus of Popular Musics. The corpus can be considered a \u201cmeta corpus\u201d in that it both extends and combines two existing corpora\u2014the widely-used McGill Bill-\nboard corpus the and RS200 corpus. ",
-      "abstract": "This paper introduces a new corpus, CoCoPops: The Coordinated Corpus of Popular Musics. The corpus can be considered a \u201cmeta corpus\u201d in that it both extends and combines two existing corpora\u2014the widely-used McGill Bill-\nboard corpus the and RS200 corpus. <br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=12W7e61WVW3bqyfuKWISRz9M2D1UQ_xNb)</b>",
+      "abstract": "This paper introduces a new corpus, CoCoPops: The Coordinated Corpus of Popular Musics. The corpus can be considered a \u201cmeta corpus\u201d in that it both extends and combines two existing corpora\u2014the widely-used McGill Bill-\nboard corpus the and RS200 corpus. <br><br> <b><p align=\"center\"> If the video does not load properly please use the [direct link to video](https://drive.google.com/uc?export=view&id=12W7e61WVW3bqyfuKWISRz9M2D1UQ_xNb)</b>",
       "authors": [
         ""
       ],
@@ -1015,11 +1015,11 @@
       "day": "2",
       "keywords": [
         " Musical features and properties -> melody and motives",
-        " Musical features and properties -> harmony, chords and tonality",
         " Knowledge-driven approaches to MIR -> cognitive MIR",
-        " Computational musicology -> systematic musicology",
+        "Evaluation, datasets, and reproducibility -> novel datasets and use cases",
+        " Musical features and properties -> harmony, chords and tonality",
         "Computational musicology -> digital musicology",
-        "Evaluation, datasets, and reproducibility -> novel datasets and use cases"
+        " Computational musicology -> systematic musicology"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -1042,7 +1042,7 @@
   {
     "content": {
       "TLDR": "The research field of music therapy has witnessed a rising interest in recent years to develop and employ computational methods to support therapists in their daily practice. While Music Information Retrieval (MIR) research has identified the area of heal",
-      "abstract": "The research field of music therapy has witnessed a rising interest in recent years to develop and employ computational methods to support therapists in their daily practice. While Music Information Retrieval (MIR) research has identified the area of heal<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1Y2c00qrsceqIemNOanPAnBklWPEowTds)</b>",
+      "abstract": "The research field of music therapy has witnessed a rising interest in recent years to develop and employ computational methods to support therapists in their daily practice. While Music Information Retrieval (MIR) research has identified the area of heal<br><br> <b><p align=\"center\"> If the video does not load properly please use the [direct link to video](https://drive.google.com/uc?export=view&id=1Y2c00qrsceqIemNOanPAnBklWPEowTds)</b>",
       "authors": [
         ""
       ],
@@ -1055,8 +1055,8 @@
       "channel_url": "",
       "day": "2",
       "keywords": [
-        "Applications -> music and health, well-being and therapy",
-        "Applications"
+        "Applications",
+        "Applications -> music and health, well-being and therapy"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -1071,7 +1071,7 @@
     },
     "forum": "153",
     "id": "153",
-    "pic_id": "",
+    "pic_id": "https://drive.google.com/file/d/1oRXNzZemPVUNgX7VN0k6H4bnZY3aiJet/view?usp=sharing",
     "position": "12",
     "poster_pdf": "GLTR_poster.pdf",
     "session": "2"
@@ -1079,7 +1079,7 @@
   {
     "content": {
       "TLDR": "Timbre transfer techniques aim at converting the sound of a musical piece generated by one instrument into the same one as if it was played by another instrument, while maintaining as much as possible the content in terms of musical characteristics such a",
-      "abstract": "Timbre transfer techniques aim at converting the sound of a musical piece generated by one instrument into the same one as if it was played by another instrument, while maintaining as much as possible the content in terms of musical characteristics such a<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1qU345rZrSCXeeK_k3aylFUWrvOTuQFSW)</b>",
+      "abstract": "Timbre transfer techniques aim at converting the sound of a musical piece generated by one instrument into the same one as if it was played by another instrument, while maintaining as much as possible the content in terms of musical characteristics such a<br><br> <b><p align=\"center\"> If the video does not load properly please use the [direct link to video](https://drive.google.com/uc?export=view&id=1qU345rZrSCXeeK_k3aylFUWrvOTuQFSW)</b>",
       "authors": [
         ""
       ],
@@ -1091,8 +1091,8 @@
       "channel_url": "",
       "day": "2",
       "keywords": [
-        "Musical features and properties -> timbre, instrumentation, and singing voice",
-        "MIR tasks -> music synthesis and transformation"
+        "MIR tasks -> music synthesis and transformation",
+        "Musical features and properties -> timbre, instrumentation, and singing voice"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -1115,7 +1115,7 @@
   {
     "content": {
       "TLDR": "Music structure analysis is a core topic in Music Information Retrieval and could be advanced through the inclusion of new data modalities. In this study we consider neural correlates of music structure processing using popular music - specifically chorus",
-      "abstract": "Music structure analysis is a core topic in Music Information Retrieval and could be advanced through the inclusion of new data modalities. In this study we consider neural correlates of music structure processing using popular music - specifically chorus<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1IEs2vHDAZxE76QV10AHpIX9h39tol-M_)</b>",
+      "abstract": "Music structure analysis is a core topic in Music Information Retrieval and could be advanced through the inclusion of new data modalities. In this study we consider neural correlates of music structure processing using popular music - specifically chorus<br><br> <b><p align=\"center\"> If the video does not load properly please use the [direct link to video](https://drive.google.com/uc?export=view&id=1IEs2vHDAZxE76QV10AHpIX9h39tol-M_)</b>",
       "authors": [
         ""
       ],
@@ -1152,7 +1152,7 @@
   {
     "content": {
       "TLDR": "\u201cChromatic harmony\u201d is seen as a fundamental part of (extended) tonal music in the Western classical tradition (c.1700\u20131900). It routinely features in core curricula. Yet even in this globalised and data-driven age, 1) there are significant gaps between h",
-      "abstract": "\u201cChromatic harmony\u201d is seen as a fundamental part of (extended) tonal music in the Western classical tradition (c.1700\u20131900). It routinely features in core curricula. Yet even in this globalised and data-driven age, 1) there are significant gaps between h<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1vrmYxGG7OMYAndo77lzDq7XWkQ3IMGZm)</b>",
+      "abstract": "\u201cChromatic harmony\u201d is seen as a fundamental part of (extended) tonal music in the Western classical tradition (c.1700\u20131900). It routinely features in core curricula. Yet even in this globalised and data-driven age, 1) there are significant gaps between h<br><br> <b><p align=\"center\"> If the video does not load properly please use the [direct link to video](https://drive.google.com/uc?export=view&id=1vrmYxGG7OMYAndo77lzDq7XWkQ3IMGZm)</b>",
       "authors": [
         ""
       ],
@@ -1163,10 +1163,10 @@
       "day": "2",
       "keywords": [
         "Knowledge-driven approaches to MIR -> computational music theory and musicology",
-        " Musical features and properties -> harmony, chords and tonality",
-        " Computational musicology -> systematic musicology",
-        "Computational musicology -> digital musicology",
         " Computational musicology -> mathematical music theory",
+        " Musical features and properties -> harmony, chords and tonality",
+        "Computational musicology -> digital musicology",
+        " Computational musicology -> systematic musicology",
         " Musical features and properties -> rhythm, beat, tempo"
       ],
       "long_presentation": "False",
@@ -1182,7 +1182,7 @@
     },
     "forum": "46",
     "id": "46",
-    "pic_id": "https://drive.google.com/file/d/1zsZG_DIAhhbZa4qyebWH91uv98M7Qmpf/view",
+    "pic_id": "https://drive.google.com/file/d/1zsZG_DIAhhbZa4qyebWH91uv98M7Qmpf/view?usp=sharing",
     "position": "15",
     "poster_pdf": "GLTR_poster.pdf",
     "session": "2"
@@ -1190,7 +1190,7 @@
   {
     "content": {
       "TLDR": "Intra-opus repeated pattern discovery in polyphonic symbolic music data has  challenges in both algorithm design and data annotation. To solve these challenges, we propose BPS-motif, a new symbolic music dataset containing the note-level annotation of mot",
-      "abstract": "Intra-opus repeated pattern discovery in polyphonic symbolic music data has  challenges in both algorithm design and data annotation. To solve these challenges, we propose BPS-motif, a new symbolic music dataset containing the note-level annotation of mot<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=11gAYNaUoTB21G_Lndid5W6n9CP2Gg6_p)</b>",
+      "abstract": "Intra-opus repeated pattern discovery in polyphonic symbolic music data has  challenges in both algorithm design and data annotation. To solve these challenges, we propose BPS-motif, a new symbolic music dataset containing the note-level annotation of mot<br><br> <b><p align=\"center\"> If the video does not load properly please use the [direct link to video](https://drive.google.com/uc?export=view&id=1yVFoMUKa7i5jE94EA1b_tDCqQ-AhfRT2)</b>",
       "authors": [
         ""
       ],
@@ -1215,11 +1215,11 @@
       ],
       "slack_channel": "",
       "title": "BPS-Motif: A Dataset for Repeated Pattern Discovery of Polyphonic Symbolic Music",
-      "video": "https://drive.google.com/uc?export=view&id=11gAYNaUoTB21G_Lndid5W6n9CP2Gg6_p"
+      "video": "https://drive.google.com/uc?export=view&id=1yVFoMUKa7i5jE94EA1b_tDCqQ-AhfRT2"
     },
     "forum": "145",
     "id": "145",
-    "pic_id": "",
+    "pic_id": "https://drive.google.com/file/d/1K2sK-hgZPRH-72jMbxbd1hk23j0FUISY/view?usp=share_link",
     "position": "01",
     "poster_pdf": "GLTR_poster.pdf",
     "session": "3"
@@ -1227,7 +1227,7 @@
   {
     "content": {
       "TLDR": "Multi-pitch estimation (MPE), the task of detecting active pitches within a polyphonic music recording, has garnered significant research interest in recent years. Most state-of-the-art approaches for MPE are based on deep networks trained using pitch ann",
-      "abstract": "Multi-pitch estimation (MPE), the task of detecting active pitches within a polyphonic music recording, has garnered significant research interest in recent years. Most state-of-the-art approaches for MPE are based on deep networks trained using pitch ann<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1ta1EFfmQaRw6K2M6CwRyOo-YkNPZ-LU0)</b>",
+      "abstract": "Multi-pitch estimation (MPE), the task of detecting active pitches within a polyphonic music recording, has garnered significant research interest in recent years. Most state-of-the-art approaches for MPE are based on deep networks trained using pitch ann<br><br> <b><p align=\"center\"> If the video does not load properly please use the [direct link to video](https://drive.google.com/uc?export=view&id=1ta1EFfmQaRw6K2M6CwRyOo-YkNPZ-LU0)</b>",
       "authors": [
         ""
       ],
@@ -1239,10 +1239,10 @@
       "channel_url": "",
       "day": "3",
       "keywords": [
-        "MIR tasks -> music transcription and annotation",
+        " Knowledge-driven approaches to MIR -> representations of music",
         " MIR tasks -> alignment, synchronization, and score following",
-        "Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music",
-        " Knowledge-driven approaches to MIR -> representations of music"
+        "MIR tasks -> music transcription and annotation",
+        "Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -1265,7 +1265,7 @@
   {
     "content": {
       "TLDR": "We present the Batik plays Mozart Corpus, a piano performance dataset\ncombining professional Mozart piano sonata performances with expert-labelled scores at a note-precise level. The performances originate from a recording by Viennese pianist Roland Batik",
-      "abstract": "We present the Batik plays Mozart Corpus, a piano performance dataset\ncombining professional Mozart piano sonata performances with expert-labelled scores at a note-precise level. The performances originate from a recording by Viennese pianist Roland Batik<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1f4QHPE7FMDQO3v3qF2beiqsaujGwSPVw)</b>",
+      "abstract": "We present the Batik plays Mozart Corpus, a piano performance dataset\ncombining professional Mozart piano sonata performances with expert-labelled scores at a note-precise level. The performances originate from a recording by Viennese pianist Roland Batik<br><br> <b><p align=\"center\"> If the video does not load properly please use the [direct link to video](https://drive.google.com/uc?export=view&id=1f4QHPE7FMDQO3v3qF2beiqsaujGwSPVw)</b>",
       "authors": [
         ""
       ],
@@ -1276,10 +1276,10 @@
       "channel_url": "",
       "day": "3",
       "keywords": [
-        " MIR fundamentals and methodology -> symbolic music processing",
-        "Evaluation, datasets, and reproducibility",
         "Evaluation, datasets, and reproducibility -> annotation protocols",
+        "Evaluation, datasets, and reproducibility",
         " Evaluation, datasets, and reproducibility -> reproducibility",
+        " MIR fundamentals and methodology -> symbolic music processing",
         " Musical features and properties -> expression and performative aspects of music"
       ],
       "long_presentation": "False",
@@ -1303,7 +1303,7 @@
   {
     "content": {
       "TLDR": "Generating a stereophonic presentation from a monophonic audio signal is a challenging open task, especially if the goal is to obtain a realistic spatial imaging with a specific panning of sound elements. In this work, we propose to convert mono to stereo",
-      "abstract": "Generating a stereophonic presentation from a monophonic audio signal is a challenging open task, especially if the goal is to obtain a realistic spatial imaging with a specific panning of sound elements. In this work, we propose to convert mono to stereo<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1qQz-iD-vnFqK9jd-WOnGhFUbsiWQ_oi5)</b>",
+      "abstract": "Generating a stereophonic presentation from a monophonic audio signal is a challenging open task, especially if the goal is to obtain a realistic spatial imaging with a specific panning of sound elements. In this work, we propose to convert mono to stereo<br><br> <b><p align=\"center\"> If the video does not load properly please use the [direct link to video](https://drive.google.com/uc?export=view&id=1qQz-iD-vnFqK9jd-WOnGhFUbsiWQ_oi5)</b>",
       "authors": [
         ""
       ],
@@ -1319,10 +1319,10 @@
       "channel_url": "",
       "day": "3",
       "keywords": [
-        " MIR fundamentals and methodology -> music signal processing",
-        "MIR and machine learning for musical acoustics -> applications of machine learning to musical acoustics",
+        "MIR tasks -> music synthesis and transformation",
         " MIR tasks -> music generation",
-        "MIR tasks -> music synthesis and transformation"
+        " MIR fundamentals and methodology -> music signal processing",
+        "MIR and machine learning for musical acoustics -> applications of machine learning to musical acoustics"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -1345,7 +1345,7 @@
   {
     "content": {
       "TLDR": "Recent developments in MIR have led to several benchmark deep learning models whose embeddings can be used for a variety of downstream tasks. At the same time, the vast majority of these models have been trained on Western pop/rock music and related style",
-      "abstract": "Recent developments in MIR have led to several benchmark deep learning models whose embeddings can be used for a variety of downstream tasks. At the same time, the vast majority of these models have been trained on Western pop/rock music and related style<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1Q5im0b7JCRsIYxzLriy1pW-zu_vqpUOt)</b>",
+      "abstract": "Recent developments in MIR have led to several benchmark deep learning models whose embeddings can be used for a variety of downstream tasks. At the same time, the vast majority of these models have been trained on Western pop/rock music and related style<br><br> <b><p align=\"center\"> If the video does not load properly please use the [direct link to video](https://drive.google.com/uc?export=view&id=1Q5im0b7JCRsIYxzLriy1pW-zu_vqpUOt)</b>",
       "authors": [
         ""
       ],
@@ -1357,10 +1357,10 @@
       "channel_url": "",
       "day": "3",
       "keywords": [
-        " MIR tasks -> automatic classification",
         "Knowledge-driven approaches to MIR -> computational ethnomusicology",
-        "Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music",
-        " MIR fundamentals and methodology -> music signal processing"
+        " MIR tasks -> automatic classification",
+        " MIR fundamentals and methodology -> music signal processing",
+        "Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -1383,7 +1383,7 @@
   {
     "content": {
       "TLDR": "Optical Music Recognition (OMR) has become a popular technology to retrieve information present in musical scores in conjunction with the increasing improvement of Deep Learning techniques, which represent the state-of-the-art in the field. However, its e",
-      "abstract": "Optical Music Recognition (OMR) has become a popular technology to retrieve information present in musical scores in conjunction with the increasing improvement of Deep Learning techniques, which represent the state-of-the-art in the field. However, its e<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1w9jaxLD0ZFatSOtQIh_czdrrtShP9pfH)</b>",
+      "abstract": "Optical Music Recognition (OMR) has become a popular technology to retrieve information present in musical scores in conjunction with the increasing improvement of Deep Learning techniques, which represent the state-of-the-art in the field. However, its e<br><br> <b><p align=\"center\"> If the video does not load properly please use the [direct link to video](https://drive.google.com/uc?export=view&id=1w9jaxLD0ZFatSOtQIh_czdrrtShP9pfH)</b>",
       "authors": [
         ""
       ],
@@ -1396,10 +1396,10 @@
       "channel_url": "",
       "day": "3",
       "keywords": [
-        " Evaluation, datasets, and reproducibility -> evaluation methodology",
-        " Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music",
         "MIR tasks -> optical music recognition",
+        " Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music",
         " Evaluation, datasets, and reproducibility -> annotation protocols",
+        " Evaluation, datasets, and reproducibility -> evaluation methodology",
         "Applications -> music retrieval systems"
       ],
       "long_presentation": "False",
@@ -1423,7 +1423,7 @@
   {
     "content": {
       "TLDR": "We introduce Composer\u2019s Assistant, a system for interactive human-computer composition in the REAPER digital audio workstation. We consider the task of multi-track MIDI infilling when arbitrary track-measures have been deleted from a contiguous slice of m",
-      "abstract": "We introduce Composer\u2019s Assistant, a system for interactive human-computer composition in the REAPER digital audio workstation. We consider the task of multi-track MIDI infilling when arbitrary track-measures have been deleted from a contiguous slice of m<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1_MuEV4JpOSaYscTf3Vm3f10g07XRwyU7)</b>",
+      "abstract": "We introduce Composer\u2019s Assistant, a system for interactive human-computer composition in the REAPER digital audio workstation. We consider the task of multi-track MIDI infilling when arbitrary track-measures have been deleted from a contiguous slice of m<br><br> <b><p align=\"center\"> If the video does not load properly please use the [direct link to video](https://drive.google.com/uc?export=view&id=1_MuEV4JpOSaYscTf3Vm3f10g07XRwyU7)</b>",
       "authors": [
         ""
       ],
@@ -1433,10 +1433,10 @@
       "channel_url": "",
       "day": "3",
       "keywords": [
-        " MIR tasks -> music generation",
+        "Human-centered MIR -> human-computer interaction",
         " MIR fundamentals and methodology -> symbolic music processing",
-        "Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music",
-        "Human-centered MIR -> human-computer interaction"
+        " MIR tasks -> music generation",
+        "Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -1459,7 +1459,7 @@
   {
     "content": {
       "TLDR": "We introduce a novel audio corpus, the FAV Corpus, of over 400 favorite musical excerpts and pieces, formal analyses, and free-response comments. In a survey, 140 American university students (mostly music majors) were asked to provide three of their favo",
-      "abstract": "We introduce a novel audio corpus, the FAV Corpus, of over 400 favorite musical excerpts and pieces, formal analyses, and free-response comments. In a survey, 140 American university students (mostly music majors) were asked to provide three of their favo<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1nbsc_C380nLwUlgZQJRDJ7Pme8oIapqI)</b>",
+      "abstract": "We introduce a novel audio corpus, the FAV Corpus, of over 400 favorite musical excerpts and pieces, formal analyses, and free-response comments. In a survey, 140 American university students (mostly music majors) were asked to provide three of their favo<br><br> <b><p align=\"center\"> If the video does not load properly please use the [direct link to video](https://drive.google.com/uc?export=view&id=1nbsc_C380nLwUlgZQJRDJ7Pme8oIapqI)</b>",
       "authors": [
         ""
       ],
@@ -1471,10 +1471,10 @@
       "day": "3",
       "keywords": [
         " Knowledge-driven approaches to MIR -> representations of music",
-        " Musical features and properties -> musical affect, emotion and mood",
-        "Human-centered MIR -> personalization",
         "Knowledge-driven approaches to MIR -> cognitive MIR",
-        " Human-centered MIR -> user-centered evaluation"
+        "Human-centered MIR -> personalization",
+        " Human-centered MIR -> user-centered evaluation",
+        " Musical features and properties -> musical affect, emotion and mood"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -1497,7 +1497,7 @@
   {
     "content": {
       "TLDR": "We introduce LyricWhiz, a robust, multilingual, and zero-shot automatic lyrics transcription method achieving state-of-the-art performance on various lyrics transcription datasets, even in challenging genres such as rock and metal. Our novel, training-fre",
-      "abstract": "We introduce LyricWhiz, a robust, multilingual, and zero-shot automatic lyrics transcription method achieving state-of-the-art performance on various lyrics transcription datasets, even in challenging genres such as rock and metal. Our novel, training-fre<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1h5vskyrQIKUo9cmat3NHqZ1g_a6Uo0-9)</b>",
+      "abstract": "We introduce LyricWhiz, a robust, multilingual, and zero-shot automatic lyrics transcription method achieving state-of-the-art performance on various lyrics transcription datasets, even in challenging genres such as rock and metal. Our novel, training-fre<br><br> <b><p align=\"center\"> If the video does not load properly please use the [direct link to video](https://drive.google.com/uc?export=view&id=1h5vskyrQIKUo9cmat3NHqZ1g_a6Uo0-9)</b>",
       "authors": [
         ""
       ],
@@ -1514,9 +1514,9 @@
       "channel_url": "",
       "day": "3",
       "keywords": [
+        "MIR fundamentals and methodology -> lyrics and other textual data",
         " Evaluation, datasets, and reproducibility -> novel datasets and use cases",
-        "Evaluation, datasets, and reproducibility -> annotation protocols",
-        "MIR fundamentals and methodology -> lyrics and other textual data"
+        "Evaluation, datasets, and reproducibility -> annotation protocols"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -1539,7 +1539,7 @@
   {
     "content": {
       "TLDR": "In piano performance, some mistakes stand out to listeners, whereas others may go unnoticed. Former research concluded that the salience of mistakes depended on factors including their contextual appropriateness and a listener\u2019s degree of familiarity to w",
-      "abstract": "In piano performance, some mistakes stand out to listeners, whereas others may go unnoticed. Former research concluded that the salience of mistakes depended on factors including their contextual appropriateness and a listener\u2019s degree of familiarity to w<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1Cx0nL2HWni7ocLN0GUXBM3g-IZ0_oOAi)</b>",
+      "abstract": "In piano performance, some mistakes stand out to listeners, whereas others may go unnoticed. Former research concluded that the salience of mistakes depended on factors including their contextual appropriateness and a listener\u2019s degree of familiarity to w<br><br> <b><p align=\"center\"> If the video does not load properly please use the [direct link to video](https://drive.google.com/uc?export=view&id=1Cx0nL2HWni7ocLN0GUXBM3g-IZ0_oOAi)</b>",
       "authors": [
         ""
       ],
@@ -1553,17 +1553,17 @@
       "channel_url": "",
       "day": "3",
       "keywords": [
-        " MIR tasks -> automatic classification",
-        "Applications -> music training and education",
-        " Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music",
         "Evaluation, datasets, and reproducibility -> annotation protocols",
-        " Musical features and properties -> expression and performative aspects of music",
-        " Evaluation, datasets, and reproducibility -> novel datasets and use cases"
+        " Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music",
+        "Applications -> music training and education",
+        " MIR tasks -> automatic classification",
+        " Evaluation, datasets, and reproducibility -> novel datasets and use cases",
+        " Musical features and properties -> expression and performative aspects of music"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
       "pdf_path": "https://archives.ismir.net/ismir2023/paper/000041.pdf",
-      "poster_pdf": "https://drive.google.com/file/d/12xO3N28EH6WFOW9NHgPT0BUnuKJUVRdK/view",
+      "poster_pdf": "https://drive.google.com/file/d/1FNEeaNq4xjANe8Ui888VjxYaFHT3RO5M/view?usp=sharing",
       "session": [
         "3"
       ],
@@ -1581,7 +1581,7 @@
   {
     "content": {
       "TLDR": "We introduce VampNet, a masked acoustic token modeling approach to music synthesis, compression, inpainting, and variation. \nWe use a variable masking schedule during training which allows us to sample coherent music from the model by applying a variety o",
-      "abstract": "We introduce VampNet, a masked acoustic token modeling approach to music synthesis, compression, inpainting, and variation. \nWe use a variable masking schedule during training which allows us to sample coherent music from the model by applying a variety o<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1x7EP-4GCeM9fHEmrMHPozzRj9cldvYty)</b>",
+      "abstract": "We introduce VampNet, a masked acoustic token modeling approach to music synthesis, compression, inpainting, and variation. \nWe use a variable masking schedule during training which allows us to sample coherent music from the model by applying a variety o<br><br> <b><p align=\"center\"> If the video does not load properly please use the [direct link to video](https://drive.google.com/uc?export=view&id=1x7EP-4GCeM9fHEmrMHPozzRj9cldvYty)</b>",
       "authors": [
         ""
       ],
@@ -1594,10 +1594,10 @@
       "channel_url": "",
       "day": "3",
       "keywords": [
-        "MIR tasks -> music generation",
-        " MIR tasks -> music synthesis and transformation",
         "Applications -> music composition, performance, and production",
-        " Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music"
+        " Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music",
+        " MIR tasks -> music synthesis and transformation",
+        "MIR tasks -> music generation"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -1620,7 +1620,7 @@
   {
     "content": {
       "TLDR": "Learning an instrument can be rewarding, but is unavoidably a huge undertaking. Receiving constructive feedback on one\u2019s playing is crucial for improvement. However, personal feedback from an expert instructor is seldom available on demand. The goal motiv",
-      "abstract": "Learning an instrument can be rewarding, but is unavoidably a huge undertaking. Receiving constructive feedback on one\u2019s playing is crucial for improvement. However, personal feedback from an expert instructor is seldom available on demand. The goal motiv<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1uHn0_0BtDAzHyx2lewrp2xuAMO6BWhWM)</b>",
+      "abstract": "Learning an instrument can be rewarding, but is unavoidably a huge undertaking. Receiving constructive feedback on one\u2019s playing is crucial for improvement. However, personal feedback from an expert instructor is seldom available on demand. The goal motiv<br><br> <b><p align=\"center\"> If the video does not load properly please use the [direct link to video](https://drive.google.com/uc?export=view&id=1uHn0_0BtDAzHyx2lewrp2xuAMO6BWhWM)</b>",
       "authors": [
         ""
       ],
@@ -1630,12 +1630,12 @@
       "channel_url": "",
       "day": "3",
       "keywords": [
-        " MIR tasks -> alignment, synchronization, and score following",
+        " MIR fundamentals and methodology -> lyrics and other textual data",
         "Applications -> music training and education",
-        "Human-centered MIR -> music interfaces and services",
         " MIR fundamentals and methodology -> music signal processing",
+        " MIR tasks -> alignment, synchronization, and score following",
         " Musical features and properties -> expression and performative aspects of music",
-        " MIR fundamentals and methodology -> lyrics and other textual data"
+        "Human-centered MIR -> music interfaces and services"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -1658,7 +1658,7 @@
   {
     "content": {
       "TLDR": "Music retrieval and recommendation applications often rely on content features encoded as embeddings, which provide vector representations of items in a music dataset. Numerous complementary embeddings can be derived from processing items originally repre",
-      "abstract": "Music retrieval and recommendation applications often rely on content features encoded as embeddings, which provide vector representations of items in a music dataset. Numerous complementary embeddings can be derived from processing items originally repre<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1glaZPkG4r3hjat4frky06CPI2dJQu7Gv)</b>",
+      "abstract": "Music retrieval and recommendation applications often rely on content features encoded as embeddings, which provide vector representations of items in a music dataset. Numerous complementary embeddings can be derived from processing items originally repre<br><br> <b><p align=\"center\"> If the video does not load properly please use the [direct link to video](https://drive.google.com/uc?export=view&id=1glaZPkG4r3hjat4frky06CPI2dJQu7Gv)</b>",
       "authors": [
         ""
       ],
@@ -1672,11 +1672,11 @@
       "channel_url": "",
       "day": "3",
       "keywords": [
+        "Applications -> music recommendation and playlist generation",
+        " Musical features and properties -> representations of music",
         " MIR fundamentals and methodology -> multimodality",
         " MIR tasks -> similarity metrics",
-        "Applications -> music recommendation and playlist generation",
-        "Applications -> music retrieval systems",
-        " Musical features and properties -> representations of music"
+        "Applications -> music retrieval systems"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -1699,7 +1699,7 @@
   {
     "content": {
       "TLDR": "The concept of form in music encompasses a wide range of musical aspects, such as phrases and (hierarchical) segmentation, formal functions, cadences and voice-leading schemata, form templates, and repetition structure. In an effort towards a unified mode",
-      "abstract": "The concept of form in music encompasses a wide range of musical aspects, such as phrases and (hierarchical) segmentation, formal functions, cadences and voice-leading schemata, form templates, and repetition structure. In an effort towards a unified mode<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1_NLe1v6sPdZHtLwyG9EPrTKMr4NYPRxr)</b>",
+      "abstract": "The concept of form in music encompasses a wide range of musical aspects, such as phrases and (hierarchical) segmentation, formal functions, cadences and voice-leading schemata, form templates, and repetition structure. In an effort towards a unified mode<br><br> <b><p align=\"center\"> If the video does not load properly please use the [direct link to video](https://drive.google.com/uc?export=view&id=1_NLe1v6sPdZHtLwyG9EPrTKMr4NYPRxr)</b>",
       "authors": [
         ""
       ],
@@ -1713,11 +1713,11 @@
       "channel_url": "",
       "day": "3",
       "keywords": [
-        "Computational musicology",
-        " MIR fundamentals and methodology -> symbolic music processing",
+        " Musical features and properties -> structure, segmentation, and form",
         " Knowledge-driven approaches to MIR -> computational music theory and musicology",
+        " MIR fundamentals and methodology -> symbolic music processing",
         "Computational musicology -> mathematical music theory",
-        " Musical features and properties -> structure, segmentation, and form"
+        "Computational musicology"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -1740,7 +1740,7 @@
   {
     "content": {
       "TLDR": "Most melodies from the Western common practice period have a harmonic background, i.e., a succession of chords that fit the melody. In this paper we provide a novel approach to infer this harmonic background from the score notation of a melody. We first c",
-      "abstract": "Most melodies from the Western common practice period have a harmonic background, i.e., a succession of chords that fit the melody. In this paper we provide a novel approach to infer this harmonic background from the score notation of a melody. We first c<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1z4Ty51ZGrqT_IOXD08dqGK99PE3pHy-a)</b>",
+      "abstract": "Most melodies from the Western common practice period have a harmonic background, i.e., a succession of chords that fit the melody. In this paper we provide a novel approach to infer this harmonic background from the score notation of a melody. We first c<br><br> <b><p align=\"center\"> If the video does not load properly please use the [direct link to video](https://drive.google.com/uc?export=view&id=1z4Ty51ZGrqT_IOXD08dqGK99PE3pHy-a)</b>",
       "authors": [
         ""
       ],
@@ -1752,12 +1752,12 @@
       "channel_url": "",
       "day": "3",
       "keywords": [
-        " MIR tasks -> music generation",
-        " Musical features and properties -> harmony, chords and tonality",
+        "Musical features and properties -> melody and motives",
         " Knowledge-driven approaches to MIR -> computational music theory and musicology",
-        "Computational musicology -> digital musicology",
         " Knowledge-driven approaches to MIR -> computational ethnomusicology",
-        "Musical features and properties -> melody and motives"
+        " Musical features and properties -> harmony, chords and tonality",
+        "Computational musicology -> digital musicology",
+        " MIR tasks -> music generation"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -1780,7 +1780,7 @@
   {
     "content": {
       "TLDR": "This paper proposes a text-to-lyrics generation method, aiming to provide lyric writing support by suggesting the generated lyrics to users who struggle to find the right words to convey their message. Previous studies on lyrics generation have focused on",
-      "abstract": "This paper proposes a text-to-lyrics generation method, aiming to provide lyric writing support by suggesting the generated lyrics to users who struggle to find the right words to convey their message. Previous studies on lyrics generation have focused on<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1DWTDGJ_tm3_Bcyy15p7Nd30HtcOWXSd7)</b>",
+      "abstract": "This paper proposes a text-to-lyrics generation method, aiming to provide lyric writing support by suggesting the generated lyrics to users who struggle to find the right words to convey their message. Previous studies on lyrics generation have focused on<br><br> <b><p align=\"center\"> If the video does not load properly please use the [direct link to video](https://drive.google.com/uc?export=view&id=1DWTDGJ_tm3_Bcyy15p7Nd30HtcOWXSd7)</b>",
       "authors": [
         ""
       ],
@@ -1792,8 +1792,8 @@
       "day": "3",
       "keywords": [
         "MIR fundamentals and methodology -> multimodality",
-        " MIR fundamentals and methodology -> web mining, and natural language processing",
-        "MIR fundamentals and methodology -> lyrics and other textual data"
+        "MIR fundamentals and methodology -> lyrics and other textual data",
+        " MIR fundamentals and methodology -> web mining, and natural language processing"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -1816,7 +1816,7 @@
   {
     "content": {
       "TLDR": "Automatic music captioning, which generates natural language descriptions for given music tracks, holds significant potential for enhancing the understanding and organization of large volumes of musical data. Despite its importance, researchers face chall",
-      "abstract": "Automatic music captioning, which generates natural language descriptions for given music tracks, holds significant potential for enhancing the understanding and organization of large volumes of musical data. Despite its importance, researchers face chall<br><br> <b><p align=\"center\">[Direct link to video]()</b>",
+      "abstract": "Automatic music captioning, which generates natural language descriptions for given music tracks, holds significant potential for enhancing the understanding and organization of large volumes of musical data. Despite its importance, researchers face chall<br><br> <b><p align=\"center\"> If the video does not load properly please use the [direct link to video](https://drive.google.com/uc?export=view&id=1PeK7SflyMaoIyGKdQQ5xnEVKslx39qqp)</b>",
       "authors": [
         ""
       ],
@@ -1836,17 +1836,17 @@
       "long_presentation": "True",
       "paper_presentation": "In Person",
       "pdf_path": "https://archives.ismir.net/ismir2023/paper/000048.pdf",
-      "poster_pdf": "",
+      "poster_pdf": "https://drive.google.com/file/d/14lE01yNAmpBWGastr-Ve09Cz1YSCiRRH/view?usp=share_link",
       "session": [
         "4"
       ],
       "slack_channel": "",
       "title": "LP-MusicCaps: LLM-Based Pseudo Music Captioning",
-      "video": ""
+      "video": "https://drive.google.com/uc?export=view&id=1PeK7SflyMaoIyGKdQQ5xnEVKslx39qqp"
     },
     "forum": "219",
     "id": "219",
-    "pic_id": "",
+    "pic_id": "https://drive.google.com/file/d/1COeBiC463MUcyj5fiL2FCvYrt7-DROaX/view?usp=share_link",
     "position": "01",
     "poster_pdf": "GLTR_poster.pdf",
     "session": "4"
@@ -1854,7 +1854,7 @@
   {
     "content": {
       "TLDR": "Contrastive learning has recently appeared as a well-suited method to find representations of music audio signals that are suitable for structural segmentation. However, most existing unsupervised training strategies omit the notion of repetition and ther",
-      "abstract": "Contrastive learning has recently appeared as a well-suited method to find representations of music audio signals that are suitable for structural segmentation. However, most existing unsupervised training strategies omit the notion of repetition and ther<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1R7OXYDdiBnHw0MOzYYS22E5I0BzAsudD)</b>",
+      "abstract": "Contrastive learning has recently appeared as a well-suited method to find representations of music audio signals that are suitable for structural segmentation. However, most existing unsupervised training strategies omit the notion of repetition and ther<br><br> <b><p align=\"center\"> If the video does not load properly please use the [direct link to video](https://drive.google.com/uc?export=view&id=1R7OXYDdiBnHw0MOzYYS22E5I0BzAsudD)</b>",
       "authors": [
         ""
       ],
@@ -1869,9 +1869,9 @@
       "keywords": [
         " Knowledge-driven approaches to MIR -> representations of music",
         "Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music",
-        "Musical features and properties -> structure, segmentation, and form",
+        " Musical features and properties -> representations of music",
         " MIR tasks -> pattern matching and detection",
-        " Musical features and properties -> representations of music"
+        "Musical features and properties -> structure, segmentation, and form"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -1894,7 +1894,7 @@
   {
     "content": {
       "TLDR": "This paper describes a data-driven framework to parse musical sequences into dependency trees, which are hierarchical structures used in music cognition research and music analysis.\u00a0The parsing involves two steps. First, the input sequence is passed throu",
-      "abstract": "This paper describes a data-driven framework to parse musical sequences into dependency trees, which are hierarchical structures used in music cognition research and music analysis.\u00a0The parsing involves two steps. First, the input sequence is passed throu<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1RDdU2rt3vymAbrxAePGUMcqIdsb9alVR)</b>",
+      "abstract": "This paper describes a data-driven framework to parse musical sequences into dependency trees, which are hierarchical structures used in music cognition research and music analysis.\u00a0The parsing involves two steps. First, the input sequence is passed throu<br><br> <b><p align=\"center\"> If the video does not load properly please use the [direct link to video](https://drive.google.com/uc?export=view&id=1RDdU2rt3vymAbrxAePGUMcqIdsb9alVR)</b>",
       "authors": [
         ""
       ],
@@ -1906,11 +1906,11 @@
       "channel_url": "",
       "day": "3",
       "keywords": [
+        " Musical features and properties -> structure, segmentation, and form",
+        "MIR fundamentals and methodology -> symbolic music processing",
         " Musical features and properties -> melody and motives",
         " Musical features and properties -> harmony, chords and tonality",
-        "Computational musicology -> digital musicology",
-        "MIR fundamentals and methodology -> symbolic music processing",
-        " Musical features and properties -> structure, segmentation, and form"
+        "Computational musicology -> digital musicology"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -1933,7 +1933,7 @@
   {
     "content": {
       "TLDR": "Soft dynamic time warping (SDTW) is a differentiable loss function that allows for training neural networks from weakly aligned data. Typically, SDTW is used to iteratively compute and refine soft alignments that compensate for temporal deviations between",
-      "abstract": "Soft dynamic time warping (SDTW) is a differentiable loss function that allows for training neural networks from weakly aligned data. Typically, SDTW is used to iteratively compute and refine soft alignments that compensate for temporal deviations between<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1-78moijWNgGdVggNJ7Y9-m0Zf-urbrCc)</b>",
+      "abstract": "Soft dynamic time warping (SDTW) is a differentiable loss function that allows for training neural networks from weakly aligned data. Typically, SDTW is used to iteratively compute and refine soft alignments that compensate for temporal deviations between<br><br> <b><p align=\"center\"> If the video does not load properly please use the [direct link to video](https://drive.google.com/uc?export=view&id=1-78moijWNgGdVggNJ7Y9-m0Zf-urbrCc)</b>",
       "authors": [
         ""
       ],
@@ -1946,9 +1946,9 @@
       "channel_url": "",
       "day": "3",
       "keywords": [
-        "Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music",
         " MIR tasks -> music transcription and annotation",
-        "MIR tasks -> alignment, synchronization, and score following"
+        "MIR tasks -> alignment, synchronization, and score following",
+        "Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -1971,7 +1971,7 @@
   {
     "content": {
       "TLDR": "In this paper, we introduce a computational analysis of the field recording dataset of approximately 700 hours of Korean folk songs, which were recorded around 1980-90s. Because most of the songs were sung by non-expert musicians without accompaniment, th",
-      "abstract": "In this paper, we introduce a computational analysis of the field recording dataset of approximately 700 hours of Korean folk songs, which were recorded around 1980-90s. Because most of the songs were sung by non-expert musicians without accompaniment, th<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=15pD_MIwtse6iGJYq87yB3clpOQF1yXUb)</b>",
+      "abstract": "In this paper, we introduce a computational analysis of the field recording dataset of approximately 700 hours of Korean folk songs, which were recorded around 1980-90s. Because most of the songs were sung by non-expert musicians without accompaniment, th<br><br> <b><p align=\"center\"> If the video does not load properly please use the [direct link to video](https://drive.google.com/uc?export=view&id=15pD_MIwtse6iGJYq87yB3clpOQF1yXUb)</b>",
       "authors": [
         ""
       ],
@@ -1983,10 +1983,10 @@
       "channel_url": "",
       "day": "3",
       "keywords": [
-        " Musical features and properties -> melody and motives",
         "Knowledge-driven approaches to MIR -> computational ethnomusicology",
-        "Applications -> digital libraries and archives",
-        " Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music"
+        " Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music",
+        " Musical features and properties -> melody and motives",
+        "Applications -> digital libraries and archives"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -2009,7 +2009,7 @@
   {
     "content": {
       "TLDR": "\nSignificant strides have been made in creating voice identity representations using speech data. However, the same level of progress has not been achieved for singing voices. To bridge this gap, we suggest a framework for training singer identity encoder",
-      "abstract": "\nSignificant strides have been made in creating voice identity representations using speech data. However, the same level of progress has not been achieved for singing voices. To bridge this gap, we suggest a framework for training singer identity encoder<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1r37TEwXvewpSGLyZrd4H5H5x3qy3zoQG)</b>",
+      "abstract": "\nSignificant strides have been made in creating voice identity representations using speech data. However, the same level of progress has not been achieved for singing voices. To bridge this gap, we suggest a framework for training singer identity encoder<br><br> <b><p align=\"center\"> If the video does not load properly please use the [direct link to video](https://drive.google.com/uc?export=view&id=1r37TEwXvewpSGLyZrd4H5H5x3qy3zoQG)</b>",
       "authors": [
         ""
       ],
@@ -2021,11 +2021,11 @@
       "channel_url": "",
       "day": "3",
       "keywords": [
-        " MIR tasks -> indexing and querying",
+        " MIR tasks -> music synthesis and transformation",
         "Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music",
         " Musical features and properties -> timbre, instrumentation, and singing voice",
+        " MIR tasks -> indexing and querying",
         " MIR tasks -> similarity metrics",
-        " MIR tasks -> music synthesis and transformation",
         "Knowledge-driven approaches to MIR -> representations of music"
       ],
       "long_presentation": "False",
@@ -2049,7 +2049,7 @@
   {
     "content": {
       "TLDR": "Self-supervised learning (SSL) has shown promising results in various speech and natural language processing applications. However, its efficacy in music information retrieval (MIR) still remains largely unexplored. While previous SSL models pre-trained o",
-      "abstract": "Self-supervised learning (SSL) has shown promising results in various speech and natural language processing applications. However, its efficacy in music information retrieval (MIR) still remains largely unexplored. While previous SSL models pre-trained o<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=10mpCdKtSk5Yoru88f_Xb9G9ws8hWff3Z)</b>",
+      "abstract": "Self-supervised learning (SSL) has shown promising results in various speech and natural language processing applications. However, its efficacy in music information retrieval (MIR) still remains largely unexplored. While previous SSL models pre-trained o<br><br> <b><p align=\"center\"> If the video does not load properly please use the [direct link to video](https://drive.google.com/uc?export=view&id=10mpCdKtSk5Yoru88f_Xb9G9ws8hWff3Z)</b>",
       "authors": [
         ""
       ],
@@ -2065,9 +2065,9 @@
       "channel_url": "",
       "day": "3",
       "keywords": [
-        "Knowledge-driven approaches to MIR -> representations of music",
         " Musical features and properties -> representations of music",
-        "Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music"
+        "Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music",
+        "Knowledge-driven approaches to MIR -> representations of music"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -2090,7 +2090,7 @@
   {
     "content": {
       "TLDR": "In this paper, we address the beat tracking task which is to predict beat times corresponding to the input audio. Due to the long sequential inputs, it is still challenging to model the global structure efficiently and to deal with the data imbalance betw",
-      "abstract": "In this paper, we address the beat tracking task which is to predict beat times corresponding to the input audio. Due to the long sequential inputs, it is still challenging to model the global structure efficiently and to deal with the data imbalance betw<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1Ui91-lbVqm_xEI-oEa0ZmS5DOznR5hdi)</b>",
+      "abstract": "In this paper, we address the beat tracking task which is to predict beat times corresponding to the input audio. Due to the long sequential inputs, it is still challenging to model the global structure efficiently and to deal with the data imbalance betw<br><br> <b><p align=\"center\"> If the video does not load properly please use the [direct link to video](https://drive.google.com/uc?export=view&id=1Ui91-lbVqm_xEI-oEa0ZmS5DOznR5hdi)</b>",
       "authors": [
         ""
       ],
@@ -2125,7 +2125,7 @@
   {
     "content": {
       "TLDR": "The objective of pattern-matching topics is to gain insights into repetitive patterns within or across various music genres and cultures. This approach aims to shed light on the recurring instances present in diverse musical traditions. The paper presents",
-      "abstract": "The objective of pattern-matching topics is to gain insights into repetitive patterns within or across various music genres and cultures. This approach aims to shed light on the recurring instances present in diverse musical traditions. The paper presents<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=126Ahz0VboSi0Q92hJ9CKcnW9xLZW0AKQ)</b>",
+      "abstract": "The objective of pattern-matching topics is to gain insights into repetitive patterns within or across various music genres and cultures. This approach aims to shed light on the recurring instances present in diverse musical traditions. The paper presents<br><br> <b><p align=\"center\"> If the video does not load properly please use the [direct link to video](https://drive.google.com/uc?export=view&id=126Ahz0VboSi0Q92hJ9CKcnW9xLZW0AKQ)</b>",
       "authors": [
         ""
       ],
@@ -2139,11 +2139,11 @@
       "day": "3",
       "keywords": [
         " Musical features and properties -> melody and motives",
-        "Computational musicology",
-        " MIR fundamentals and methodology -> symbolic music processing",
-        " MIR tasks -> pattern matching and detection",
         " Evaluation, datasets, and reproducibility -> novel datasets and use cases",
-        "Knowledge-driven approaches to MIR -> computational ethnomusicology"
+        " MIR fundamentals and methodology -> symbolic music processing",
+        "Knowledge-driven approaches to MIR -> computational ethnomusicology",
+        "Computational musicology",
+        " MIR tasks -> pattern matching and detection"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -2166,7 +2166,7 @@
   {
     "content": {
       "TLDR": "As streaming services have become a main channel for music consumption, they significantly impact various stakeholders: users, artists who provide music, and other professionals working in the music industry. Therefore, it is essential to consider all sta",
-      "abstract": "As streaming services have become a main channel for music consumption, they significantly impact various stakeholders: users, artists who provide music, and other professionals working in the music industry. Therefore, it is essential to consider all sta<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1TFaGAyaFQK70F5rd7eXXeu-AlrKcsrzc)</b>",
+      "abstract": "As streaming services have become a main channel for music consumption, they significantly impact various stakeholders: users, artists who provide music, and other professionals working in the music industry. Therefore, it is essential to consider all sta<br><br> <b><p align=\"center\"> If the video does not load properly please use the [direct link to video](https://drive.google.com/uc?export=view&id=1TFaGAyaFQK70F5rd7eXXeu-AlrKcsrzc)</b>",
       "authors": [
         ""
       ],
@@ -2177,10 +2177,10 @@
       "channel_url": "",
       "day": "3",
       "keywords": [
+        "Human-centered MIR -> human-computer interaction",
         " Philosophical and ethical discussions -> ethical issues related to designing and implementing MIR tools and technologies",
-        " Human-centered MIR -> music interfaces and services",
         "Human-centered MIR",
-        "Human-centered MIR -> human-computer interaction"
+        " Human-centered MIR -> music interfaces and services"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -2203,7 +2203,7 @@
   {
     "content": {
       "TLDR": "In light of the enduring success of music streaming services, it is noteworthy that an increasing number of users are positively gravitating toward YouTube as their preferred platform for listening to music. YouTube differs from traditional music streamin",
-      "abstract": "In light of the enduring success of music streaming services, it is noteworthy that an increasing number of users are positively gravitating toward YouTube as their preferred platform for listening to music. YouTube differs from traditional music streamin<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1iJq_hG7isweMKvYvZluLrr9eTSThcwf2)</b>",
+      "abstract": "In light of the enduring success of music streaming services, it is noteworthy that an increasing number of users are positively gravitating toward YouTube as their preferred platform for listening to music. YouTube differs from traditional music streamin<br><br> <b><p align=\"center\"> If the video does not load properly please use the [direct link to video](https://drive.google.com/uc?export=view&id=1iJq_hG7isweMKvYvZluLrr9eTSThcwf2)</b>",
       "authors": [
         ""
       ],
@@ -2217,11 +2217,11 @@
       "channel_url": "",
       "day": "3",
       "keywords": [
-        " MIR fundamentals and methodology -> multimodality",
-        "Applications -> music videos, multimodal music systems",
         " Human-centered MIR -> user behavior analysis and mining, user modeling",
-        " Human-centered MIR -> human-computer interaction",
-        "Human-centered MIR -> music interfaces and services"
+        "Applications -> music videos, multimodal music systems",
+        " MIR fundamentals and methodology -> multimodality",
+        "Human-centered MIR -> music interfaces and services",
+        " Human-centered MIR -> human-computer interaction"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -2244,7 +2244,7 @@
   {
     "content": {
       "TLDR": "We present FiloBass: a novel corpus of music scores and annotations which focuses on the important but often overlooked role of the double bass in jazz accompaniment. Inspired by recent works that shed light on the role of the soloist, we offer a collecti",
-      "abstract": "We present FiloBass: a novel corpus of music scores and annotations which focuses on the important but often overlooked role of the double bass in jazz accompaniment. Inspired by recent works that shed light on the role of the soloist, we offer a collecti<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1YpN38YW55mYs9E4A7jGfwGCr0vyC-Xug)</b>",
+      "abstract": "We present FiloBass: a novel corpus of music scores and annotations which focuses on the important but often overlooked role of the double bass in jazz accompaniment. Inspired by recent works that shed light on the role of the soloist, we offer a collecti<br><br> <b><p align=\"center\"> If the video does not load properly please use the [direct link to video](https://drive.google.com/uc?export=view&id=1YpN38YW55mYs9E4A7jGfwGCr0vyC-Xug)</b>",
       "authors": [
         ""
       ],
@@ -2255,9 +2255,9 @@
       "channel_url": "",
       "day": "3",
       "keywords": [
-        " MIR tasks -> music transcription and annotation",
         "Evaluation, datasets, and reproducibility -> novel datasets and use cases",
-        "Computational musicology -> digital musicology"
+        "Computational musicology -> digital musicology",
+        " MIR tasks -> music transcription and annotation"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -2280,7 +2280,7 @@
   {
     "content": {
       "TLDR": "In this paper, we propose four different approaches to quantify similarities of compositional texture in symbolically encoded piano music. A melodic contour or harmonic progression can be shaped into a wide variety of different rhythms, densities, or comb",
-      "abstract": "In this paper, we propose four different approaches to quantify similarities of compositional texture in symbolically encoded piano music. A melodic contour or harmonic progression can be shaped into a wide variety of different rhythms, densities, or comb<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1hk8eiCacdB8iR0ZwJu-c5UjEEZ96MJ-w)</b>",
+      "abstract": "In this paper, we propose four different approaches to quantify similarities of compositional texture in symbolically encoded piano music. A melodic contour or harmonic progression can be shaped into a wide variety of different rhythms, densities, or comb<br><br> <b><p align=\"center\"> If the video does not load properly please use the [direct link to video](https://drive.google.com/uc?export=view&id=1hk8eiCacdB8iR0ZwJu-c5UjEEZ96MJ-w)</b>",
       "authors": [
         ""
       ],
@@ -2292,10 +2292,10 @@
       "channel_url": "",
       "day": "3",
       "keywords": [
-        "MIR tasks -> similarity metrics",
-        " Musical features and properties",
+        "Knowledge-driven approaches to MIR -> computational music theory and musicology",
         " MIR fundamentals and methodology -> symbolic music processing",
-        "Knowledge-driven approaches to MIR -> computational music theory and musicology"
+        "MIR tasks -> similarity metrics",
+        " Musical features and properties"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -2318,7 +2318,7 @@
   {
     "content": {
       "TLDR": "As corpora of digital musical scores continue to grow, the need for research tools capable of manipulating such data efficiently, with an intuitive interface, and support for a diversity of file formats, becomes increasingly pressing. In response, this pa",
-      "abstract": "As corpora of digital musical scores continue to grow, the need for research tools capable of manipulating such data efficiently, with an intuitive interface, and support for a diversity of file formats, becomes increasingly pressing. In response, this pa<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1h9TxRIy3JM9Xq-zU8aDLzL-SykIampwO)</b>",
+      "abstract": "As corpora of digital musical scores continue to grow, the need for research tools capable of manipulating such data efficiently, with an intuitive interface, and support for a diversity of file formats, becomes increasingly pressing. In response, this pa<br><br> <b><p align=\"center\"> If the video does not load properly please use the [direct link to video](https://drive.google.com/uc?export=view&id=1h9TxRIy3JM9Xq-zU8aDLzL-SykIampwO)</b>",
       "authors": [
         ""
       ],
@@ -2332,11 +2332,11 @@
       "day": "3",
       "keywords": [
         " Knowledge-driven approaches to MIR -> representations of music",
+        " Knowledge-driven approaches to MIR -> computational music theory and musicology",
+        " Evaluation, datasets, and reproducibility -> reproducibility",
         " MIR tasks -> alignment, synchronization, and score following",
         "Applications -> digital libraries and archives",
-        " Knowledge-driven approaches to MIR -> computational music theory and musicology",
-        "Computational musicology -> digital musicology",
-        " Evaluation, datasets, and reproducibility -> reproducibility"
+        "Computational musicology -> digital musicology"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -2359,7 +2359,7 @@
   {
     "content": {
       "TLDR": "We propose multiple methods for effectively training a sequence-to-sequence automatic guitar transcription model which uses tokenized music representation as an output. Our proposed method mainly consists of 1) a hybrid CTC-Attention model for sequence-to",
-      "abstract": "We propose multiple methods for effectively training a sequence-to-sequence automatic guitar transcription model which uses tokenized music representation as an output. Our proposed method mainly consists of 1) a hybrid CTC-Attention model for sequence-to<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1H-rOfrOD9_sWFJxM5q8-tM5ybEotVi6_)</b>",
+      "abstract": "We propose multiple methods for effectively training a sequence-to-sequence automatic guitar transcription model which uses tokenized music representation as an output. Our proposed method mainly consists of 1) a hybrid CTC-Attention model for sequence-to<br><br> <b><p align=\"center\"> If the video does not load properly please use the [direct link to video](https://drive.google.com/uc?export=view&id=1H-rOfrOD9_sWFJxM5q8-tM5ybEotVi6_)</b>",
       "authors": [
         ""
       ],
@@ -2371,10 +2371,10 @@
       "channel_url": "",
       "day": "3",
       "keywords": [
-        "MIR tasks -> music transcription and annotation",
         " MIR fundamentals and methodology -> symbolic music processing",
-        "Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music",
-        " MIR fundamentals and methodology -> music signal processing"
+        "MIR tasks -> music transcription and annotation",
+        " MIR fundamentals and methodology -> music signal processing",
+        "Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -2389,7 +2389,7 @@
     },
     "forum": "161",
     "id": "161",
-    "pic_id": "",
+    "pic_id": "https://drive.google.com/file/d/1L3Kgc0udyncXQhq8m61wF-U9RYA28pp-/view?usp=share_link",
     "position": "15",
     "poster_pdf": "GLTR_poster.pdf",
     "session": "4"
@@ -2397,7 +2397,7 @@
   {
     "content": {
       "TLDR": "In this paper, we address the problem of pitch estimation using self-supervised learning (SSL). The SSL paradigm we use is equivariance to pitch transposition, which enables our model to accurately perform pitch estimation on monophonic audio after being ",
-      "abstract": "In this paper, we address the problem of pitch estimation using self-supervised learning (SSL). The SSL paradigm we use is equivariance to pitch transposition, which enables our model to accurately perform pitch estimation on monophonic audio after being <br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1IyGmxASQUh9-Vvokvlyh28TPkuWkhHTL)</b>",
+      "abstract": "In this paper, we address the problem of pitch estimation using self-supervised learning (SSL). The SSL paradigm we use is equivariance to pitch transposition, which enables our model to accurately perform pitch estimation on monophonic audio after being <br><br> <b><p align=\"center\"> If the video does not load properly please use the [direct link to video](https://drive.google.com/uc?export=view&id=1IyGmxASQUh9-Vvokvlyh28TPkuWkhHTL)</b>",
       "authors": [
         ""
       ],
@@ -2410,9 +2410,9 @@
       "channel_url": "",
       "day": "4",
       "keywords": [
+        "MIR fundamentals and methodology -> music signal processing",
         " MIR tasks -> music transcription and annotation",
-        "Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music",
-        "MIR fundamentals and methodology -> music signal processing"
+        "Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music"
       ],
       "long_presentation": "True",
       "paper_presentation": "In Person",
@@ -2435,7 +2435,7 @@
   {
     "content": {
       "TLDR": "Throughout history, a consistent temporal and spatial gap has persisted between the inception of novel knowledge and technology and their subsequent adoption for extensive practical utilization. The article explores the dynamic interaction and exchange of",
-      "abstract": "Throughout history, a consistent temporal and spatial gap has persisted between the inception of novel knowledge and technology and their subsequent adoption for extensive practical utilization. The article explores the dynamic interaction and exchange of<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1qalUTMUdUqsIFLg8CNj01uDXllrInwEu)</b>",
+      "abstract": "Throughout history, a consistent temporal and spatial gap has persisted between the inception of novel knowledge and technology and their subsequent adoption for extensive practical utilization. The article explores the dynamic interaction and exchange of<br><br> <b><p align=\"center\"> If the video does not load properly please use the [direct link to video](https://drive.google.com/uc?export=view&id=1qalUTMUdUqsIFLg8CNj01uDXllrInwEu)</b>",
       "authors": [
         ""
       ],
@@ -2447,10 +2447,10 @@
       "channel_url": "",
       "day": "4",
       "keywords": [
-        " Human-centered MIR -> user-centered evaluation",
-        " Human-centered MIR -> human-computer interaction",
         "Computational musicology",
-        "Philosophical and ethical discussions"
+        "Philosophical and ethical discussions",
+        " Human-centered MIR -> user-centered evaluation",
+        " Human-centered MIR -> human-computer interaction"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -2473,7 +2473,7 @@
   {
     "content": {
       "TLDR": "Supervised music source separation systems using deep learning are trained by minimizing a loss function between pairs of predicted separations and ground-truth isolated sources. However, open datasets comprising isolated sources are few, small, and restr",
-      "abstract": "Supervised music source separation systems using deep learning are trained by minimizing a loss function between pairs of predicted separations and ground-truth isolated sources. However, open datasets comprising isolated sources are few, small, and restr<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1Yqe3wjveVzIkww9Oo4ljGlszdTPvRqkD)</b>",
+      "abstract": "Supervised music source separation systems using deep learning are trained by minimizing a loss function between pairs of predicted separations and ground-truth isolated sources. However, open datasets comprising isolated sources are few, small, and restr<br><br> <b><p align=\"center\"> If the video does not load properly please use the [direct link to video](https://drive.google.com/uc?export=view&id=1Yqe3wjveVzIkww9Oo4ljGlszdTPvRqkD)</b>",
       "authors": [
         ""
       ],
@@ -2487,9 +2487,9 @@
       "day": "4",
       "keywords": [
         "MIR tasks -> sound source separation",
+        " Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music",
         "Knowledge-driven approaches to MIR -> computational ethnomusicology",
-        " Musical features and properties -> timbre, instrumentation, and singing voice",
-        " Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music"
+        " Musical features and properties -> timbre, instrumentation, and singing voice"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -2512,7 +2512,7 @@
   {
     "content": {
       "TLDR": "When a user listens to a song for the first time, what musical factors (e.g., melody, tempo, and lyrics) influence the user's decision to like or dislike the song? An answer to this question would enable researchers to more deeply understand how people in",
-      "abstract": "When a user listens to a song for the first time, what musical factors (e.g., melody, tempo, and lyrics) influence the user's decision to like or dislike the song? An answer to this question would enable researchers to more deeply understand how people in<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1k3TdguuXpFUM-8BYGn6q_stKRRaIbvua)</b>",
+      "abstract": "When a user listens to a song for the first time, what musical factors (e.g., melody, tempo, and lyrics) influence the user's decision to like or dislike the song? An answer to this question would enable researchers to more deeply understand how people in<br><br> <b><p align=\"center\"> If the video does not load properly please use the [direct link to video](https://drive.google.com/uc?export=view&id=1k3TdguuXpFUM-8BYGn6q_stKRRaIbvua)</b>",
       "authors": [
         ""
       ],
@@ -2548,7 +2548,7 @@
   {
     "content": {
       "TLDR": "The historical development of medieval plainchant melodies is an intriguing musicological topic that invites computational approaches to study it at scale. Plainchant melodies can be represented as strings from a limited alphabet, hence making it technica",
-      "abstract": "The historical development of medieval plainchant melodies is an intriguing musicological topic that invites computational approaches to study it at scale. Plainchant melodies can be represented as strings from a limited alphabet, hence making it technica<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1A3OyouqQ6G7G0bXYC5zUaX0-67Kc6WNn)</b>",
+      "abstract": "The historical development of medieval plainchant melodies is an intriguing musicological topic that invites computational approaches to study it at scale. Plainchant melodies can be represented as strings from a limited alphabet, hence making it technica<br><br> <b><p align=\"center\"> If the video does not load properly please use the [direct link to video](https://drive.google.com/uc?export=view&id=1A3OyouqQ6G7G0bXYC5zUaX0-67Kc6WNn)</b>",
       "authors": [
         ""
       ],
@@ -2561,10 +2561,10 @@
       "channel_url": "",
       "day": "4",
       "keywords": [
+        "Computational musicology -> digital musicology",
         " Knowledge-driven approaches to MIR -> computational music theory and musicology",
-        "Applications -> digital libraries and archives",
         " Knowledge-driven approaches to MIR -> computational ethnomusicology",
-        "Computational musicology -> digital musicology"
+        "Applications -> digital libraries and archives"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -2587,7 +2587,7 @@
   {
     "content": {
       "TLDR": "Music classification has been one of the most popular tasks in the field of music information retrieval. With the development of deep learning models, the last decade has seen impressive improvements in a wide range of classification tasks. However, the i",
-      "abstract": "Music classification has been one of the most popular tasks in the field of music information retrieval. With the development of deep learning models, the last decade has seen impressive improvements in a wide range of classification tasks. However, the i<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1hh6L-FIc_3Ptt_MrZHeFD8-uQw88a4tm)</b>",
+      "abstract": "Music classification has been one of the most popular tasks in the field of music information retrieval. With the development of deep learning models, the last decade has seen impressive improvements in a wide range of classification tasks. However, the i<br><br> <b><p align=\"center\"> If the video does not load properly please use the [direct link to video](https://drive.google.com/uc?export=view&id=1hh6L-FIc_3Ptt_MrZHeFD8-uQw88a4tm)</b>",
       "authors": [
         ""
       ],
@@ -2599,10 +2599,10 @@
       "day": "4",
       "keywords": [
         " Knowledge-driven approaches to MIR -> representations of music",
-        " MIR tasks -> automatic classification",
-        "Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music",
         "Knowledge-driven approaches to MIR",
-        " Musical features and properties -> representations of music"
+        "Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music",
+        " Musical features and properties -> representations of music",
+        " MIR tasks -> automatic classification"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -2625,7 +2625,7 @@
   {
     "content": {
       "TLDR": "We present ScorePerformer, an encoder-decoder transformer with hierarchical style encoding heads for controllable rendering of expressive piano music performances. We design a tokenized representation of symbolic score and performance music, the Score Per",
-      "abstract": "We present ScorePerformer, an encoder-decoder transformer with hierarchical style encoding heads for controllable rendering of expressive piano music performances. We design a tokenized representation of symbolic score and performance music, the Score Per<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1vbIybJB4N66A0xQ7yAWzKkquZYAmJtTm)</b>",
+      "abstract": "We present ScorePerformer, an encoder-decoder transformer with hierarchical style encoding heads for controllable rendering of expressive piano music performances. We design a tokenized representation of symbolic score and performance music, the Score Per<br><br> <b><p align=\"center\"> If the video does not load properly please use the [direct link to video](https://drive.google.com/uc?export=view&id=1vbIybJB4N66A0xQ7yAWzKkquZYAmJtTm)</b>",
       "authors": [
         ""
       ],
@@ -2636,11 +2636,11 @@
       "channel_url": "",
       "day": "4",
       "keywords": [
-        " MIR fundamentals and methodology -> symbolic music processing",
         "Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music",
+        " Musical features and properties -> representations of music",
         " MIR tasks -> alignment, synchronization, and score following",
-        "Musical features and properties -> expression and performative aspects of music",
-        " Musical features and properties -> representations of music"
+        " MIR fundamentals and methodology -> symbolic music processing",
+        "Musical features and properties -> expression and performative aspects of music"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -2663,7 +2663,7 @@
   {
     "content": {
       "TLDR": "Roman Numeral analysis is the important task of identifying chords and their functional context in pieces of tonal music. \nThis paper presents a new approach to automatic Roman Numeral analysis in symbolic music. While existing techniques rely on an inter",
-      "abstract": "Roman Numeral analysis is the important task of identifying chords and their functional context in pieces of tonal music. \nThis paper presents a new approach to automatic Roman Numeral analysis in symbolic music. While existing techniques rely on an inter<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=11FgFY287Aemntt0pXL5tCnLJ-WtRRXVA)</b>",
+      "abstract": "Roman Numeral analysis is the important task of identifying chords and their functional context in pieces of tonal music. \nThis paper presents a new approach to automatic Roman Numeral analysis in symbolic music. While existing techniques rely on an inter<br><br> <b><p align=\"center\"> If the video does not load properly please use the [direct link to video](https://drive.google.com/uc?export=view&id=11FgFY287Aemntt0pXL5tCnLJ-WtRRXVA)</b>",
       "authors": [
         ""
       ],
@@ -2699,7 +2699,7 @@
   {
     "content": {
       "TLDR": "We present a system to assist Subject Matter Experts (SMEs) to curate large online music catalogs. The system detects releases that are incorrectly attributed to an artist discography (misattribution), when the discography of a single artist is incorrectl",
-      "abstract": "We present a system to assist Subject Matter Experts (SMEs) to curate large online music catalogs. The system detects releases that are incorrectly attributed to an artist discography (misattribution), when the discography of a single artist is incorrectl<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=16_7tMqQrmgDBP_AGtaBTo9DEsTD1XgV0)</b>",
+      "abstract": "We present a system to assist Subject Matter Experts (SMEs) to curate large online music catalogs. The system detects releases that are incorrectly attributed to an artist discography (misattribution), when the discography of a single artist is incorrectl<br><br> <b><p align=\"center\"> If the video does not load properly please use the [direct link to video](https://drive.google.com/uc?export=view&id=16_7tMqQrmgDBP_AGtaBTo9DEsTD1XgV0)</b>",
       "authors": [
         ""
       ],
@@ -2711,11 +2711,11 @@
       "channel_url": "",
       "day": "4",
       "keywords": [
-        " MIR fundamentals and methodology -> multimodality",
-        "Applications -> digital libraries and archives",
         " MIR fundamentals and methodology -> metadata, tags, linked data, and semantic web",
         " Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music",
-        "Human-centered MIR -> user-centered evaluation"
+        "Human-centered MIR -> user-centered evaluation",
+        " MIR fundamentals and methodology -> multimodality",
+        "Applications -> digital libraries and archives"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -2738,7 +2738,7 @@
   {
     "content": {
       "TLDR": "Musical instrument recognition enables applications such as instrument-based music search and audio manipulation, which are highly sought-after processes in everyday music consumption and production. Despite continuous progresses, advances in automatic mu",
-      "abstract": "Musical instrument recognition enables applications such as instrument-based music search and audio manipulation, which are highly sought-after processes in everyday music consumption and production. Despite continuous progresses, advances in automatic mu<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=19KmwqtzdT_U7Hmx7Is-_WjRsm7qDP7Qv)</b>",
+      "abstract": "Musical instrument recognition enables applications such as instrument-based music search and audio manipulation, which are highly sought-after processes in everyday music consumption and production. Despite continuous progresses, advances in automatic mu<br><br> <b><p align=\"center\"> If the video does not load properly please use the [direct link to video](https://drive.google.com/uc?export=view&id=19KmwqtzdT_U7Hmx7Is-_WjRsm7qDP7Qv)</b>",
       "authors": [
         ""
       ],
@@ -2750,12 +2750,12 @@
       "channel_url": "",
       "day": "4",
       "keywords": [
-        " Musical features and properties -> timbre, instrumentation, and singing voice",
-        "Human-centered MIR",
-        " MIR tasks -> music transcription and annotation",
+        " MIR tasks -> sound source separation",
         "Human-centered MIR -> human-computer interaction",
+        " MIR tasks -> music transcription and annotation",
+        "Human-centered MIR",
         " Human-centered MIR -> music interfaces and services",
-        " MIR tasks -> sound source separation"
+        " Musical features and properties -> timbre, instrumentation, and singing voice"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -2778,7 +2778,7 @@
   {
     "content": {
       "TLDR": "In this paper, we introduce the MoisesDB dataset for musical source separation. It consists of 240 tracks from 45 artists, covering twelve musical genres. \nFor each song, we provide its individual audio sources, organized in a two-level hierarchical taxon",
-      "abstract": "In this paper, we introduce the MoisesDB dataset for musical source separation. It consists of 240 tracks from 45 artists, covering twelve musical genres. \nFor each song, we provide its individual audio sources, organized in a two-level hierarchical taxon<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1tpXSRd_xGFPNBldII75K1wZsAsoQ068d)</b>",
+      "abstract": "In this paper, we introduce the MoisesDB dataset for musical source separation. It consists of 240 tracks from 45 artists, covering twelve musical genres. \nFor each song, we provide its individual audio sources, organized in a two-level hierarchical taxon<br><br> <b><p align=\"center\"> If the video does not load properly please use the [direct link to video](https://drive.google.com/uc?export=view&id=1tpXSRd_xGFPNBldII75K1wZsAsoQ068d)</b>",
       "authors": [
         ""
       ],
@@ -2792,8 +2792,8 @@
       "day": "4",
       "keywords": [
         "Evaluation, datasets, and reproducibility -> novel datasets and use cases",
-        "Evaluation, datasets, and reproducibility",
-        " MIR tasks -> sound source separation"
+        " MIR tasks -> sound source separation",
+        "Evaluation, datasets, and reproducibility"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -2816,7 +2816,7 @@
   {
     "content": {
       "TLDR": "Modeling the temporal unfolding of musical events and its interpretation in terms of hierarchical relations is a common theme in music theory, cognition, and composition. To faithfully encode such relations, we need an elegant way to represent both the se",
-      "abstract": "Modeling the temporal unfolding of musical events and its interpretation in terms of hierarchical relations is a common theme in music theory, cognition, and composition. To faithfully encode such relations, we need an elegant way to represent both the se<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=19qDR-nUFtQUAxJE0km1U2Kzvm-HQvO7o)</b>",
+      "abstract": "Modeling the temporal unfolding of musical events and its interpretation in terms of hierarchical relations is a common theme in music theory, cognition, and composition. To faithfully encode such relations, we need an elegant way to represent both the se<br><br> <b><p align=\"center\"> If the video does not load properly please use the [direct link to video](https://drive.google.com/uc?export=view&id=19qDR-nUFtQUAxJE0km1U2Kzvm-HQvO7o)</b>",
       "authors": [
         ""
       ],
@@ -2828,11 +2828,11 @@
       "channel_url": "",
       "day": "4",
       "keywords": [
-        "Computational musicology",
-        " Musical features and properties -> harmony, chords and tonality",
+        " Musical features and properties -> structure, segmentation, and form",
         " Knowledge-driven approaches to MIR -> computational music theory and musicology",
-        "Knowledge-driven approaches to MIR -> representations of music",
-        " Musical features and properties -> structure, segmentation, and form"
+        " Musical features and properties -> harmony, chords and tonality",
+        "Computational musicology",
+        "Knowledge-driven approaches to MIR -> representations of music"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -2855,7 +2855,7 @@
   {
     "content": {
       "TLDR": "Symbolic Music Alignment is the process of matching\nperformed MIDI notes to corresponding score notes. In\nthis paper, we introduce a reinforcement learning (RL)-\nbased online symbolic music alignment technique. The\nRL agent \u2014 an attention-based neural net",
-      "abstract": "Symbolic Music Alignment is the process of matching\nperformed MIDI notes to corresponding score notes. In\nthis paper, we introduce a reinforcement learning (RL)-\nbased online symbolic music alignment technique. The\nRL agent \u2014 an attention-based neural net<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1ZV51EZdGgtBusGXIBV4fGjiTy9lexm-I)</b>",
+      "abstract": "Symbolic Music Alignment is the process of matching\nperformed MIDI notes to corresponding score notes. In\nthis paper, we introduce a reinforcement learning (RL)-\nbased online symbolic music alignment technique. The\nRL agent \u2014 an attention-based neural net<br><br> <b><p align=\"center\"> If the video does not load properly please use the [direct link to video](https://drive.google.com/uc?export=view&id=1ZV51EZdGgtBusGXIBV4fGjiTy9lexm-I)</b>",
       "authors": [
         ""
       ],
@@ -2889,7 +2889,7 @@
   {
     "content": {
       "TLDR": "Synthesizers are widely used electronic musical instruments. Given an input sound, inferring the underlying synthesizer's parameters to reproduce it is a difficult task known as sound-matching. In this work, we tackle the problem of automatic sound matchi",
-      "abstract": "Synthesizers are widely used electronic musical instruments. Given an input sound, inferring the underlying synthesizer's parameters to reproduce it is a difficult task known as sound-matching. In this work, we tackle the problem of automatic sound matchi<br><br> <b><p align=\"center\">[Direct link to video]()</b>",
+      "abstract": "Synthesizers are widely used electronic musical instruments. Given an input sound, inferring the underlying synthesizer's parameters to reproduce it is a difficult task known as sound-matching. In this work, we tackle the problem of automatic sound matchi<br><br> <b><p align=\"center\"> If the video does not load properly please use the [direct link to video]()</b>",
       "authors": [
         ""
       ],
@@ -2904,8 +2904,8 @@
       "channel_url": "",
       "day": "4",
       "keywords": [
-        "MIR tasks -> music generation",
-        "MIR tasks -> music synthesis and transformation"
+        "MIR tasks -> music synthesis and transformation",
+        "MIR tasks -> music generation"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -2928,7 +2928,7 @@
   {
     "content": {
       "TLDR": "Query-by-Humming (QbH) is a task that involves finding the most relevant song based on a hummed or sung fragment. Despite recent successful commercial solutions, implementing QbH systems remains challenging due to the lack of high-quality datasets for tra",
-      "abstract": "Query-by-Humming (QbH) is a task that involves finding the most relevant song based on a hummed or sung fragment. Despite recent successful commercial solutions, implementing QbH systems remains challenging due to the lack of high-quality datasets for tra<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=10IuEp3DDBqV0F0WM4u3nodR54J9fjajt)</b>",
+      "abstract": "Query-by-Humming (QbH) is a task that involves finding the most relevant song based on a hummed or sung fragment. Despite recent successful commercial solutions, implementing QbH systems remains challenging due to the lack of high-quality datasets for tra<br><br> <b><p align=\"center\"> If the video does not load properly please use the [direct link to video](https://drive.google.com/uc?export=view&id=10IuEp3DDBqV0F0WM4u3nodR54J9fjajt)</b>",
       "authors": [
         ""
       ],
@@ -2943,10 +2943,10 @@
       "channel_url": "",
       "day": "4",
       "keywords": [
-        "Applications -> music retrieval systems",
-        " MIR tasks -> fingerprinting",
         "Evaluation, datasets, and reproducibility -> novel datasets and use cases",
-        " MIR tasks -> indexing and querying"
+        " MIR tasks -> fingerprinting",
+        " MIR tasks -> indexing and querying",
+        "Applications -> music retrieval systems"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -2969,7 +2969,7 @@
   {
     "content": {
       "TLDR": "In deep learning research, many melody extraction models rely on redesigning neural network architectures to improve performance. In this paper, we propose an input feature modification and a training objective modification based on two assumptions. First",
-      "abstract": "In deep learning research, many melody extraction models rely on redesigning neural network architectures to improve performance. In this paper, we propose an input feature modification and a training objective modification based on two assumptions. First<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1rPO9dd5FjAqQ76wSk7iYdjBQC7srhTMm)</b>",
+      "abstract": "In deep learning research, many melody extraction models rely on redesigning neural network architectures to improve performance. In this paper, we propose an input feature modification and a training objective modification based on two assumptions. First<br><br> <b><p align=\"center\"> If the video does not load properly please use the [direct link to video](https://drive.google.com/uc?export=view&id=1rPO9dd5FjAqQ76wSk7iYdjBQC7srhTMm)</b>",
       "authors": [
         ""
       ],
@@ -2982,9 +2982,9 @@
       "channel_url": "",
       "day": "4",
       "keywords": [
-        " MIR tasks -> automatic classification",
+        "MIR fundamentals and methodology -> music signal processing",
         "Musical features and properties -> melody and motives",
-        "MIR fundamentals and methodology -> music signal processing"
+        " MIR tasks -> automatic classification"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -3007,7 +3007,7 @@
   {
     "content": {
       "TLDR": "This paper introduces GlOttal-flow LPC Filter (GOLF), a novel method for singing voice synthesis (SVS) that exploits the physical characteristics of the human voice using differentiable digital signal processing. GOLF employs a glottal model as the harmon",
-      "abstract": "This paper introduces GlOttal-flow LPC Filter (GOLF), a novel method for singing voice synthesis (SVS) that exploits the physical characteristics of the human voice using differentiable digital signal processing. GOLF employs a glottal model as the harmon<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1i46u1z9bGukUxzCAxTxrIgyix-uKQ0X4)</b>",
+      "abstract": "This paper introduces GlOttal-flow LPC Filter (GOLF), a novel method for singing voice synthesis (SVS) that exploits the physical characteristics of the human voice using differentiable digital signal processing. GOLF employs a glottal model as the harmon<br><br> <b><p align=\"center\"> If the video does not load properly please use the [direct link to video](https://drive.google.com/uc?export=view&id=1i46u1z9bGukUxzCAxTxrIgyix-uKQ0X4)</b>",
       "authors": [
         ""
       ],
@@ -3018,10 +3018,10 @@
       "channel_url": "",
       "day": "4",
       "keywords": [
+        "MIR tasks -> music synthesis and transformation",
         " MIR fundamentals and methodology -> music signal processing",
         "Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music",
-        " Musical features and properties -> timbre, instrumentation, and singing voice",
-        "MIR tasks -> music synthesis and transformation"
+        " Musical features and properties -> timbre, instrumentation, and singing voice"
       ],
       "long_presentation": "True",
       "paper_presentation": "In Person",
@@ -3044,7 +3044,7 @@
   {
     "content": {
       "TLDR": "Automatic harmonic analysis of symbolic music is an important\nand useful task for both composers and listeners.\nThe task consists of two components: recognizing harmony\nlabels and finding their time boundaries. Most of the\nprevious attempts focused on the",
-      "abstract": "Automatic harmonic analysis of symbolic music is an important\nand useful task for both composers and listeners.\nThe task consists of two components: recognizing harmony\nlabels and finding their time boundaries. Most of the\nprevious attempts focused on the<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1nmlSKLZSPGNvc7LmNLfNGa5RkDpdZI1G)</b>",
+      "abstract": "Automatic harmonic analysis of symbolic music is an important\nand useful task for both composers and listeners.\nThe task consists of two components: recognizing harmony\nlabels and finding their time boundaries. Most of the\nprevious attempts focused on the<br><br> <b><p align=\"center\"> If the video does not load properly please use the [direct link to video](https://drive.google.com/uc?export=view&id=1nmlSKLZSPGNvc7LmNLfNGa5RkDpdZI1G)</b>",
       "authors": [
         ""
       ],
@@ -3056,14 +3056,14 @@
       "channel_url": "",
       "day": "4",
       "keywords": [
+        "Musical features and properties",
         " Musical features and properties -> harmony, chords and tonality",
-        "Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music",
-        "Musical features and properties"
+        "Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
       "pdf_path": "https://archives.ismir.net/ismir2023/paper/000080.pdf",
-      "poster_pdf": "https://drive.google.com/file/d/1liWu_WqHV8vPR3aXWKvKpWeXsHIpWcG7/view",
+      "poster_pdf": "https://drive.google.com/file/d/1o-KmlLu-lsRgMxrSIRF-Hf-zaY8299hY/view?usp=sharing",
       "session": [
         "6"
       ],
@@ -3081,7 +3081,7 @@
   {
     "content": {
       "TLDR": "Music Performance Analysis is based on the evaluation of performance parameters such as pitch, dynamics, timbre, tempo and timing. While timbre is the least specific parameter among these and is often only implicitly understood, prominent brass pedagogues",
-      "abstract": "Music Performance Analysis is based on the evaluation of performance parameters such as pitch, dynamics, timbre, tempo and timing. While timbre is the least specific parameter among these and is often only implicitly understood, prominent brass pedagogues<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1wd_U2mEHtz_d_6P8HsDPcxC-voNPH4TJ)</b>",
+      "abstract": "Music Performance Analysis is based on the evaluation of performance parameters such as pitch, dynamics, timbre, tempo and timing. While timbre is the least specific parameter among these and is often only implicitly understood, prominent brass pedagogues<br><br> <b><p align=\"center\"> If the video does not load properly please use the [direct link to video](https://drive.google.com/uc?export=view&id=1wd_U2mEHtz_d_6P8HsDPcxC-voNPH4TJ)</b>",
       "authors": [
         ""
       ],
@@ -3094,12 +3094,12 @@
       "channel_url": "",
       "day": "4",
       "keywords": [
-        "Musical features and properties -> timbre, instrumentation, and singing voice",
-        " MIR tasks -> automatic classification",
         " MIR and machine learning for musical acoustics -> applications of machine learning to musical acoustics",
         " Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music",
-        "Evaluation, datasets, and reproducibility -> novel datasets and use cases",
-        " MIR fundamentals and methodology -> music signal processing"
+        "Musical features and properties -> timbre, instrumentation, and singing voice",
+        " MIR fundamentals and methodology -> music signal processing",
+        " MIR tasks -> automatic classification",
+        "Evaluation, datasets, and reproducibility -> novel datasets and use cases"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -3122,7 +3122,7 @@
   {
     "content": {
       "TLDR": "We propose different methods for alternative representation and visual augmentation of sheet music that help users gain an overview of general structure, repeating patterns, and the similarity of segments. To this end, we explored mapping the overall simi",
-      "abstract": "We propose different methods for alternative representation and visual augmentation of sheet music that help users gain an overview of general structure, repeating patterns, and the similarity of segments. To this end, we explored mapping the overall simi<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1QqrLFOACnxQebUM1qdQT2AmCTegxTCmz)</b>",
+      "abstract": "We propose different methods for alternative representation and visual augmentation of sheet music that help users gain an overview of general structure, repeating patterns, and the similarity of segments. To this end, we explored mapping the overall simi<br><br> <b><p align=\"center\"> If the video does not load properly please use the [direct link to video](https://drive.google.com/uc?export=view&id=1QqrLFOACnxQebUM1qdQT2AmCTegxTCmz)</b>",
       "authors": [
         ""
       ],
@@ -3159,7 +3159,7 @@
   {
     "content": {
       "TLDR": "Many applications of cross-modal music retrieval are related to connecting sheet music images to audio recordings. A typical and recent approach to this is to learn, via deep neural networks, a joint embedding space that correlates short fixed-size snippe",
-      "abstract": "Many applications of cross-modal music retrieval are related to connecting sheet music images to audio recordings. A typical and recent approach to this is to learn, via deep neural networks, a joint embedding space that correlates short fixed-size snippe<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=15qRSYgL-w431GrhVbmHAjeBfhJE2FK2k)</b>",
+      "abstract": "Many applications of cross-modal music retrieval are related to connecting sheet music images to audio recordings. A typical and recent approach to this is to learn, via deep neural networks, a joint embedding space that correlates short fixed-size snippe<br><br> <b><p align=\"center\"> If the video does not load properly please use the [direct link to video](https://drive.google.com/uc?export=view&id=15qRSYgL-w431GrhVbmHAjeBfhJE2FK2k)</b>",
       "authors": [
         ""
       ],
@@ -3170,16 +3170,16 @@
       "channel_url": "",
       "day": "4",
       "keywords": [
-        " MIR fundamentals and methodology -> multimodality",
-        " MIR tasks -> indexing and querying",
         "Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music",
-        "Applications -> music retrieval systems",
-        " Musical features and properties -> representations of music"
+        " Musical features and properties -> representations of music",
+        " MIR tasks -> indexing and querying",
+        " MIR fundamentals and methodology -> multimodality",
+        "Applications -> music retrieval systems"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
       "pdf_path": "https://archives.ismir.net/ismir2023/paper/000083.pdf",
-      "poster_pdf": "https://drive.google.com/file/d/1QIE1bFNqCEFL-192lQhDfRS17Zd4wzym/view",
+      "poster_pdf": "https://drive.google.com/file/d/16aq0qsq19INHfi84Sin02FuzEjB-Xmtg/view",
       "session": [
         "6"
       ],
@@ -3197,7 +3197,7 @@
   {
     "content": {
       "TLDR": "Estimating the performance difficulty of a musical score is crucial in music education for adequately designing the learning curriculum of the students. Although the music information retrieval community has recently shown interest in this task, existing ",
-      "abstract": "Estimating the performance difficulty of a musical score is crucial in music education for adequately designing the learning curriculum of the students. Although the music information retrieval community has recently shown interest in this task, existing <br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1QBmb6yaCFABAGc5IwYkOjqB7PKkCWBLY)</b>",
+      "abstract": "Estimating the performance difficulty of a musical score is crucial in music education for adequately designing the learning curriculum of the students. Although the music information retrieval community has recently shown interest in this task, existing <br><br> <b><p align=\"center\"> If the video does not load properly please use the [direct link to video](https://drive.google.com/uc?export=view&id=1QBmb6yaCFABAGc5IwYkOjqB7PKkCWBLY)</b>",
       "authors": [
         ""
       ],
@@ -3210,9 +3210,9 @@
       "channel_url": "",
       "day": "4",
       "keywords": [
+        "Applications",
         " Applications -> music training and education",
-        "Applications -> digital libraries and archives",
-        "Applications"
+        "Applications -> digital libraries and archives"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -3235,7 +3235,7 @@
   {
     "content": {
       "TLDR": "Music source separation (MSS) faces challenges due to limited availability and potential noise in correctly labeled individual instrument tracks. In this paper, we propose an automated approach for refining mislabeled instrument tracks in a partially nois",
-      "abstract": "Music source separation (MSS) faces challenges due to limited availability and potential noise in correctly labeled individual instrument tracks. In this paper, we propose an automated approach for refining mislabeled instrument tracks in a partially nois<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1y4ZGkF2Jlhi-sn4Ci2OnoFTHEm_lshRA)</b>",
+      "abstract": "Music source separation (MSS) faces challenges due to limited availability and potential noise in correctly labeled individual instrument tracks. In this paper, we propose an automated approach for refining mislabeled instrument tracks in a partially nois<br><br> <b><p align=\"center\"> If the video does not load properly please use the [direct link to video](https://drive.google.com/uc?export=view&id=1y4ZGkF2Jlhi-sn4Ci2OnoFTHEm_lshRA)</b>",
       "authors": [
         ""
       ],
@@ -3248,9 +3248,9 @@
       "channel_url": "",
       "day": "4",
       "keywords": [
-        "MIR tasks -> automatic classification",
+        " MIR tasks -> sound source separation",
         "Evaluation, datasets, and reproducibility -> annotation protocols",
-        " MIR tasks -> sound source separation"
+        "MIR tasks -> automatic classification"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -3273,7 +3273,7 @@
   {
     "content": {
       "TLDR": "Quantifying the difficulty of playing songs has recently gained traction in the MIR community. While previous work has mostly focused on piano, this paper concentrates on rhythm guitar, which is especially popular with amateur musicians and has a broad sk",
-      "abstract": "Quantifying the difficulty of playing songs has recently gained traction in the MIR community. While previous work has mostly focused on piano, this paper concentrates on rhythm guitar, which is especially popular with amateur musicians and has a broad sk<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=18wnkJGsvsQoydKJCUe1OFNoaK_fS0W35)</b>",
+      "abstract": "Quantifying the difficulty of playing songs has recently gained traction in the MIR community. While previous work has mostly focused on piano, this paper concentrates on rhythm guitar, which is especially popular with amateur musicians and has a broad sk<br><br> <b><p align=\"center\"> If the video does not load properly please use the [direct link to video](https://drive.google.com/uc?export=view&id=18wnkJGsvsQoydKJCUe1OFNoaK_fS0W35)</b>",
       "authors": [
         ""
       ],
@@ -3287,17 +3287,17 @@
       "channel_url": "",
       "day": "4",
       "keywords": [
-        " Musical features and properties -> harmony, chords and tonality",
+        " Evaluation, datasets, and reproducibility -> annotation protocols",
         "Applications -> music training and education",
+        " Human-centered MIR -> user-centered evaluation",
         " Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music",
         "Evaluation, datasets, and reproducibility -> novel datasets and use cases",
-        " Evaluation, datasets, and reproducibility -> annotation protocols",
-        " Human-centered MIR -> user-centered evaluation"
+        " Musical features and properties -> harmony, chords and tonality"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
       "pdf_path": "https://archives.ismir.net/ismir2023/paper/000086.pdf",
-      "poster_pdf": "https://drive.google.com/file/d/1j6TJUBrSyiQT7LYqGqFbvxxcEKLHF9Ua/view",
+      "poster_pdf": "https://drive.google.com/file/d/1sesOh351ItbTXHGgEfFTCQY5U7P4oNg7/view?usp=sharing ",
       "session": [
         "6"
       ],
@@ -3315,7 +3315,7 @@
   {
     "content": {
       "TLDR": "Alignment algorithms like DTW and subsequence DTW assume specific boundary conditions on where an alignment path can begin and end in the cost matrix.  In practice, the boundary conditions may not be known a priori or may not satisfy such strict assumptio",
-      "abstract": "Alignment algorithms like DTW and subsequence DTW assume specific boundary conditions on where an alignment path can begin and end in the cost matrix.  In practice, the boundary conditions may not be known a priori or may not satisfy such strict assumptio<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1X4iAg6IrkXmFmOODNbJSbq71M-aMlR7H)</b>",
+      "abstract": "Alignment algorithms like DTW and subsequence DTW assume specific boundary conditions on where an alignment path can begin and end in the cost matrix.  In practice, the boundary conditions may not be known a priori or may not satisfy such strict assumptio<br><br> <b><p align=\"center\"> If the video does not load properly please use the [direct link to video](https://drive.google.com/uc?export=view&id=1X4iAg6IrkXmFmOODNbJSbq71M-aMlR7H)</b>",
       "authors": [
         ""
       ],
@@ -3327,8 +3327,8 @@
       "channel_url": "",
       "day": "4",
       "keywords": [
-        "MIR tasks -> alignment, synchronization, and score following",
-        "MIR fundamentals and methodology -> music signal processing"
+        "MIR fundamentals and methodology -> music signal processing",
+        "MIR tasks -> alignment, synchronization, and score following"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -3351,7 +3351,7 @@
   {
     "content": {
       "TLDR": "Tablature notation is widely used in popular music to transcribe and share guitar musical content. As a complement to standard score notation, tablatures transcribe performance gesture information including finger positions and a variety of guitar-specifi",
-      "abstract": "Tablature notation is widely used in popular music to transcribe and share guitar musical content. As a complement to standard score notation, tablatures transcribe performance gesture information including finger positions and a variety of guitar-specifi<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1XXZNSayceHF8YHyjGkUCzeF3CHWeNJIs)</b>",
+      "abstract": "Tablature notation is widely used in popular music to transcribe and share guitar musical content. As a complement to standard score notation, tablatures transcribe performance gesture information including finger positions and a variety of guitar-specifi<br><br> <b><p align=\"center\"> If the video does not load properly please use the [direct link to video](https://drive.google.com/uc?export=view&id=1XXZNSayceHF8YHyjGkUCzeF3CHWeNJIs)</b>",
       "authors": [
         ""
       ],
@@ -3364,9 +3364,9 @@
       "day": "4",
       "keywords": [
         " Musical features and properties -> expression and performative aspects of music",
-        " MIR fundamentals and methodology -> symbolic music processing",
         "Applications -> music composition, performance, and production",
-        "Knowledge-driven approaches to MIR"
+        "Knowledge-driven approaches to MIR",
+        " MIR fundamentals and methodology -> symbolic music processing"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -3389,7 +3389,7 @@
   {
     "content": {
       "TLDR": "Music Structure Analysis (MSA) is the task aiming at identifying musical segments that compose a music track and possibly label them based on their similarity. \nIn this paper we propose a supervised approach for the task of music boundary detection. In ou",
-      "abstract": "Music Structure Analysis (MSA) is the task aiming at identifying musical segments that compose a music track and possibly label them based on their similarity. \nIn this paper we propose a supervised approach for the task of music boundary detection. In ou<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1xqLMnWUj3hT_sjnqvwheaofzbZXjVOzJ)</b>",
+      "abstract": "Music Structure Analysis (MSA) is the task aiming at identifying musical segments that compose a music track and possibly label them based on their similarity. \nIn this paper we propose a supervised approach for the task of music boundary detection. In ou<br><br> <b><p align=\"center\"> If the video does not load properly please use the [direct link to video](https://drive.google.com/uc?export=view&id=1xqLMnWUj3hT_sjnqvwheaofzbZXjVOzJ)</b>",
       "authors": [
         ""
       ],
@@ -3399,8 +3399,8 @@
       "channel_url": "",
       "day": "4",
       "keywords": [
-        "Musical features and properties -> structure, segmentation, and form",
-        "MIR fundamentals and methodology -> music signal processing"
+        "MIR fundamentals and methodology -> music signal processing",
+        "Musical features and properties -> structure, segmentation, and form"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -3423,7 +3423,7 @@
   {
     "content": {
       "TLDR": "In jazz, measuring harmonic similarity is complicated by the common practice of reharmonization -- the altering or substitution of chords without fundamentally changing the piece's harmonic identity. This is analogous to natural language processing tasks ",
-      "abstract": "In jazz, measuring harmonic similarity is complicated by the common practice of reharmonization -- the altering or substitution of chords without fundamentally changing the piece's harmonic identity. This is analogous to natural language processing tasks <br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1lNhHbatsqrN-i2u-FddjD2ziHofHHhCg)</b>",
+      "abstract": "In jazz, measuring harmonic similarity is complicated by the common practice of reharmonization -- the altering or substitution of chords without fundamentally changing the piece's harmonic identity. This is analogous to natural language processing tasks <br><br> <b><p align=\"center\"> If the video does not load properly please use the [direct link to video](https://drive.google.com/uc?export=view&id=1lNhHbatsqrN-i2u-FddjD2ziHofHHhCg)</b>",
       "authors": [
         ""
       ],
@@ -3436,10 +3436,10 @@
       "channel_url": "",
       "day": "4",
       "keywords": [
-        " MIR tasks -> similarity metrics",
+        "Musical features and properties -> representations of music",
         "MIR fundamentals and methodology -> symbolic music processing",
-        " Musical features and properties -> harmony, chords and tonality",
-        "Musical features and properties -> representations of music"
+        " MIR tasks -> similarity metrics",
+        " Musical features and properties -> harmony, chords and tonality"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -3462,7 +3462,7 @@
   {
     "content": {
       "TLDR": "There has been a persistent lack of publicly accessible data in singing voice research, particularly concerning the diversity of languages and performance styles. In this paper, we introduce SingStyle111, a large studio-quality singing dataset with multip",
-      "abstract": "There has been a persistent lack of publicly accessible data in singing voice research, particularly concerning the diversity of languages and performance styles. In this paper, we introduce SingStyle111, a large studio-quality singing dataset with multip<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1zUOje_v-rxU2buZJAE78g0UeOoZu8aex)</b>",
+      "abstract": "There has been a persistent lack of publicly accessible data in singing voice research, particularly concerning the diversity of languages and performance styles. In this paper, we introduce SingStyle111, a large studio-quality singing dataset with multip<br><br> <b><p align=\"center\"> If the video does not load properly please use the [direct link to video](https://drive.google.com/uc?export=view&id=1zUOje_v-rxU2buZJAE78g0UeOoZu8aex)</b>",
       "authors": [
         ""
       ],
@@ -3500,7 +3500,7 @@
   {
     "content": {
       "TLDR": "Lyric translation plays a pivotal role in amplifying the global resonance of music, bridging cultural divides, and fostering universal connections. Translating lyrics, unlike conventional translation tasks, requires a delicate balance between singability ",
-      "abstract": "Lyric translation plays a pivotal role in amplifying the global resonance of music, bridging cultural divides, and fostering universal connections. Translating lyrics, unlike conventional translation tasks, requires a delicate balance between singability <br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1u2Zp6skZxD3j5rwmlFHi_D1JkQKcDifA)</b>",
+      "abstract": "Lyric translation plays a pivotal role in amplifying the global resonance of music, bridging cultural divides, and fostering universal connections. Translating lyrics, unlike conventional translation tasks, requires a delicate balance between singability <br><br> <b><p align=\"center\"> If the video does not load properly please use the [direct link to video](https://drive.google.com/uc?export=view&id=1u2Zp6skZxD3j5rwmlFHi_D1JkQKcDifA)</b>",
       "authors": [
         ""
       ],
@@ -3513,12 +3513,12 @@
       "channel_url": "",
       "day": "4",
       "keywords": [
-        "Computational musicology",
-        " Evaluation, datasets, and reproducibility -> evaluation metrics",
-        " Evaluation, datasets, and reproducibility",
-        " MIR fundamentals and methodology -> web mining, and natural language processing",
+        "MIR fundamentals and methodology -> lyrics and other textual data",
         " Evaluation, datasets, and reproducibility -> evaluation methodology",
-        "MIR fundamentals and methodology -> lyrics and other textual data"
+        " Evaluation, datasets, and reproducibility",
+        " Evaluation, datasets, and reproducibility -> evaluation metrics",
+        "Computational musicology",
+        " MIR fundamentals and methodology -> web mining, and natural language processing"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -3541,7 +3541,7 @@
   {
     "content": {
       "TLDR": "When people listen to playlists on a music streaming service, they typically listen to each song from start to end in order. However, what if it were possible to use a function to listen to only the choruses of each song in a playlist one after another? I",
-      "abstract": "When people listen to playlists on a music streaming service, they typically listen to each song from start to end in order. However, what if it were possible to use a function to listen to only the choruses of each song in a playlist one after another? I<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1Yg9P6EWBZlriwOMFyjsR268Y7X5waAGn)</b>",
+      "abstract": "When people listen to playlists on a music streaming service, they typically listen to each song from start to end in order. However, what if it were possible to use a function to listen to only the choruses of each song in a playlist one after another? I<br><br> <b><p align=\"center\"> If the video does not load properly please use the [direct link to video](https://drive.google.com/uc?export=view&id=1Yg9P6EWBZlriwOMFyjsR268Y7X5waAGn)</b>",
       "authors": [
         ""
       ],
@@ -3553,8 +3553,8 @@
       "channel_url": "",
       "day": "4",
       "keywords": [
-        "Human-centered MIR -> music interfaces and services",
-        "Human-centered MIR -> human-computer interaction"
+        "Human-centered MIR -> human-computer interaction",
+        "Human-centered MIR -> music interfaces and services"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -3577,7 +3577,7 @@
   {
     "content": {
       "TLDR": "Digital musicology research often proceeds by extending and enriching its evidence base as it progresses, rather than starting with a complete corpus of data and metadata, as a consequence of an emergent research need.\n\nIn this paper, we consider a resear",
-      "abstract": "Digital musicology research often proceeds by extending and enriching its evidence base as it progresses, rather than starting with a complete corpus of data and metadata, as a consequence of an emergent research need.\n\nIn this paper, we consider a resear<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1hhHR2gBnuA_U-ur1la-5g_Gdjigaj-IA)</b>",
+      "abstract": "Digital musicology research often proceeds by extending and enriching its evidence base as it progresses, rather than starting with a complete corpus of data and metadata, as a consequence of an emergent research need.\n\nIn this paper, we consider a resear<br><br> <b><p align=\"center\"> If the video does not load properly please use the [direct link to video](https://drive.google.com/uc?export=view&id=1hhHR2gBnuA_U-ur1la-5g_Gdjigaj-IA)</b>",
       "authors": [
         ""
       ],
@@ -3593,11 +3593,11 @@
       "channel_url": "",
       "day": "5",
       "keywords": [
-        "Applications -> digital libraries and archives",
         " MIR fundamentals and methodology -> metadata, tags, linked data, and semantic web",
-        "Computational musicology -> digital musicology",
         " Evaluation, datasets, and reproducibility -> annotation protocols",
-        " Human-centered MIR -> music interfaces and services"
+        " Human-centered MIR -> music interfaces and services",
+        "Applications -> digital libraries and archives",
+        "Computational musicology -> digital musicology"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -3620,7 +3620,7 @@
   {
     "content": {
       "TLDR": "This paper presents a comprehensive investigation of existing feature extraction tools for symbolic music and contrasts their performance to determine the set of features that best characterizes the musical style of a given music score. In this regard, we",
-      "abstract": "This paper presents a comprehensive investigation of existing feature extraction tools for symbolic music and contrasts their performance to determine the set of features that best characterizes the musical style of a given music score. In this regard, we<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1O6IL5DwvLC1w389b5agKpwZG-c8kTz8N)</b>",
+      "abstract": "This paper presents a comprehensive investigation of existing feature extraction tools for symbolic music and contrasts their performance to determine the set of features that best characterizes the musical style of a given music score. In this regard, we<br><br> <b><p align=\"center\"> If the video does not load properly please use the [direct link to video](https://drive.google.com/uc?export=view&id=1O6IL5DwvLC1w389b5agKpwZG-c8kTz8N)</b>",
       "authors": [
         ""
       ],
@@ -3634,12 +3634,12 @@
       "channel_url": "",
       "day": "5",
       "keywords": [
-        "Computational musicology",
-        " MIR fundamentals and methodology -> symbolic music processing",
         " Knowledge-driven approaches to MIR -> computational music theory and musicology",
         " Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music",
-        "Computational musicology -> systematic musicology",
-        " Musical features and properties"
+        " MIR fundamentals and methodology -> symbolic music processing",
+        " Musical features and properties",
+        "Computational musicology",
+        "Computational musicology -> systematic musicology"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -3662,7 +3662,7 @@
   {
     "content": {
       "TLDR": "Research in natural language processing has demonstrated that the quality of generations from trained autoregressive language models is significantly influenced by the used sampling strategy. In this study, we investigate the impact of different sampling ",
-      "abstract": "Research in natural language processing has demonstrated that the quality of generations from trained autoregressive language models is significantly influenced by the used sampling strategy. In this study, we investigate the impact of different sampling <br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1F_A6d1BGTWa4n-v1osN5z9gROll7r5Lj)</b>",
+      "abstract": "Research in natural language processing has demonstrated that the quality of generations from trained autoregressive language models is significantly influenced by the used sampling strategy. In this study, we investigate the impact of different sampling <br><br> <b><p align=\"center\"> If the video does not load properly please use the [direct link to video](https://drive.google.com/uc?export=view&id=1F_A6d1BGTWa4n-v1osN5z9gROll7r5Lj)</b>",
       "authors": [
         ""
       ],
@@ -3674,12 +3674,12 @@
       "channel_url": "",
       "day": "5",
       "keywords": [
+        "Applications -> music composition, performance, and production",
+        " Musical features and properties -> structure, segmentation, and form",
+        " MIR tasks -> music synthesis and transformation",
         " Musical features and properties -> melody and motives",
         " MIR fundamentals and methodology -> symbolic music processing",
-        " MIR tasks -> music synthesis and transformation",
-        "MIR tasks -> music generation",
-        "Applications -> music composition, performance, and production",
-        " Musical features and properties -> structure, segmentation, and form"
+        "MIR tasks -> music generation"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -3702,7 +3702,7 @@
   {
     "content": {
       "TLDR": "Every year, several dozen, primarily European, countries, send performers to compete on live television at the Eurovision Song Contest, with the goal of entertaining an international audience of more than 150 million viewers. Each participating country is",
-      "abstract": "Every year, several dozen, primarily European, countries, send performers to compete on live television at the Eurovision Song Contest, with the goal of entertaining an international audience of more than 150 million viewers. Each participating country is<br><br> <b><p align=\"center\">[Direct link to video]()</b>",
+      "abstract": "Every year, several dozen, primarily European, countries, send performers to compete on live television at the Eurovision Song Contest, with the goal of entertaining an international audience of more than 150 million viewers. Each participating country is<br><br> <b><p align=\"center\"> If the video does not load properly please use the [direct link to video]()</b>",
       "authors": [
         ""
       ],
@@ -3716,10 +3716,10 @@
       "keywords": [
         " Human-centered MIR -> user behavior analysis and mining, user modeling",
         " MIR fundamentals and methodology -> metadata, tags, linked data, and semantic web",
-        "Evaluation, datasets, and reproducibility -> novel datasets and use cases",
         "Evaluation, datasets, and reproducibility -> evaluation metrics",
-        " Musical features and properties -> expression and performative aspects of music",
-        " Knowledge-driven approaches to MIR -> computational ethnomusicology"
+        " Knowledge-driven approaches to MIR -> computational ethnomusicology",
+        "Evaluation, datasets, and reproducibility -> novel datasets and use cases",
+        " Musical features and properties -> expression and performative aspects of music"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -3742,7 +3742,7 @@
   {
     "content": {
       "TLDR": "In this work, we address music representation learning using convolution-free transformers. We build on top of existing spectrogram-based audio transformers such as AST and train our models on a supervised task using patchout training similar to PaSST. In",
-      "abstract": "In this work, we address music representation learning using convolution-free transformers. We build on top of existing spectrogram-based audio transformers such as AST and train our models on a supervised task using patchout training similar to PaSST. In<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1pYJ_xgEA1kqqYQ9WvqzVPHnRewmz-hzJ)</b>",
+      "abstract": "In this work, we address music representation learning using convolution-free transformers. We build on top of existing spectrogram-based audio transformers such as AST and train our models on a supervised task using patchout training similar to PaSST. In<br><br> <b><p align=\"center\"> If the video does not load properly please use the [direct link to video](https://drive.google.com/uc?export=view&id=1pYJ_xgEA1kqqYQ9WvqzVPHnRewmz-hzJ)</b>",
       "authors": [
         ""
       ],
@@ -3754,12 +3754,12 @@
       "channel_url": "",
       "day": "5",
       "keywords": [
-        " MIR tasks -> automatic classification",
-        "Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music",
-        " Musical features and properties -> musical affect, emotion and mood",
-        " Musical features and properties -> timbre, instrumentation, and singing voice",
         " Musical features and properties -> musical style and genre",
-        "Musical features and properties -> representations of music"
+        "Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music",
+        "Musical features and properties -> representations of music",
+        " MIR tasks -> automatic classification",
+        " Musical features and properties -> musical affect, emotion and mood",
+        " Musical features and properties -> timbre, instrumentation, and singing voice"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -3782,7 +3782,7 @@
   {
     "content": {
       "TLDR": "Deep learning systems have become popular for tackling a variety of music information retrieval tasks. However, these systems often require large amounts of labeled data for supervised training, which can be very costly to obtain. To alleviate this proble",
-      "abstract": "Deep learning systems have become popular for tackling a variety of music information retrieval tasks. However, these systems often require large amounts of labeled data for supervised training, which can be very costly to obtain. To alleviate this proble<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1m4gubvlJ3XO25aLLlSbhY3_O7c960PXe)</b>",
+      "abstract": "Deep learning systems have become popular for tackling a variety of music information retrieval tasks. However, these systems often require large amounts of labeled data for supervised training, which can be very costly to obtain. To alleviate this proble<br><br> <b><p align=\"center\"> If the video does not load properly please use the [direct link to video](https://drive.google.com/uc?export=view&id=1m4gubvlJ3XO25aLLlSbhY3_O7c960PXe)</b>",
       "authors": [
         ""
       ],
@@ -3820,7 +3820,7 @@
   {
     "content": {
       "TLDR": "This paper proposes a new music source separation (MSS) model based on an architecture with MLP-Mixer that leverages multilayer perceptrons (MLPs). Most of the recent MSS techniques are based on architectures with CNNs, RNNs, and attention-based transform",
-      "abstract": "This paper proposes a new music source separation (MSS) model based on an architecture with MLP-Mixer that leverages multilayer perceptrons (MLPs). Most of the recent MSS techniques are based on architectures with CNNs, RNNs, and attention-based transform<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1OdDDCEu0TnAWs0wi2vAtTGRm5pAodRN4)</b>",
+      "abstract": "This paper proposes a new music source separation (MSS) model based on an architecture with MLP-Mixer that leverages multilayer perceptrons (MLPs). Most of the recent MSS techniques are based on architectures with CNNs, RNNs, and attention-based transform<br><br> <b><p align=\"center\"> If the video does not load properly please use the [direct link to video](https://drive.google.com/uc?export=view&id=1OdDDCEu0TnAWs0wi2vAtTGRm5pAodRN4)</b>",
       "authors": [
         ""
       ],
@@ -3855,7 +3855,7 @@
   {
     "content": {
       "TLDR": "Music Information Retrieval (MIR) has seen a recent surge in deep learning-based approaches, which often involve encoding symbolic music (i.e., music represented in terms of discrete note events) in an image-like or language-like fashion. However, symboli",
-      "abstract": "Music Information Retrieval (MIR) has seen a recent surge in deep learning-based approaches, which often involve encoding symbolic music (i.e., music represented in terms of discrete note events) in an image-like or language-like fashion. However, symboli<br><br> <b><p align=\"center\">[Direct link to video]()</b>",
+      "abstract": "Music Information Retrieval (MIR) has seen a recent surge in deep learning-based approaches, which often involve encoding symbolic music (i.e., music represented in terms of discrete note events) in an image-like or language-like fashion. However, symboli<br><br> <b><p align=\"center\"> If the video does not load properly please use the [direct link to video](https://drive.google.com/uc?export=view&id=1uMhKpUkVAiNaaUTFoFzAhxOQZBsHnu4Z)</b>",
       "authors": [
         ""
       ],
@@ -3870,22 +3870,22 @@
       "day": "5",
       "keywords": [
         " Knowledge-driven approaches to MIR -> representations of music",
-        " MIR tasks -> automatic classification",
-        " Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music",
-        "Evaluation, datasets, and reproducibility -> evaluation methodology",
         "MIR fundamentals and methodology -> symbolic music processing",
-        " Musical features and properties -> representations of music"
+        " Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music",
+        " MIR tasks -> automatic classification",
+        " Musical features and properties -> representations of music",
+        "Evaluation, datasets, and reproducibility -> evaluation methodology"
       ],
       "long_presentation": "False",
-      "paper_presentation": "In Person",
+      "paper_presentation": "Virtually",
       "pdf_path": "https://archives.ismir.net/ismir2023/paper/000101.pdf",
-      "poster_pdf": "",
+      "poster_pdf": "https://drive.google.com/file/d/1_57q-qGsRO9druNfRi3YHndX4LqLll4r/view",
       "session": [
         "7"
       ],
       "slack_channel": "",
       "title": "Symbolic Music Representations for Classification Tasks: A Systematic Evaluation",
-      "video": ""
+      "video": "https://drive.google.com/uc?export=view&id=1uMhKpUkVAiNaaUTFoFzAhxOQZBsHnu4Z"
     },
     "forum": "54",
     "id": "54",
@@ -3897,7 +3897,7 @@
   {
     "content": {
       "TLDR": "The semantic description of music metadata is a key requirement for the creation of music datasets that can be aligned, integrated, and accessed for information retrieval and knowledge discovery. It is nonetheless an open challenge due to the complexity o",
-      "abstract": "The semantic description of music metadata is a key requirement for the creation of music datasets that can be aligned, integrated, and accessed for information retrieval and knowledge discovery. It is nonetheless an open challenge due to the complexity o<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1sWmDSmjUDTcma5qxam4u_qSe1tQZXY6K)</b>",
+      "abstract": "The semantic description of music metadata is a key requirement for the creation of music datasets that can be aligned, integrated, and accessed for information retrieval and knowledge discovery. It is nonetheless an open challenge due to the complexity o<br><br> <b><p align=\"center\"> If the video does not load properly please use the [direct link to video](https://drive.google.com/uc?export=view&id=1sWmDSmjUDTcma5qxam4u_qSe1tQZXY6K)</b>",
       "authors": [
         ""
       ],
@@ -3936,7 +3936,7 @@
   {
     "content": {
       "TLDR": "Large-scale studies of musical harmony are often hampered by lack of suitably labelled data. It would be highly advantageous if an algorithm were able to autonomously describe chords, scales, etc. in a consistent and musically informative way. In this pap",
-      "abstract": "Large-scale studies of musical harmony are often hampered by lack of suitably labelled data. It would be highly advantageous if an algorithm were able to autonomously describe chords, scales, etc. in a consistent and musically informative way. In this pap<br><br> <b><p align=\"center\">[Direct link to video](https://drive.google.com/uc?export=view&id=1wRsgtl_jBL20Cm317Yp1879UHKs7-d5b)</b>",
+      "abstract": "Large-scale studies of musical harmony are often hampered by lack of suitably labelled data. It would be highly advantageous if an algorithm were able to autonomously describe chords, scales, etc. in a consistent and musically informative way. In this pap<br><br> <b><p align=\"center\"> If the video does not load properly please use the [direct link to video](https://drive.google.com/uc?export=view&id=1wRsgtl_jBL20Cm317Yp1879UHKs7-d5b)</b>",
       "authors": [
         ""
       ],
@@ -3948,12 +3948,12 @@
       "channel_url": "",
       "day": "5",
       "keywords": [
-        "Knowledge-driven approaches to MIR -> computational music theory and musicology",
         " Knowledge-driven approaches to MIR -> representations of music",
+        "Knowledge-driven approaches to MIR -> computational music theory and musicology",
         " MIR fundamentals and methodology -> symbolic music processing",
         " Musical features and properties -> harmony, chords and tonality",
-        " MIR tasks -> similarity metrics",
-        "Computational musicology -> mathematical music theory"
+        "Computational musicology -> mathematical music theory",
+        " MIR tasks -> similarity metrics"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
