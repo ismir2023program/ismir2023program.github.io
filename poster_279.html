@@ -82,11 +82,16 @@
 <meta name="citation_conference_title" content="Ismir 2023 Hybrid Conference" />
 <meta name="citation_inbook_title" content="Proceedings of the First MiniCon Conference" />
 <meta name="citation_abstract" content="Music Structure Analysis (MSA) is the task aiming at identifying musical segments that compose a music track and possibly label them based on their similarity. 
-In this paper we propose a supervised approach for the task of music boundary detection. In ou&lt;br&gt;&lt;br&gt; &lt;b&gt;&lt;p align=&#34;center&#34;&gt; If the video does not load properly please use the [direct link to video](https://drive.google.com/uc?export=view&amp;id=1xqLMnWUj3hT_sjnqvwheaofzbZXjVOzJ)&lt;/b&gt;" />
-
-<meta name="citation_keywords" content="Musical features and properties -&gt; structure, segmentation, and form" />
+In this paper we propose a supervised approach for the task of music boundary detection. In our approach we simultaneously learn features and convolution kernels. 
+For this we jointly optimize 
+- a loss based on the Self-Similarity-Matrix (SSM) obtained with the learned features, denoted by SSM-loss, and 
+- a loss based on the novelty score obtained applying the learned kernels to the estimated SSM, denoted by novelty-loss. 
+We also demonstrate that relative feature learning, through self-attention, is beneficial for the task of MSA. 
+Finally, we compare the performances of our approach to previously proposed approaches on the standard RWC-Pop, and various subsets of SALAMI.&lt;br&gt;&lt;br&gt; &lt;b&gt;&lt;p align=&#34;center&#34;&gt; If the video does not load properly please use the [direct link to video](https://drive.google.com/uc?export=view&amp;id=1xqLMnWUj3hT_sjnqvwheaofzbZXjVOzJ)&lt;/b&gt;" />
 
 <meta name="citation_keywords" content="MIR fundamentals and methodology -&gt; music signal processing" />
+
+<meta name="citation_keywords" content="Musical features and properties -&gt; structure, segmentation, and form" />
 
 <meta name="citation_pdf_url" content="" />
 <meta id="yt-id" data-name= />
@@ -195,15 +200,15 @@ In this paper we propose a supervised approach for the task of music boundary de
       <span class="">Subjects (starting with primary):</span>
       
       <a
-        href="papers.html?filter=keywords&search=Musical features and properties -&gt; structure, segmentation, and form"
-        class="text-secondary text-decoration-none"
-        >Musical features and properties -&gt; structure, segmentation, and form</a
-      > ; 
-      
-      <a
         href="papers.html?filter=keywords&search=MIR fundamentals and methodology -&gt; music signal processing"
         class="text-secondary text-decoration-none"
         >MIR fundamentals and methodology -&gt; music signal processing</a
+      > ; 
+      
+      <a
+        href="papers.html?filter=keywords&search=Musical features and properties -&gt; structure, segmentation, and form"
+        class="text-secondary text-decoration-none"
+        >Musical features and properties -&gt; structure, segmentation, and form</a
       > 
       
     </p>
@@ -272,7 +277,12 @@ In this paper we propose a supervised approach for the task of music boundary de
         <div id="abstractExample">
           <span class="font-weight-bold">Abstract:</span>
           <p>Music Structure Analysis (MSA) is the task aiming at identifying musical segments that compose a music track and possibly label them based on their similarity. 
-In this paper we propose a supervised approach for the task of music boundary detection. In ou<br><br> <b><p align="center"> If the video does not load properly please use the <a href="https://drive.google.com/uc?export=view&amp;id=1xqLMnWUj3hT_sjnqvwheaofzbZXjVOzJ">direct link to video</a></b></p>
+In this paper we propose a supervised approach for the task of music boundary detection. In our approach we simultaneously learn features and convolution kernels. 
+For this we jointly optimize 
+- a loss based on the Self-Similarity-Matrix (SSM) obtained with the learned features, denoted by SSM-loss, and 
+- a loss based on the novelty score obtained applying the learned kernels to the estimated SSM, denoted by novelty-loss. 
+We also demonstrate that relative feature learning, through self-attention, is beneficial for the task of MSA. 
+Finally, we compare the performances of our approach to previously proposed approaches on the standard RWC-Pop, and various subsets of SALAMI.<br><br> <b><p align="center"> If the video does not load properly please use the <a href="https://drive.google.com/uc?export=view&amp;id=1xqLMnWUj3hT_sjnqvwheaofzbZXjVOzJ">direct link to video</a></b></p>
         </div>
       </div>
       <p></p>

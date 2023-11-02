@@ -81,15 +81,19 @@
 <meta name="citation_publication_date" content="5-9 November 2023" />
 <meta name="citation_conference_title" content="Ismir 2023 Hybrid Conference" />
 <meta name="citation_inbook_title" content="Proceedings of the First MiniCon Conference" />
-<meta name="citation_abstract" content="Multi-pitch estimation (MPE), the task of detecting active pitches within a polyphonic music recording, has garnered significant research interest in recent years. Most state-of-the-art approaches for MPE are based on deep networks trained using pitch ann&lt;br&gt;&lt;br&gt; &lt;b&gt;&lt;p align=&#34;center&#34;&gt; If the video does not load properly please use the [direct link to video](https://drive.google.com/uc?export=view&amp;id=1ta1EFfmQaRw6K2M6CwRyOo-YkNPZ-LU0)&lt;/b&gt;" />
+<meta name="citation_abstract" content="Multi-pitch estimation (MPE), the task of detecting active pitches within a polyphonic music recording, has garnered significant research interest in recent years. Most state-of-the-art approaches for MPE are based on deep networks trained using pitch annotations as targets. The success of current methods is therefore limited by the difficulty of obtaining large amounts of accurate annotations.
+In this paper, we propose a novel technique for learning MPE without any pitch annotations at all. Our approach exploits multiple recorded versions of a musical piece as surrogate targets. Given one version of a piece as input, we train a network to minimize the distance between its output and time-frequency representations of other versions of that piece. 
+Since all versions are based on the same musical score, we hypothesize that the learned output corresponds to pitch estimates. To further ensure that this hypothesis holds, we incorporate domain knowledge about overtones and noise levels into the network.
+Overall, our method replaces strong pitch annotations with weaker and easier-to-obtain cross-version targets.
+In our experiments, we show that our proposed approach yields viable multi-pitch estimates and outperforms two baselines.&lt;br&gt;&lt;br&gt; &lt;b&gt;&lt;p align=&#34;center&#34;&gt; If the video does not load properly please use the [direct link to video](https://drive.google.com/uc?export=view&amp;id=1ta1EFfmQaRw6K2M6CwRyOo-YkNPZ-LU0)&lt;/b&gt;" />
 
 <meta name="citation_keywords" content=" MIR tasks -&gt; alignment, synchronization, and score following" />
-
-<meta name="citation_keywords" content="MIR tasks -&gt; music transcription and annotation" />
 
 <meta name="citation_keywords" content="Knowledge-driven approaches to MIR -&gt; machine learning/artificial intelligence for music" />
 
 <meta name="citation_keywords" content=" Knowledge-driven approaches to MIR -&gt; representations of music" />
+
+<meta name="citation_keywords" content="MIR tasks -&gt; music transcription and annotation" />
 
 <meta name="citation_pdf_url" content="" />
 <meta id="yt-id" data-name= />
@@ -204,12 +208,6 @@
       > ; 
       
       <a
-        href="papers.html?filter=keywords&search=MIR tasks -&gt; music transcription and annotation"
-        class="text-secondary text-decoration-none"
-        >MIR tasks -&gt; music transcription and annotation</a
-      > ; 
-      
-      <a
         href="papers.html?filter=keywords&search=Knowledge-driven approaches to MIR -&gt; machine learning/artificial intelligence for music"
         class="text-secondary text-decoration-none"
         >Knowledge-driven approaches to MIR -&gt; machine learning/artificial intelligence for music</a
@@ -219,6 +217,12 @@
         href="papers.html?filter=keywords&search= Knowledge-driven approaches to MIR -&gt; representations of music"
         class="text-secondary text-decoration-none"
         > Knowledge-driven approaches to MIR -&gt; representations of music</a
+      > ; 
+      
+      <a
+        href="papers.html?filter=keywords&search=MIR tasks -&gt; music transcription and annotation"
+        class="text-secondary text-decoration-none"
+        >MIR tasks -&gt; music transcription and annotation</a
       > 
       
     </p>
@@ -286,7 +290,11 @@
       <div class="card-text">
         <div id="abstractExample">
           <span class="font-weight-bold">Abstract:</span>
-          <p>Multi-pitch estimation (MPE), the task of detecting active pitches within a polyphonic music recording, has garnered significant research interest in recent years. Most state-of-the-art approaches for MPE are based on deep networks trained using pitch ann<br><br> <b><p align="center"> If the video does not load properly please use the <a href="https://drive.google.com/uc?export=view&amp;id=1ta1EFfmQaRw6K2M6CwRyOo-YkNPZ-LU0">direct link to video</a></b></p>
+          <p>Multi-pitch estimation (MPE), the task of detecting active pitches within a polyphonic music recording, has garnered significant research interest in recent years. Most state-of-the-art approaches for MPE are based on deep networks trained using pitch annotations as targets. The success of current methods is therefore limited by the difficulty of obtaining large amounts of accurate annotations.
+In this paper, we propose a novel technique for learning MPE without any pitch annotations at all. Our approach exploits multiple recorded versions of a musical piece as surrogate targets. Given one version of a piece as input, we train a network to minimize the distance between its output and time-frequency representations of other versions of that piece. 
+Since all versions are based on the same musical score, we hypothesize that the learned output corresponds to pitch estimates. To further ensure that this hypothesis holds, we incorporate domain knowledge about overtones and noise levels into the network.
+Overall, our method replaces strong pitch annotations with weaker and easier-to-obtain cross-version targets.
+In our experiments, we show that our proposed approach yields viable multi-pitch estimates and outperforms two baselines.<br><br> <b><p align="center"> If the video does not load properly please use the <a href="https://drive.google.com/uc?export=view&amp;id=1ta1EFfmQaRw6K2M6CwRyOo-YkNPZ-LU0">direct link to video</a></b></p>
         </div>
       </div>
       <p></p>
