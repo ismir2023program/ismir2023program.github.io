@@ -27,7 +27,7 @@
     "location": "day_2.html#all",
     "scrollKey": null,
     "start": "2023-11-06T09:30:00+01:00",
-    "title": "Keynote: Christine Abuer on \"Help! - Bridging the Gap Between Music Technology and Diverse Stakeholder Needs\""
+    "title": "Keynote: Christine Bauer on \"Help! - Bridging the Gap Between Music Technology and Diverse Stakeholder Needs\""
   },
   {
     "calendarId": "pos",
@@ -200,13 +200,23 @@
     "title": "Panel Session: Hybrid deep learning for MIR "
   },
   {
+    "calendarId": "industry",
+    "category": "time",
+    "end": "2023-11-08T19:00:00+01:00",
+    "link": "industry.html?session=Platinum",
+    "location": "industry.html?session=Platinum",
+    "scrollKey": null,
+    "start": "2023-11-08T18:30:00+01:00",
+    "title": "Industry Meetup"
+  },
+  {
     "calendarId": "social",
     "category": "time",
-    "end": "2023-11-08T22:30:00+01:00",
+    "end": "2023-11-08T23:30:00+01:00",
     "link": "day_4.html#social",
     "location": "day_4.html#social",
     "scrollKey": null,
-    "start": "2023-11-08T20:30:00+01:00",
+    "start": "2023-11-08T20:00:00+01:00",
     "title": "Banquet, Jazz Concert and Jam Session"
   },
   {
