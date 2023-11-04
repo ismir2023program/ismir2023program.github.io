@@ -10,16 +10,13 @@
         " Martin Clayton (Durham University)"
       ],
       "authors_and_affil": [
-        "Shreyas M Nadkarni (Indian Institute of Technology Bombay)",
-        " Sujoy Roychowdhury (Indian Institute of Technology Bombay)",
-        " Preeti Rao (Indian Institute of Technology  Bombay)*",
-        " Martin Clayton (Durham University)"
+        ""
       ],
       "channel_url": "https://slack.com/app_redirect?channel=C064B57QBB3",
       "day": "2",
       "keywords": [
-        "Knowledge-driven approaches to MIR -> computational ethnomusicology",
-        "MIR fundamentals and methodology -> multimodality"
+        "MIR fundamentals and methodology -> multimodality",
+        "Knowledge-driven approaches to MIR -> computational ethnomusicology"
       ],
       "long_presentation": "True",
       "paper_presentation": "In Person",
@@ -29,7 +26,7 @@
         "1"
       ],
       "slack_channel": "p1-01-rao",
-      "title": "Exploring the correspondence of melodic contour with gesture in raga alap singing ",
+      "title": "Exploring the Correspondence of Melodic Contour With Gesture in Raga Alap Singing",
       "video": "https://drive.google.com/uc?export=view&id=1DvOBLNNh3C8wfID8ClLVXxXqj2suDBzO"
     },
     "forum": "64",
@@ -50,18 +47,15 @@
         " Xavier Serra (Universitat Pompeu Fabra )"
       ],
       "authors_and_affil": [
-        "Miguel Perez Fernandez (Universitat Pompeu Fabra",
-        " Huawei)*",
-        " Holger Kirchhoff (Huawei)",
-        " Xavier Serra (Universitat Pompeu Fabra )"
+        ""
       ],
       "channel_url": "https://slack.com/app_redirect?channel=C063J0VR14P",
       "day": "2",
       "keywords": [
-        "Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music",
-        " Musical features and properties -> representations of music",
-        " MIR tasks -> pattern matching and detection",
         "MIR tasks -> music transcription and annotation",
+        " MIR tasks -> pattern matching and detection",
+        " Musical features and properties -> representations of music",
+        "Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music",
         " MIR fundamentals and methodology -> music signal processing",
         " Knowledge-driven approaches to MIR -> representations of music"
       ],
@@ -73,7 +67,7 @@
         "1"
       ],
       "slack_channel": "p1-02-fernandez",
-      "title": "TriAD: Capturing harmonics with 3D Convolutions",
+      "title": "TriAD: Capturing Harmonics With 3D Convolutions",
       "video": "https://drive.google.com/uc?export=view&id=1yFCCW_X06c_V-Q_xlfOnCbM8JoNzIVtu"
     },
     "forum": "11",
@@ -93,16 +87,14 @@
         " I-Chieh Wei (University of Auckland)"
       ],
       "authors_and_affil": [
-        "Fabio Morreale (University of Auckland)*",
-        " Megha Sharma (University of Tokyo)",
-        " I-Chieh Wei (University of Auckland)"
+        ""
       ],
       "channel_url": "https://slack.com/app_redirect?channel=C064B5Y847K",
       "day": "2",
       "keywords": [
-        "Philosophical and ethical discussions -> ethical issues related to designing and implementing MIR tools and technologies",
         " Philosophical and ethical discussions -> legal and societal aspects of MIR",
-        "MIR tasks -> music generation"
+        "MIR tasks -> music generation",
+        "Philosophical and ethical discussions -> ethical issues related to designing and implementing MIR tools and technologies"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -131,16 +123,15 @@
         " Arthur Flexer (Johannes Kepler University Linz)*"
       ],
       "authors_and_affil": [
-        "Bob L. T.  Sturm (KTH Royal Institute of Technology)",
-        " Arthur Flexer (Johannes Kepler University Linz)*"
+        ""
       ],
       "channel_url": "https://slack.com/app_redirect?channel=C063VJZQLER",
       "day": "2",
       "keywords": [
-        " Evaluation, datasets, and reproducibility -> evaluation methodology",
+        " Philosophical and ethical discussions -> philosophical and methodological foundations",
         "Evaluation, datasets, and reproducibility",
         "Philosophical and ethical discussions",
-        " Philosophical and ethical discussions -> philosophical and methodological foundations"
+        " Evaluation, datasets, and reproducibility -> evaluation methodology"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -150,7 +141,7 @@
         "1"
       ],
       "slack_channel": "p1-04-flexer",
-      "title": "A Review of Validity and its Relationship to Music Information Research",
+      "title": "A Review of Validity and Its Relationship to Music Information Research",
       "video": "https://drive.google.com/uc?export=view&id=1gr803BCvb98rdFiAzIpGivrGkgEtNkt-"
     },
     "forum": "18",
@@ -171,16 +162,13 @@
         " Hema A Murthy (IIT Madras)"
       ],
       "authors_and_affil": [
-        "Gowriprasad R (IIT Madras)*",
-        " Srikrishnan Sridharan (Carnatic Percussionist)",
-        " R Aravind (Indian Institute of Technology Madras)",
-        " Hema A Murthy (IIT Madras)"
+        ""
       ],
       "channel_url": "https://slack.com/app_redirect?channel=C063YDWBJ67",
       "day": "2",
       "keywords": [
-        "Applications -> music retrieval systems",
-        "Musical features and properties -> structure, segmentation, and form"
+        "Musical features and properties -> structure, segmentation, and form",
+        "Applications -> music retrieval systems"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -210,18 +198,16 @@
         " Brian McFee (New York University)"
       ],
       "authors_and_affil": [
-        "Changhong Wang (Telecom Paris, Institut polytechnique de Paris)*",
-        " Ga\u00ebl Richard (Telecom Paris, Institut polytechnique de Paris)",
-        " Brian McFee (New York University)"
+        ""
       ],
       "channel_url": "https://slack.com/app_redirect?channel=C063YGS69S6",
       "day": "2",
       "keywords": [
-        " MIR tasks -> automatic classification",
         "Musical features and properties -> timbre, instrumentation, and singing voice",
-        " Philosophical and ethical discussions -> philosophical and methodological foundations",
-        "Applications -> music retrieval systems",
         " MIR fundamentals and methodology -> music signal processing",
+        "Applications -> music retrieval systems",
+        " MIR tasks -> automatic classification",
+        " Philosophical and ethical discussions -> philosophical and methodological foundations",
         " Knowledge-driven approaches to MIR -> representations of music"
       ],
       "long_presentation": "False",
@@ -232,7 +218,7 @@
         "1"
       ],
       "slack_channel": "p1-06-wang",
-      "title": "Transfer Learning and Bias Correction with Pre-trained Audio Embeddings",
+      "title": "Transfer Learning and Bias Correction With Pre-Trained Audio Embeddings",
       "video": "https://drive.google.com/uc?export=view&id=1QsT16gA_H-9jCpNLm_lV2flwRr7H_NY8"
     },
     "forum": "280",
@@ -252,15 +238,13 @@
         " Johanna Devaney (Brooklyn College)"
       ],
       "authors_and_affil": [
-        "Mich\u00e8le Duguay (Harvard University)*",
-        " Kate Mancey (Harvard University)",
-        " Johanna Devaney (Brooklyn College)"
+        ""
       ],
       "channel_url": "https://slack.com/app_redirect?channel=C064B645ETB",
       "day": "2",
       "keywords": [
-        "Musical features and properties -> timbre, instrumentation, and singing voice",
-        "Evaluation, datasets, and reproducibility -> novel datasets and use cases"
+        "Evaluation, datasets, and reproducibility -> novel datasets and use cases",
+        "Musical features and properties -> timbre, instrumentation, and singing voice"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -270,7 +254,7 @@
         "1"
       ],
       "slack_channel": "p1-07-duguay",
-      "title": "Collaborative Song Dataset (CoSoD): An annotated dataset of multi-artist collaborations in popular music",
+      "title": "Collaborative Song Dataset (CoSoD): An Annotated Dataset of Multi-Artist Collaborations in Popular Music",
       "video": "https://drive.google.com/uc?export=view&id=1GFvSckyxGyvPrMzXF7m5K-aq-4ov5sAn"
     },
     "forum": "37",
@@ -290,17 +274,15 @@
         " Jin Ha Lee (University of Washington)"
       ],
       "authors_and_affil": [
-        "Michele Newman (University of Washington)*",
-        " Lidia J Morris (University of Washington)",
-        " Jin Ha Lee (University of Washington)"
+        ""
       ],
       "channel_url": "https://slack.com/app_redirect?channel=C064MGHGZCG",
       "day": "2",
       "keywords": [
         "Applications -> music composition, performance, and production",
         " MIR tasks -> music generation",
-        "Human-centered MIR -> human-computer interaction",
-        " Philosophical and ethical discussions -> ethical issues related to designing and implementing MIR tools and technologies"
+        " Philosophical and ethical discussions -> ethical issues related to designing and implementing MIR tools and technologies",
+        "Human-centered MIR -> human-computer interaction"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -310,7 +292,7 @@
         "1"
       ],
       "slack_channel": "p1-08-newman",
-      "title": "Human-AI  Music Creation: Understanding the Perceptions and Experiences of Music Creators for Ethical and Productive Collaboration",
+      "title": "Human-AI Music Creation: Understanding the Perceptions and Experiences of Music Creators for Ethical and Productive Collaboration",
       "video": "https://drive.google.com/uc?export=view&id=12ZEKkCsiIM7gYj_Qkrc5ol0FGDtKb9EX"
     },
     "forum": "58",
@@ -331,20 +313,17 @@
         " Jean-Pierre Briot (CNRS)"
       ],
       "authors_and_affil": [
-        "Nathan Fradet (LIP6 - Sorbonne University)*",
-        " Nicolas Gutowski (University of Angers)",
-        " Fabien Chhel (Groupe ESEO)",
-        " Jean-Pierre Briot (CNRS)"
+        ""
       ],
       "channel_url": "https://slack.com/app_redirect?channel=C063RTCAHQE",
       "day": "2",
       "keywords": [
         " Applications -> music retrieval systems",
-        " Musical features and properties -> representations of music",
         "MIR fundamentals and methodology -> symbolic music processing",
+        " MIR tasks -> music generation",
+        " Musical features and properties -> representations of music",
         " MIR tasks -> automatic classification",
-        "Applications -> music composition, performance, and production",
-        " MIR tasks -> music generation"
+        "Applications -> music composition, performance, and production"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -354,7 +333,7 @@
         "1"
       ],
       "slack_channel": "p1-09-fradet",
-      "title": "Impact of time and note duration tokenizations on deep learning symbolic music modeling",
+      "title": "Impact of Time and Note Duration Tokenizations on Deep Learning Symbolic Music Modeling",
       "video": "https://drive.google.com/uc?export=view&id=19mvoQ2eSKYbbUn2HbRVjW-8Vimnb6nBh"
     },
     "forum": "45",
@@ -373,17 +352,16 @@
         " Mark R H Gotham (Durham)*"
       ],
       "authors_and_affil": [
-        "Max Johnson (University of Cambridge)",
-        " Mark R H Gotham (Durham)*"
+        ""
       ],
       "channel_url": "https://slack.com/app_redirect?channel=C063YDZKV5Z",
       "day": "2",
       "keywords": [
+        " Human-centered MIR -> human-computer interaction",
         " Musical features and properties -> rhythm, beat, tempo",
-        "Applications -> music composition, performance, and production",
-        "Computational musicology -> mathematical music theory",
         " MIR fundamentals and methodology -> symbolic music processing",
-        " Human-centered MIR -> human-computer interaction"
+        "Computational musicology -> mathematical music theory",
+        "Applications -> music composition, performance, and production"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -413,15 +391,13 @@
         " Ichiro Fujinaga (McGill University)"
       ],
       "authors_and_affil": [
-        "Francisco J. Castellanos (University of Alicante)*",
-        " Antonio Javier Gallego (Universidad de Alicante)",
-        " Ichiro Fujinaga (McGill University)"
+        ""
       ],
       "channel_url": "https://slack.com/app_redirect?channel=C064MGK281E",
       "day": "2",
       "keywords": [
-        "MIR tasks -> optical music recognition",
-        "Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music"
+        "Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music",
+        "MIR tasks -> optical music recognition"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -431,7 +407,7 @@
         "1"
       ],
       "slack_channel": "p1-11-castellanos",
-      "title": "A Few-shot Neural Approach for Layout Analysis of Music Score Images",
+      "title": "A Few-Shot Neural Approach for Layout Analysis of Music Score Images",
       "video": "https://drive.google.com/uc?export=view&id=1Yk4OZSK1v7reHk99gfC_SD_i-MkAk9DZ"
     },
     "forum": "47",
@@ -452,17 +428,14 @@
         " Sergi Jord\u00e0 (Universitat Pompeu Fabra)"
       ],
       "authors_and_affil": [
-        "Behzad Haki (Universitat Pompeu Fabra)*",
-        " B_a_ej Kotowski (MTG)",
-        " Cheuk Lun Isaac Lee (Universitat Pompeu Fabra )",
-        " Sergi Jord\u00e0 (Universitat Pompeu Fabra)"
+        ""
       ],
       "channel_url": "https://slack.com/app_redirect?channel=C063RTCLBE2",
       "day": "2",
       "keywords": [
-        " Musical features and properties -> rhythm, beat, tempo",
         "Evaluation, datasets, and reproducibility -> novel datasets and use cases",
-        "Musical features and properties -> representations of music"
+        "Musical features and properties -> representations of music",
+        " Musical features and properties -> rhythm, beat, tempo"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -492,18 +465,16 @@
         " Mathieu Barthet (Queen Mary University of London)"
       ],
       "authors_and_affil": [
-        "Andrea Martelloni (Queen Mary University of London)*",
-        " Andrew McPherson (QMUL)",
-        " Mathieu Barthet (Queen Mary University of London)"
+        ""
       ],
       "channel_url": "https://slack.com/app_redirect?channel=C06410NQRK6",
       "day": "2",
       "keywords": [
-        "Human-centered MIR -> human-computer interaction",
+        " MIR fundamentals and methodology -> music signal processing",
         " MIR tasks -> automatic classification",
-        "Applications -> music composition, performance, and production",
         " Human-centered MIR -> music interfaces and services",
-        " MIR fundamentals and methodology -> music signal processing"
+        "Applications -> music composition, performance, and production",
+        "Human-centered MIR -> human-computer interaction"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -513,7 +484,7 @@
         "1"
       ],
       "slack_channel": "p1-13-martelloni",
-      "title": "Real-time Percussive Technique Recognition and Embedding Learning for the Acoustic Guitar",
+      "title": "Real-Time Percussive Technique Recognition and Embedding Learning for the Acoustic Guitar",
       "video": "https://drive.google.com/uc?export=view&id=1nr-HTFvdiIC2X5TbKLGL3ri8vZr_npdO"
     },
     "forum": "48",
@@ -532,16 +503,15 @@
         " Masataka Goto (National Institute of Advanced Industrial Science and Technology (AIST))"
       ],
       "authors_and_affil": [
-        "Hiromu Yakura (University of Tsukuba)*",
-        " Masataka Goto (National Institute of Advanced Industrial Science and Technology (AIST))"
+        ""
       ],
       "channel_url": "https://slack.com/app_redirect?channel=C064B66AMJM",
       "day": "2",
       "keywords": [
-        "Applications -> music composition, performance, and production",
         " Human-centered MIR -> music interfaces and services",
-        "Human-centered MIR -> human-computer interaction",
-        " Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music"
+        "Applications -> music composition, performance, and production",
+        " Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music",
+        "Human-centered MIR -> human-computer interaction"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -551,12 +521,12 @@
         "1"
       ],
       "slack_channel": "p1-14-yakura",
-      "title": "IteraTTA: An interface for exploring both text prompts and audio priors in generating music with text-to-audio models",
+      "title": "IteraTTA: An Interface for Exploring Both Text Prompts and Audio Priors in Generating Music With Text-to-Audio Models",
       "video": "https://drive.google.com/uc?export=view&id=1cHkxzOuNBuD0Oc2L2lCZ_wy-gvfdp9hH"
     },
     "forum": "80",
     "id": "80",
-    "pic_id": "https://drive.google.com/file/d/1Gxv25ON-lumZ4g95_AA97sD4RESUovos/view",
+    "pic_id": "https://drive.google.com/file/d/1Obnp6RQare5i7zy4K-2BjMz-bnKaAnl3/view?usp=sharing ",
     "position": "14",
     "poster_pdf": "GLTR_poster.pdf",
     "session": "1"
@@ -572,17 +542,14 @@
         " Augusto Sarti (Politecnico di Milano)"
       ],
       "authors_and_affil": [
-        "Mirco Pezzoli (Politecnicno di Milano)*",
-        " Raffaele Malvermi (Politecnico di Milano)",
-        " Fabio Antonacci (Politecnico di Milano)",
-        " Augusto Sarti (Politecnico di Milano)"
+        ""
       ],
       "channel_url": "https://slack.com/app_redirect?channel=C063YGUL2E6",
       "day": "2",
       "keywords": [
+        " MIR tasks -> similarity metrics",
         "MIR and machine learning for musical acoustics",
         "MIR and machine learning for musical acoustics -> applications of musical acoustics to signal synthesis",
-        " MIR tasks -> similarity metrics",
         " MIR tasks -> pattern matching and detection"
       ],
       "long_presentation": "False",
@@ -593,7 +560,7 @@
         "1"
       ],
       "slack_channel": "p1-15-pezzoli",
-      "title": "Similarity evaluation of violin directivity patterns for musical instrument retrieval",
+      "title": "Similarity Evaluation of Violin Directivity Patterns for Musical Instrument Retrieval",
       "video": "https://drive.google.com/uc?export=view&id=1DzQBvv4ftbSQDl1R0T7jL6U53ghxGgax"
     },
     "forum": "174",
@@ -611,27 +578,27 @@
         "George Sioros (University of Plymouth)*"
       ],
       "authors_and_affil": [
-        "George Sioros (University of Plymouth)*"
+        ""
       ],
       "channel_url": "https://slack.com/app_redirect?channel=C064B66GBKK",
       "day": "2",
       "keywords": [
+        "Musical features and properties -> rhythm, beat, tempo",
         "Computational musicology",
         " MIR tasks -> music generation",
         " MIR fundamentals and methodology -> symbolic music processing",
-        " Computational musicology -> mathematical music theory",
-        "Musical features and properties -> rhythm, beat, tempo",
-        " MIR fundamentals and methodology -> music signal processing"
+        " MIR fundamentals and methodology -> music signal processing",
+        " Computational musicology -> mathematical music theory"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
       "pdf_path": "https://archives.ismir.net/ismir2023/paper/000016.pdf",
-      "poster_pdf": "",
+      "poster_pdf": "https://drive.google.com/file/d/1oZ6G_VvKnAb07HLlXwrGxypoGkiT9_7_/view?usp=sharing ",
       "session": [
         "1"
       ],
       "slack_channel": "p1-16-sioros",
-      "title": "Polyrhythmic modelling of non-isochronous and microtiming patterns",
+      "title": "Polyrhythmic Modelling of Non-Isochronous and Microtiming Patterns",
       "video": "https://drive.google.com/uc?export=view&id=1MgX0h4s5c4Y36fk3tpKGAlynvXtU4A7H"
     },
     "forum": "82",
@@ -652,20 +619,17 @@
         " Maosong Sun (Tsinghua University)*"
       ],
       "authors_and_affil": [
-        "Shangda Wu (Central Conservatory of Music)",
-        " Dingyao Yu (Peking University)",
-        " Xu Tan (Microsoft Research Asia)",
-        " Maosong Sun (Tsinghua University)*"
+        ""
       ],
       "channel_url": "https://slack.com/app_redirect?channel=C06410P6R28",
       "day": "2",
       "keywords": [
-        " MIR tasks -> automatic classification",
-        " MIR fundamentals and methodology -> symbolic music processing",
         " MIR fundamentals and methodology -> multimodality",
         " MIR tasks -> indexing and querying",
-        "Evaluation, datasets, and reproducibility -> novel datasets and use cases",
-        "Applications -> music retrieval systems"
+        " MIR fundamentals and methodology -> symbolic music processing",
+        " MIR tasks -> automatic classification",
+        "Applications -> music retrieval systems",
+        "Evaluation, datasets, and reproducibility -> novel datasets and use cases"
       ],
       "long_presentation": "True",
       "paper_presentation": "In Person",
@@ -675,7 +639,7 @@
         "2"
       ],
       "slack_channel": "p2-01-sun",
-      "title": "CLaMP: Contrastive Language-Music Pre-training for Cross-Modal Symbolic Music Information Retrieval",
+      "title": "CLaMP: Contrastive Language-Music Pre-Training for Cross-Modal Symbolic Music Information Retrieval",
       "video": "https://drive.google.com/uc?export=view&id=1wxx0BrnXEJSS5fFApirGRz1ZjZ4jFfNG"
     },
     "forum": "91",
@@ -695,18 +659,16 @@
         " Charalampos Saitis (Queen Mary University of London)"
       ],
       "authors_and_affil": [
-        "Luca Marinelli (Queen Mary University of London)*",
-        " George Fazekas (QMUL)",
-        " Charalampos Saitis (Queen Mary University of London)"
+        ""
       ],
       "channel_url": "https://slack.com/app_redirect?channel=C063RTD8D5L",
       "day": "2",
       "keywords": [
-        " MIR tasks -> automatic classification",
-        "Applications -> business and marketing",
-        " Musical features and properties -> musical affect, emotion and mood",
+        "Knowledge-driven approaches to MIR -> computational music theory and musicology",
         " Evaluation, datasets, and reproducibility -> novel datasets and use cases",
-        "Knowledge-driven approaches to MIR -> computational music theory and musicology"
+        "Applications -> business and marketing",
+        " MIR tasks -> automatic classification",
+        " Musical features and properties -> musical affect, emotion and mood"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -716,7 +678,7 @@
         "2"
       ],
       "slack_channel": "p2-02-marinelli",
-      "title": "GENDER-CODED SOUND: ANALYSING THE GENDERING OF MUSIC IN TOY COMMERCIALS VIA MULTI-TASK LEARNING",
+      "title": "Gender-Coded Sound: Analysing the Gendering of Music in Toy Commercials via Multi-Task Learning",
       "video": "https://drive.google.com/uc?export=view&id=14XBWlSHxm8Z6cDKguzHtyqobvyS5xmTc"
     },
     "forum": "238",
@@ -728,8 +690,8 @@
   },
   {
     "content": {
-      "TLDR": "Nowadays, humans are constantly exposed to music, whether through voluntary streaming services or incidental encounters during commercial breaks. Despite the abundance of music, certain pieces remain more memorable and often gain greater popularity. Inspired by this phenomenon, we focus on measuring and predicting music memorability. To achieve this, we collect a new music piece dataset with reliable memorability labels using a novel interactive experimental procedure. We then train baselines to predict and analyze music memorability, leveraging both interpretable features and audio mel-spectrograms as inputs. To the best of our knowledge, we are the first to explore music memorability using data-driven deep learning-based methods. Through a series of experiments and ablation studies, we demonstrate that while there is room for improvement, predicting music memorability with limited data is possible. Certain intrinsic elements, such as higher valence, arousal, and faster tempo, contribute to memorable music. As prediction techniques continue to evolve, real-life applications like music recommendation systems and music style transfer will undoubtedly benefit from this new area of research.",
-      "abstract": "Nowadays, humans are constantly exposed to music, whether through voluntary streaming services or incidental encounters during commercial breaks. Despite the abundance of music, certain pieces remain more memorable and often gain greater popularity. Inspired by this phenomenon, we focus on measuring and predicting music memorability. To achieve this, we collect a new music piece dataset with reliable memorability labels using a novel interactive experimental procedure. We then train baselines to predict and analyze music memorability, leveraging both interpretable features and audio mel-spectrograms as inputs. To the best of our knowledge, we are the first to explore music memorability using data-driven deep learning-based methods. Through a series of experiments and ablation studies, we demonstrate that while there is room for improvement, predicting music memorability with limited data is possible. Certain intrinsic elements, such as higher valence, arousal, and faster tempo, contribute to memorable music. As prediction techniques continue to evolve, real-life applications like music recommendation systems and music style transfer will undoubtedly benefit from this new area of research.<br><br> <b><p align=\"center\"> If the video does not load properly please use the [direct link to video](https://drive.google.com/uc?export=view&id=1sx0VLxNPVR2yhVcF7oafzlE4dwxFYw11)</b>",
+      "TLDR": "Nowadays, humans are constantly exposed to music, whether through voluntary streaming services or incidental encounters during commercial breaks. Despite the abundance of music, certain pieces remain more memorable and often gain greater popularity. Inspired by this phenomenon, we focus on measuring and predicting music memorability. To achieve this, we collect a new music piece dataset with reliable memorability labels using a novel interactive experimental procedure. We then train baselines to predict and analyze music memorability, leveraging both interpretable features and audio mel-spectrograms as inputs. To the best of our knowledge, we are the first to explore music memorability using data-driven deep learning-based methods. Through a series of experiments and ablation studies, we demonstrate that while there is room for improvement, predicting music memorability with limited data is possible. Certain intrinsic elements, such as higher valence, arousal, and faster tempo, contribute to memorable music. As prediction techniques continue to evolve, real-life applications like music recommendation systems and music style transfer will undoubtedly benefit from this new area of research.<br><br><b>[Poster session Zoom meeting](https://polimi-it.zoom.us/j/94855972182)</b>",
+      "abstract": "Nowadays, humans are constantly exposed to music, whether through voluntary streaming services or incidental encounters during commercial breaks. Despite the abundance of music, certain pieces remain more memorable and often gain greater popularity. Inspired by this phenomenon, we focus on measuring and predicting music memorability. To achieve this, we collect a new music piece dataset with reliable memorability labels using a novel interactive experimental procedure. We then train baselines to predict and analyze music memorability, leveraging both interpretable features and audio mel-spectrograms as inputs. To the best of our knowledge, we are the first to explore music memorability using data-driven deep learning-based methods. Through a series of experiments and ablation studies, we demonstrate that while there is room for improvement, predicting music memorability with limited data is possible. Certain intrinsic elements, such as higher valence, arousal, and faster tempo, contribute to memorable music. As prediction techniques continue to evolve, real-life applications like music recommendation systems and music style transfer will undoubtedly benefit from this new area of research.<br><br><b>[Poster session Zoom meeting](https://polimi-it.zoom.us/j/94855972182)</b><br><br> <b><p align=\"center\"> If the video does not load properly please use the [direct link to video](https://drive.google.com/uc?export=view&id=1sx0VLxNPVR2yhVcF7oafzlE4dwxFYw11)</b>",
       "authors": [
         "Li-Yang Tseng (National Yang Ming Chiao Tung University)",
         " Tzu-Ling Lin (National Yang Ming Chiao Tung University)",
@@ -738,27 +700,23 @@
         " Wen-Whei Chang (National Yang Ming Chiao Tung University)"
       ],
       "authors_and_affil": [
-        "Li-Yang Tseng (National Yang Ming Chiao Tung University)",
-        " Tzu-Ling Lin (National Yang Ming Chiao Tung University)",
-        " Hong-Han Shuai (National Yang Ming Chiao Tung University)*",
-        " JEN-WEI HUANG (NYCU)",
-        " Wen-Whei Chang (National Yang Ming Chiao Tung University)"
+        ""
       ],
       "channel_url": "https://slack.com/app_redirect?channel=C063RTDB6PQ",
       "day": "2",
       "keywords": [
-        "Evaluation, datasets, and reproducibility -> novel datasets and use cases",
-        "MIR and machine learning for musical acoustics -> applications of machine learning to musical acoustics"
+        "MIR and machine learning for musical acoustics -> applications of machine learning to musical acoustics",
+        "Evaluation, datasets, and reproducibility -> novel datasets and use cases"
       ],
       "long_presentation": "False",
       "paper_presentation": "Virtually",
       "pdf_path": "https://archives.ismir.net/ismir2023/paper/000019.pdf",
-      "poster_pdf": "https://drive.google.com/file/d/1_57q-qGsRO9druNfRi3YHndX4LqLll4r/view",
+      "poster_pdf": "https://drive.google.com/file/d/1V6Q7jnAKSukOFmkS81s_eamTEKHPDIEK/view?usp=sharing ",
       "session": [
         "2"
       ],
       "slack_channel": "p2-03-shuai",
-      "title": "A dataset and Baselines for Measuring and Predicting the Music Piece Memorability",
+      "title": "A Dataset and Baselines for Measuring and Predicting the Music Piece Memorability",
       "video": "https://drive.google.com/uc?export=view&id=1sx0VLxNPVR2yhVcF7oafzlE4dwxFYw11"
     },
     "forum": "56",
@@ -779,10 +737,7 @@
         " Jorge Calvo-Zaragoza (University of Alicante)*"
       ],
       "authors_and_affil": [
-        "Carlos Penarrubia (University of Alicante)",
-        " Carlos Garrido-Munoz (University of Alicante)",
-        " Jose J. Valero-Mas (Universitat Pompeu Fabra)",
-        " Jorge Calvo-Zaragoza (University of Alicante)*"
+        ""
       ],
       "channel_url": "https://slack.com/app_redirect?channel=C064MGKUE1E",
       "day": "2",
@@ -819,19 +774,16 @@
         " Connelly Barnes (Adobe Research)"
       ],
       "authors_and_affil": [
-        "Yuting Yang (Princeton University)*",
-        " Zeyu Jin (Adobe Research)",
-        " Adam Finkelstein (Princeton University)",
-        " Connelly Barnes (Adobe Research)"
+        ""
       ],
       "channel_url": "https://slack.com/app_redirect?channel=C063YGV7KRQ",
       "day": "2",
       "keywords": [
-        " MIR and machine learning for musical acoustics -> applications of musical acoustics to signal synthesis",
-        "Applications -> music composition, performance, and production",
-        " MIR and machine learning for musical acoustics -> applications of machine learning to musical acoustics",
         "MIR and machine learning for musical acoustics",
-        " MIR fundamentals and methodology -> music signal processing"
+        " MIR and machine learning for musical acoustics -> applications of machine learning to musical acoustics",
+        " MIR fundamentals and methodology -> music signal processing",
+        " MIR and machine learning for musical acoustics -> applications of musical acoustics to signal synthesis",
+        "Applications -> music composition, performance, and production"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -841,7 +793,7 @@
         "2"
       ],
       "slack_channel": "p2-05-yang",
-      "title": "White Box Search over Audio Synthesizer Parameters",
+      "title": "White Box Search Over Audio Synthesizer Parameters",
       "video": "https://drive.google.com/uc?export=view&id=1037kUfS31td5mzFzQ8M_gvlnrQpxUHLH"
     },
     "forum": "59",
@@ -863,19 +815,15 @@
         " Masataka Goto (National Institute of Advanced Industr"
       ],
       "authors_and_affil": [
-        "Vincent K.M. Cheung (Sony Computer Science Laboratories, Inc.)*",
-        " Lana Okuma (RIKEN)",
-        " Kazuhisa Shibata (RIKEN)",
-        " Kosetsu Tsukuda (National Institute of Advanced Industrial Science and Technology (AIST))",
-        " Masataka Goto (National Institute of Advanced Industr"
+        ""
       ],
       "channel_url": "https://slack.com/app_redirect?channel=C063RTDKFFY",
       "day": "2",
       "keywords": [
-        "Human-centered MIR -> user-centered evaluation",
         " Knowledge-driven approaches to MIR -> cognitive MIR",
-        "Human-centered MIR -> human-computer interaction",
-        " Human-centered MIR -> user behavior analysis and mining, user modeling"
+        " Human-centered MIR -> user behavior analysis and mining, user modeling",
+        "Human-centered MIR -> user-centered evaluation",
+        "Human-centered MIR -> human-computer interaction"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -885,7 +833,7 @@
         "2"
       ],
       "slack_channel": "p2-06-cheung",
-      "title": "Decoding drums, instrumentals, vocals, and mixed sources in music using human brain activity with fMRI",
+      "title": "Decoding Drums, Instrumentals, Vocals, and Mixed Sources in Music Using Human Brain Activity With fMRI",
       "video": "https://drive.google.com/uc?export=view&id=1xhJ5KjTYnpdTQB3oFl5CYxaLjUd1DVl3"
     },
     "forum": "63",
@@ -906,17 +854,14 @@
         " Jing Luo (Xi'an Jiaotong University)"
       ],
       "authors_and_affil": [
-        "Liyue Zhang ( Xi\u2019an Jiaotong University)*",
-        " Xinyu Yang (Xi'an Jiaotong University)",
-        " Yichi Zhang (Xi'an Jiaotong University)",
-        " Jing Luo (Xi'an Jiaotong University)"
+        ""
       ],
       "channel_url": "https://slack.com/app_redirect?channel=C064MGL7E7J",
       "day": "2",
       "keywords": [
-        "MIR tasks -> automatic classification",
+        " Musical features and properties -> musical affect, emotion and mood",
         "MIR fundamentals and methodology -> music signal processing",
-        " Musical features and properties -> musical affect, emotion and mood"
+        "MIR tasks -> automatic classification"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -926,7 +871,7 @@
         "2"
       ],
       "slack_channel": "p2-07-zhang",
-      "title": "Dual Attention-based Multi-scale Feature Fusion Approach for Dynamic Music Emotion Recognition",
+      "title": "Dual Attention-Based Multi-Scale Feature Fusion Approach for Dynamic Music Emotion Recognition",
       "video": "https://drive.google.com/uc?export=view&id=1mC18LEQOFkb3GyHxXFDdUf5puYgjv_f8"
     },
     "forum": "68",
@@ -949,18 +894,13 @@
         " Yuki Mitsufuji (Sony Group Corporation)"
       ],
       "authors_and_affil": [
-        "Keisuke Toyama (Sony Group Corporation)*",
-        " Taketo Akama (Sony CSL)",
-        " Yukara Ikemiya (Sony Research)",
-        " Yuhta Takida (Sony Group Corporation)",
-        " WeiHsiang Liao (Sony Group Corporation)",
-        " Yuki Mitsufuji (Sony Group Corporation)"
+        ""
       ],
       "channel_url": "https://slack.com/app_redirect?channel=C063RTDRA5C",
       "day": "2",
       "keywords": [
-        "",
-        "MIR tasks -> music transcription and annotation"
+        "MIR tasks -> music transcription and annotation",
+        ""
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -970,7 +910,7 @@
         "2"
       ],
       "slack_channel": "p2-08-toyama",
-      "title": "Automatic Piano Transcription with Hierarchical Frequency-Time Transformer",
+      "title": "Automatic Piano Transcription With Hierarchical Frequency-Time Transformer",
       "video": "https://drive.google.com/uc?export=view&id=1Flog5weyWDCqIryWhj9XDpDo2kmLajwq"
     },
     "forum": "72",
@@ -991,19 +931,16 @@
         " Xavier Serra (Universitat Pompeu Fabra )"
       ],
       "authors_and_affil": [
-        "Nazif Can Tamer (Universitat Pompeu Fabra)*",
-        " Yigitcan \u00d6zer (International Audio Laboratories Erlangen)",
-        " Meinard M\u00fcller (International Audio Laboratories Erlangen)",
-        " Xavier Serra (Universitat Pompeu Fabra )"
+        ""
       ],
       "channel_url": "https://slack.com/app_redirect?channel=C064B67CE1F",
       "day": "2",
       "keywords": [
-        "Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music",
+        "MIR tasks -> music transcription and annotation",
         " MIR tasks -> alignment, synchronization, and score following",
         " Musical features and properties -> representations of music",
         " Musical features and properties -> expression and performative aspects of music",
-        "MIR tasks -> music transcription and annotation",
+        "Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music",
         " MIR fundamentals and methodology -> music signal processing"
       ],
       "long_presentation": "False",
@@ -1014,7 +951,7 @@
         "2"
       ],
       "slack_channel": "p2-09-tamer",
-      "title": "High-Resolution Violin Transcription using Weak Labels",
+      "title": "High-Resolution Violin Transcription Using Weak Labels",
       "video": "https://drive.google.com/uc?export=view&id=19PEwJtC-35XcbPaJy5ukN0uBoIzi3d1f"
     },
     "forum": "223",
@@ -1035,18 +972,15 @@
         " Jingwei Zhao (National University of Singapore)"
       ],
       "authors_and_affil": [
-        "Lejun Min (Shanghai Jiao Tong University)*",
-        " Junyan Jiang (New York University Shanghai)",
-        " Gus Xia (New York University Shanghai)",
-        " Jingwei Zhao (National University of Singapore)"
+        ""
       ],
       "channel_url": "https://slack.com/app_redirect?channel=C063YGVMYCS",
       "day": "2",
       "keywords": [
-        "Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music",
-        " Knowledge-driven approaches to MIR -> representations of music",
         " MIR fundamentals and methodology -> symbolic music processing",
-        "MIR tasks -> music generation"
+        "Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music",
+        "MIR tasks -> music generation",
+        " Knowledge-driven approaches to MIR -> representations of music"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -1056,7 +990,7 @@
         "2"
       ],
       "slack_channel": "p2-10-min",
-      "title": "Polyffusion: A Diffusion Model for Polyphonic Score Generation with Internal and External Controls",
+      "title": "Polyffusion: A Diffusion Model for Polyphonic Score Generation With Internal and External Controls",
       "video": "https://drive.google.com/uc?export=view&id=1dGIexp74B_hpMGlqHfo5sfAk-9kHC3vP"
     },
     "forum": "51",
@@ -1075,17 +1009,16 @@
         " Nathaniel Condit-Schultz (Georgia Institute of Technology)"
       ],
       "authors_and_affil": [
-        "Claire Arthur (Georgia Institute of Technology)*",
-        " Nathaniel Condit-Schultz (Georgia Institute of Technology)"
+        ""
       ],
       "channel_url": "https://slack.com/app_redirect?channel=C064B67JV2M",
       "day": "2",
       "keywords": [
-        " Musical features and properties -> melody and motives",
         "Computational musicology -> digital musicology",
-        " Musical features and properties -> harmony, chords and tonality",
-        " Knowledge-driven approaches to MIR -> cognitive MIR",
+        " Musical features and properties -> melody and motives",
         " Computational musicology -> systematic musicology",
+        " Knowledge-driven approaches to MIR -> cognitive MIR",
+        " Musical features and properties -> harmony, chords and tonality",
         "Evaluation, datasets, and reproducibility -> novel datasets and use cases"
       ],
       "long_presentation": "False",
@@ -1117,16 +1050,13 @@
         " Jos De Backer (LUCA School of Arts)"
       ],
       "authors_and_affil": [
-        "Anja Volk (Utrecht University)*",
-        " Tinka Veldhuis (Utrecht University)",
-        " Katrien Foubert (LUCA School of Arts)",
-        " Jos De Backer (LUCA School of Arts)"
+        ""
       ],
       "channel_url": "https://slack.com/app_redirect?channel=C064B67NGNM",
       "day": "2",
       "keywords": [
-        "Applications",
-        "Applications -> music and health, well-being and therapy"
+        "Applications -> music and health, well-being and therapy",
+        "Applications"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -1136,7 +1066,7 @@
         "2"
       ],
       "slack_channel": "p2-12-volk",
-      "title": "Towards computational music analysis for music therapy",
+      "title": "Towards Computational Music Analysis for Music Therapy",
       "video": "https://drive.google.com/uc?export=view&id=1Y2c00qrsceqIemNOanPAnBklWPEowTds"
     },
     "forum": "153",
@@ -1156,15 +1086,13 @@
         " Augusto Sarti (Politecnico di Milano)"
       ],
       "authors_and_affil": [
-        "Luca Comanducci (Politecnico di Milano)*",
-        " Fabio Antonacci (Politecnico di Milano)",
-        " Augusto Sarti (Politecnico di Milano)"
+        ""
       ],
       "channel_url": "https://slack.com/app_redirect?channel=C06410QDPUL",
       "day": "2",
       "keywords": [
-        "Musical features and properties -> timbre, instrumentation, and singing voice",
-        "MIR tasks -> music synthesis and transformation"
+        "MIR tasks -> music synthesis and transformation",
+        "Musical features and properties -> timbre, instrumentation, and singing voice"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -1174,7 +1102,7 @@
         "2"
       ],
       "slack_channel": "p2-13-comanducci",
-      "title": "Timbre Transfer using Image-to-Image Denoising Diffusion Implicit Models",
+      "title": "Timbre Transfer Using Image-to-Image Denoising Diffusion Implicit Models",
       "video": "https://drive.google.com/uc?export=view&id=1qU345rZrSCXeeK_k3aylFUWrvOTuQFSW"
     },
     "forum": "197",
@@ -1193,16 +1121,15 @@
         " Blair Kaneshiro (Stanford University)"
       ],
       "authors_and_affil": [
-        "Neha Rajagopalan (Stanford University)*",
-        " Blair Kaneshiro (Stanford University)"
+        ""
       ],
       "channel_url": "https://slack.com/app_redirect?channel=C064MGM0UJU",
       "day": "2",
       "keywords": [
-        " MIR fundamentals and methodology -> multimodality",
-        "Knowledge-driven approaches to MIR -> cognitive MIR",
+        " Musical features and properties -> structure, segmentation, and form",
         "Human-centered MIR",
-        " Musical features and properties -> structure, segmentation, and form"
+        " MIR fundamentals and methodology -> multimodality",
+        "Knowledge-driven approaches to MIR -> cognitive MIR"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -1212,7 +1139,7 @@
         "2"
       ],
       "slack_channel": "p2-14-rajagopalan",
-      "title": "Correlation of EEG responses reflects structural similarity of choruses in popular music",
+      "title": "Correlation of EEG Responses Reflects Structural Similarity of Choruses in Popular Music",
       "video": "https://drive.google.com/uc?export=view&id=1IEs2vHDAZxE76QV10AHpIX9h39tol-M_"
     },
     "forum": "259",
@@ -1230,17 +1157,17 @@
         "Mark R H Gotham (Durham)*"
       ],
       "authors_and_affil": [
-        "Mark R H Gotham (Durham)*"
+        ""
       ],
       "channel_url": "https://slack.com/app_redirect?channel=C063J16E095",
       "day": "2",
       "keywords": [
-        " Musical features and properties -> rhythm, beat, tempo",
         "Knowledge-driven approaches to MIR -> computational music theory and musicology",
         "Computational musicology -> digital musicology",
+        " Musical features and properties -> rhythm, beat, tempo",
+        " Computational musicology -> systematic musicology",
         " Musical features and properties -> harmony, chords and tonality",
-        " Computational musicology -> mathematical music theory",
-        " Computational musicology -> systematic musicology"
+        " Computational musicology -> mathematical music theory"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -1271,16 +1198,13 @@
         " Li Su (Academia Sinica)*"
       ],
       "authors_and_affil": [
-        "YO-WEI HSIAO (Academia Sinica)",
-        " TZU-YUN Hung (National Taiwan Normal University)",
-        " Tsung-Ping Chen (Academia Sinica)",
-        " Li Su (Academia Sinica)*"
+        ""
       ],
       "channel_url": "https://slack.com/app_redirect?channel=C064MGM78JC",
       "day": "3",
       "keywords": [
-        "MIR fundamentals and methodology -> symbolic music processing",
-        "MIR tasks -> pattern matching and detection"
+        "MIR tasks -> pattern matching and detection",
+        "MIR fundamentals and methodology -> symbolic music processing"
       ],
       "long_presentation": "True",
       "paper_presentation": "In Person",
@@ -1310,17 +1234,15 @@
         " Meinard M\u00fcller (International Audio Laboratories Erlangen)"
       ],
       "authors_and_affil": [
-        "Michael Krause (International Audio Laboratories Erlangen)*",
-        " Sebastian Strahl (Friedrich-Alexander-Universit\u00e4t Erlangen-N\u00fcrnberg)",
-        " Meinard M\u00fcller (International Audio Laboratories Erlangen)"
+        ""
       ],
       "channel_url": "https://slack.com/app_redirect?channel=C063YE227EF",
       "day": "3",
       "keywords": [
-        "Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music",
-        " Knowledge-driven approaches to MIR -> representations of music",
+        "MIR tasks -> music transcription and annotation",
         " MIR tasks -> alignment, synchronization, and score following",
-        "MIR tasks -> music transcription and annotation"
+        "Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music",
+        " Knowledge-driven approaches to MIR -> representations of music"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -1349,17 +1271,16 @@
         " Gerhard Widmer (Johannes Kepler University)"
       ],
       "authors_and_affil": [
-        "Patricia Hu (Johannes Kepler University)*",
-        " Gerhard Widmer (Johannes Kepler University)"
+        ""
       ],
       "channel_url": "https://slack.com/app_redirect?channel=C063J16Q4LX",
       "day": "3",
       "keywords": [
-        "Evaluation, datasets, and reproducibility -> annotation protocols",
         "Evaluation, datasets, and reproducibility",
-        " MIR fundamentals and methodology -> symbolic music processing",
         " Musical features and properties -> expression and performative aspects of music",
-        " Evaluation, datasets, and reproducibility -> reproducibility"
+        "Evaluation, datasets, and reproducibility -> annotation protocols",
+        " Evaluation, datasets, and reproducibility -> reproducibility",
+        " MIR fundamentals and methodology -> symbolic music processing"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -1369,7 +1290,7 @@
         "3"
       ],
       "slack_channel": "p3-03-hu",
-      "title": "The Batik-plays-Mozart Corpus:  Linking Performance to Score to Musicological Annotations",
+      "title": "The Batik-Plays-Mozart Corpus: Linking Performance to Score to Musicological Annotations",
       "video": "https://drive.google.com/uc?export=view&id=1f4QHPE7FMDQO3v3qF2beiqsaujGwSPVw"
     },
     "forum": "92",
@@ -1393,21 +1314,15 @@
         " Giulio Cengarle (Dolby Laboratories)"
       ],
       "authors_and_affil": [
-        "Joan Serra (Dolby Laboratories)*",
-        " Davide Scaini (Dolby Laboratories)",
-        " Santiago Pascual (Dolby Laboratories)",
-        " Daniel Arteaga (Dolby Laboratories)",
-        " Jordi Pons (Dolby Laboratories)",
-        " Jeroen Breebaart (Dolby Laboratories)",
-        " Giulio Cengarle (Dolby Laboratories)"
+        ""
       ],
       "channel_url": "https://slack.com/app_redirect?channel=C063J16TLFR",
       "day": "3",
       "keywords": [
-        " MIR tasks -> music generation",
-        "MIR and machine learning for musical acoustics -> applications of machine learning to musical acoustics",
         "MIR tasks -> music synthesis and transformation",
-        " MIR fundamentals and methodology -> music signal processing"
+        "MIR and machine learning for musical acoustics -> applications of machine learning to musical acoustics",
+        " MIR fundamentals and methodology -> music signal processing",
+        " MIR tasks -> music generation"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -1417,7 +1332,7 @@
         "3"
       ],
       "slack_channel": "p3-04-serra",
-      "title": "Mono-to-stereo through parametric stereo generation",
+      "title": "Mono-to-Stereo Through Parametric Stereo Generation",
       "video": "https://drive.google.com/uc?export=view&id=1qQz-iD-vnFqK9jd-WOnGhFUbsiWQ_oi5"
     },
     "forum": "100",
@@ -1437,17 +1352,15 @@
         " Alexandros Potamianos (National Technical University of Athens)"
       ],
       "authors_and_affil": [
-        "Charilaos Papaioannou (School of ECE, National Technical University of Athens)*",
-        " Emmanouil Benetos (Queen Mary University of London)",
-        " Alexandros Potamianos (National Technical University of Athens)"
+        ""
       ],
       "channel_url": "https://slack.com/app_redirect?channel=C063VK62693",
       "day": "3",
       "keywords": [
-        "Knowledge-driven approaches to MIR -> computational ethnomusicology",
         "Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music",
+        " MIR fundamentals and methodology -> music signal processing",
         " MIR tasks -> automatic classification",
-        " MIR fundamentals and methodology -> music signal processing"
+        "Knowledge-driven approaches to MIR -> computational ethnomusicology"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -1457,7 +1370,7 @@
         "3"
       ],
       "slack_channel": "p3-05-papaioannou",
-      "title": "From West to East: Who can understand the music of the others better?",
+      "title": "From West to East: Who Can Understand the Music of the Others Better?",
       "video": "https://drive.google.com/uc?export=view&id=1Q5im0b7JCRsIYxzLriy1pW-zu_vqpUOt"
     },
     "forum": "101",
@@ -1478,19 +1391,16 @@
         " Jorge Calvo-Zaragoza (University of Alicante)"
       ],
       "authors_and_affil": [
-        "Juan Carlos Martinez-Sevilla (University of Alicante)*",
-        " Adri\u00e1n Rosell\u00f3 (Universidad de Alicante)",
-        " David Rizo (Universidad de Alicante)",
-        " Jorge Calvo-Zaragoza (University of Alicante)"
+        ""
       ],
       "channel_url": "https://slack.com/app_redirect?channel=C064B68PN73",
       "day": "3",
       "keywords": [
-        " Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music",
-        " Evaluation, datasets, and reproducibility -> evaluation methodology",
         " Evaluation, datasets, and reproducibility -> annotation protocols",
+        "Applications -> music retrieval systems",
+        " Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music",
         "MIR tasks -> optical music recognition",
-        "Applications -> music retrieval systems"
+        " Evaluation, datasets, and reproducibility -> evaluation methodology"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -1518,14 +1428,14 @@
         "Martin E Malandro (Sam Houston State University)*"
       ],
       "authors_and_affil": [
-        "Martin E Malandro (Sam Houston State University)*"
+        ""
       ],
       "channel_url": "https://slack.com/app_redirect?channel=C063RTFDAG6",
       "day": "3",
       "keywords": [
         " MIR fundamentals and methodology -> symbolic music processing",
-        " MIR tasks -> music generation",
         "Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music",
+        " MIR tasks -> music generation",
         "Human-centered MIR -> human-computer interaction"
       ],
       "long_presentation": "False",
@@ -1555,15 +1465,14 @@
         " David Temperley (Eastman School of Music)"
       ],
       "authors_and_affil": [
-        "Ethan Lustig (Ethan Lustig)*",
-        " David Temperley (Eastman School of Music)"
+        ""
       ],
       "channel_url": "https://slack.com/app_redirect?channel=C063YE2NEQK",
       "day": "3",
       "keywords": [
         "Human-centered MIR -> personalization",
-        " Musical features and properties -> musical affect, emotion and mood",
         "Knowledge-driven approaches to MIR -> cognitive MIR",
+        " Musical features and properties -> musical affect, emotion and mood",
         " Human-centered MIR -> user-centered evaluation",
         " Knowledge-driven approaches to MIR -> representations of music"
       ],
@@ -1575,7 +1484,7 @@
         "3"
       ],
       "slack_channel": "p3-08-lustig",
-      "title": "The FAV Corpus: An audio dataset of favorite pieces and excerpts, with formal analyses and music theory descriptors",
+      "title": "The FAV Corpus: An Audio Dataset of Favorite Pieces and Excerpts, With Formal Analyses and Music Theory Descriptors",
       "video": "https://drive.google.com/uc?export=view&id=1nbsc_C380nLwUlgZQJRDJ7Pme8oIapqI"
     },
     "forum": "114",
@@ -1600,21 +1509,14 @@
         " Roger B. Dannenberg (School of Comp"
       ],
       "authors_and_affil": [
-        "Le Zhuo (Beihang University)",
-        " Ruibin Yuan (CMU)*",
-        " Jiahao Pan (HKBU)",
-        " Yinghao MA (Queen Mary University of London)",
-        " Yizhi Li (The University  of Sheffield)",
-        " Ge Zhang (University of Michigan)",
-        " Si Liu (Beihang University)",
-        " Roger B. Dannenberg (School of Comp"
+        ""
       ],
       "channel_url": "https://slack.com/app_redirect?channel=C06410RM5TN",
       "day": "3",
       "keywords": [
+        "MIR fundamentals and methodology -> lyrics and other textual data",
         " Evaluation, datasets, and reproducibility -> novel datasets and use cases",
-        "Evaluation, datasets, and reproducibility -> annotation protocols",
-        "MIR fundamentals and methodology -> lyrics and other textual data"
+        "Evaluation, datasets, and reproducibility -> annotation protocols"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -1646,21 +1548,17 @@
         " Xavier Serra (Universitat Pompeu Fabra )"
       ],
       "authors_and_affil": [
-        "Alia Morsi (Universitat Pompeu Fabra)*",
-        " Kana Tatsumi (Nagoya Institute of Technology)",
-        " Akira Maezawa (Yamaha Corporation)",
-        " Takuya Fujishima (Yamaha Corporation)",
-        " Xavier Serra (Universitat Pompeu Fabra )"
+        ""
       ],
       "channel_url": "https://slack.com/app_redirect?channel=C063J17J2DV",
       "day": "3",
       "keywords": [
-        "Evaluation, datasets, and reproducibility -> annotation protocols",
-        " Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music",
-        " MIR tasks -> automatic classification",
         " Evaluation, datasets, and reproducibility -> novel datasets and use cases",
+        "Applications -> music training and education",
         " Musical features and properties -> expression and performative aspects of music",
-        "Applications -> music training and education"
+        "Evaluation, datasets, and reproducibility -> annotation protocols",
+        " MIR tasks -> automatic classification",
+        " Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -1670,7 +1568,7 @@
         "3"
       ],
       "slack_channel": "p3-10-morsi",
-      "title": "SOUNDS OUT OF PL\u00c4CE? SCORE INDEPENDENT DETECTION OF CONSPICUOUS MISTAKE REGIONS IN MIDI PIANO PERFORMANCES",
+      "title": "Sounds Out of Pl\u00e4ce? Score Independent Detection of Conspicuous Mistakes in Piano Performances",
       "video": "https://drive.google.com/uc?export=view&id=1Cx0nL2HWni7ocLN0GUXBM3g-IZ0_oOAi"
     },
     "forum": "118",
@@ -1691,18 +1589,15 @@
         " Bryan Pardo (Northwestern University)"
       ],
       "authors_and_affil": [
-        "Hugo F  Flores Garcia (Northwestern University)*",
-        " Prem Seetharaman (Northwestern University)",
-        " Rithesh Kumar (Descript)",
-        " Bryan Pardo (Northwestern University)"
+        ""
       ],
       "channel_url": "https://slack.com/app_redirect?channel=C063YE3326P",
       "day": "3",
       "keywords": [
-        "Applications -> music composition, performance, and production",
         " MIR tasks -> music synthesis and transformation",
-        " Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music",
-        "MIR tasks -> music generation"
+        "Applications -> music composition, performance, and production",
+        "MIR tasks -> music generation",
+        " Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -1730,17 +1625,17 @@
         "Yucong Jiang (University of Richmond)*"
       ],
       "authors_and_affil": [
-        "Yucong Jiang (University of Richmond)*"
+        ""
       ],
       "channel_url": "https://slack.com/app_redirect?channel=C063VK6RDJ9",
       "day": "3",
       "keywords": [
         " MIR tasks -> alignment, synchronization, and score following",
-        " MIR fundamentals and methodology -> lyrics and other textual data",
-        "Human-centered MIR -> music interfaces and services",
+        "Applications -> music training and education",
         " Musical features and properties -> expression and performative aspects of music",
+        " MIR fundamentals and methodology -> lyrics and other textual data",
         " MIR fundamentals and methodology -> music signal processing",
-        "Applications -> music training and education"
+        "Human-centered MIR -> music interfaces and services"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -1772,20 +1667,16 @@
         " Fabien Gouyon (Pandora/SiriusXM)"
       ],
       "authors_and_affil": [
-        "Andres Ferraro (Pandora/SiriusXM)*",
-        " Jaehun Kim (Pandora / SiriusXM)",
-        " Andreas Ehmann (Pandora)",
-        " Sergio Oramas (Pandora/SiriusXM)",
-        " Fabien Gouyon (Pandora/SiriusXM)"
+        ""
       ],
       "channel_url": "https://slack.com/app_redirect?channel=C063VK6UPHT",
       "day": "3",
       "keywords": [
-        " Musical features and properties -> representations of music",
-        "Applications -> music retrieval systems",
-        "Applications -> music recommendation and playlist generation",
         " MIR fundamentals and methodology -> multimodality",
-        " MIR tasks -> similarity metrics"
+        "Applications -> music recommendation and playlist generation",
+        " Musical features and properties -> representations of music",
+        " MIR tasks -> similarity metrics",
+        "Applications -> music retrieval systems"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -1795,7 +1686,7 @@
         "3"
       ],
       "slack_channel": "p3-13-ferraro",
-      "title": "Contrastive Learning for Cross-modal Artist Retrieval",
+      "title": "Contrastive Learning for Cross-Modal Artist Retrieval",
       "video": "https://drive.google.com/uc?export=view&id=1glaZPkG4r3hjat4frky06CPI2dJQu7Gv"
     },
     "forum": "147",
@@ -1817,20 +1708,16 @@
         " Martin A Rohrmeier (Ecole Polytechnique F\u00e9d\u00e9rale de Lausanne)"
       ],
       "authors_and_affil": [
-        "Christoph Finkensiep (EPFL)*",
-        " Matthieu Haeberle (EPFL)",
-        " Friedrich Eisenbrand (EPFL)",
-        " Markus Neuwirth (Anton Bruckner Privatuniversit\u00e4t Linz)",
-        " Martin A Rohrmeier (Ecole Polytechnique F\u00e9d\u00e9rale de Lausanne)"
+        ""
       ],
       "channel_url": "https://slack.com/app_redirect?channel=C06410S8TBN",
       "day": "3",
       "keywords": [
-        "Computational musicology",
         " Knowledge-driven approaches to MIR -> computational music theory and musicology",
-        " Musical features and properties -> structure, segmentation, and form",
+        "Computational musicology",
+        " MIR fundamentals and methodology -> symbolic music processing",
         "Computational musicology -> mathematical music theory",
-        " MIR fundamentals and methodology -> symbolic music processing"
+        " Musical features and properties -> structure, segmentation, and form"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -1840,7 +1727,7 @@
         "3"
       ],
       "slack_channel": "p3-14-finkensiep",
-      "title": "Repetition-Structure Inference with Formal Prototypes",
+      "title": "Repetition-Structure Inference With Formal Prototypes",
       "video": "https://drive.google.com/uc?export=view&id=1_NLe1v6sPdZHtLwyG9EPrTKMr4NYPRxr"
     },
     "forum": "139",
@@ -1860,18 +1747,16 @@
         " Eoin J Kearns (Meertens Instituut)"
       ],
       "authors_and_affil": [
-        "Peter Van Kranenburg (Utrecht University",
-        " Meertens Institute)*",
-        " Eoin J Kearns (Meertens Instituut)"
+        ""
       ],
       "channel_url": "https://slack.com/app_redirect?channel=C063J185MD5",
       "day": "3",
       "keywords": [
         " Knowledge-driven approaches to MIR -> computational music theory and musicology",
-        " MIR tasks -> music generation",
+        "Musical features and properties -> melody and motives",
         "Computational musicology -> digital musicology",
         " Musical features and properties -> harmony, chords and tonality",
-        "Musical features and properties -> melody and motives",
+        " MIR tasks -> music generation",
         " Knowledge-driven approaches to MIR -> computational ethnomusicology"
       ],
       "long_presentation": "False",
@@ -1882,7 +1767,7 @@
         "3"
       ],
       "slack_channel": "p3-15-kranenburg",
-      "title": "Algorithmic Harmonization of Tonal Melodies using Weighted Pitch Context Vectors",
+      "title": "Algorithmic Harmonization of Tonal Melodies Using Weighted Pitch Context Vectors",
       "video": "https://drive.google.com/uc?export=view&id=1z4Ty51ZGrqT_IOXD08dqGK99PE3pHy-a"
     },
     "forum": "140",
@@ -1901,14 +1786,13 @@
         " Masataka Goto (National Institute of Advanced Industrial Science and Technology (AIST))"
       ],
       "authors_and_affil": [
-        "Kento Watanabe (National Institute of Advanced Industrial Science and Technology (AIST))*",
-        " Masataka Goto (National Institute of Advanced Industrial Science and Technology (AIST))"
+        ""
       ],
       "channel_url": "https://slack.com/app_redirect?channel=C063RTGDX1U",
       "day": "3",
       "keywords": [
-        "MIR fundamentals and methodology -> multimodality",
         "MIR fundamentals and methodology -> lyrics and other textual data",
+        "MIR fundamentals and methodology -> multimodality",
         " MIR fundamentals and methodology -> web mining, and natural language processing"
       ],
       "long_presentation": "False",
@@ -1919,7 +1803,7 @@
         "3"
       ],
       "slack_channel": "p3-16-watanabe",
-      "title": "Text-to-lyrics generation with image-based semantics and reduced risk of plagiarism",
+      "title": "Text-to-Lyrics Generation With Image-Based Semantics and Reduced Risk of Plagiarism",
       "video": "https://drive.google.com/uc?export=view&id=1DWTDGJ_tm3_Bcyy15p7Nd30HtcOWXSd7"
     },
     "forum": "142",
@@ -1940,10 +1824,7 @@
         " Juhan Nam (KAIST)"
       ],
       "authors_and_affil": [
-        "Seungheon Doh (KAIST)*",
-        " Keunwoo Choi (Gaudio Lab, Inc.)",
-        " Jongpil Lee (Neutune)",
-        " Juhan Nam (KAIST)"
+        ""
       ],
       "channel_url": "https://slack.com/app_redirect?channel=C063VK7DBSR",
       "day": "3",
@@ -1981,19 +1862,16 @@
         " Helene-Camille Crayencour (CNRS)"
       ],
       "authors_and_affil": [
-        "Morgan Buisson (Telecom-Paris)*",
-        " Brian McFee (New York University)",
-        " Slim Essid (Telecom Paris - Institut Polytechnique de Paris)",
-        " Helene-Camille Crayencour (CNRS)"
+        ""
       ],
       "channel_url": "https://slack.com/app_redirect?channel=C063RTGLTK8",
       "day": "3",
       "keywords": [
-        "Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music",
+        " MIR tasks -> pattern matching and detection",
         " Musical features and properties -> representations of music",
-        " Knowledge-driven approaches to MIR -> representations of music",
         "Musical features and properties -> structure, segmentation, and form",
-        " MIR tasks -> pattern matching and detection"
+        "Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music",
+        " Knowledge-driven approaches to MIR -> representations of music"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -2003,7 +1881,7 @@
         "4"
       ],
       "slack_channel": "p4-02-buisson",
-      "title": "A Repetition-based Triplet Mining Approach for Music Segmentation",
+      "title": "A Repetition-Based Triplet Mining Approach for Music Segmentation",
       "video": "https://drive.google.com/uc?export=view&id=1R7OXYDdiBnHw0MOzYYS22E5I0BzAsudD"
     },
     "forum": "146",
@@ -2023,18 +1901,16 @@
         " Gerhard Widmer (Johannes Kepler University)"
       ],
       "authors_and_affil": [
-        "Francesco Foscarin (Johannes Kepler University Linz)*",
-        " Daniel Harasim (\u00c9cole Polytechnique F\u00e9d\u00e9rale de Lausanne)",
-        " Gerhard Widmer (Johannes Kepler University)"
+        ""
       ],
       "channel_url": "https://slack.com/app_redirect?channel=C063RTGQA5C",
       "day": "3",
       "keywords": [
-        " Musical features and properties -> melody and motives",
-        "MIR fundamentals and methodology -> symbolic music processing",
-        " Musical features and properties -> structure, segmentation, and form",
         "Computational musicology -> digital musicology",
-        " Musical features and properties -> harmony, chords and tonality"
+        "MIR fundamentals and methodology -> symbolic music processing",
+        " Musical features and properties -> melody and motives",
+        " Musical features and properties -> harmony, chords and tonality",
+        " Musical features and properties -> structure, segmentation, and form"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -2044,7 +1920,7 @@
         "4"
       ],
       "slack_channel": "p4-03-foscarin",
-      "title": "Predicting Music Hierarchies with a Graph-Based Neural Decoder",
+      "title": "Predicting Music Hierarchies With a Graph-Based Neural Decoder",
       "video": "https://drive.google.com/uc?export=view&id=1RDdU2rt3vymAbrxAePGUMcqIdsb9alVR"
     },
     "forum": "87",
@@ -2065,10 +1941,7 @@
         " Meinard M\u00fcller (International Audio Laboratories Erlangen)"
       ],
       "authors_and_affil": [
-        "Johannes Zeitler (International Audio Laboratories Erlangen)*",
-        " Simon Deniffel (International Audio Laboratories Erlangen)",
-        " Michael Krause (International Audio Laboratories Erlangen)",
-        " Meinard M\u00fcller (International Audio Laboratories Erlangen)"
+        ""
       ],
       "channel_url": "https://slack.com/app_redirect?channel=C063J18NFHD",
       "day": "3",
@@ -2085,7 +1958,7 @@
         "4"
       ],
       "slack_channel": "p4-04-zeitler",
-      "title": "Stabilizing Training with Soft Dynamic Time Warping: A Case Study for Pitch Class Estimation with Weakly Aligned Targets",
+      "title": "Stabilizing Training With Soft Dynamic Time Warping: A Case Study for Pitch Class Estimation With Weakly Aligned Targets",
       "video": "https://drive.google.com/uc?export=view&id=1-78moijWNgGdVggNJ7Y9-m0Zf-urbrCc"
     },
     "forum": "133",
@@ -2105,17 +1978,15 @@
         " Dasaem Jeong (Sogang University)*"
       ],
       "authors_and_affil": [
-        "Danbinaerin Han (Sogang Univ.)",
-        " Rafael Caro Repetto (Kunstuniversit\u00e4t Graz)",
-        " Dasaem Jeong (Sogang University)*"
+        ""
       ],
       "channel_url": "https://slack.com/app_redirect?channel=C064MGPFXDE",
       "day": "3",
       "keywords": [
+        "Applications -> digital libraries and archives",
         " Musical features and properties -> melody and motives",
-        "Knowledge-driven approaches to MIR -> computational ethnomusicology",
         " Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music",
-        "Applications -> digital libraries and archives"
+        "Knowledge-driven approaches to MIR -> computational ethnomusicology"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -2125,7 +1996,7 @@
         "4"
       ],
       "slack_channel": "p4-05-jeong",
-      "title": "Finding Tori: Self-supervised Learning for Analyzing Korean Folk Song",
+      "title": "Finding Tori: Self-Supervised Learning for Analyzing Korean Folk Song",
       "video": "https://drive.google.com/uc?export=view&id=15pD_MIwtse6iGJYq87yB3clpOQF1yXUb"
     },
     "forum": "149",
@@ -2145,19 +2016,17 @@
         " Ga\u00ebl Richard (Telecom Paris, Institut polytechnique de Paris)"
       ],
       "authors_and_affil": [
-        "Bernardo Torres (Telecom Paris, Institut polytechnique de Paris)*",
-        " Stefan Lattner (Sony CSL)",
-        " Ga\u00ebl Richard (Telecom Paris, Institut polytechnique de Paris)"
+        ""
       ],
       "channel_url": "https://slack.com/app_redirect?channel=C063VK80NP7",
       "day": "3",
       "keywords": [
-        "Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music",
-        "Knowledge-driven approaches to MIR -> representations of music",
         " Musical features and properties -> timbre, instrumentation, and singing voice",
+        " MIR tasks -> music synthesis and transformation",
         " MIR tasks -> indexing and querying",
         " MIR tasks -> similarity metrics",
-        " MIR tasks -> music synthesis and transformation"
+        "Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music",
+        "Knowledge-driven approaches to MIR -> representations of music"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -2167,7 +2036,7 @@
         "4"
       ],
       "slack_channel": "p4-06-torres",
-      "title": "Singer Identity Representation Learning using Self-Supervised Techniques",
+      "title": "Singer Identity Representation Learning Using Self-Supervised Techniques",
       "video": "https://drive.google.com/uc?export=view&id=1r37TEwXvewpSGLyZrd4H5H5x3qy3zoQG"
     },
     "forum": "204",
@@ -2191,20 +2060,14 @@
         " Anton Ragni (University of Sheffie"
       ],
       "authors_and_affil": [
-        "Yinghao MA (Queen Mary University of London)*",
-        " Ruibin Yuan (CMU)",
-        " Yizhi Li (The University  of Sheffield)",
-        " Ge Zhang (University of Michigan)",
-        " Chenghua Lin (University of Sheffield)",
-        " Xingran Chen (University of Michigan)",
-        " Anton Ragni (University of Sheffie"
+        ""
       ],
       "channel_url": "https://slack.com/app_redirect?channel=C064B6AMLG1",
       "day": "3",
       "keywords": [
-        "Knowledge-driven approaches to MIR -> representations of music",
         "Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music",
-        " Musical features and properties -> representations of music"
+        " Musical features and properties -> representations of music",
+        "Knowledge-driven approaches to MIR -> representations of music"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -2214,7 +2077,7 @@
         "4"
       ],
       "slack_channel": "p4-07-ma",
-      "title": "ON THE EFFECTIVENESS OF SPEECH SELF-SUPERVISED LEARNING FOR MUSIC",
+      "title": "On the Effectiveness of Speech Self-Supervised Learning for Music",
       "video": "https://drive.google.com/uc?export=view&id=10mpCdKtSk5Yoru88f_Xb9G9ws8hWff3Z"
     },
     "forum": "154",
@@ -2227,20 +2090,19 @@
   {
     "content": {
       "TLDR": "In this paper, we address the beat tracking task which is to predict beat times corresponding to the input audio. Due to the long sequential inputs, it is still challenging to model the global structure efficiently and to deal with the data imbalance between beats and no beats. In order to meet the above challenges, we propose a novel Transformer-based model consisting of a low-resolution encoder and a high-resolution decoder. The encoder with low temporal resolution is suited to capture global features with more balanced data. The decoder with high temporal resolution is designed to predict beat times at a desired resolution. In the decoder, the global structure is considered by the cross attention between the global features and high-dimensional features. There are two key modifications in the proposed model: (1) adding 1D convolutional layers in the encoder and (2) replacing positional embedding by the upsampled encoder features in the decoder. In the experiment, we achieved the state-of-the-art performance and showed that the decoder produced more precise and stable results.",
-      "abstract": "In this paper, we address the beat tracking task which is to predict beat times corresponding to the input audio. Due to the long sequential inputs, it is still challenging to model the global structure efficiently and to deal with the data imbalance between beats and no beats. In order to meet the above challenges, we propose a novel Transformer-based model consisting of a low-resolution encoder and a high-resolution decoder. The encoder with low temporal resolution is suited to capture global features with more balanced data. The decoder with high temporal resolution is designed to predict beat times at a desired resolution. In the decoder, the global structure is considered by the cross attention between the global features and high-dimensional features. There are two key modifications in the proposed model: (1) adding 1D convolutional layers in the encoder and (2) replacing positional embedding by the upsampled encoder features in the decoder. In the experiment, we achieved the state-of-the-art performance and showed that the decoder produced more precise and stable results.<br><br> <b><p align=\"center\"> If the video does not load properly please use the [direct link to video](https://drive.google.com/uc?export=view&id=1Ui91-lbVqm_xEI-oEa0ZmS5DOznR5hdi)</b>",
+      "abstract": "In this paper, we address the beat tracking task which is to predict beat times corresponding to the input audio. Due to the long sequential inputs, it is still challenging to model the global structure efficiently and to deal with the data imbalance between beats and no beats. In order to meet the above challenges, we propose a novel Transformer-based model consisting of a low-resolution encoder and a high-resolution decoder. The encoder with low temporal resolution is suited to capture global features with more balanced data. The decoder with high temporal resolution is designed to predict beat times at a desired resolution. In the decoder, the global structure is considered by the cross attention between the global features and high-dimensional features. There are two key modifications in the proposed model: (1) adding 1D convolutional layers in the encoder and (2) replacing positional embedding by the upsampled encoder features in the decoder. In the experiment, we achieved the state-of-the-art performance and showed that the decoder produced more precise and stable results.<br><br> <b><p align=\"center\"> If the video does not load properly please use the [direct link to video](https://drive.google.com/uc?export=view&id=1Q8k183DTK5whs7ysx-6HKSVhfpTuqhjK)</b>",
       "authors": [
         "Tian Cheng (National Institute of Advanced Industrial Science and Technology (AIST))*",
         " Masataka Goto (National Institute of Advanced Industrial Science and Technology (AIST))"
       ],
       "authors_and_affil": [
-        "Tian Cheng (National Institute of Advanced Industrial Science and Technology (AIST))*",
-        " Masataka Goto (National Institute of Advanced Industrial Science and Technology (AIST))"
+        ""
       ],
       "channel_url": "https://slack.com/app_redirect?channel=C064MGPR77S",
       "day": "3",
       "keywords": [
-        "",
-        "Musical features and properties -> rhythm, beat, tempo"
+        "Musical features and properties -> rhythm, beat, tempo",
+        ""
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -2250,8 +2112,8 @@
         "4"
       ],
       "slack_channel": "p4-08-cheng",
-      "title": "Transformer-based beat tracking with low-resolution encoder and high-resolution decoder",
-      "video": "https://drive.google.com/uc?export=view&id=1Ui91-lbVqm_xEI-oEa0ZmS5DOznR5hdi"
+      "title": "Transformer-Based Beat Tracking With Low-Resolution Encoder and High-Resolution Decoder",
+      "video": "https://drive.google.com/uc?export=view&id=1Q8k183DTK5whs7ysx-6HKSVhfpTuqhjK"
     },
     "forum": "150",
     "id": "150",
@@ -2271,20 +2133,17 @@
         " Thierry Lecroq (Universit\u00e9 de Rouen Normandie )"
       ],
       "authors_and_affil": [
-        "Vanessa Nina Borsan (Universit\u00e9 de Lille)*",
-        " Mathieu Giraud (CNRS, Universit\u00e9 de Lille)",
-        " Richard Groult (Universit\u00e9 de Rouen Normandie)",
-        " Thierry Lecroq (Universit\u00e9 de Rouen Normandie )"
+        ""
       ],
       "channel_url": "https://slack.com/app_redirect?channel=C06410TEZHA",
       "day": "3",
       "keywords": [
-        " Musical features and properties -> melody and motives",
-        "Computational musicology",
-        "Knowledge-driven approaches to MIR -> computational ethnomusicology",
-        " MIR fundamentals and methodology -> symbolic music processing",
         " Evaluation, datasets, and reproducibility -> novel datasets and use cases",
-        " MIR tasks -> pattern matching and detection"
+        "Computational musicology",
+        " MIR tasks -> pattern matching and detection",
+        " Musical features and properties -> melody and motives",
+        " MIR fundamentals and methodology -> symbolic music processing",
+        "Knowledge-driven approaches to MIR -> computational ethnomusicology"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -2313,16 +2172,15 @@
         " Christine Bauer (Paris Lodron University Salzburg)"
       ],
       "authors_and_affil": [
-        "Karlijn Dinnissen (Utrecht University)*",
-        " Christine Bauer (Paris Lodron University Salzburg)"
+        ""
       ],
       "channel_url": "https://slack.com/app_redirect?channel=C063RTHGFHC",
       "day": "3",
       "keywords": [
-        " Philosophical and ethical discussions -> ethical issues related to designing and implementing MIR tools and technologies",
         " Human-centered MIR -> music interfaces and services",
-        "Human-centered MIR -> human-computer interaction",
-        "Human-centered MIR"
+        "Human-centered MIR",
+        " Philosophical and ethical discussions -> ethical issues related to designing and implementing MIR tools and technologies",
+        "Human-centered MIR -> human-computer interaction"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -2354,20 +2212,16 @@
         " Kyogu Lee (Seoul National University)"
       ],
       "authors_and_affil": [
-        "Ahyeon Choi (Seoul National University)*",
-        " Eunsik Shin (Seoul National University)",
-        " Haesun Joung (Seoul National University)",
-        " Joongseek Lee (Seoul National University)",
-        " Kyogu Lee (Seoul National University)"
+        ""
       ],
       "channel_url": "https://slack.com/app_redirect?channel=C06410TLVDJ",
       "day": "3",
       "keywords": [
-        " Human-centered MIR -> user behavior analysis and mining, user modeling",
+        " Human-centered MIR -> human-computer interaction",
         " MIR fundamentals and methodology -> multimodality",
         "Applications -> music videos, multimodal music systems",
-        "Human-centered MIR -> music interfaces and services",
-        " Human-centered MIR -> human-computer interaction"
+        " Human-centered MIR -> user behavior analysis and mining, user modeling",
+        "Human-centered MIR -> music interfaces and services"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -2396,8 +2250,7 @@
         " Simon Dixon (Queen Mary University of London)"
       ],
       "authors_and_affil": [
-        "Xavier Riley (C4DM)*",
-        " Simon Dixon (Queen Mary University of London)"
+        ""
       ],
       "channel_url": "https://slack.com/app_redirect?channel=C064MGQ7GMN",
       "day": "3",
@@ -2434,17 +2287,15 @@
         " Florence Leve (Universit\u00e9 de Picardie Jules Verne - Lab. MIS - Algomus)"
       ],
       "authors_and_affil": [
-        "Louis Couturier (MIS, Universit\u00e9 de Picardie Jules Verne)*",
-        " Louis Bigo (Universit\u00e9 de Lille)",
-        " Florence Leve (Universit\u00e9 de Picardie Jules Verne - Lab. MIS - Algomus)"
+        ""
       ],
       "channel_url": "https://slack.com/app_redirect?channel=C064MGQABAL",
       "day": "3",
       "keywords": [
-        " Musical features and properties",
         " MIR fundamentals and methodology -> symbolic music processing",
-        "MIR tasks -> similarity metrics",
-        "Knowledge-driven approaches to MIR -> computational music theory and musicology"
+        "Knowledge-driven approaches to MIR -> computational music theory and musicology",
+        " Musical features and properties",
+        "MIR tasks -> similarity metrics"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -2475,18 +2326,15 @@
         " Martin A Rohrmeier (Ecole Polytechnique F\u00e9d\u00e9rale de Lausanne)"
       ],
       "authors_and_affil": [
-        "Johannes Hentschel (\u00c9cole Polytechnique F\u00e9d\u00e9rale de Lausanne)*",
-        " Andrew McLeod (Fraunhofer IDMT)",
-        " Yannis Rammos (EPFL)",
-        " Martin A Rohrmeier (Ecole Polytechnique F\u00e9d\u00e9rale de Lausanne)"
+        ""
       ],
       "channel_url": "https://slack.com/app_redirect?channel=C064B6BCKLH",
       "day": "3",
       "keywords": [
         " Knowledge-driven approaches to MIR -> computational music theory and musicology",
         " MIR tasks -> alignment, synchronization, and score following",
-        "Computational musicology -> digital musicology",
         "Applications -> digital libraries and archives",
+        "Computational musicology -> digital musicology",
         " Evaluation, datasets, and reproducibility -> reproducibility",
         " Knowledge-driven approaches to MIR -> representations of music"
       ],
@@ -2498,7 +2346,7 @@
         "4"
       ],
       "slack_channel": "p4-14-hentschel",
-      "title": "Introducing Anonymous to leverage the dataframe for processing and analyzing notated music on a very large scale",
+      "title": "Introducing DiMCAT for Processing and Analyzing Notated Music on a Very Large Scale",
       "video": "https://drive.google.com/uc?export=view&id=1h9TxRIy3JM9Xq-zU8aDLzL-SykIampwO"
     },
     "forum": "52",
@@ -2518,17 +2366,15 @@
         " Tomoki Toda (Nagoya University)"
       ],
       "authors_and_affil": [
-        "Sehun Kim (Nagoya University)*",
-        " Kazuya Takeda (Nagoya University)",
-        " Tomoki Toda (Nagoya University)"
+        ""
       ],
       "channel_url": "https://slack.com/app_redirect?channel=C06410U35QC",
       "day": "3",
       "keywords": [
-        "Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music",
+        "MIR tasks -> music transcription and annotation",
         " MIR fundamentals and methodology -> symbolic music processing",
-        " MIR fundamentals and methodology -> music signal processing",
-        "MIR tasks -> music transcription and annotation"
+        "Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music",
+        " MIR fundamentals and methodology -> music signal processing"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -2538,7 +2384,7 @@
         "4"
       ],
       "slack_channel": "p4-15-kim",
-      "title": "Sequence-to-Sequence Network Training Methods for Automatic Guitar Transcription with Tokenized Outputs",
+      "title": "Sequence-to-Sequence Network Training Methods for Automatic Guitar Transcription With Tokenized Outputs",
       "video": "https://drive.google.com/uc?export=view&id=1H-rOfrOD9_sWFJxM5q8-tM5ybEotVi6_"
     },
     "forum": "161",
@@ -2559,17 +2405,14 @@
         " Geoffroy Peeters (LTCI - T\u00e9l\u00e9com Paris, IP Paris)"
       ],
       "authors_and_affil": [
-        "Alain Riou (T\u00e9l\u00e9com Paris, IP Paris, Sony CSL)*",
-        " Stefan Lattner (Sony CSL)",
-        " Ga\u00ebtan Hadjeres (Sony CSL)",
-        " Geoffroy Peeters (LTCI - T\u00e9l\u00e9com Paris, IP Paris)"
+        ""
       ],
       "channel_url": "https://slack.com/app_redirect?channel=C064MGQJY00",
       "day": "4",
       "keywords": [
+        " MIR tasks -> music transcription and annotation",
         "MIR fundamentals and methodology -> music signal processing",
-        "Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music",
-        " MIR tasks -> music transcription and annotation"
+        "Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music"
       ],
       "long_presentation": "True",
       "paper_presentation": "In Person",
@@ -2579,7 +2422,7 @@
         "5"
       ],
       "slack_channel": "p5-01-riou",
-      "title": "PESTO: Pitch Estimation with Self-supervised Transposition-equivariant Objective",
+      "title": "PESTO: Pitch Estimation With Self-Supervised Transposition-Equivariant Objective",
       "video": "https://drive.google.com/uc?export=view&id=1IyGmxASQUh9-Vvokvlyh28TPkuWkhHTL"
     },
     "forum": "205",
@@ -2599,17 +2442,15 @@
         " Richard Groult (Universit\u00e9 de Rouen Normandie)"
       ],
       "authors_and_affil": [
-        "Vanessa Nina Borsan (Universit\u00e9 de Lille)*",
-        " Mathieu Giraud (CNRS, Universit\u00e9 de Lille)",
-        " Richard Groult (Universit\u00e9 de Rouen Normandie)"
+        ""
       ],
       "channel_url": "https://slack.com/app_redirect?channel=C064B6BM74Z",
       "day": "4",
       "keywords": [
-        "Computational musicology",
         " Human-centered MIR -> human-computer interaction",
+        " Human-centered MIR -> user-centered evaluation",
         "Philosophical and ethical discussions",
-        " Human-centered MIR -> user-centered evaluation"
+        "Computational musicology"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -2619,7 +2460,7 @@
         "5"
       ],
       "slack_channel": "p5-02-borsan",
-      "title": "The Games We Play: Exploring The Impact of ISMIR on Musicology",
+      "title": "The Games We Play: Exploring the Impact of ISMIR on Musicology",
       "video": "https://drive.google.com/uc?export=view&id=1qalUTMUdUqsIFLg8CNj01uDXllrInwEu"
     },
     "forum": "158",
@@ -2640,18 +2481,15 @@
         " Xavier Serra (Universitat Pompeu Fabra )"
       ],
       "authors_and_affil": [
-        "Gen\u00eds Plaja-Roglans (Music Technology Group)*",
-        " Marius Miron (Universitat Pompeu Fabra)",
-        " Adithi Shankar (Universitat Pompeu Fabra)",
-        " Xavier Serra (Universitat Pompeu Fabra )"
+        ""
       ],
       "channel_url": "https://slack.com/app_redirect?channel=C06410UC97E",
       "day": "4",
       "keywords": [
-        "Knowledge-driven approaches to MIR -> computational ethnomusicology",
         " Musical features and properties -> timbre, instrumentation, and singing voice",
         " Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music",
-        "MIR tasks -> sound source separation"
+        "MIR tasks -> sound source separation",
+        "Knowledge-driven approaches to MIR -> computational ethnomusicology"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -2661,7 +2499,7 @@
         "5"
       ],
       "slack_channel": "p5-03-plaja-roglans",
-      "title": "Carnatic Singing Voice Separation Using Cold Diffusion on Training Data with Bleeding",
+      "title": "Carnatic Singing Voice Separation Using Cold Diffusion on Training Data With Bleeding",
       "video": "https://drive.google.com/uc?export=view&id=1Yqe3wjveVzIkww9Oo4ljGlszdTPvRqkD"
     },
     "forum": "176",
@@ -2681,9 +2519,7 @@
         " Masahiro Hamasaki (National Institute of Advanced Industrial Science and"
       ],
       "authors_and_affil": [
-        "Kosetsu Tsukuda (National Institute of Advanced Industrial Science and Technology (AIST))*",
-        " Tomoyasu Nakano (National Institute of Advanced Industrial Science and Technology (AIST))",
-        " Masahiro Hamasaki (National Institute of Advanced Industrial Science and"
+        ""
       ],
       "channel_url": "https://slack.com/app_redirect?channel=C063VK9AMHT",
       "day": "4",
@@ -2699,7 +2535,7 @@
         "5"
       ],
       "slack_channel": "p5-04-tsukuda",
-      "title": "Unveiling the Impact of Musical Factors in Judging a Song on First Listen: Insights from a User Survey",
+      "title": "Unveiling the Impact of Musical Factors in Judging a Song on First Listen: Insights From a User Survey",
       "video": "https://drive.google.com/uc?export=view&id=1k3TdguuXpFUM-8BYGn6q_stKRRaIbvua"
     },
     "forum": "179",
@@ -2720,16 +2556,13 @@
         " Hana Vlhov\u00e1-W\u00f6rne"
       ],
       "authors_and_affil": [
-        "Jan Haji_, jr. (Charles University)*",
-        " Gustavo Ballen (dos Reis research group, School of Biological and Behavioural Sciences, Queen Mary University of London)",
-        " Kl\u00e1ra M\u00fchlov\u00e1 (Institute of Musicology, Faculty of Arts, Masaryk University)",
-        " Hana Vlhov\u00e1-W\u00f6rne"
+        ""
       ],
       "channel_url": "https://slack.com/app_redirect?channel=C064MGR54TA",
       "day": "4",
       "keywords": [
-        "Computational musicology -> digital musicology",
         "Applications -> digital libraries and archives",
+        "Computational musicology -> digital musicology",
         " Knowledge-driven approaches to MIR -> computational music theory and musicology",
         " Knowledge-driven approaches to MIR -> computational ethnomusicology"
       ],
@@ -2760,14 +2593,13 @@
         " Alexander Lerch (Georgia Institute of Technology)"
       ],
       "authors_and_affil": [
-        "Yiwei Ding (Georgia Institute of Technology)*",
-        " Alexander Lerch (Georgia Institute of Technology)"
+        ""
       ],
       "channel_url": "https://slack.com/app_redirect?channel=C063VK9M545",
       "day": "4",
       "keywords": [
-        "Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music",
         " Musical features and properties -> representations of music",
+        "Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music",
         " MIR tasks -> automatic classification",
         "Knowledge-driven approaches to MIR",
         " Knowledge-driven approaches to MIR -> representations of music"
@@ -2799,16 +2631,15 @@
         " Vladimir Viro (Peachnote)"
       ],
       "authors_and_affil": [
-        "Ilya Borovik (Skolkovo Institute of Science and Technology)*",
-        " Vladimir Viro (Peachnote)"
+        ""
       ],
       "channel_url": "https://slack.com/app_redirect?channel=C063VK9TH8V",
       "day": "4",
       "keywords": [
-        "Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music",
-        " Musical features and properties -> representations of music",
         " MIR tasks -> alignment, synchronization, and score following",
+        " Musical features and properties -> representations of music",
         " MIR fundamentals and methodology -> symbolic music processing",
+        "Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music",
         "Musical features and properties -> expression and performative aspects of music"
       ],
       "long_presentation": "False",
@@ -2819,7 +2650,7 @@
         "5"
       ],
       "slack_channel": "p5-07-borovik",
-      "title": "ScorePerformer: Expressive Piano Performance Rendering with Fine-Grained Control",
+      "title": "ScorePerformer: Expressive Piano Performance Rendering With Fine-Grained Control",
       "video": "https://drive.google.com/uc?export=view&id=1vbIybJB4N66A0xQ7yAWzKkquZYAmJtTm"
     },
     "forum": "183",
@@ -2838,15 +2669,14 @@
         " Gerhard Widmer (Johannes Kepler University)"
       ],
       "authors_and_affil": [
-        "Emmanouil Karystinaios (Johannes Kepler University)*",
-        " Gerhard Widmer (Johannes Kepler University)"
+        ""
       ],
       "channel_url": "https://slack.com/app_redirect?channel=C063YH110BC",
       "day": "4",
       "keywords": [
-        " MIR fundamentals and methodology -> symbolic music processing",
+        "Knowledge-driven approaches to MIR -> computational music theory and musicology",
         "Musical features and properties -> harmony, chords and tonality",
-        "Knowledge-driven approaches to MIR -> computational music theory and musicology"
+        " MIR fundamentals and methodology -> symbolic music processing"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -2856,7 +2686,7 @@
         "5"
       ],
       "slack_channel": "p5-08-karystinaios",
-      "title": "Roman Numeral Analysis with Graph Neural Networks: Onset-wise Predictions from Note-wise Features",
+      "title": "Roman Numeral Analysis With Graph Neural Networks: Onset-Wise Predictions From Note-Wise Features",
       "video": "https://drive.google.com/uc?export=view&id=11FgFY287Aemntt0pXL5tCnLJ-WtRRXVA"
     },
     "forum": "89",
@@ -2876,17 +2706,15 @@
         " Mariano Beguerisse-D\u00edaz (Spotify)"
       ],
       "authors_and_affil": [
-        "Brian Regan (Spotify)*",
-        " Desislava Hristova (Spotify)",
-        " Mariano Beguerisse-D\u00edaz (Spotify)"
+        ""
       ],
       "channel_url": "https://slack.com/app_redirect?channel=C063RTKGCAJ",
       "day": "4",
       "keywords": [
-        " Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music",
         " MIR fundamentals and methodology -> multimodality",
-        "Human-centered MIR -> user-centered evaluation",
         "Applications -> digital libraries and archives",
+        "Human-centered MIR -> user-centered evaluation",
+        " Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music",
         " MIR fundamentals and methodology -> metadata, tags, linked data, and semantic web"
       ],
       "long_presentation": "False",
@@ -2917,19 +2745,17 @@
         " Christoph Lofi (TU Delft)"
       ],
       "authors_and_affil": [
-        "Ioannis Petros Samiotis (Delft University of Technology)*",
-        " Alessandro  Bozzon (Delft University of Technology)",
-        " Christoph Lofi (TU Delft)"
+        ""
       ],
       "channel_url": "https://slack.com/app_redirect?channel=C063J1BH2T1",
       "day": "4",
       "keywords": [
         " MIR tasks -> music transcription and annotation",
-        "Human-centered MIR -> human-computer interaction",
+        " Musical features and properties -> timbre, instrumentation, and singing voice",
+        " MIR tasks -> sound source separation",
         "Human-centered MIR",
         " Human-centered MIR -> music interfaces and services",
-        " Musical features and properties -> timbre, instrumentation, and singing voice",
-        " MIR tasks -> sound source separation"
+        "Human-centered MIR -> human-computer interaction"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -2939,7 +2765,7 @@
         "5"
       ],
       "slack_channel": "p5-10-samiotis",
-      "title": "Crowd's Performance on Temporal  Activity Detection of Musical Instruments in Polyphonic Music",
+      "title": "Crowd's Performance on Temporal Activity Detection of Musical Instruments in Polyphonic Music",
       "video": "https://drive.google.com/uc?export=view&id=19KmwqtzdT_U7Hmx7Is-_WjRsm7qDP7Qv"
     },
     "forum": "202",
@@ -2960,17 +2786,14 @@
         " Richard Vogl (moises.ai)"
       ],
       "authors_and_affil": [
-        "Igor G. Pereira (Moises.AI)*",
-        " Felipe Araujo (Moises.AI)",
-        " Filip Korzeniowski (Moises.AI)",
-        " Richard Vogl (moises.ai)"
+        ""
       ],
       "channel_url": "https://slack.com/app_redirect?channel=C063YH1JYEN",
       "day": "4",
       "keywords": [
+        "Evaluation, datasets, and reproducibility -> novel datasets and use cases",
         " MIR tasks -> sound source separation",
-        "Evaluation, datasets, and reproducibility",
-        "Evaluation, datasets, and reproducibility -> novel datasets and use cases"
+        "Evaluation, datasets, and reproducibility"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -2980,7 +2803,7 @@
         "5"
       ],
       "slack_channel": "p5-11-pereira",
-      "title": "MoisesDB: A Dataset For Source Separation Beyond 4 Stems",
+      "title": "MoisesDB: A Dataset for Source Separation Beyond 4 Stems",
       "video": "https://drive.google.com/uc?export=view&id=1tpXSRd_xGFPNBldII75K1wZsAsoQ068d"
     },
     "forum": "160",
@@ -3000,18 +2823,16 @@
         " Martin A Rohrmeier (Ecole Polytechnique F\u00e9d\u00e9rale de Lausanne)"
       ],
       "authors_and_affil": [
-        "Zeng Ren (EPFL)*",
-        " Wulfram Gerstner (EPFL)",
-        " Martin A Rohrmeier (Ecole Polytechnique F\u00e9d\u00e9rale de Lausanne)"
+        ""
       ],
       "channel_url": "https://slack.com/app_redirect?channel=C063YE7B1CK",
       "day": "4",
       "keywords": [
-        "Computational musicology",
         " Knowledge-driven approaches to MIR -> computational music theory and musicology",
+        "Computational musicology",
+        " Musical features and properties -> harmony, chords and tonality",
         " Musical features and properties -> structure, segmentation, and form",
-        "Knowledge-driven approaches to MIR -> representations of music",
-        " Musical features and properties -> harmony, chords and tonality"
+        "Knowledge-driven approaches to MIR -> representations of music"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -3021,7 +2842,7 @@
         "5"
       ],
       "slack_channel": "p5-12-ren",
-      "title": "Music as flow: a formal representation of hierarchical processes in music",
+      "title": "Music as Flow: A Formal Representation of Hierarchical Processes in Music",
       "video": "https://drive.google.com/uc?export=view&id=19qDR-nUFtQUAxJE0km1U2Kzvm-HQvO7o"
     },
     "forum": "206",
@@ -3039,7 +2860,7 @@
         "Silvan Peter (JKU)*"
       ],
       "authors_and_affil": [
-        "Silvan Peter (JKU)*"
+        ""
       ],
       "channel_url": "https://slack.com/app_redirect?channel=C063VKB7H7F",
       "day": "4",
@@ -3055,7 +2876,7 @@
         "5"
       ],
       "slack_channel": "p5-13-peter",
-      "title": "Online Symbolic Music Alignment with Offline Reinforcement Learning",
+      "title": "Online Symbolic Music Alignment With Offline Reinforcement Learning",
       "video": "https://drive.google.com/uc?export=view&id=1ZV51EZdGgtBusGXIBV4fGjiTy9lexm-I"
     },
     "forum": "208",
@@ -3067,8 +2888,8 @@
   },
   {
     "content": {
-      "TLDR": "Synthesizers are widely used electronic musical instruments. Given an input sound, inferring the underlying synthesizer's parameters to reproduce it is a difficult task known as sound-matching. In this work, we tackle the problem of automatic sound matching, which is otherwise performed manually by professional audio experts. The novelty of our work stems from the introduction of a novel differentiable synthesizer-proxy that enables gradient-based optimization by comparing the input and reproduced audio signals. Additionally, we introduce a novel self-supervised finetuning mechanism that further refines the prediction at inference time. Both contributions lead to state-of-the-art results, outperforming previous methods across various metrics. Our code is available at: https://github.com/inversynth/InverSynth2.",
-      "abstract": "Synthesizers are widely used electronic musical instruments. Given an input sound, inferring the underlying synthesizer's parameters to reproduce it is a difficult task known as sound-matching. In this work, we tackle the problem of automatic sound matching, which is otherwise performed manually by professional audio experts. The novelty of our work stems from the introduction of a novel differentiable synthesizer-proxy that enables gradient-based optimization by comparing the input and reproduced audio signals. Additionally, we introduce a novel self-supervised finetuning mechanism that further refines the prediction at inference time. Both contributions lead to state-of-the-art results, outperforming previous methods across various metrics. Our code is available at: https://github.com/inversynth/InverSynth2.<br><br> <b><p align=\"center\"> If the video does not load properly please use the [direct link to video]()</b>",
+      "TLDR": "Synthesizers are widely used electronic musical instruments. Given an input sound, inferring the underlying synthesizer's parameters to reproduce it is a difficult task known as sound-matching. In this work, we tackle the problem of automatic sound matching, which is otherwise performed manually by professional audio experts. The novelty of our work stems from the introduction of a novel differentiable synthesizer-proxy that enables gradient-based optimization by comparing the input and reproduced audio signals. Additionally, we introduce a novel self-supervised finetuning mechanism that further refines the prediction at inference time. Both contributions lead to state-of-the-art results, outperforming previous methods across various metrics. Our code is available at: https://github.com/inversynth/InverSynth2.<br><br><b>[Poster session Zoom meeting](https://polimi-it.zoom.us/j/94855840719)</b>",
+      "abstract": "Synthesizers are widely used electronic musical instruments. Given an input sound, inferring the underlying synthesizer's parameters to reproduce it is a difficult task known as sound-matching. In this work, we tackle the problem of automatic sound matching, which is otherwise performed manually by professional audio experts. The novelty of our work stems from the introduction of a novel differentiable synthesizer-proxy that enables gradient-based optimization by comparing the input and reproduced audio signals. Additionally, we introduce a novel self-supervised finetuning mechanism that further refines the prediction at inference time. Both contributions lead to state-of-the-art results, outperforming previous methods across various metrics. Our code is available at: https://github.com/inversynth/InverSynth2.<br><br><b>[Poster session Zoom meeting](https://polimi-it.zoom.us/j/94855840719)</b><br><br> <b><p align=\"center\"> If the video does not load properly please use the [direct link to video]()</b>",
       "authors": [
         "Oren Barkan (Microsoft)",
         " Shlomi Shvartzamn (Tel Aviv University )",
@@ -3078,12 +2899,7 @@
         " Noam Koenigstein (Tel Aviv University)*"
       ],
       "authors_and_affil": [
-        "Oren Barkan (Microsoft)",
-        " Shlomi Shvartzamn (Tel Aviv University )",
-        " Noy Uzrad  (Tel Aviv University )",
-        " Moshe Laufer  (Tel Aviv University)",
-        " Almog Elharar (Tel Aviv University)",
-        " Noam Koenigstein (Tel Aviv University)*"
+        ""
       ],
       "channel_url": "https://slack.com/app_redirect?channel=C064MGT3CHW",
       "day": "4",
@@ -3099,7 +2915,7 @@
         "5"
       ],
       "slack_channel": "p5-14-koenigstein",
-      "title": "INVERSYNTH II: SOUND MATCHING VIA SELF-SUPERVISED SYNTHESIZER-PROXY AND INFERENCE-TIME FINETUNING",
+      "title": "Inversynth II: Sound Matching via Self-Supervised Synthesizer-Proxy and Inference-Time Finetuning",
       "video": ""
     },
     "forum": "209",
@@ -3122,20 +2938,15 @@
         " Mikhail Kudinov (Huawei Noah's Ark Lab)"
       ],
       "authors_and_affil": [
-        "Amantur Amatov (Higher School of Economics)*",
-        " Dmitry Lamanov (Huawei Noah's Ark Lab)",
-        " Maksim Titov (Huawei Noah's Ark Lab)",
-        " Ivan Vovk (Huawei Noah's Ark Lab)",
-        " Ilya Makarov (AI Center, NUST MISiS)",
-        " Mikhail Kudinov (Huawei Noah's Ark Lab)"
+        ""
       ],
       "channel_url": "https://slack.com/app_redirect?channel=C063J1CKS6B",
       "day": "4",
       "keywords": [
+        " MIR tasks -> indexing and querying",
         " MIR tasks -> fingerprinting",
         "Evaluation, datasets, and reproducibility -> novel datasets and use cases",
-        "Applications -> music retrieval systems",
-        " MIR tasks -> indexing and querying"
+        "Applications -> music retrieval systems"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -3157,8 +2968,8 @@
   },
   {
     "content": {
-      "TLDR": "In deep learning research, many melody extraction models rely on redesigning neural network architectures to improve performance. In this paper, we propose an input feature modification and a training objective modification based on two assumptions. First, harmonics in the spectrograms of audio data decay rapidly along the frequency axis. To enhance the model's sensitivity on the trailing harmonics, we modify the Combined Frequency and Periodicity (CFP) representation using discrete z-transform. Second, the vocal and non-vocal segments with extremely short duration are uncommon. To ensure a more stable melody contour, we design a differentiable loss function that prevents the model from predicting such segments. We apply these modifications to several models, including MSNet, FTANet, and a newly introduced model, PianoNet, modified from a piano transcription network. Our experimental results demonstrate that the proposed modifications are empirically effective for singing melody extraction.",
-      "abstract": "In deep learning research, many melody extraction models rely on redesigning neural network architectures to improve performance. In this paper, we propose an input feature modification and a training objective modification based on two assumptions. First, harmonics in the spectrograms of audio data decay rapidly along the frequency axis. To enhance the model's sensitivity on the trailing harmonics, we modify the Combined Frequency and Periodicity (CFP) representation using discrete z-transform. Second, the vocal and non-vocal segments with extremely short duration are uncommon. To ensure a more stable melody contour, we design a differentiable loss function that prevents the model from predicting such segments. We apply these modifications to several models, including MSNet, FTANet, and a newly introduced model, PianoNet, modified from a piano transcription network. Our experimental results demonstrate that the proposed modifications are empirically effective for singing melody extraction.<br><br> <b><p align=\"center\"> If the video does not load properly please use the [direct link to video](https://drive.google.com/uc?export=view&id=1rPO9dd5FjAqQ76wSk7iYdjBQC7srhTMm)</b>",
+      "TLDR": "In deep learning research, many melody extraction models rely on redesigning neural network architectures to improve performance. In this paper, we propose an input feature modification and a training objective modification based on two assumptions. First, harmonics in the spectrograms of audio data decay rapidly along the frequency axis. To enhance the model's sensitivity on the trailing harmonics, we modify the Combined Frequency and Periodicity (CFP) representation using discrete z-transform. Second, the vocal and non-vocal segments with extremely short duration are uncommon. To ensure a more stable melody contour, we design a differentiable loss function that prevents the model from predicting such segments. We apply these modifications to several models, including MSNet, FTANet, and a newly introduced model, PianoNet, modified from a piano transcription network. Our experimental results demonstrate that the proposed modifications are empirically effective for singing melody extraction.<br><br><b>[Poster session Zoom meeting](https://polimi-it.zoom.us/j/97195833199)</b>",
+      "abstract": "In deep learning research, many melody extraction models rely on redesigning neural network architectures to improve performance. In this paper, we propose an input feature modification and a training objective modification based on two assumptions. First, harmonics in the spectrograms of audio data decay rapidly along the frequency axis. To enhance the model's sensitivity on the trailing harmonics, we modify the Combined Frequency and Periodicity (CFP) representation using discrete z-transform. Second, the vocal and non-vocal segments with extremely short duration are uncommon. To ensure a more stable melody contour, we design a differentiable loss function that prevents the model from predicting such segments. We apply these modifications to several models, including MSNet, FTANet, and a newly introduced model, PianoNet, modified from a piano transcription network. Our experimental results demonstrate that the proposed modifications are empirically effective for singing melody extraction.<br><br><b>[Poster session Zoom meeting](https://polimi-it.zoom.us/j/97195833199)</b><br><br> <b><p align=\"center\"> If the video does not load properly please use the [direct link to video](https://drive.google.com/uc?export=view&id=1rPO9dd5FjAqQ76wSk7iYdjBQC7srhTMm)</b>",
       "authors": [
         "Keren Shao (UCSD)*",
         " Ke Chen (University of California San Diego)",
@@ -3166,16 +2977,13 @@
         " Shlomo Dubnov (UC San Diego)"
       ],
       "authors_and_affil": [
-        "Keren Shao (UCSD)*",
-        " Ke Chen (University of California San Diego)",
-        " Taylor Berg-Kirkpatrick (UCSD)",
-        " Shlomo Dubnov (UC San Diego)"
+        ""
       ],
       "channel_url": "https://slack.com/app_redirect?channel=C063YE86HDZ",
       "day": "4",
       "keywords": [
-        "MIR fundamentals and methodology -> music signal processing",
         "Musical features and properties -> melody and motives",
+        "MIR fundamentals and methodology -> music signal processing",
         " MIR tasks -> automatic classification"
       ],
       "long_presentation": "False",
@@ -3205,16 +3013,15 @@
         " George Fazekas (QMUL)"
       ],
       "authors_and_affil": [
-        "Chin-Yun Yu (Queen Mary University of London)*",
-        " George Fazekas (QMUL)"
+        ""
       ],
       "channel_url": "https://slack.com/app_redirect?channel=C063J1CV40P",
       "day": "4",
       "keywords": [
-        " Musical features and properties -> timbre, instrumentation, and singing voice",
-        "Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music",
         "MIR tasks -> music synthesis and transformation",
-        " MIR fundamentals and methodology -> music signal processing"
+        "Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music",
+        " MIR fundamentals and methodology -> music signal processing",
+        " Musical features and properties -> timbre, instrumentation, and singing voice"
       ],
       "long_presentation": "True",
       "paper_presentation": "In Person",
@@ -3224,7 +3031,7 @@
         "6"
       ],
       "slack_channel": "p6-01-yu",
-      "title": "SINGING VOICE SYNTHESIS USING DIFFERENTIABLE LPC AND GLOTTAL-FLOW-INSPIRED WAVETABLES",
+      "title": "Singing Voice Synthesis Using Differentiable LPC and Glottal-Flow-Inspired Wavetables",
       "video": "https://drive.google.com/uc?export=view&id=1i46u1z9bGukUxzCAxTxrIgyix-uKQ0X4"
     },
     "forum": "220",
@@ -3244,9 +3051,7 @@
         " Zhiyao Duan (Unversity of Rochester)"
       ],
       "authors_and_affil": [
-        "Qiaoyu Yang (University of Rochester)*",
-        " Frank Cwitkowitz (University of Rochester)",
-        " Zhiyao Duan (Unversity of Rochester)"
+        ""
       ],
       "channel_url": "https://slack.com/app_redirect?channel=C063YH2V4US",
       "day": "4",
@@ -3263,7 +3068,7 @@
         "6"
       ],
       "slack_channel": "p6-02-yang",
-      "title": "Harmonic Analysis with Neural Semi-CRF",
+      "title": "Harmonic Analysis With Neural Semi-CRF",
       "video": "https://drive.google.com/uc?export=view&id=1nmlSKLZSPGNvc7LmNLfNGa5RkDpdZI1G"
     },
     "forum": "264",
@@ -3284,20 +3089,17 @@
         " Gary Scavone (McGill University)"
       ],
       "authors_and_affil": [
-        "Ninad Puranik (McGill University )",
-        " Alberto Acquilino (McGill University)*",
-        " Ichiro Fujinaga (McGill University)",
-        " Gary Scavone (McGill University)"
+        ""
       ],
       "channel_url": "https://slack.com/app_redirect?channel=C063YE8K0UB",
       "day": "4",
       "keywords": [
-        " Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music",
-        " MIR tasks -> automatic classification",
         "Musical features and properties -> timbre, instrumentation, and singing voice",
         " MIR and machine learning for musical acoustics -> applications of machine learning to musical acoustics",
-        "Evaluation, datasets, and reproducibility -> novel datasets and use cases",
-        " MIR fundamentals and methodology -> music signal processing"
+        " MIR fundamentals and methodology -> music signal processing",
+        " MIR tasks -> automatic classification",
+        " Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music",
+        "Evaluation, datasets, and reproducibility -> novel datasets and use cases"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -3327,16 +3129,14 @@
         " Michael Sedlmair (Uni Stuttgart)"
       ],
       "authors_and_affil": [
-        "Frank Heyen (VISUS, University of Stuttgart)*",
-        " Quynh Quang Ngo (VISUS, University of Stuttgart)",
-        " Michael Sedlmair (Uni Stuttgart)"
+        ""
       ],
       "channel_url": "https://slack.com/app_redirect?channel=C064MGU2H08",
       "day": "4",
       "keywords": [
         " MIR tasks -> similarity metrics",
-        "Musical features and properties -> structure, segmentation, and form",
-        "MIR tasks -> pattern matching and detection"
+        "MIR tasks -> pattern matching and detection",
+        "Musical features and properties -> structure, segmentation, and form"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -3365,16 +3165,15 @@
         " Gerhard Widmer (Johannes Kepler University)"
       ],
       "authors_and_affil": [
-        "Luis Carvalho (Johannes Kepler University)*",
-        " Gerhard Widmer (Johannes Kepler University)"
+        ""
       ],
       "channel_url": "https://slack.com/app_redirect?channel=C063YH3DABC",
       "day": "4",
       "keywords": [
-        "Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music",
-        " Musical features and properties -> representations of music",
         " MIR fundamentals and methodology -> multimodality",
+        " Musical features and properties -> representations of music",
         " MIR tasks -> indexing and querying",
+        "Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music",
         "Applications -> music retrieval systems"
       ],
       "long_presentation": "False",
@@ -3385,7 +3184,7 @@
         "6"
       ],
       "slack_channel": "p6-05-carvalho",
-      "title": "Passage Summarization with recurrent models for Audio \u2013 Sheet Music Retrieval",
+      "title": "Passage Summarization With Recurrent Models for Audio \u2013 Sheet Music Retrieval",
       "video": "https://drive.google.com/uc?export=view&id=15qRSYgL-w431GrhVbmHAjeBfhJE2FK2k"
     },
     "forum": "217",
@@ -3406,17 +3205,14 @@
         " Xavier Serra (Universitat Pompeu Fabra )"
       ],
       "authors_and_affil": [
-        "Pedro Ramoneda (Universitat Pompeu Fabra)*",
-        " Dasaem Jeong (Sogang University)",
-        " Jose J. Valero-Mas (Universitat Pompeu Fabra)",
-        " Xavier Serra (Universitat Pompeu Fabra )"
+        ""
       ],
       "channel_url": "https://slack.com/app_redirect?channel=C063YE93MGT",
       "day": "4",
       "keywords": [
         "Applications -> digital libraries and archives",
-        "Applications",
-        " Applications -> music training and education"
+        " Applications -> music training and education",
+        "Applications"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -3426,7 +3222,7 @@
         "6"
       ],
       "slack_channel": "p6-06-ramoneda",
-      "title": "Predicting performance difficulty from piano sheet music images",
+      "title": "Predicting Performance Difficulty From Piano Sheet Music Images",
       "video": "https://drive.google.com/uc?export=view&id=1QBmb6yaCFABAGc5IwYkOjqB7PKkCWBLY"
     },
     "forum": "218",
@@ -3447,17 +3243,14 @@
         " Kyogu Lee (Seoul National University)"
       ],
       "authors_and_affil": [
-        "Junghyun Koo (Seoul National University)",
-        " Yunkee Chae (Seoul National University)*",
-        " Chang-Bin Jeon (Seoul National University)",
-        " Kyogu Lee (Seoul National University)"
+        ""
       ],
       "channel_url": "https://slack.com/app_redirect?channel=C063YH3NK1Q",
       "day": "4",
       "keywords": [
-        "MIR tasks -> automatic classification",
+        " MIR tasks -> sound source separation",
         "Evaluation, datasets, and reproducibility -> annotation protocols",
-        " MIR tasks -> sound source separation"
+        "MIR tasks -> automatic classification"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -3467,7 +3260,7 @@
         "6"
       ],
       "slack_channel": "p6-07-chae",
-      "title": "Self-Refining of Pseudo Labels for Music Source Separation with Noisy Labeled Data",
+      "title": "Self-Refining of Pseudo Labels for Music Source Separation With Noisy Labeled Data",
       "video": "https://drive.google.com/uc?export=view&id=1y4ZGkF2Jlhi-sn4Ci2OnoFTHEm_lshRA"
     },
     "forum": "288",
@@ -3489,21 +3282,17 @@
         " John Ashley Burgoyne (University of Amsterdam)"
       ],
       "authors_and_affil": [
-        "Marcel A V\u00e9lez V\u00e1squez (University of Amsterdam)*",
-        " Mari\u00eblle  Baelemans (University of Amsterdam)",
-        " Jonathan Driedger (Chordify)",
-        " Willem Zuidema (ILLC, UvA)",
-        " John Ashley Burgoyne (University of Amsterdam)"
+        ""
       ],
       "channel_url": "https://slack.com/app_redirect?channel=C064B6FLBDF",
       "day": "4",
       "keywords": [
+        " Evaluation, datasets, and reproducibility -> annotation protocols",
+        "Applications -> music training and education",
         " Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music",
         " Musical features and properties -> harmony, chords and tonality",
-        " Evaluation, datasets, and reproducibility -> annotation protocols",
-        "Evaluation, datasets, and reproducibility -> novel datasets and use cases",
         " Human-centered MIR -> user-centered evaluation",
-        "Applications -> music training and education"
+        "Evaluation, datasets, and reproducibility -> novel datasets and use cases"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -3533,9 +3322,7 @@
         " Timothy Tsai (Harvey Mudd College)*"
       ],
       "authors_and_affil": [
-        "Irmak Bukey (Pomona College)",
-        " Jason Zhang (University of Michigan)",
-        " Timothy Tsai (Harvey Mudd College)*"
+        ""
       ],
       "channel_url": "https://slack.com/app_redirect?channel=C06410YBZT6",
       "day": "4",
@@ -3571,17 +3358,15 @@
         " Ken D\u00e9guernel (CNRS)"
       ],
       "authors_and_affil": [
-        "Alexandre D'Hooge (Universit\u00e9 de Lille)*",
-        " Louis Bigo (Universit\u00e9 de Lille)",
-        " Ken D\u00e9guernel (CNRS)"
+        ""
       ],
       "channel_url": "https://slack.com/app_redirect?channel=C064B7CPKA5",
       "day": "4",
       "keywords": [
-        "Applications -> music composition, performance, and production",
-        "Knowledge-driven approaches to MIR",
         " MIR fundamentals and methodology -> symbolic music processing",
-        " Musical features and properties -> expression and performative aspects of music"
+        "Applications -> music composition, performance, and production",
+        " Musical features and properties -> expression and performative aspects of music",
+        "Knowledge-driven approaches to MIR"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -3609,13 +3394,13 @@
         "Geoffroy Peeters (LTCI - T\u00e9l\u00e9com Paris, IP Paris)*"
       ],
       "authors_and_affil": [
-        "Geoffroy Peeters (LTCI - T\u00e9l\u00e9com Paris, IP Paris)*"
+        ""
       ],
       "channel_url": "https://slack.com/app_redirect?channel=C06410YG1JQ",
       "day": "4",
       "keywords": [
-        "MIR fundamentals and methodology -> music signal processing",
-        "Musical features and properties -> structure, segmentation, and form"
+        "Musical features and properties -> structure, segmentation, and form",
+        "MIR fundamentals and methodology -> music signal processing"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -3625,7 +3410,7 @@
         "6"
       ],
       "slack_channel": "p6-11-peeters",
-      "title": "Self-Similarity-Based and Novelty-based loss for music structure analysis",
+      "title": "Self-Similarity-Based and Novelty-Based Loss for Music Structure Analysis",
       "video": "https://drive.google.com/uc?export=view&id=1xqLMnWUj3hT_sjnqvwheaofzbZXjVOzJ"
     },
     "forum": "279",
@@ -3646,16 +3431,13 @@
         " Bruno Di Giorgi (Apple)"
       ],
       "authors_and_affil": [
-        "Carey Bunks (City, University London)*",
-        " Simon Dixon (Queen Mary University of London)",
-        " Tillman Weyde (City, University of London)",
-        " Bruno Di Giorgi (Apple)"
+        ""
       ],
       "channel_url": "https://slack.com/app_redirect?channel=C064MGV379N",
       "day": "4",
       "keywords": [
-        " Musical features and properties -> harmony, chords and tonality",
         " MIR tasks -> similarity metrics",
+        " Musical features and properties -> harmony, chords and tonality",
         "MIR fundamentals and methodology -> symbolic music processing",
         "Musical features and properties -> representations of music"
       ],
@@ -3689,17 +3471,13 @@
         " Roger B. Dannenberg (School of Computer Science, Carnegie Mellon University)"
       ],
       "authors_and_affil": [
-        "Shuqi Dai (Carnegie Mellon University)*",
-        " Siqi Chen (University of South California)",
-        " Yuxuan Wu (Carnegie Mellon University)",
-        " Roy Huang (Carnegie Mellon University)",
-        " Roger B. Dannenberg (School of Computer Science, Carnegie Mellon University)"
+        ""
       ],
       "channel_url": "https://slack.com/app_redirect?channel=C063YE9TT7D",
       "day": "4",
       "keywords": [
-        "Evaluation, datasets, and reproducibility",
-        "Evaluation, datasets, and reproducibility -> novel datasets and use cases"
+        "Evaluation, datasets, and reproducibility -> novel datasets and use cases",
+        "Evaluation, datasets, and reproducibility"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -3730,20 +3508,17 @@
         " Juhan Nam (KAIST)"
       ],
       "authors_and_affil": [
-        "Haven Kim (KAIST)*",
-        " Kento Watanabe (National Institute of Advanced Industrial Science and Technology (AIST))",
-        " Masataka Goto (National Institute of Advanced Industrial Science and Technology (AIST))",
-        " Juhan Nam (KAIST)"
+        ""
       ],
       "channel_url": "https://slack.com/app_redirect?channel=C063VKDLWR3",
       "day": "4",
       "keywords": [
-        "Computational musicology",
         " Evaluation, datasets, and reproducibility",
-        "MIR fundamentals and methodology -> lyrics and other textual data",
         " Evaluation, datasets, and reproducibility -> evaluation metrics",
-        " Evaluation, datasets, and reproducibility -> evaluation methodology",
-        " MIR fundamentals and methodology -> web mining, and natural language processing"
+        " MIR fundamentals and methodology -> web mining, and natural language processing",
+        "Computational musicology",
+        "MIR fundamentals and methodology -> lyrics and other textual data",
+        " Evaluation, datasets, and reproducibility -> evaluation methodology"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -3773,9 +3548,7 @@
         " Masataka Goto (National Institute of Advanced Industrial Science and T"
       ],
       "authors_and_affil": [
-        "Kosetsu Tsukuda (National Institute of Advanced Industrial Science and Technology (AIST))*",
-        " Masahiro Hamasaki (National Institute of Advanced Industrial Science and Technology (AIST))",
-        " Masataka Goto (National Institute of Advanced Industrial Science and T"
+        ""
       ],
       "channel_url": "https://slack.com/app_redirect?channel=C064B6GD36V",
       "day": "4",
@@ -3815,22 +3588,16 @@
         " Mark Saccom"
       ],
       "authors_and_affil": [
-        "David Lewis (University of Oxford eResearch Centre)*",
-        " Elisabete Shibata (Beethoven-Haus Bonn)",
-        " Andrew Hankinson (RISM Digital)",
-        " Johannes Kepper (Paderborn University)",
-        " Kevin R Page (University of Oxford)",
-        " Lisa Rosendahl (Paderborn University)",
-        " Mark Saccom"
+        ""
       ],
       "channel_url": "https://slack.com/app_redirect?channel=C063RTP2S3Y",
       "day": "5",
       "keywords": [
-        " Human-centered MIR -> music interfaces and services",
-        "Computational musicology -> digital musicology",
-        "Applications -> digital libraries and archives",
         " Evaluation, datasets, and reproducibility -> annotation protocols",
-        " MIR fundamentals and methodology -> metadata, tags, linked data, and semantic web"
+        "Applications -> digital libraries and archives",
+        "Computational musicology -> digital musicology",
+        " MIR fundamentals and methodology -> metadata, tags, linked data, and semantic web",
+        " Human-centered MIR -> music interfaces and services"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -3840,7 +3607,7 @@
         "7"
       ],
       "slack_channel": "p7-01-lewis",
-      "title": "Supporting musicological investigations with information retrieval tools: an iterative approach to data collection",
+      "title": "Supporting Musicological Investigations With Information Retrieval Tools: An Iterative Approach to Data Collection",
       "video": "https://drive.google.com/uc?export=view&id=1hhHR2gBnuA_U-ur1la-5g_Gdjigaj-IA"
     },
     "forum": "172",
@@ -3862,21 +3629,17 @@
         " \u00c1lvaro Torrente "
       ],
       "authors_and_affil": [
-        "Federico Simonetta (Instituto Complutense de Ciencias Musicales)*",
-        " Ana Llorens (Universidad Complutense de Madrid)",
-        " Mart\u00edn Serrano (Instituto Complutense de Ciencias Musicales)",
-        " Eduardo Garc\u00eda-Portugu\u00e9s (Universidad Carlos III de Madrid)",
-        " \u00c1lvaro Torrente "
+        ""
       ],
       "channel_url": "https://slack.com/app_redirect?channel=C064B6GKVND",
       "day": "5",
       "keywords": [
-        "Computational musicology",
         " Knowledge-driven approaches to MIR -> computational music theory and musicology",
-        " Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music",
-        " MIR fundamentals and methodology -> symbolic music processing",
         " Musical features and properties",
-        "Computational musicology -> systematic musicology"
+        "Computational musicology",
+        "Computational musicology -> systematic musicology",
+        " MIR fundamentals and methodology -> symbolic music processing",
+        " Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -3906,19 +3669,17 @@
         " Gerhard Widmer (Johannes Kepler University)"
       ],
       "authors_and_affil": [
-        "Mathias Rose Bjare (Johannes Kepler University Linz)*",
-        " Stefan Lattner (Sony CSL)",
-        " Gerhard Widmer (Johannes Kepler University)"
+        ""
       ],
       "channel_url": "https://slack.com/app_redirect?channel=C064B6GPRG9",
       "day": "5",
       "keywords": [
-        " Musical features and properties -> melody and motives",
-        " Musical features and properties -> structure, segmentation, and form",
-        "Applications -> music composition, performance, and production",
-        " MIR fundamentals and methodology -> symbolic music processing",
         "MIR tasks -> music generation",
-        " MIR tasks -> music synthesis and transformation"
+        " MIR tasks -> music synthesis and transformation",
+        " Musical features and properties -> melody and motives",
+        " MIR fundamentals and methodology -> symbolic music processing",
+        "Applications -> music composition, performance, and production",
+        " Musical features and properties -> structure, segmentation, and form"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -3928,7 +3689,7 @@
         "7"
       ],
       "slack_channel": "p7-03-bjare",
-      "title": "Exploring Sampling Techniques for Generating Melodies with a Transformer Language Model",
+      "title": "Exploring Sampling Techniques for Generating Melodies With a Transformer Language Model",
       "video": "https://drive.google.com/uc?export=view&id=1F_A6d1BGTWa4n-v1osN5z9gROll7r5Lj"
     },
     "forum": "274",
@@ -3941,41 +3702,39 @@
   {
     "content": {
       "TLDR": "Every year, several dozen, primarily European, countries, send performers to compete on live television at the Eurovision Song Contest, with the goal of entertaining an international audience of more than 150 million viewers. Each participating country is able to evaluate every other country's performance via a combination of rankings from professional jurors and telephone votes from viewers. Between fan sites and the official Song Contest organisation, a complete historical record of musical performances and country-to-country contest scores is available, back to the very first edition in 1956, and for the most recent contests, there is also information about each individual juror's rankings. In this paper, we introduce MIRoVision, a set of scripts which collates the data from these sources into a single, easy-to-use dataset, and a discrete-choice model to convert the raw contest scores into a stable, interval-scale measure of the quality of Eurovision Song Contest entries across the years. We use this model to simulate contest outcomes from previous editions and compare the results to the implied win probabilities from bookmakers at various online betting markets. We also assess how successful content-based MIR could be at predicting Eurovision outcomes, using state-of-the-art music foundation models. Given its annual recurrence, emphasis on new music and lesser-known artists, and sophisticated voting structure, the Eurovision Song Contest is an outstanding testing ground for MIR algorithms, and we hope that this paper will inspire the community to use the contest as a regular assessment of the strength of modern MIR.",
-      "abstract": "Every year, several dozen, primarily European, countries, send performers to compete on live television at the Eurovision Song Contest, with the goal of entertaining an international audience of more than 150 million viewers. Each participating country is able to evaluate every other country's performance via a combination of rankings from professional jurors and telephone votes from viewers. Between fan sites and the official Song Contest organisation, a complete historical record of musical performances and country-to-country contest scores is available, back to the very first edition in 1956, and for the most recent contests, there is also information about each individual juror's rankings. In this paper, we introduce MIRoVision, a set of scripts which collates the data from these sources into a single, easy-to-use dataset, and a discrete-choice model to convert the raw contest scores into a stable, interval-scale measure of the quality of Eurovision Song Contest entries across the years. We use this model to simulate contest outcomes from previous editions and compare the results to the implied win probabilities from bookmakers at various online betting markets. We also assess how successful content-based MIR could be at predicting Eurovision outcomes, using state-of-the-art music foundation models. Given its annual recurrence, emphasis on new music and lesser-known artists, and sophisticated voting structure, the Eurovision Song Contest is an outstanding testing ground for MIR algorithms, and we hope that this paper will inspire the community to use the contest as a regular assessment of the strength of modern MIR.<br><br> <b><p align=\"center\"> If the video does not load properly please use the [direct link to video]()</b>",
+      "abstract": "Every year, several dozen, primarily European, countries, send performers to compete on live television at the Eurovision Song Contest, with the goal of entertaining an international audience of more than 150 million viewers. Each participating country is able to evaluate every other country's performance via a combination of rankings from professional jurors and telephone votes from viewers. Between fan sites and the official Song Contest organisation, a complete historical record of musical performances and country-to-country contest scores is available, back to the very first edition in 1956, and for the most recent contests, there is also information about each individual juror's rankings. In this paper, we introduce MIRoVision, a set of scripts which collates the data from these sources into a single, easy-to-use dataset, and a discrete-choice model to convert the raw contest scores into a stable, interval-scale measure of the quality of Eurovision Song Contest entries across the years. We use this model to simulate contest outcomes from previous editions and compare the results to the implied win probabilities from bookmakers at various online betting markets. We also assess how successful content-based MIR could be at predicting Eurovision outcomes, using state-of-the-art music foundation models. Given its annual recurrence, emphasis on new music and lesser-known artists, and sophisticated voting structure, the Eurovision Song Contest is an outstanding testing ground for MIR algorithms, and we hope that this paper will inspire the community to use the contest as a regular assessment of the strength of modern MIR.<br><br> <b><p align=\"center\"> If the video does not load properly please use the [direct link to video](https://drive.google.com/uc?export=view&id=1SNBc25R-WRiJe2FfQwkaOs4mobBPyBeY)</b>",
       "authors": [
         "John Ashley Burgoyne (University of Amsterdam)*",
         " Janne Spijkervet (University of Amsterdam)",
         " David J Baker (University of Amsterdam)"
       ],
       "authors_and_affil": [
-        "John Ashley Burgoyne (University of Amsterdam)*",
-        " Janne Spijkervet (University of Amsterdam)",
-        " David J Baker (University of Amsterdam)"
+        ""
       ],
       "channel_url": "https://slack.com/app_redirect?channel=C063YEAKF7V",
       "day": "5",
       "keywords": [
-        "Evaluation, datasets, and reproducibility -> evaluation metrics",
         " Human-centered MIR -> user behavior analysis and mining, user modeling",
         " Musical features and properties -> expression and performative aspects of music",
-        " Knowledge-driven approaches to MIR -> computational ethnomusicology",
+        "Evaluation, datasets, and reproducibility -> evaluation metrics",
         " MIR fundamentals and methodology -> metadata, tags, linked data, and semantic web",
+        " Knowledge-driven approaches to MIR -> computational ethnomusicology",
         "Evaluation, datasets, and reproducibility -> novel datasets and use cases"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
       "pdf_path": "https://archives.ismir.net/ismir2023/paper/000097.pdf",
-      "poster_pdf": "",
+      "poster_pdf": "https://drive.google.com/file/d/1ExJ_3GbHnTVrMHr4k2V5z8MlqoTf7jwH/view?usp=sharing ",
       "session": [
         "7"
       ],
       "slack_channel": "p7-04-burgoyne",
       "title": "Measuring the Eurovision Song Contest: A Living Dataset for Real-World MIR",
-      "video": ""
+      "video": "https://drive.google.com/uc?export=view&id=1SNBc25R-WRiJe2FfQwkaOs4mobBPyBeY"
     },
     "forum": "276",
     "id": "276",
-    "pic_id": "",
+    "pic_id": "https://drive.google.com/file/d/1wmhfQvRplqCxxrW458_2ItbgBSwK97bc/view?usp=sharing ",
     "position": "04",
     "poster_pdf": "GLTR_poster.pdf",
     "session": "7"
@@ -3990,19 +3749,17 @@
         " Dmitry Bogdanov (Universitat Pompeu Fabra)"
       ],
       "authors_and_affil": [
-        "Pablo Alonso-Jim\u00e9nez (Universitat Pompeu Fabra)*",
-        " Xavier Serra (Universitat Pompeu Fabra )",
-        " Dmitry Bogdanov (Universitat Pompeu Fabra)"
+        ""
       ],
       "channel_url": "https://slack.com/app_redirect?channel=C063VKECFV3",
       "day": "5",
       "keywords": [
-        "Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music",
-        " Musical features and properties -> musical style and genre",
-        " MIR tasks -> automatic classification",
-        " Musical features and properties -> musical affect, emotion and mood",
         " Musical features and properties -> timbre, instrumentation, and singing voice",
-        "Musical features and properties -> representations of music"
+        " Musical features and properties -> musical style and genre",
+        "Musical features and properties -> representations of music",
+        "Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music",
+        " MIR tasks -> automatic classification",
+        " Musical features and properties -> musical affect, emotion and mood"
       ],
       "long_presentation": "False",
       "paper_presentation": "In Person",
@@ -4032,15 +3789,13 @@
         " Meinard M\u00fcller (International Audio Laboratories Erlangen)"
       ],
       "authors_and_affil": [
-        "Michael Krause (International Audio Laboratories Erlangen)*",
-        " Christof Wei\u00df (University of W\u00fcrzburg)",
-        " Meinard M\u00fcller (International Audio Laboratories Erlangen)"
+        ""
       ],
       "channel_url": "https://slack.com/app_redirect?channel=C063RTPKUNA",
       "day": "5",
       "keywords": [
-        " Musical features and properties -> timbre, instrumentation, and singing voice",
         "Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music",
+        " Musical features and properties -> timbre, instrumentation, and singing voice",
         " Musical features and properties -> representations of music",
         "MIR tasks -> similarity metrics"
       ],
@@ -4071,8 +3826,7 @@
         " Masataka Goto (National Institute of Advanced Industrial Science and Technology (AIST))"
       ],
       "authors_and_affil": [
-        "Tomoyasu Nakano (National Institute of Advanced Industrial Science and Technology (AIST))*",
-        " Masataka Goto (National Institute of Advanced Industrial Science and Technology (AIST))"
+        ""
       ],
       "channel_url": "https://slack.com/app_redirect?channel=C06410ZQ5FE",
       "day": "5",
@@ -4088,7 +3842,7 @@
         "7"
       ],
       "slack_channel": "p7-07-nakano",
-      "title": "Music source separation with MLP mixing of time, frequency, and channel",
+      "title": "Music Source Separation With MLP Mixing of Time, Frequency, and Channel",
       "video": "https://drive.google.com/uc?export=view&id=1KdU5UBRHHI0q6HregZMPOAcTJy9pw4qQ"
     },
     "forum": "278",
@@ -4100,8 +3854,8 @@
   },
   {
     "content": {
-      "TLDR": "Music Information Retrieval (MIR) has seen a recent surge in deep learning-based approaches, which often involve encoding symbolic music (i.e., music represented in terms of discrete note events) in an image-like or language-like fashion. However, symbolic music is neither an image nor a sentence intrinsically, and research in the symbolic domain is lacking a comprehensive overview of the different available representations. In this paper, we investigate matrix (piano roll), sequence, and graph representations and their corresponding neural architectures, in combination with symbolic scores and performances on three piece-level classification tasks. We also introduce a novel graph representation for symbolic performances and explore the capability of graph representations in global classification tasks. Our systematic evaluation shows advantages and limitations of each input representation.",
-      "abstract": "Music Information Retrieval (MIR) has seen a recent surge in deep learning-based approaches, which often involve encoding symbolic music (i.e., music represented in terms of discrete note events) in an image-like or language-like fashion. However, symbolic music is neither an image nor a sentence intrinsically, and research in the symbolic domain is lacking a comprehensive overview of the different available representations. In this paper, we investigate matrix (piano roll), sequence, and graph representations and their corresponding neural architectures, in combination with symbolic scores and performances on three piece-level classification tasks. We also introduce a novel graph representation for symbolic performances and explore the capability of graph representations in global classification tasks. Our systematic evaluation shows advantages and limitations of each input representation.<br><br> <b><p align=\"center\"> If the video does not load properly please use the [direct link to video](https://drive.google.com/uc?export=view&id=1uMhKpUkVAiNaaUTFoFzAhxOQZBsHnu4Z)</b>",
+      "TLDR": "Music Information Retrieval (MIR) has seen a recent surge in deep learning-based approaches, which often involve encoding symbolic music (i.e., music represented in terms of discrete note events) in an image-like or language-like fashion. However, symbolic music is neither an image nor a sentence intrinsically, and research in the symbolic domain is lacking a comprehensive overview of the different available representations. In this paper, we investigate matrix (piano roll), sequence, and graph representations and their corresponding neural architectures, in combination with symbolic scores and performances on three piece-level classification tasks. We also introduce a novel graph representation for symbolic performances and explore the capability of graph representations in global classification tasks. Our systematic evaluation shows advantages and limitations of each input representation.<br><br><b>[Poster session Zoom meeting](https://polimi-it.zoom.us/j/98209165970)</b>",
+      "abstract": "Music Information Retrieval (MIR) has seen a recent surge in deep learning-based approaches, which often involve encoding symbolic music (i.e., music represented in terms of discrete note events) in an image-like or language-like fashion. However, symbolic music is neither an image nor a sentence intrinsically, and research in the symbolic domain is lacking a comprehensive overview of the different available representations. In this paper, we investigate matrix (piano roll), sequence, and graph representations and their corresponding neural architectures, in combination with symbolic scores and performances on three piece-level classification tasks. We also introduce a novel graph representation for symbolic performances and explore the capability of graph representations in global classification tasks. Our systematic evaluation shows advantages and limitations of each input representation.<br><br><b>[Poster session Zoom meeting](https://polimi-it.zoom.us/j/98209165970)</b><br><br> <b><p align=\"center\"> If the video does not load properly please use the [direct link to video](https://drive.google.com/uc?export=view&id=1uMhKpUkVAiNaaUTFoFzAhxOQZBsHnu4Z)</b>",
       "authors": [
         "Huan Zhang (Queen Mary University of London)*",
         " Emmanouil Karystinaios (Johannes Kepler University)",
@@ -4110,21 +3864,17 @@
         " Carlos Eduardo Cancino-Chac\u00f3n (Johannes Kepler University Linz)"
       ],
       "authors_and_affil": [
-        "Huan Zhang (Queen Mary University of London)*",
-        " Emmanouil Karystinaios (Johannes Kepler University)",
-        " Simon Dixon (Queen Mary University of London)",
-        " Gerhard Widmer (Johannes Kepler University)",
-        " Carlos Eduardo Cancino-Chac\u00f3n (Johannes Kepler University Linz)"
+        ""
       ],
       "channel_url": "https://slack.com/app_redirect?channel=C063YEB286P",
       "day": "5",
       "keywords": [
-        " Musical features and properties -> representations of music",
         "MIR fundamentals and methodology -> symbolic music processing",
-        " Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music",
+        " Musical features and properties -> representations of music",
         " MIR tasks -> automatic classification",
-        "Evaluation, datasets, and reproducibility -> evaluation methodology",
-        " Knowledge-driven approaches to MIR -> representations of music"
+        " Knowledge-driven approaches to MIR -> machine learning/artificial intelligence for music",
+        " Knowledge-driven approaches to MIR -> representations of music",
+        "Evaluation, datasets, and reproducibility -> evaluation methodology"
       ],
       "long_presentation": "False",
       "paper_presentation": "Virtually",
@@ -4156,11 +3906,7 @@
         " Valentina Presutti (University of Bologna)"
       ],
       "authors_and_affil": [
-        "Valentina Carriero (University of Bologna)",
-        " Jacopo de Berardinis (King's College London)",
-        " Albert Mero\u00f1o-Pe\u00f1uela (King's College London)",
-        " Andrea Poltronieri (University of Bologna)*",
-        " Valentina Presutti (University of Bologna)"
+        ""
       ],
       "channel_url": "https://slack.com/app_redirect?channel=C064B6HD32M",
       "day": "5",
@@ -4177,7 +3923,7 @@
         "7"
       ],
       "slack_channel": "p7-09-poltronieri",
-      "title": "The Music Meta Ontology: a flexible semantic model for the interoperability of music metadata",
+      "title": "The Music Meta Ontology: A Flexible Semantic Model for the Interoperability of Music Metadata",
       "video": "https://drive.google.com/uc?export=view&id=1sWmDSmjUDTcma5qxam4u_qSe1tQZXY6K"
     },
     "forum": "283",
@@ -4197,18 +3943,16 @@
         " Mark B Sandler (Queen Mary University of London)"
       ],
       "authors_and_affil": [
-        "Jeffrey K Miller (Queen Mary University of London)*",
-        " Johan Pauwels (Queen Mary University of London)",
-        " Mark B Sandler (Queen Mary University of London)"
+        ""
       ],
       "channel_url": "https://slack.com/app_redirect?channel=C063RTQ2BPY",
       "day": "5",
       "keywords": [
-        "Computational musicology -> mathematical music theory",
-        " MIR fundamentals and methodology -> symbolic music processing",
-        " Musical features and properties -> harmony, chords and tonality",
         "Knowledge-driven approaches to MIR -> computational music theory and musicology",
         " MIR tasks -> similarity metrics",
+        " MIR fundamentals and methodology -> symbolic music processing",
+        "Computational musicology -> mathematical music theory",
+        " Musical features and properties -> harmony, chords and tonality",
         " Knowledge-driven approaches to MIR -> representations of music"
       ],
       "long_presentation": "False",
@@ -4219,7 +3963,7 @@
         "7"
       ],
       "slack_channel": "p7-10-miller",
-      "title": "Polar Manhattan Displacement: measuring tonal distances between chords based on intervallic content",
+      "title": "Polar Manhattan Displacement: Measuring Tonal Distances Between Chords Based on Intervallic Content",
       "video": "https://drive.google.com/uc?export=view&id=1wRsgtl_jBL20Cm317Yp1879UHKs7-d5b"
     },
     "forum": "294",
