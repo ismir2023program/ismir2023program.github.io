@@ -164,7 +164,8 @@
       "authors": [
         "Edwards, Andrew C*",
         " Dixon, Simon",
-        " Maezawa, Akira"
+        " Maezawa, Akira",
+        " Kusaka, Yuta"
       ],
       "bilibili_id": "",
       "channel_name": "lp-7-edwards",
@@ -189,7 +190,8 @@
       "TLDR": "Music performance analysis has traditionally been a peripheral topic in the music information retrieval community. However, it is sometimes included in the goals of music information retrieval studies\u2014from low- and high-level parameter detection and synchronization methods to feature selection and measure transfer. In this contribution, we introduce the MemoVision software, which utilizes retrieval and feature selection methods for comparative music analysis. It is built with JavaScript and Python languages, combining the accessibility of a web-based interface and state-of-the-art feature extraction possibilities. Its features can be used separately or as a visualization tool for music performance case studies.",
       "abstract": "Music performance analysis has traditionally been a peripheral topic in the music information retrieval community. However, it is sometimes included in the goals of music information retrieval studies\u2014from low- and high-level parameter detection and synchronization methods to feature selection and measure transfer. In this contribution, we introduce the MemoVision software, which utilizes retrieval and feature selection methods for comparative music analysis. It is built with JavaScript and Python languages, combining the accessibility of a web-based interface and state-of-the-art feature extraction possibilities. Its features can be used separately or as a visualization tool for music performance case studies.",
       "authors": [
-        "Istvanek, Matej*"
+        "Istvanek, Matej*",
+        " Miklanek, Stepan"
       ],
       "bilibili_id": "",
       "channel_name": "lp-8-istvanek",
@@ -542,8 +544,8 @@
       "TLDR": "We have investigated the classification of different textural elements in orchestral symbolic music data. A simple convolutional neural network (CNN) is utilized to perform the classification task in a track-wise and bar-wise manner. Preliminary results are reported, and different training parameters, including the use of contextual data and the combination of tracks, are also discussed. Code and data are available at: https://github.com/YaHsuanChu/orchestraTextureClassification ",
       "abstract": "We have investigated the classification of different textural elements in orchestral symbolic music data. A simple convolutional neural network (CNN) is utilized to perform the classification task in a track-wise and bar-wise manner. Preliminary results are reported, and different training parameters, including the use of contextual data and the combination of tracks, are also discussed. Code and data are available at: https://github.com/YaHsuanChu/orchestraTextureClassification ",
       "authors": [
-        "CHU, YA-HSUAN*",
-        " Su, Li"
+        "CHU, YA-HSUAN",
+        " Su, Li*"
       ],
       "bilibili_id": "",
       "channel_name": "lp-21-chu",
@@ -592,8 +594,8 @@
   },
   {
     "content": {
-      "TLDR": "Pitch variability in rap vocals is overlooked in favor of the genre\u2019s uniquely dynamic rhythmic properties. We present an analysis of fundamental frequency (F0) variation in rap vocals over the past 14 years, focusing on song examples that represent the state of modern rap music. Our analy- sis aims at identifying meaningful trends over time, and is in turn a continuation of the 2023 analysis by Georgieva, McFee & Ripoll\u00e9s. They found rap to be an outlier with larger F0 variation compared to other genres, but with a declining trend since the genre\u2019s inception. However, they only analyzed data through 2010. Our analysis looks be- yond 2010. We observe again rap\u2019s large vocal F0 varia- tion, but with a decelerated decline over the years.",
-      "abstract": "Pitch variability in rap vocals is overlooked in favor of the genre\u2019s uniquely dynamic rhythmic properties. We present an analysis of fundamental frequency (F0) variation in rap vocals over the past 14 years, focusing on song examples that represent the state of modern rap music. Our analy- sis aims at identifying meaningful trends over time, and is in turn a continuation of the 2023 analysis by Georgieva, McFee & Ripoll\u00e9s. They found rap to be an outlier with larger F0 variation compared to other genres, but with a declining trend since the genre\u2019s inception. However, they only analyzed data through 2010. Our analysis looks be- yond 2010. We observe again rap\u2019s large vocal F0 varia- tion, but with a decelerated decline over the years.",
+      "TLDR": "Pitch variability in rap vocals is overlooked in favor of the genre\u2019s uniquely dynamic rhythmic properties. We present an analysis of fundamental frequency (F0) variation in rap vocals over the past 14 years, focusing on song examples that represent the state of modern rap music. Our analy- sis aims at identifying meaningful trends over time, and is in turn a continuation of the 2023 analysis by Georgieva, Ripoll\u00e9s & McFee. They found rap to be an outlier with larger F0 variation compared to other genres, but with a declining trend since the genre\u2019s inception. However, they only analyzed data through 2010. Our analysis looks be- yond 2010. We once again observe rap\u2019s large F0 variation, but with a decelerated decline in recent years.",
+      "abstract": "Pitch variability in rap vocals is overlooked in favor of the genre\u2019s uniquely dynamic rhythmic properties. We present an analysis of fundamental frequency (F0) variation in rap vocals over the past 14 years, focusing on song examples that represent the state of modern rap music. Our analy- sis aims at identifying meaningful trends over time, and is in turn a continuation of the 2023 analysis by Georgieva, Ripoll\u00e9s & McFee. They found rap to be an outlier with larger F0 variation compared to other genres, but with a declining trend since the genre\u2019s inception. However, they only analyzed data through 2010. Our analysis looks be- yond 2010. We once again observe rap\u2019s large F0 variation, but with a decelerated decline in recent years.",
       "authors": [
         "Walls, Kelvin L*",
         " Roman, Iran R",
@@ -722,7 +724,7 @@
         "Physical"
       ],
       "thumbnail_link": "027.png",
-      "title": "JamALT: A formatting-aware lyrics transcription benchmark",
+      "title": "Jam-ALT: A Formatting-Aware Lyrics Transcription Benchmark",
       "youtube_id": ""
     },
     "forum": "343",
@@ -888,7 +890,7 @@
         "Physical"
       ],
       "thumbnail_link": "033.png",
-      "title": "LARS: An Open-Source VST3 Plugin for Deep Drums Demixing with Pretrained Models",
+      "title": "LARS: An Open-Source VST3 Plug-in for Deep Drums Demixing With Pretrained Models",
       "youtube_id": ""
     },
     "forum": "349",
@@ -1034,7 +1036,7 @@
         "Physical"
       ],
       "thumbnail_link": "038.png",
-      "title": "FROM TAPS TO DRUMS: AUDIO PERCUSSION STYLE TRANSFER",
+      "title": "From Taps to Drums: Audio-to-audio Percussion Style Transfer",
       "youtube_id": ""
     },
     "forum": "355",
@@ -1061,7 +1063,7 @@
         "Physical"
       ],
       "thumbnail_link": "039.png",
-      "title": "JAMMIN-GPT: TEXT-BASED IMPROVISATION USING LLMS IN ABLETON LIVE",
+      "title": "JAMMIN-GPT: Text-Based Improvisation Using LLMs in Ableton Live",
       "youtube_id": ""
     },
     "forum": "356",
@@ -1142,7 +1144,7 @@
         "Virtual"
       ],
       "thumbnail_link": "042.png",
-      "title": "SPEAKER AND SINGER VERIFICATION USING DISENTANGLED VOCAL TIMBRE REPRESENTATION",
+      "title": "SPEAKER AND SINGER VERIFICATION USING A DISENTANGLED VOCAL TIMBRE REPRESENTATION",
       "youtube_id": ""
     },
     "forum": "359",
