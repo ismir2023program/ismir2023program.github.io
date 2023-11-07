@@ -34,5 +34,14 @@
     "jd": "Check our <b>[Internship Program](https://www.yamaha.com/en/about/research/internship/)</b> and upload your CV through the ISMIR [form](https://forms.gle/54jzCjuEMDQH8Mrv7).",
     "title": "Yamaha",
     "uid": "yamaha"
+  },
+  {
+    "channel_name": "",
+    "channel_url": "",
+    "company": "SiriusXM",
+    "external_web_link": "https://www.siriusxm.com",
+    "jd": " Check the different job openings at SiriusXM <br><ul><li>[Summer Intern - ML Data Scientist](https://careers.siriusxm.com/careers/jobs/15031?lang=en-us)</li><li>[Senior Staff Scientist](https://careers.siriusxm.com/careers/jobs/15056?lang=en-us)</li><li>[Principal Applied Scientist \u2013 Search](https://careers.siriusxm.com/careers/jobs/14733?lang=en-us)</li></ul> <br>and upload your CV through the ISMIR [form](https://forms.gle/54jzCjuEMDQH8Mrv7).",
+    "title": "SiriusXM",
+    "uid": "siriusxm"
   }
 ]
