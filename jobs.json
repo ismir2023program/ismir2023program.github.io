@@ -1,1 +1,38 @@
-[]
+[
+  {
+    "channel_name": "sponsor-deezer",
+    "channel_url": "https://slack.com/app_redirect?channel=C0630FGU0Q4",
+    "company": "Deezer",
+    "external_web_link": "https://research.deezer.com",
+    "jd": "Internship will be announced soon!<br> Check our <b>[Careers Page](https://www.deezerjobs.com/en)</b> and upload your CV through the ISMIR [form](https://forms.gle/54jzCjuEMDQH8Mrv7).",
+    "title": "Deezer",
+    "uid": "deezer"
+  },
+  {
+    "channel_name": "sponsor-adobe",
+    "channel_url": "https://slack.com/app_redirect?channel=C0630FH45UL",
+    "company": "Adobe",
+    "external_web_link": "https://research.adobe.com/",
+    "jd": "Check our <b>[Internship Program](https://research.adobe.com/careers/internships/)</b> and upload your CV through the ISMIR [form](https://forms.gle/54jzCjuEMDQH8Mrv7).",
+    "title": "Adobe",
+    "uid": "adobe"
+  },
+  {
+    "channel_name": "sponsor-steinberg",
+    "channel_url": "https://slack.com/app_redirect?channel=C063H90MU1J",
+    "company": "Steinberg",
+    "external_web_link": "https://www.steinberg.net",
+    "jd": "Contact <b><a href= mailto:jobs@steinberg.de>jobs@steinberg.de</a></b> for applications and upload your CV through the ISMIR [form](https://forms.gle/54jzCjuEMDQH8Mrv7).",
+    "title": "Steinberg Media Technologies GmbH",
+    "uid": "steinberg"
+  },
+  {
+    "channel_name": "sponsor-yamaha",
+    "channel_url": "https://slack.com/app_redirect?channel=C062XUWKHD1",
+    "company": "Yamaha",
+    "external_web_link": "https://www.yamaha.com/en/",
+    "jd": "Check our <b>[Internship Program](https://www.yamaha.com/en/about/research/internship/)</b> and upload your CV through the ISMIR [form](https://forms.gle/54jzCjuEMDQH8Mrv7).",
+    "title": "Yamaha",
+    "uid": "yamaha"
+  }
+]
