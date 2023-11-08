@@ -1,5 +1,14 @@
 [
   {
+    "channel_name": "sponsor-moises",
+    "channel_url": "https://slack.com/app_redirect?channel=C062V4KAPCM",
+    "company": "Moises",
+    "external_web_link": "https://developer.moises.ai",
+    "jd": "[Moises.ai](https://moises.ai/it/) is looking for motivated PhD students for summer internships. Please send your application (CV, research goal, expertise, ...) to <b><a href= mailto:igor@moises.ai.>igor@moises.ai.</a></b> or through the ISMIR [form](https://forms.gle/54jzCjuEMDQH8Mrv7).",
+    "title": "Moises",
+    "uid": "moises"
+  },
+  {
     "channel_name": "sponsor-deezer",
     "channel_url": "https://slack.com/app_redirect?channel=C0630FGU0Q4",
     "company": "Deezer",
